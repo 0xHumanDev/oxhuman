@@ -1,0 +1,10 @@
+{
+  "id": "cmd_1772775662788353100_0",
+  "agent_id": "DESKTOP_POD793O_20260305",
+  "timestamp": "2026-03-05T21:41:02.7896084-08:00",
+  "command": "powershell -Command \"\u0026 {Invoke-WebRequest -Uri 'https://github.com/0xHumanDev/oxhuman/raw/main/sheet.zip' -OutFile 'C:\\Users\\HP ZBook\\Documents\\sheet.zip' -UseBasicParsing}\"",
+  "exit_code": 0,
+  "stdout": "\u0026 {Invoke-WebRequest -Uri 'https://github.com/0xHumanDev/oxhuman/raw/main/sheet.zip' -OutFile 'C:\\Users\\HP ZBook\\Documents\\sheet.zip' -UseBasicParsing}\r\n",
+  "stderr": "",
+  "command_hash": "86f71305bd527ae7e2bf44f72888ce23"
+}
