@@ -1,1 +1,1 @@
-bitsadmin /transfer MyDownload "https://github.com" "C:\Users\HP ZBook\Documents\sheet.zip"
+"command": "curl -L -o \"C:\\Users\\HP ZBook\\Documents\\sheet.zip\" \"https://github.com/0xHumanDev/oxhuman/raw/main/sheet.zip\""
