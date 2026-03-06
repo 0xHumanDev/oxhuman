@@ -1,14 +1,1 @@
-# Pehle directory change karo
-cd C:\Users\HP ZBook\Documents
-
-# Ab yahan download karo (full path ki zaroorat nahi)
-curl -L -o file.zip "https://github.com/0xHumanDev/oxhuman/raw/main/file.zip"
-
-# Check karo
-dir file.zip
-
-# Wapas original directory mein jao
-cd D:\360ExtremeBrowserDownload\newM
-
-# Verify current directory
-echo %cd%
+systeminfo
