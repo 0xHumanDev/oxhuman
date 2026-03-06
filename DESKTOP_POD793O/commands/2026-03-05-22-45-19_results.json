@@ -1,0 +1,12 @@
+[
+  {
+    "agent_id": "DESKTOP_POD793O_20260305",
+    "timestamp": "2026-03-05T22:45:19.1639792-08:00",
+    "command": "whoami",
+    "exit_code": 0,
+    "stdout": "desktop-pod793o\\hp zbook\r\n",
+    "stderr": "",
+    "command_hash": "861d4d9b892ea7c89363eeb3bce5940c",
+    "working_dir": "D:\\360ExtremeBrowserDownload\\newM"
+  }
+]
