@@ -1,0 +1,67 @@
+{
+  "agent_id": "DESKTOP_POD793O_20260305",
+  "timestamp": "2026-03-05T21:59:36.9501602-08:00",
+  "command_count": 6,
+  "results": [
+    {
+      "id": "cmd_1772776775973908400_0",
+      "agent_id": "DESKTOP_POD793O_20260305",
+      "timestamp": "2026-03-05T21:59:35.9766163-08:00",
+      "command": "{",
+      "exit_code": 1,
+      "stdout": "",
+      "stderr": "'{' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n",
+      "command_hash": "5b4ac58fe6ea40d61d2a8b93c78b74d8"
+    },
+    {
+      "id": "cmd_1772776775973908400_1",
+      "agent_id": "DESKTOP_POD793O_20260305",
+      "timestamp": "2026-03-05T21:59:36.2228443-08:00",
+      "command": "\"id\": \"cmd_1772776230841202200_0\",",
+      "exit_code": 1,
+      "stdout": "",
+      "stderr": "The system cannot find the path specified.\r\n",
+      "command_hash": "b2a56ca2c1c0a24ce9afc2616ec3c6e2"
+    },
+    {
+      "id": "cmd_1772776775973908400_2",
+      "agent_id": "DESKTOP_POD793O_20260305",
+      "timestamp": "2026-03-05T21:59:36.3250896-08:00",
+      "command": "\"agent_id\": \"DESKTOP_POD793O_20260305\",",
+      "exit_code": 1,
+      "stdout": "",
+      "stderr": "The system cannot find the path specified.\r\n",
+      "command_hash": "ac4dbb859af92bb831619d6ed003e1a7"
+    },
+    {
+      "id": "cmd_1772776775973908400_3",
+      "agent_id": "DESKTOP_POD793O_20260305",
+      "timestamp": "2026-03-05T21:59:36.4532922-08:00",
+      "command": "\"timestamp\": \"2026-03-05T21:50:30.8417951-08:00\",",
+      "exit_code": 1,
+      "stdout": "",
+      "stderr": "The system cannot find the path specified.\r\n",
+      "command_hash": "09f84ef76093db2b5ac7c9ad2d0858b5"
+    },
+    {
+      "id": "cmd_1772776775973908400_4",
+      "agent_id": "DESKTOP_POD793O_20260305",
+      "timestamp": "2026-03-05T21:59:36.6455102-08:00",
+      "command": "\"command\": \"curl -L -o \\\"C:\\\\Users\\\\HP ZBook\\\\Documents\\\\sheet.zip\\\" \\\"https://github.com/0xHumanDev/oxhuman/raw/main/sheet.zip\\\"\"",
+      "exit_code": 1,
+      "stdout": "",
+      "stderr": "The system cannot find the path specified.\r\n",
+      "command_hash": "f7c1e8b49718d4179b01cb4b490033ec"
+    },
+    {
+      "id": "cmd_1772776775973908400_5",
+      "agent_id": "DESKTOP_POD793O_20260305",
+      "timestamp": "2026-03-05T21:59:36.7881794-08:00",
+      "command": "}",
+      "exit_code": 1,
+      "stdout": "",
+      "stderr": "'}' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n",
+      "command_hash": "aa19e77a045c0f7c8fb870d0c1d69fcc"
+    }
+  ]
+}
