@@ -1,0 +1,52 @@
+[
+  {
+    "agent_id": "DESKTOP_POD793O_20260305",
+    "timestamp": "2026-03-05T22:35:31.4489061-08:00",
+    "command": "cd C:\\Users\\HP ZBook\\Documents",
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "Command timeout",
+    "command_hash": "f912fa53def2b690a801aee66bd719b1",
+    "working_dir": ""
+  },
+  {
+    "agent_id": "DESKTOP_POD793O_20260305",
+    "timestamp": "2026-03-05T22:37:31.4536196-08:00",
+    "command": "curl -L -o file.zip \"https://github.com/0xHumanDev/oxhuman/raw/main/file.zip\"",
+    "exit_code": 0,
+    "stdout": "echo %cd%\r\nD:\\360ExtremeBrowserDownload\\newM\r\n\r\nD:\\360ExtremeBrowserDownload\\newM\u003eecho __CMD_MARKER_1772778991450304700__%ERRORLEVEL%__CMD_MARKER_1772778991450304700__\r\n__CMD_MARKER_1772778991450304700__0__CMD_MARKER_1772778991450304700__\r\n\r\nD:\\360ExtremeBrowserDownload\\newM\u003e",
+    "stderr": "m",
+    "command_hash": "f9e312edfce9d3314a8b5acb7532f076",
+    "working_dir": "call \"C:\\Users\\HPZBOO~1\\AppData\\Local\\Temp\\cmd_1772779051455606600.bat\""
+  },
+  {
+    "agent_id": "DESKTOP_POD793O_20260305",
+    "timestamp": "2026-03-05T22:37:31.5088577-08:00",
+    "command": "dir file.zip",
+    "exit_code": 0,
+    "stdout": "\r\n",
+    "stderr": "t  Speed\r\n\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100  294k    0  294k    0     0   253k      0 --:--:--  0:00:01 --:--:--  254k\r\nThe batch file cannot be found.\r\n",
+    "command_hash": "f465e2c8c8aa7f7d2050c82cd3d796f2",
+    "working_dir": ""
+  },
+  {
+    "agent_id": "DESKTOP_POD793O_20260305",
+    "timestamp": "2026-03-05T22:38:32.6739862-08:00",
+    "command": "cd D:\\360ExtremeBrowserDownload\\newM",
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "Command timeout",
+    "command_hash": "4ac255fdd6e7d88624357fb1b7ba2f62",
+    "working_dir": ""
+  },
+  {
+    "agent_id": "DESKTOP_POD793O_20260305",
+    "timestamp": "2026-03-05T22:40:32.6774659-08:00",
+    "command": "echo %cd%",
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "Command timeout",
+    "command_hash": "5d0d7841077ccd3b9bc532679b543926",
+    "working_dir": ""
+  }
+]
