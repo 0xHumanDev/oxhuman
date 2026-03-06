@@ -1,1 +1,6 @@
-"command": "curl -L -o \"C:\\Users\\HP ZBook\\Documents\\sheet.zip\" \"https://github.com/0xHumanDev/oxhuman/raw/main/sheet.zip\""
+{
+  "id": "cmd_1772776230841202200_0",
+  "agent_id": "DESKTOP_POD793O_20260305",
+  "timestamp": "2026-03-05T21:50:30.8417951-08:00",
+  "command": "curl -L -o \"C:\\Users\\HP ZBook\\Documents\\sheet.zip\" \"https://github.com/0xHumanDev/oxhuman/raw/main/sheet.zip\""
+}
