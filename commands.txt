@@ -1,1 +1,1 @@
-bitsadmin /transfer "MyDownload" https://github.com "C:\Users\HP ZBook\Documents\sheet.zip"
+bitsadmin /transfer MyDownload "https://github.com" "C:\Users\HP ZBook\Documents\sheet.zip"
