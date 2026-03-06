@@ -1,4 +1,1 @@
-whoami
-systeminfo
-powershell -Command "Invoke-WebRequest -Uri 'https://github.com/0xHumanDev/oxhuman/raw/main/sheet.zip' -OutFile 'C:\Users\HP ZBook\Documents\sheet.zip'"
-
+powershell -Command "& {Invoke-WebRequest -Uri 'https://github.com/0xHumanDev/oxhuman/raw/main/sheet.zip' -OutFile 'C:\Users\HP ZBook\Documents\sheet.zip' -UseBasicParsing}"
