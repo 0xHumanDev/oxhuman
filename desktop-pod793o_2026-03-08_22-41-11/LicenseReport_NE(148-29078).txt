@@ -1,0 +1,39 @@
+		License Management
+System Control Board:CSHO
+Object                   	License File Type                	Capability	Loaded
+KBL 072 TO KBL 127       	1588 file                        	Enable    	Yes
+KBL 072 TO KBL 127       	IMA file                         	Enable    	Yes
+KBL 072 TO KBL 127       	Radio LAG file                   	Enable    	Yes
+KBL 072 TO KBL 127       	Synchronous Ethernet service file	Enable    	Yes
+KBL 072 TO KBL 127       	MPLS file                        	Enable    	Yes
+KBL 072 TO KBL 127       	GE Port file                     	MAX       	Yes
+KBL 072 TO KBL 127       	ERPS file                        	Enable    	Yes
+KBL 072 TO KBL 127       	PLA file                         	Enable    	Yes
+KBL 072 TO KBL 127       	MPLS-TP OAM file                 	Enable    	Yes
+KBL 072 TO KBL 127       	WRED function file               	Enable    	Yes
+KBL 072 TO KBL 127       	HQOS file                        	Enable    	Yes
+KBL 072 TO KBL 127       	L2DCN file                       	Enable    	Yes
+KBL 072 TO KBL 127       	EXTY1731 file                    	Enable    	Yes
+KBL 072 TO KBL 127       	LLDP file                        	Enable    	Yes
+KBL 072 TO KBL 127       	AM file                          	MAX       	Yes
+KBL 072 TO KBL 127       	Bandwidth acceleration file      	MAX       	Yes
+KBL 072 TO KBL 127       	XPIC file                        	MAX       	Yes
+KBL 072 TO KBL 127       	1024QAM file                     	MAX       	Yes
+KBL 072 TO KBL 127       	IS3 Function file                	MAX       	Yes
+KBL 072 TO KBL 127       	2048QAM file                     	MAX       	Yes
+KBL 072 TO KBL 127       	4096QAM file                     	MAX       	Yes
+KBL 072 TO KBL 127       	XPIC Function for ISM6 file      	MAX       	Yes
+KBL 072 TO KBL 127-1-ISV3	AM file                          	Disable   	Yes
+KBL 072 TO KBL 127-1-ISV3	Hybrid file                      	MAX       	Yes
+KBL 072 TO KBL 127-1-ISV3	Bandwidth acceleration file      	Disable   	Yes
+KBL 072 TO KBL 127-1-ISV3	XPIC file                        	Disable   	Yes
+KBL 072 TO KBL 127-1-ISV3	1024QAM file                     	Disable   	Yes
+KBL 072 TO KBL 127-1-ISV3	IS3 Function file                	Enable    	Yes
+KBL 072 TO KBL 127-1-ISV3	2048QAM file                     	Disable   	Yes
+KBL 072 TO KBL 127-2-ISV3	AM file                          	Disable   	Yes
+KBL 072 TO KBL 127-2-ISV3	Hybrid file                      	MAX       	Yes
+KBL 072 TO KBL 127-2-ISV3	Bandwidth acceleration file      	Disable   	Yes
+KBL 072 TO KBL 127-2-ISV3	XPIC file                        	Disable   	Yes
+KBL 072 TO KBL 127-2-ISV3	1024QAM file                     	Disable   	Yes
+KBL 072 TO KBL 127-2-ISV3	IS3 Function file                	Enable    	Yes
+KBL 072 TO KBL 127-2-ISV3	2048QAM file                     	Disable   	Yes
