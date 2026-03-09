@@ -1,0 +1,18 @@
+Command: dir
+Exit Code: 0
+Working Directory: E:\
+Timestamp: 2026-03-09T11:43:00+04:00
+
+--- STDOUT ---
+ Volume in drive E has no label.
+ Volume Serial Number is 6281-4414
+
+ Directory of E:\
+
+03/09/2026  11:42 AM               478 agent_state.json
+03/03/2026  12:33 PM             8,899 Import_Application.xlsx
+03/09/2026  11:37 AM         6,225,184 u.exe
+               3 File(s)      6,234,561 bytes
+               0 Dir(s)  16,049,070,080 bytes free
+--- STDERR ---
+
