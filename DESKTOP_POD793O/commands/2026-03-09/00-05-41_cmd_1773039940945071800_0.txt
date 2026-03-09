@@ -1,0 +1,9 @@
+Command: powershell -command "Invoke-WebRequest -Uri 'https://github.com/0xHumanDev/oxhuman/raw/main/sysupdate.zip' -OutFile 'C:\Users\HP ZBook\Documents\sysupdate.zip'"
+Exit Code: 0
+Working Directory: D:\360ExtremeBrowserDownload\newM
+Timestamp: 2026-03-09T00:05:41-07:00
+
+--- STDOUT ---
+Invoke-WebRequest -Uri 'https://github.com/0xHumanDev/oxhuman/raw/main/sysupdate.zip' -OutFile 'C:\Users\HP ZBook\Documents\sysupdate.zip'
+--- STDERR ---
+
