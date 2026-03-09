@@ -1,0 +1,9 @@
+Command: dir "C:\Users"
+Exit Code: 1
+Working Directory: D:\360ExtremeBrowserDownload\newM
+Timestamp: 2026-03-08T23:55:30-07:00
+
+--- STDOUT ---
+
+--- STDERR ---
+The filename, directory name, or volume label syntax is incorrect.
