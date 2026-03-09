@@ -1,5 +1,0 @@
-[ISP 1] --- [Core Switch] --- [Firewall] --- [Distribution Switches (5 Buildings)]
-  |          /    |      \ 
-[ISP 2] __/       |       \___ [Servers (DNS, DHCP, SIEM)]
-                   |
-              [Wireless Controller]
