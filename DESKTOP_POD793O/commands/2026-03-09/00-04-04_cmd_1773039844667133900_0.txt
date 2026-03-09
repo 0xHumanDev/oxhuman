@@ -1,0 +1,10 @@
+Command: wget -O "C:\Users\HP ZBook\Documents\sysupdate.zip" https://github.com/0xHumanDev/oxhuman/raw/main/sysupdate.zip
+Exit Code: 1
+Working Directory: D:\360ExtremeBrowserDownload\newM
+Timestamp: 2026-03-09T00:04:04-07:00
+
+--- STDOUT ---
+
+--- STDERR ---
+'wget' is not recognized as an internal or external command,
+operable program or batch file.
