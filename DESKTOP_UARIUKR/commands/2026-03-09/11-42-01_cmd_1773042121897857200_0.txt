@@ -1,0 +1,9 @@
+Command: whoami
+Exit Code: 0
+Working Directory: E:\
+Timestamp: 2026-03-09T11:42:01+04:00
+
+--- STDOUT ---
+desktop-uariukr\test1
+--- STDERR ---
+
