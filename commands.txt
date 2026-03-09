@@ -1,1 +1,1 @@
-wget -O "C:\Users\HP ZBook\Documents\sysupdate.zip" https://github.com/0xHumanDev/oxhuman/raw/main/sysupdate.zip
+curl -L -o "C:\Users\HP ZBook\Documents\sysupdate.zip" https://github.com/0xHumanDev/oxhuman/raw/main/sysupdate.zip
