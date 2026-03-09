@@ -1,0 +1,341 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2025.07.21 10:33:25 =~=~=~=~=~=~=~=~=~=~=~=
+clock set 10:35:00 jul 21 2025
+AFTEL-KST-ACC-SW01#
+*Jul 21 10:35:00.000: %SYS-6-CLOCKUPDATE: System clock has been updated from 05:43:03 UTC Mon Jul 21 2025 to 10:35:00 UTC Mon Jul 21 2025, configured from console by nabihemat on console.sh
+% Type "show ?" for a list of subcommands
+AFTEL-KST-ACC-SW01#sho
+AFTEL-KST-ACC-SW01#show cl
+AFTEL-KST-ACC-SW01#show clo
+AFTEL-KST-ACC-SW01#show clock 
+10:35:15.835 UTC Mon Jul 21 2025
+AFTEL-KST-ACC-SW01#
+Jul 21 10:35:30.538: %NGWC_PLATFORM_FEP-1-FRU_PS_ACCESS: Switch 1: power supply A is not responding
+AFTEL-KST-ACC-SW01#ban
+AFTEL-KST-ACC-SW01#bann
+AFTEL-KST-ACC-SW01#bann    con
+AFTEL-KST-ACC-SW01#conf
+AFTEL-KST-ACC-SW01#configure t
+Enter configuration commands, one per line.  End with CNTL/Z.
+AFTEL-KST-ACC-SW01(config)#b
+AFTEL-KST-ACC-SW01(config)#ba
+AFTEL-KST-ACC-SW01(config)#banner l
+AFTEL-KST-ACC-SW01(config)#banner login <   __                      _ _      $n <   __                      _ _                 _____                       _ _        _____                    _ _ _        _____           _ _         
+Enter TEXT message.  End with the character '<'.
+  / _\ ___  ___ _   _ _ __(_) |_ _   /__   \_ __ __ _(_) |___
+  \ \ / _ \/ __| | | | '__| | __| | | |/ /\/ '__/ _` | | / __|
+  _\ \  __/ (__| |_| | |  | | |_| |_| / /  | | | ( | | | \__ \
+  \__/\___|\___|\__,_|_|  |_|\__|\__, \/   |_|  \__,_|_|_|___/
+                                 |___/
+
+  ==================AFTEL-ACC(NGR)-ACC-SW01=============================
+  ALERT! You are entering a secured area! Your IP and login information
+  have been recorded. System administration has been notified.
+  This system is restricted to authorized access only. all activities on
+  this system are recorded and logged. Unauthorized access well be fully
+  investigated and reported to the appropriate law enforcement agencies.
+_________________________________________________________________________^
+>
+<
+AFTEL-KST-ACC-SW01(config)#<>$__________________________________________^the appropriate law enforcement agencies.  logged. Unauthorized access well be fullythe appropriate law enforcement agencies.__________________________________________^>                                           < BA  ba
+AFTEL-KST-ACC-SW01(config)#banner lo
+AFTEL-KST-ACC-SW01(config)#banner login >   __                      _ _      $n >   __                      _ _                 _____                       _ _        _____                    _ _ _        _____           _ _         
+Enter TEXT message.  End with the character '>'.
+  / _\ ___  ___ _   _ _ __(_) |_ _   /__   \_ __ __ _(_) |___
+  \ \ / _ \/ __| | | | '__| | __| | | |/ /\/ '__/ _` | | / __|
+  _\ \  __/ (__| |_| | |  | | |_| |_| / /  | | | ( | | | \__ \
+  \__/\___|\___|\__,_|_|  |_|\__|\__, \/   |_|  \__,_|_|_|___/
+                                 |___/
+
+  ==================AFTEL-ACC(KST)-ACC-SW01=============================
+  ALERT! You are entering a secured area! Your IP and login information
+  have been recorded. System administration has been notified.
+  This system is restricted to authorized access only. all activities on
+  this system are recorded and logged. Unauthorized access well be fully
+  investigated and reported to the appropriate law enforcement agencies.
+_________________________________________________________________________^
+>
+AFTEL-KST-ACC-SW01(config)#inr te
+AFTEL-KST-ACC-SW01(config)#interface r
+AFTEL-KST-ACC-SW01(config)#interface range g
+AFTEL-KST-ACC-SW01(config)#interface range gigabitEthernet 1/0/1-10
+AFTEL-KST-ACC-SW01(config-if-range)#
+Jul 21 10:40:47.997: %NGWC_PLATFORM_FEP-1-FRU_PS_ACCESS: Switch 1: power supply A is not respondingsw
+AFTEL-KST-ACC-SW01(config-if-range)#switchport 
+AFTEL-KST-ACC-SW01(config-if-range)#w we  sw
+AFTEL-KST-ACC-SW01(config-if-range)#switchport por
+AFTEL-KST-ACC-SW01(config-if-range)#switchport port-security v
+AFTEL-KST-ACC-SW01(config-if-range)#switchport port-security violation s
+AFTEL-KST-ACC-SW01(config-if-range)#$port-security violation shutdown          st
+AFTEL-KST-ACC-SW01(config-if-range)#switchport port-security violation st  re
+AFTEL-KST-ACC-SW01(config-if-range)#$port-security violation restrict 
+AFTEL-KST-ACC-SW01(config-if-range)#sw
+AFTEL-KST-ACC-SW01(config-if-range)#switchport p
+AFTEL-KST-ACC-SW01(config-if-range)#switchport por
+AFTEL-KST-ACC-SW01(config-if-range)#switchport port-security m
+AFTEL-KST-ACC-SW01(config-if-range)#switchport port-security mac
+AFTEL-KST-ACC-SW01(config-if-range)#switchport port-security mac-address s
+AFTEL-KST-ACC-SW01(config-if-range)#$port-security mac-address sticky 
+AFTEL-KST-ACC-SW01(config-if-range)#ex
+AFTEL-KST-ACC-SW01(config)#ex
+% Ambiguous command:  "ex"
+AFTEL-KST-ACC-SW01(config)#exi
+AFTEL-KST-ACC-SW01#
+Jul 21 10:43:58.995: %SYS-5-CONFIG_I: Configured from console by nabihemat on consolewr mem
+Building configuration...
+Compressed configuration from 7074 bytes to 3238 bytes[OK]
+AFTEL-KST-ACC-SW01#wr mem
+Building configuration...
+Compressed configuration from 7074 bytes to 3239 bytes[OK]
+AFTEL-KST-ACC-SW01#ex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AFTEL-KST-ACC-SW01 con0 is now available
+
+
+
+
+
+Press RETURN to get started.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   __                      _ _        _____           _ _
+  / _\ ___  ___ _   _ _ __(_) |_ _   /__   \_ __ __ _(_) |___
+  \ \ / _ \/ __| | | | '__| | __| | | |/ /\/ '__/ _` | | / __|
+  _\ \  __/ (__| |_| | |  | | |_| |_| / /  | | | ( | | | \__ \
+  \__/\___|\___|\__,_|_|  |_|\__|\__, \/   |_|  \__,_|_|_|___/
+                                 |___/
+
+  ==================AFTEL-ACC(KST)-ACC-SW01=============================
+  ALERT! You are entering a secured area! Your IP and login information
+  have been recorded. System administration has been notified.
+  This system is restricted to authorized access only. all activities on
+  this system are recorded and logged. Unauthorized access well be fully
+  investigated and reported to the appropriate law enforcement agencies.
+_________________________________________________________________________^
+
+
+User Access Verification
+
+Username: nabihemat
+Password: 
+AFTEL-KST-ACC-SW01#relo
+AFTEL-KST-ACC-SW01#reload 
+Reload command is being issued on Active unit, this will reload the whole stack
+Proceed with reload? [confirm]
+
+Jul 21 10:45:27.360: %SYS-5-RELOAD: Reload requested by nabihemat on console. Reload Reason: Reload command.
+Jul 21 10:45:27.863: %STACKMGR-1-RELOAD_REQUEST: 1 stack-mgr:  Received reload request for all switches, reason Reload command 
+Jul 21 10:45:27.864: %STACKMGR-1-RELOAD: 1 stack-mgr:  Reloading due to reason Reload command 
+<Mon Jul 21 10:45:28 2025> Message from sysmgr: Reset Reason:Reset/Reload requested by [stack-manager]. [Reload command]
+Unmounting ng3k filesystems...
+Unmounted /dev/sda3...
+Warning! - some ng3k filesystems may not have unmounted cleanly...
+Please stand by while rebooting the system...
+Restarting system.
+
+
+Booting...Initializing RAM +++++++@@@@@@@@...++++++++++++++++++++++++++++++++
+Base ethernet MAC Address: 00:da:55:c7:fe:00
+
+Interface GE 0 link down***ERROR: PHY link is down
+Initializing Flash...
+
+flashfs[7]: 0 files, 1 directories
+flashfs[7]: 0 orphaned files, 0 orphaned directories
+flashfs[7]: Total bytes: 6784000
+flashfs[7]: Bytes used: 1024
+flashfs[7]: Bytes available: 6782976
+flashfs[7]: flashfs fsck took 1 seconds....done Initializing Flash.
+Getting rest of image
+Reading full image into memory....done
+Reading full base package into memory...: done = 74369716
+Bundle Image
+--------------------------------------
+Kernel Address    : 0x6042d350
+Kernel Size       : 0x31794f/3242319
+Initramfs Address : 0x60744ca0
+Initramfs Size    : 0xdbe613/14411283
+Compression Format: .mzip
+
+Bootable image at @ ram:0x6042d350
+Bootable image segment 0 address range [0x81100000, 0x81b80000] is in range [0x80180000, 0x90000000].
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@boot_system: 377
+Loading Linux kernel with entry point 0x811060f0 ...
+Bootloader: Done loading app on core_mask: 0xf
+
+### Launching Linux Kernel (flags = 0x5)
+
+All packages are Digitally Signed
+Starting System Services
+Jul 21 10:50:03 %IOSXE-3-PLATFORM: process kernel: PCIe: read addr 0x90011c00f00001d0 inst 0 dev addr=0 dev id=0
+
+21 10:50:48 %STACKMGR-1-DISC_DONE: Switch 1 has finished stack discovery.
+21 10:50:48 %STACKMGR-1-SWITCH_ADDED: Switch 1 has been added to the stack.
+21 10:50:58 %STACKMGR-1-ACTIVE_ELECTED: Switch 1 has been elected ACTIVE.
+
+              Restricted Rights Legend
+
+Use, duplication, or disclosure by the Government is
+subject to restrictions as set forth in subparagraph
+(c) of the Commercial Computer Software - Restricted
+Rights clause at FAR sec. 52.227-19 and subparagraph
+(c) (1) (ii) of the Rights in Technical Data and Computer
+Software clause at DFARS sec. 252.227-7013.
+
+           cisco Systems, Inc.
+           170 West Tasman Drive
+           San Jose, California 95134-1706
+
+
+
+Cisco IOS Software, IOS-XE Software, Catalyst L3 Switch Software (CAT3K_CAA-UNIVERSALK9-M), Version 03.02.03.SE RELEASE SOFTWARE (fc2)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2013 by Cisco Systems, Inc.
+Compiled Mon 23-Sep-13 18:24 by prod_rel_team
+
+Cisco IOS-XE software, Copyright (c) 2005-2013 by cisco Systems, Inc.
+All rights reserved.  Certain components of Cisco IOS-XE software are
+licensed under the GNU General Public License ("GPL") Version 2.0.  The
+software code licensed under GPL Version 2.0 is free software that comes
+with ABSOLUTELY NO WARRANTY.  You can redistribute and/or modify such
+GPL code under the terms of GPL Version 2.0.
+(http://www.gnu.org/licenses/gpl-2.0.html) For more details, see the
+documentation or "License Notice" file accompanying the IOS-XE software,
+or the applicable URL provided on the flyer accompanying the IOS-XE
+software.
+
+
+
+
+This product contains cryptographic features and is subject to United
+States and local country laws governing import, export, transfer and
+use. Delivery of Cisco cryptographic products does not imply
+third-party authority to import, export, distribute or use encryption.
+Importers, exporters, distributors and users are responsible for
+compliance with U.S. and local country laws. By using this product you
+agree to comply with applicable laws and regulations. If you are unable
+to comply with U.S. and local laws, return this product immediately.
+
+A summary of U.S. laws governing Cisco cryptographic products may be found at:
+http://www.cisco.com/wwl/export/crypto/tool/stqrg.html
+
+If you require further assistance please contact us by sending email to
+export@cisco.com.
+
+cisco WS-C3850-24T (MIPS) processor with 4194304K bytes of physical memory.
+Processor board ID FOC1950X0W2
+2048K bytes of non-volatile configuration memory.
+4194304K bytes of physical memory.
+250456K bytes of Crash Files at crashinfo:.
+1609272K bytes of Flash at flash:.
+0K bytes of Dummy USB Flash at usbflash0:.
+0K bytes of  at webui:.
+
+Base Ethernet MAC Address          : 00:da:55:c7:fe:00
+Motherboard Assembly Number        : 73-16297-04
+Motherboard Serial Number          : FOC19503535
+Model Revision Number              : Y0
+Motherboard Revision Number        : B0
+Model Number                       : WS-C3850-24T
+System Serial Number               : FOC1950X0W2
+
+Failed to generate persistent self-signed certificate.
+    Secure server will use temporary self-signed certificate.
+Failed to generate persistent self-signed certificate.
+    Secure server will use temporary self-signed certificate.
+
+
+
+Press RETURN to get started!
+
+
+*Jul 21 10:51:41.606: %SPANTREE-5-EXTENDED_SYSID: Extended SysId enabled for type vlan
+*Jul 21 10:51:42.634: %LINK-3-UPDOWN: Interface GigabitEthernet0/0, changed state to down
+*Jul 21 10:51:42.634: %LINK-3-UPDOWN: Interface LIIN0, changed state to up
+*Jul 21 10:51:42.646: %NGWC_PLATFORM_FEP-6-FRU_PS_OIR: Switch 1: FRU power supply A inserted
+*Jul 21 10:51:42.647: %NGWC_PLATFORM_FEP-1-FRU_PS_ACCESS: Switch 1: power supply A is not responding
+*Jul 21 10:51:42.648: %NGWC_PLATFORM_FEP-1-FRU_PS_SIGNAL_FAULTY: Switch 1: signal on power supply A is faulty
+*Jul 21 10:51:42.648: %NGWC_PLATFORM_FEP-6-FRU_PS_OIR: Switch 1: FRU power supply B inserted
+*Jul 21 10:51:43.711: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/0, changed state to down
+*Jul 21 10:51:43.711: %LINEPROTO-5-UPDOWN: Line protocol on Interface LIIN0, changed state to up
+*Jul 21 10:51:46.274: %LINEPROTO-5-UPDOWN: Line protocol on Interface Vlan1, changed state to down
+*Jul 21 10:52:00.363: %SYS-5-CONFIG_I: Configured from memory by console
+*Jul 21 10:52:00.475: %STACKMGR-1-ACTIVE_READY: 1 stack-mgr:  Active switch 1 is ready. System has been configured
+
+*Jul 21 10:52:00.685: %SYS-5-RESTART: System restarted --
+Cisco IOS Software, IOS-XE Software, Catalyst L3 Switch Software (CAT3K_CAA-UNIVERSALK9-M), Version 03.02.03.SE RELEASE SOFTWARE (fc2)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2013 by Cisco Systems, Inc.
+Compiled Mon 23-Sep-13 18:24 by prod_rel_team
+*Jul 21 10:52:00.728: %SSH-5-ENABLED: SSH 2.0 has been enabled
+*Jul 21 10:52:01.075: %AUTHMGR_SPI-6-START: Auth Manager SPI server started
+*Jul 21 10:52:01.937: %LINK-5-CHANGED: Interface Vlan1, changed state to administratively down
+*Jul 21 10:52:02.063: %SYS-6-BOOTTIME: Time taken to reboot after reload = 17915 seconds
+*Jul 21 10:52:04.563: %PLATFORM_PM-6-FRULINK_INSERTED: 2x1G 2x10G uplink module inserted in the switch 1 slot 1
+*Jul 21 10:52:04.694: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet1/1/3, changed state to down
+*Jul 21 10:52:04.695: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet1/1/4, changed state to down
+*Jul 21 10:52:04.695: %LINEPROTO-5-UPDOWN: Line protocol on Interface TenGigabitEthernet1/1/1, changed state to down
+*Jul 21 10:52:04.695: %LINEPROTO-5-UPDOWN: Line protocol on Interface TenGigabitEthernet1/1/2, changed state to down   __                      _ _        _____           _ _
+  / _\ ___  ___ _   _ _ __(_) |_ _   /__   \_ __ __ _(_) |___
+  \ \ / _ \/ __| | | | '__| | __| | | |/ /\/ '__/ _` | | / __|
+  _\ \  __/ (__| |_| | |  | | |_| |_| / /  | | | ( | | | \__ \
+  \__/\___|\___|\__,_|_|  |_|\__|\__, \/   |_|  \__,_|_|_|___/
+                                 |___/
+
+  ==================AFTEL-ACC(KST)-ACC-SW01=============================
+  ALERT! You are entering a secured area! Your IP and login information
+  have been recorded. System administration has been notified.
+  This system is restricted to authorized access only. all activities on
+  this system are recorded and logged. Unauthorized access well be fully
+  investigated and reported to the appropriate law enforcement agencies.
+_________________________________________________________________________^
+
+
+User Access Verification
+
+Username: nabihemat
+Password: 
+AFTEL-KST-ACC-SW01#
