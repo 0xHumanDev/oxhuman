@@ -1,0 +1,11 @@
+
+Router 1
+Admin Pass  (admin123)
+wifi pass  (778899@@)
+
+
+
+Router 2   
+
+Admin Pass  (778899@@)
+wifi pass   (778899@@)
