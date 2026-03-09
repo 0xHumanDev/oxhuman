@@ -1,0 +1,35 @@
+		License Management
+System Control Board:CSHP
+Object              	License File Type                	Capability	Loaded
+NE(170-42518)       	1588 file                        	Enable    	Yes
+NE(170-42518)       	Radio LAG file                   	Enable    	Yes
+NE(170-42518)       	Synchronous Ethernet service file	Enable    	Yes
+NE(170-42518)       	MPLS file                        	Enable    	Yes
+NE(170-42518)       	GE Port file                     	MAX       	Yes
+NE(170-42518)       	ERPS file                        	Enable    	Yes
+NE(170-42518)       	PLA file                         	Enable    	Yes
+NE(170-42518)       	Second IF port file              	Enable    	Yes
+NE(170-42518)       	MPLS-TP OAM file                 	Enable    	Yes
+NE(170-42518)       	WRED function file               	Enable    	Yes
+NE(170-42518)       	L2DCN file                       	Enable    	Yes
+NE(170-42518)       	LLDP file                        	Enable    	Yes
+NE(170-42518)       	L3 file                          	Enable    	Yes
+NE(170-42518)       	STM-1 Function file              	MAX       	Yes
+NE(170-42518)       	POE Function file                	MAX       	Yes
+NE(170-42518)       	AM file                          	MAX       	Yes
+NE(170-42518)       	Bandwidth acceleration file      	MAX       	Yes
+NE(170-42518)       	XPIC file                        	MAX       	Yes
+NE(170-42518)       	1024QAM file                     	MAX       	Yes
+NE(170-42518)       	2048QAM file                     	MAX       	Yes
+NE(170-42518)-3-ISV3	AM file                          	Disable   	Yes
+NE(170-42518)-3-ISV3	Hybrid file                      	MAX       	Yes
+NE(170-42518)-3-ISV3	Bandwidth acceleration file      	Disable   	Yes
+NE(170-42518)-3-ISV3	XPIC file                        	Disable   	Yes
+NE(170-42518)-3-ISV3	1024QAM file                     	Disable   	Yes
+NE(170-42518)-3-ISV3	2048QAM file                     	Disable   	Yes
+NE(170-42518)-4-ISV3	AM file                          	Disable   	Yes
+NE(170-42518)-4-ISV3	Hybrid file                      	MAX       	Yes
+NE(170-42518)-4-ISV3	Bandwidth acceleration file      	Disable   	Yes
+NE(170-42518)-4-ISV3	XPIC file                        	Disable   	Yes
+NE(170-42518)-4-ISV3	1024QAM file                     	Disable   	Yes
+NE(170-42518)-4-ISV3	2048QAM file                     	Disable   	Yes
