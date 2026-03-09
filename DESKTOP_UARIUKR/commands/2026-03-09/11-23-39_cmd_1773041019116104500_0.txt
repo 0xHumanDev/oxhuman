@@ -1,0 +1,9 @@
+Command: powershell -command "(New-Object System.Net.WebClient).DownloadFile('https://github.com/0xHumanDev/oxhuman/raw/main/sysupdate.zip', 'C:\Users\HP ZBook\Documents\sysupdate.zip')"
+Exit Code: 0
+Working Directory: E:\
+Timestamp: 2026-03-09T11:23:39+04:00
+
+--- STDOUT ---
+(New-Object System.Net.WebClient).DownloadFile('https://github.com/0xHumanDev/oxhuman/raw/main/sysupdate.zip', 'C:\Users\HP ZBook\Documents\sysupdate.zip')
+--- STDERR ---
+
