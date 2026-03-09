@@ -1,0 +1,110 @@
+---
+pid: 17204
+cwd: |
+  D:\test
+---
+PS D:\test> & "C:/Users/HP ZBook/AppData/Local/Microsoft/WindowsApps/python3.13.exe" d:/test/nim.py
+
+    _   ___                 ____             __       __
+   / | / (_)___ ___        / __ \____ ______/ /______/ /___  ____  _____
+  /  |/ / / __ `__ \______/ __  / __ `/ ___/ //_/ __  / __ \/ __ \/ ___/
+ / /|  / / / / / / /_____/ /_/ / /_/ / /__/ ,< / /_/ / /_/ / /_/ / /    
+/_/ |_/_/_/ /_/ /_/     /_____/\__,_/\___/_/|_|\__,_/\____/\____/_/     
+
+                                                  By @malwarekid
+
+Enter IP address: & "C:/Users/HP ZBook/AppData/Local/Microsoft/WindowsApps/python3.13.exe" d:/test/nim.py
+Invalid IP address.
+PS D:\test> & "C:/Users/HP ZBook/AppData/Local/Microsoft/WindowsApps/python3.13.exe" d:/test/nim.py
+
+    _   ___                 ____             __       __
+   / | / (_)___ ___        / __ \____ ______/ /______/ /___  ____  _____
+  /  |/ / / __ `__ \______/ __  / __ `/ ___/ //_/ __  / __ \/ __ \/ ___/
+ / /|  / / / / / / /_____/ /_/ / /_/ / /__/ ,< / /_/ / /_/ / /_/ / /
+/_/ |_/_/_/ /_/ /_/     /_____/\__,_/\___/_/|_|\__,_/\____/\____/_/
+
+                                                  By @malwarekid
+
+Enter IP address: & "C:/Users/HP ZBook/AppData/Local/Microsoft/WindowsApps/python3.13.exe" d:/test/nim.py
+Invalid IP address.
+PS D:\test> & "C:/Users/HP ZBook/AppData/Local/Microsoft/WindowsApps/python3.13.exe" d:/test/nim.py
+
+    _   ___                 ____             __       __
+   / | / (_)___ ___        / __ \____ ______/ /______/ /___  ____  _____
+  /  |/ / / __ `__ \______/ __  / __ `/ ___/ //_/ __  / __ \/ __ \/ ___/
+ / /|  / / / / / / /_____/ /_/ / /_/ / /__/ ,< / /_/ / /_/ / /_/ / /
+/_/ |_/_/_/ /_/ /_/     /_____/\__,_/\___/_/|_|\__,_/\____/\____/_/
+
+                                                  By @malwarekid
+
+Enter IP address: & "C:/Users/HP ZBook/AppData/Local/Microsoft/WindowsApps/python3.13.exe" d:/test/nim.py
+Invalid IP address.
+PS D:\test> & "C:/Users/HP ZBook/AppData/Local/Microsoft/WindowsApps/python3.13.exe" d:/test/nim.py
+
+    _   ___                 ____             __       __
+   / | / (_)___ ___        / __ \____ ______/ /______/ /___  ____  _____
+  /  |/ / / __ `__ \______/ __  / __ `/ ___/ //_/ __  / __ \/ __ \/ ___/
+ / /|  / / / / / / /_____/ /_/ / /_/ / /__/ ,< / /_/ / /_/ / /_/ / /
+/_/ |_/_/_/ /_/ /_/     /_____/\__,_/\___/_/|_|\__,_/\____/\____/_/
+
+                                                  By @malwarekid
+
+Enter IP or domain (e.g. appstoore.duckdns.org): https://appstoore.duckdns.org/
+Enter your Port number: 443
+Choose your OS (linux or windows): windows
+Enter your output file name: newtest
+Nim compiler not found.
+PS D:\test> & "C:/Users/HP ZBook/AppData/Local/Microsoft/WindowsApps/python3.13.exe" d:/test/nim.py
+
+    _   ___                 ____             __       __
+   / | / (_)___ ___        / __ \____ ______/ /______/ /___  ____  _____
+  /  |/ / / __ `__ \______/ __  / __ `/ ___/ //_/ __  / __ \/ __ \/ ___/
+ / /|  / / / / / / /_____/ /_/ / /_/ / /__/ ,< / /_/ / /_/ / /_/ / /
+/_/ |_/_/_/ /_/ /_/     /_____/\__,_/\___/_/|_|\__,_/\____/\____/_/
+
+                                                  By @malwarekid
+
+Enter IP or domain (e.g. appstoore.duckdns.org): Traceback (most recent call last):
+  File "d:\test\nim.py", line 51, in <module>
+    raw_host = input("\033[32mEnter IP or domain (e.g. appstoore.duckdns.org):\033[0m ")
+KeyboardInterrupt
+PS D:\test> & "C:/Users/HP ZBook/AppData/Local/Microsoft/WindowsApps/python3.13.exe" d:/test/nim.py
+
+    _   ___                 ____             __       __
+   / | / (_)___ ___        / __ \____ ______/ /______/ /___  ____  _____
+  /  |/ / / __ `__ \______/ __  / __ `/ ___/ //_/ __  / __ \/ __ \/ ___/
+ / /|  / / / / / / /_____/ /_/ / /_/ / /__/ ,< / /_/ / /_/ / /_/ / /
+/_/ |_/_/_/ /_/ /_/     /_____/\__,_/\___/_/|_|\__,_/\____/\____/_/
+
+                                                  By @malwarekid
+
+Enter IP or domain (e.g. appstoore.duckdns.org): https://appstoore.duckdns.org/
+Enter your Port number: 443
+Choose your OS (linux or windows): windows
+Enter your output file name: testnimodd
+Nim compiler not found.
+PS D:\test> & "C:/Users/HP ZBook/AppData/Local/Microsoft/WindowsApps/python3.13.exe" d:/test/nim.py
+
+    _   ___                 ____             __       __
+   / | / (_)___ ___        / __ \____ ______/ /______/ /___  ____  _____
+  /  |/ / / __ `__ \______/ __  / __ `/ ___/ //_/ __  / __ \/ __ \/ ___/
+ / /|  / / / / / / /_____/ /_/ / /_/ / /__/ ,< / /_/ / /_/ / /_/ / /
+/_/ |_/_/_/ /_/ /_/     /_____/\__,_/\___/_/|_|\__,_/\____/\____/_/
+
+                                                  By @malwarekid
+
+Enter IP or domain (e.g. appstoore.duckdns.org): & "C:/Users/HP ZBook/AppData/Local/Microsoft/WindowsApps/python3.13.exe" d:/test/nim.py
+Invalid IP or domain.
+PS D:\test> & "C:/Users/HP ZBook/AppData/Local/Microsoft/WindowsApps/python3.13.exe" d:/test/nim.py
+
+    _   ___                 ____             __       __
+   / | / (_)___ ___        / __ \____ ______/ /______/ /___  ____  _____
+  /  |/ / / __ `__ \______/ __  / __ `/ ___/ //_/ __  / __ \/ __ \/ ___/
+ / /|  / / / / / / /_____/ /_/ / /_/ / /__/ ,< / /_/ / /_/ / /_/ / /
+/_/ |_/_/_/ /_/ /_/     /_____/\__,_/\___/_/|_|\__,_/\____/\____/_/
+
+                                                  By @malwarekid
+
+Enter IP or domain (e.g. appstoore.duckdns.org):
+Invalid IP or domain.
+PS D:\test>
