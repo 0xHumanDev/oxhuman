@@ -1,0 +1,35 @@
+		License Management
+System Control Board:CSHP
+Object                   	License File Type                	Capability	Loaded
+RV-APS-From-KBL002       	1588 file                        	Enable    	Yes
+RV-APS-From-KBL002       	Radio LAG file                   	Enable    	Yes
+RV-APS-From-KBL002       	Synchronous Ethernet service file	Enable    	Yes
+RV-APS-From-KBL002       	MPLS file                        	Enable    	Yes
+RV-APS-From-KBL002       	GE Port file                     	MAX       	Yes
+RV-APS-From-KBL002       	ERPS file                        	Enable    	Yes
+RV-APS-From-KBL002       	PLA file                         	Enable    	Yes
+RV-APS-From-KBL002       	Second IF port file              	Enable    	Yes
+RV-APS-From-KBL002       	MPLS-TP OAM file                 	Enable    	Yes
+RV-APS-From-KBL002       	WRED function file               	Enable    	Yes
+RV-APS-From-KBL002       	L2DCN file                       	Enable    	Yes
+RV-APS-From-KBL002       	LLDP file                        	Enable    	Yes
+RV-APS-From-KBL002       	L3 file                          	Enable    	Yes
+RV-APS-From-KBL002       	STM-1 Function file              	MAX       	Yes
+RV-APS-From-KBL002       	POE Function file                	MAX       	Yes
+RV-APS-From-KBL002       	AM file                          	MAX       	Yes
+RV-APS-From-KBL002       	Bandwidth acceleration file      	MAX       	Yes
+RV-APS-From-KBL002       	XPIC file                        	MAX       	Yes
+RV-APS-From-KBL002       	1024QAM file                     	MAX       	Yes
+RV-APS-From-KBL002       	2048QAM file                     	MAX       	Yes
+RV-APS-From-KBL002-3-ISV3	AM file                          	Disable   	Yes
+RV-APS-From-KBL002-3-ISV3	Hybrid file                      	MAX       	Yes
+RV-APS-From-KBL002-3-ISV3	Bandwidth acceleration file      	Disable   	Yes
+RV-APS-From-KBL002-3-ISV3	XPIC file                        	Disable   	Yes
+RV-APS-From-KBL002-3-ISV3	1024QAM file                     	Disable   	Yes
+RV-APS-From-KBL002-3-ISV3	2048QAM file                     	Disable   	Yes
+RV-APS-From-KBL002-4-ISV3	AM file                          	Disable   	Yes
+RV-APS-From-KBL002-4-ISV3	Hybrid file                      	MAX       	Yes
+RV-APS-From-KBL002-4-ISV3	Bandwidth acceleration file      	Disable   	Yes
+RV-APS-From-KBL002-4-ISV3	XPIC file                        	Disable   	Yes
+RV-APS-From-KBL002-4-ISV3	1024QAM file                     	Disable   	Yes
+RV-APS-From-KBL002-4-ISV3	2048QAM file                     	Disable   	Yes
