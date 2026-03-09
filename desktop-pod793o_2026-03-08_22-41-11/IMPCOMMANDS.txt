@@ -1,0 +1,8 @@
+# Check current user context
+whoami
+
+# Check if we can see registry entries
+reg query "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run"
+
+# Check all possible persistence locations
+reg query "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run"
