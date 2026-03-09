@@ -1,0 +1,9 @@
+Command: whoami
+Exit Code: 0
+Working Directory: D:\360ExtremeBrowserDownload\newM
+Timestamp: 2026-03-09T00:39:29-07:00
+
+--- STDOUT ---
+desktop-pod793o\hp zbook
+--- STDERR ---
+
