@@ -1,0 +1,21 @@
+Command: dir C:\Users
+Exit Code: 0
+Working Directory: D:\360ExtremeBrowserDownload\newM
+Timestamp: 2026-03-08T23:56:11-07:00
+
+--- STDOUT ---
+ Volume in drive C has no label.
+ Volume Serial Number is E87A-8CD5
+
+ Directory of C:\Users
+
+01/24/2026  08:06 AM    <DIR>          .
+01/24/2026  08:06 AM            11,339 HP
+02/20/2026  11:27 PM    <DIR>          HP ZBook
+01/24/2026  08:06 AM           264,544 HP_000_vcRuntimeMinimum_x86.log
+01/24/2026  08:06 AM           260,360 HP_001_vcRuntimeAdditional_x86.log
+02/18/2026  12:41 AM    <DIR>          Public
+               3 File(s)        536,243 bytes
+               3 Dir(s)  11,142,307,840 bytes free
+--- STDERR ---
+
