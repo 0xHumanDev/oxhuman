@@ -1,0 +1,26 @@
+{
+  "agent_id": "DESKTOP_POD793O_20260308",
+  "timestamp": "2026-03-11T00:41:02.4869069-07:00",
+  "hostname": "DESKTOP-POD793O",
+  "ip_addresses": [
+    "169.254.38.24",
+    "10.5.0.2",
+    "192.168.56.1",
+    "169.254.234.67",
+    "10.100.0.2",
+    "169.254.12.165",
+    "169.254.30.7",
+    "169.254.247.180",
+    "169.254.248.159",
+    "192.168.153.1",
+    "192.168.160.1",
+    "192.168.18.114"
+  ],
+  "public_ip": "195.242.241.12",
+  "os": "windows",
+  "architecture": "amd64",
+  "username": "DESKTOP-POD793O\\HP ZBook",
+  "computer_name": "DESKTOP-POD793O",
+  "domain": "Domain",
+  "uptime": "Statistics since 2/23/2026 8:50:40 PM"
+}
