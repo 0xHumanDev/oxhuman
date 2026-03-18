@@ -1,0 +1,688 @@
+Version5;
+ACPI\VEN_PNP&DEV_0F13	Dell_nb\FORCED\8x86\	cymfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_PNP&DEV_0F13	Dell_nb\FORCED\8x64\	cymfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_PNP&DEV_0F13	Dell_nb\FORCED\8x86\	cymfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_PNP&DEV_0F13	Dell_nb\FORCED\81x86\	cymfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_PNP&DEV_0F13	Dell_nb\FORCED\8x64\	cymfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_PNP&DEV_0F13	Dell_nb\FORCED\81x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_PNP&DEV_0F13	Dell_nb\FORCED\81x64\	cymfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_PNP&DEV_0F13	Dell_nb\FORCED\81x86\	cymfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_PNP&DEV_0F13	Dell_nb\FORCED\8x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_PNP&DEV_0F13	Dell_nb\FORCED\81x64\	cymfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_PNP&DEV_0F13	Dell_nb\FORCED\8x64\	cymfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_PNP&DEV_0F13	Dell_nb\FORCED\81x64\	cymfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Cypress Trackpad
+*CYS8487	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8487	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8487	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8487	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS8487	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS8487	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS8487	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS8487	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS8487	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8487	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8487	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8487	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0303	Dell_nb\FORCED\7x64\	cykbfltr.inf	CompanyMfg	1	09/13/2013,2.5.3.59	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.43_0408\NTx86\	cykbfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.104_8508\NTx86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.92_8787\NTx64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.43_8587\NTx86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*PNP0303	Dell_nb\FORCED\7x86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	09/13/2013,2.5.3.59	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.43_8587\NTx64\	cykbfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.104_0001\NTx86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.104_8508\NTx86\	cykbfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*PNP0303	Dell_nb\FORCED\7x86\	cykbfltr.inf	CompanyMfg	1	09/13/2013,2.5.3.59	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.43_8587\NTx86\	cykbfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.92_8606\NTx64\	cykbfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.92_8606\NTx86\	cykbfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.92_8606\NTx64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.104_8508\NTx86\	cykbfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.43_0408\NTx64\	cykbfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.92_8606\NTx86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.43_8587\NTx86\	cykbfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.92_8606\NTx86\	cykbfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.104_0001\NTx86\	cykbfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.92_8787\NTx64\	cykbfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.104_0001\NTx64\	cykbfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*PNP0303	Dell_nb\FORCED\7x64\	cykbfltr.inf	CompanyMfg.NTamd64	1	09/13/2013,2.5.3.59	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.92_8787\NTx86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.104_0001\NTx64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.43_8587\NTx64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*PNP0303	Dell_nb\FORCED\7x86\	cykbfltr.inf	CompanyMfg.NTamd64	1	09/13/2013,2.5.3.59	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.92_8787\NTx86\	cykbfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*PNP0303	Dell_nb\FORCED\7x64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	09/13/2013,2.5.3.59	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.43_8587\NTx64\	cykbfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.43_0408\NTx64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.104_8508\NTx64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.43_0408\NTx86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.104_8508\NTx64\	cykbfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.43_0408\NTx64\	cykbfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.104_0001\NTx86\	cykbfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.43_0408\NTx86\	cykbfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.92_8787\NTx86\	cykbfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.104_0001\NTx64\	cykbfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.92_8606\NTx64\	cykbfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.104_8508\NTx64\	cykbfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*PNP0303	Lenovo_nb\2.3.7.92_8787\NTx64\	cykbfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+ACPI\VEN_PNP&DEV_0303	Dell_nb\FORCED\81x86\	cykbfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_PNP&DEV_0303	Dell_nb\FORCED\8x86\	cykbfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_PNP&DEV_0303	Dell_nb\FORCED\81x86\	cykbfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_PNP&DEV_0303	Dell_nb\FORCED\81x64\	cykbfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_PNP&DEV_0303	Dell_nb\FORCED\8x64\	cykbfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_PNP&DEV_0303	Dell_nb\FORCED\81x64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_PNP&DEV_0303	Dell_nb\FORCED\8x86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_PNP&DEV_0303	Dell_nb\FORCED\81x64\	cykbfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_PNP&DEV_0303	Dell_nb\FORCED\8x86\	cykbfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_PNP&DEV_0303	Dell_nb\FORCED\8x64\	cykbfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_PNP&DEV_0303	Dell_nb\FORCED\8x64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_PNP&DEV_0303	Dell_nb\FORCED\81x86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_DLL&DEV_0589	Dell_nb\FORCED\81x64\	cymfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_0589	Dell_nb\FORCED\81x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_0589	Dell_nb\FORCED\81x86\	cymfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_0589	Dell_nb\FORCED\8x86\	cymfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_0589	Dell_nb\FORCED\81x86\	cymfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_0589	Dell_nb\FORCED\8x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_0589	Dell_nb\FORCED\81x64\	cymfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_0589	Dell_nb\FORCED\8x86\	cymfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_0589	Dell_nb\FORCED\81x64\	cymfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_0589	Dell_nb\FORCED\8x64\	cymfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_0589	Dell_nb\FORCED\8x64\	cymfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_0589	Dell_nb\FORCED\8x64\	cymfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+*CYS8606	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8606	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8606	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8606	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8606	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8606	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8606	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8606	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8606	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS0487	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS0487	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS0487	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS0487	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS0487	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS0487	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS0487	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS0487	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS0487	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS0487	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS0487	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS0487	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS8787	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8787	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8787	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8787	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8787	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8787	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8787	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8787	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8787	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_0001\NTx86\	cyhid.inf	Vendor.NTamd64.6	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8606\NTx86\	cyhid.inf	Vendor.NTx86	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\81x86\	cyhid.inf	Vendor.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_8508\NTx86\	cyhid.inf	Vendor.NTamd64.6	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\8x64\	cyhid.inf	Vendor.NTamd64	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8787\NTx64\	cyhid.inf	Vendor.NTamd64	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8787\NTx86\	cyhid.inf	Vendor	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8787\NTx86\	cyhid.inf	Vendor.NTamd64	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\81x64\	cyhid.inf	Vendor.NTamd64.6	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_8508\NTx86\	cyhid.inf	Vendor.NTx86	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_8508\NTx86\	cyhid.inf	Vendor.NTx86.6	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\81x86\	cyhid.inf	Vendor	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\81x64\	cyhid.inf	Vendor	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8606\NTx64\	cyhid.inf	Vendor	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\8x64\	cyhid.inf	Vendor.NTx86	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_8508\NTx86\	cyhid.inf	Vendor	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8606\NTx86\	cyhid.inf	Vendor.NTx86.6	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\81x86\	cyhid.inf	Vendor.NTx86	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\81x64\	cyhid.inf	Vendor.NTamd64	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8606\NTx64\	cyhid.inf	Vendor.NTx86	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8787\NTx64\	cyhid.inf	Vendor.NTamd64.6	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\8x64\	cyhid.inf	Vendor.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_0001\NTx86\	cyhid.inf	Vendor.NTx86	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8787\NTx64\	cyhid.inf	Vendor	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_8508\NTx64\	cyhid.inf	Vendor	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_0001\NTx64\	cyhid.inf	Vendor.NTx86.6	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8606\NTx86\	cyhid.inf	Vendor	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_0001\NTx64\	cyhid.inf	Vendor.NTamd64	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8787\NTx86\	cyhid.inf	Vendor.NTx86.6	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_0001\NTx64\	cyhid.inf	Vendor.NTx86	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8606\NTx86\	cyhid.inf	Vendor.NTamd64	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8606\NTx64\	cyhid.inf	Vendor.NTamd64.6	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8606\NTx86\	cyhid.inf	Vendor.NTamd64.6	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\8x86\	cyhid.inf	Vendor.NTamd64	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\81x86\	cyhid.inf	Vendor.NTamd64	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8606\NTx64\	cyhid.inf	Vendor.NTx86.6	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\8x64\	cyhid.inf	Vendor	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\8x86\	cyhid.inf	Vendor.NTamd64.6	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\81x64\	cyhid.inf	Vendor.NTx86	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_8508\NTx64\	cyhid.inf	Vendor.NTx86.6	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8787\NTx64\	cyhid.inf	Vendor.NTx86.6	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\8x86\	cyhid.inf	Vendor.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\81x64\	cyhid.inf	Vendor.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_8508\NTx64\	cyhid.inf	Vendor.NTamd64.6	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_0001\NTx86\	cyhid.inf	Vendor.NTx86.6	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8787\NTx86\	cyhid.inf	Vendor.NTx86	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_0001\NTx86\	cyhid.inf	Vendor.NTamd64	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_8508\NTx64\	cyhid.inf	Vendor.NTamd64	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_0001\NTx86\	cyhid.inf	Vendor	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_8508\NTx64\	cyhid.inf	Vendor.NTx86	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\8x64\	cyhid.inf	Vendor.NTamd64.6	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8787\NTx86\	cyhid.inf	Vendor.NTamd64.6	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8787\NTx64\	cyhid.inf	Vendor.NTx86	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\81x86\	cyhid.inf	Vendor.NTamd64.6	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_0001\NTx64\	cyhid.inf	Vendor.NTamd64.6	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\8x86\	cyhid.inf	Vendor	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_0001\NTx64\	cyhid.inf	Vendor	1	06/15/2012,2.3.7.104	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.92_8606\NTx64\	cyhid.inf	Vendor.NTamd64	1	05/16/2012,2.3.7.92	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Dell_nb\FORCED\8x86\	cyhid.inf	Vendor.NTx86	1	12/04/2013,2.5.1.65	Cypress Input Device
+{DB743776-404E-4E3B-A236-15BF7E87353A}\HID_DEVICE	Lenovo_nb\2.3.7.104_8508\NTx86\	cyhid.inf	Vendor.NTamd64	1	06/15/2012,2.3.7.104	Cypress Input Device
+*CYHOT01	Lenovo_nb\2.3.7.104_0001\NTx86\	cykbfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.104_8508\NTx86\	cykbfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.104_8508\NTx64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\81x86\	cykbfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.43_8587\NTx64\	cykbfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.43_0408\NTx86\	cykbfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\81x64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.43_0408\NTx86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.104_0001\NTx86\	cykbfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\81x86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\7x86\	cykbfltr.inf	CompanyMfg.NTamd64	1	09/13/2013,2.5.3.59	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.43_0408\NTx86\	cykbfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.104_8508\NTx86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.92_8606\NTx86\	cykbfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\8x64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.92_8787\NTx64\	cykbfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\7x86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	09/13/2013,2.5.3.59	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.92_8606\NTx86\	cykbfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.104_8508\NTx64\	cykbfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.104_0001\NTx64\	cykbfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.104_0001\NTx86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.43_0408\NTx64\	cykbfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\81x64\	cykbfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.104_0001\NTx64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.43_8587\NTx86\	cykbfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\81x86\	cykbfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.104_8508\NTx86\	cykbfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.104_0001\NTx64\	cykbfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\8x64\	cykbfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\7x64\	cykbfltr.inf	CompanyMfg.NTamd64	1	09/13/2013,2.5.3.59	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.92_8787\NTx64\	cykbfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.43_0408\NTx64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\8x64\	cykbfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.43_0408\NTx64\	cykbfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.92_8787\NTx64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.92_8606\NTx64\	cykbfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.104_8508\NTx64\	cykbfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.92_8606\NTx64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.43_8587\NTx86\	cykbfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\7x86\	cykbfltr.inf	CompanyMfg	1	09/13/2013,2.5.3.59	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\8x86\	cykbfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\7x64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	09/13/2013,2.5.3.59	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\8x86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.43_8587\NTx64\	cykbfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.43_8587\NTx86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.43_8587\NTx64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\8x86\	cykbfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.92_8606\NTx64\	cykbfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.92_8787\NTx86\	cykbfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.92_8787\NTx86\	cykbfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.92_8787\NTx86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\81x64\	cykbfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+*CYHOT01	Dell_nb\FORCED\7x64\	cykbfltr.inf	CompanyMfg	1	09/13/2013,2.5.3.59	Integrated PS/2 Keyboard
+*CYHOT01	Lenovo_nb\2.3.7.92_8606\NTx86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Integrated PS/2 Keyboard
+*CYS8587	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS8587	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8587	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8587	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8587	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8587	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS8587	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS8587	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8587	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8587	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS8587	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS8587	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+ACPI\VEN_DLL&DEV_052E	Dell_nb\FORCED\8x64\	cymfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_052E	Dell_nb\FORCED\81x86\	cymfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_052E	Dell_nb\FORCED\8x64\	cymfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_052E	Dell_nb\FORCED\81x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_052E	Dell_nb\FORCED\8x86\	cymfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_052E	Dell_nb\FORCED\81x64\	cymfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_052E	Dell_nb\FORCED\8x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_052E	Dell_nb\FORCED\81x64\	cymfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_052E	Dell_nb\FORCED\8x64\	cymfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_052E	Dell_nb\FORCED\8x86\	cymfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_052E	Dell_nb\FORCED\81x64\	cymfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Cypress Trackpad
+ACPI\VEN_DLL&DEV_052E	Dell_nb\FORCED\81x86\	cymfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Cypress Trackpad
+*CYS0001	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*CYS0001	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*CYS0001	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*CYS0001	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*CYS0001	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*CYS0001	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+ACPI\VEN_DLLK&DEV_0589	Dell_nb\FORCED\81x86\	cykbfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_DLLK&DEV_0589	Dell_nb\FORCED\81x64\	cykbfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_DLLK&DEV_0589	Dell_nb\FORCED\81x86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_DLLK&DEV_0589	Dell_nb\FORCED\81x64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_DLLK&DEV_0589	Dell_nb\FORCED\8x86\	cykbfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_DLLK&DEV_0589	Dell_nb\FORCED\8x64\	cykbfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_DLLK&DEV_0589	Dell_nb\FORCED\81x86\	cykbfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_DLLK&DEV_0589	Dell_nb\FORCED\8x86\	cykbfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_DLLK&DEV_0589	Dell_nb\FORCED\8x86\	cykbfltr.inf	CompanyMfg.NTamd64	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_DLLK&DEV_0589	Dell_nb\FORCED\8x64\	cykbfltr.inf	CompanyMfg.NTx86.6	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_DLLK&DEV_0589	Dell_nb\FORCED\8x64\	cykbfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+ACPI\VEN_DLLK&DEV_0589	Dell_nb\FORCED\81x64\	cykbfltr.inf	CompanyMfg	1	12/04/2013,2.5.1.65	Integrated PS/2 Keyboard
+*CYS0010	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS0010	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS0010	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\8x64\	cyhid.inf	Vendor	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_0001\NTx64\	cyhid.inf	Vendor.NTx86	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\81x64\	cyhid.inf	Vendor.NTamd64	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\8x86\	cyhid.inf	Vendor.NTamd64	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8606\NTx64\	cyhid.inf	Vendor.NTx86	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_0001\NTx86\	cyhid.inf	Vendor.NTx86.6	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\81x64\	cyhid.inf	Vendor	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\8x86\	cyhid.inf	Vendor.NTx86	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\81x64\	cyhid.inf	Vendor.NTamd64.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_0001\NTx86\	cyhid.inf	Vendor.NTamd64.6	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\8x64\	cyhid.inf	Vendor.NTamd64	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\8x86\	cyhid.inf	Vendor	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\81x86\	cyhid.inf	Vendor.NTamd64.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_8508\NTx64\	cyhid.inf	Vendor.NTamd64	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_0001\NTx86\	cyhid.inf	Vendor	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_0001\NTx86\	cyhid.inf	Vendor.NTamd64	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8787\NTx64\	cyhid.inf	Vendor.NTx86	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\8x86\	cyhid.inf	Vendor.NTamd64.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\81x86\	cyhid.inf	Vendor.NTx86	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_0001\NTx64\	cyhid.inf	Vendor	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8606\NTx64\	cyhid.inf	Vendor.NTamd64.6	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_8508\NTx64\	cyhid.inf	Vendor.NTx86	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8606\NTx86\	cyhid.inf	Vendor.NTamd64.6	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8787\NTx86\	cyhid.inf	Vendor.NTamd64.6	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_8508\NTx86\	cyhid.inf	Vendor	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_0001\NTx64\	cyhid.inf	Vendor.NTamd64	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_8508\NTx86\	cyhid.inf	Vendor.NTx86	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_0001\NTx64\	cyhid.inf	Vendor.NTamd64.6	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_8508\NTx86\	cyhid.inf	Vendor.NTamd64	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_8508\NTx64\	cyhid.inf	Vendor.NTamd64.6	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_8508\NTx86\	cyhid.inf	Vendor.NTamd64.6	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_0001\NTx64\	cyhid.inf	Vendor.NTx86.6	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_8508\NTx86\	cyhid.inf	Vendor.NTx86.6	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8606\NTx64\	cyhid.inf	Vendor.NTamd64	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_8508\NTx64\	cyhid.inf	Vendor.NTx86.6	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\81x86\	cyhid.inf	Vendor.NTamd64	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8787\NTx64\	cyhid.inf	Vendor.NTx86.6	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8787\NTx64\	cyhid.inf	Vendor.NTamd64	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8787\NTx86\	cyhid.inf	Vendor.NTx86.6	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8606\NTx86\	cyhid.inf	Vendor.NTx86	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_0001\NTx86\	cyhid.inf	Vendor.NTx86	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8606\NTx86\	cyhid.inf	Vendor.NTamd64	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\81x64\	cyhid.inf	Vendor.NTx86	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\8x64\	cyhid.inf	Vendor.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8787\NTx64\	cyhid.inf	Vendor	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8787\NTx64\	cyhid.inf	Vendor.NTamd64.6	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\81x64\	cyhid.inf	Vendor.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8606\NTx64\	cyhid.inf	Vendor.NTx86.6	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8606\NTx86\	cyhid.inf	Vendor	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\81x86\	cyhid.inf	Vendor	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8787\NTx86\	cyhid.inf	Vendor.NTamd64	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\8x64\	cyhid.inf	Vendor.NTx86	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\81x86\	cyhid.inf	Vendor.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\8x86\	cyhid.inf	Vendor.NTx86.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.104_8508\NTx64\	cyhid.inf	Vendor	1	06/15/2012,2.3.7.104	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Dell_nb\FORCED\8x64\	cyhid.inf	Vendor.NTamd64.6	1	12/04/2013,2.5.1.65	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8606\NTx86\	cyhid.inf	Vendor.NTx86.6	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8787\NTx86\	cyhid.inf	Vendor	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8606\NTx64\	cyhid.inf	Vendor	1	05/16/2012,2.3.7.92	Cypress Trackpad
+HID\CypressVirtualHIDDevice	Lenovo_nb\2.3.7.92_8787\NTx86\	cyhid.inf	Vendor.NTx86	1	05/16/2012,2.3.7.92	Cypress Trackpad
+*PNP0F03	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F03	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F03	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F03	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg.NTamd64	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F03	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F03	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F03	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F03	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F03	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F03	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg.NTx86.6	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F03	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg.NTamd64	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F03	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F03	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F03	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*DLL052E	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg.NTx86.6	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*DLL052E	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg.NTamd64	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*DLL052E	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*DLL052E	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*DLL052E	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*DLL052E	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg.NTamd64	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*CYS8687	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8687	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8687	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8687	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8687	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8687	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8687	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8687	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8687	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8508	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*CYS8508	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*CYS8508	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*CYS8508	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*CYS8508	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*CYS8508	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*CYS8506	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8506	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8506	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8506	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8506	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8506	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS8506	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8506	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*CYS8506	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0b	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg.NTamd64	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F0b	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0b	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg.NTamd64	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F0b	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0b	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F0b	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0b	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F0b	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg.NTx86.6	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F0b	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F0b	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0b	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0b	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0E	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg.NTx86.6	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F0E	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F0E	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0E	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg.NTamd64	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F0E	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0E	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg.NTamd64	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F0E	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0E	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F0E	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F0E	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F0E	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F0E	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*CYS0406	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS0406	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS0406	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS0406	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS0406	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS0406	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS0406	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS0406	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS0406	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F13	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg.NTamd64	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F13	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F13	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F13	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg.NTamd64	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F13	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F13	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F13	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F13	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F13	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg.NTx86.6	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F13	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F13	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F13	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg.NTamd64	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F12	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Lenovo_nb\2.3.7.92_8606\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.92_8787\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.92_8606\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Lenovo_nb\2.3.7.92_8606\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F12	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F12	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg.NTx86.6	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F12	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.43_8587\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.104_8508\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.104_8508\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.43_8587\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Lenovo_nb\2.3.7.104_8508\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Lenovo_nb\2.3.7.104_0001\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.43_8587\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.104_0001\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	06/15/2012,2.3.7.104	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.104_0001\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*PNP0F12	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.92_8787\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F12	Dell_nb\FORCED\7x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F12	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F12	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F12	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F12	Dell_nb\FORCED\7x64\	cymfltr.inf	CompanyMfg.NTamd64	1	09/13/2013,2.5.3.59	Cypress Trackpad
+*PNP0F12	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.92_8787\NTx64\	cymfltr.inf	CompanyMfg	1	05/16/2012,2.3.7.92	Lenovo pointing device
+*PNP0F12	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS0408	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS0408	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg.NTx86.6	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS0408	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS0408	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg.NTx86.6	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS0408	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg	1	07/20/2011,2.03.0006.09	Cypress TrackPad
+*CYS0408	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg.NTamd64	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS0408	Lenovo_nb\2.3.7.43_0408\NTx86\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS0408	Lenovo_nb\2.3.7.43_0408\NTx64\	cymfltr.inf	CompanyMfg	1	04/02/2012,2.3.7.43	Lenovo pointing device
+*CYS0408	Lenovo_nb\2.3.7.43_0408\5x86\	cymfltr.inf	CompanyMfg.NTamd64	1	07/20/2011,2.03.0006.09	Cypress TrackPad
