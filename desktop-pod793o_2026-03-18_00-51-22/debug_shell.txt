@@ -1,0 +1,186 @@
+Shell: Received command: 'dir
+', bytes: 4
+Shell: Command 'dir
+' executed successfully
+Shell: Received command: 'whoami
+', bytes: 7
+Shell: Command 'whoami
+' executed successfully
+Shell: Received command: 'dir
+', bytes: 4
+Shell: Command 'dir
+' executed successfully
+Shell: Received command: 'cat debug.txt
+', bytes: 14
+Shell: Cat executed for debug.txt
+
+Shell: Received command: '
+', bytes: 1
+Shell: Command '
+' executed successfully
+Shell: Received command: 'whoami
+', bytes: 7
+Shell: Command 'whoami
+' executed successfully
+Shell: Received command: 'dir
+', bytes: 4
+Shell: Command 'dir
+' executed successfully
+Shell: Received command: 'persist
+', bytes: 8
+Shell: Persistence failed
+Shell: Received command: 'ls
+', bytes: 3
+Shell: Command 'ls' not supported on Windows, use 'dir'
+Shell: Received command: '
+', bytes: 1
+Shell: Command '
+' executed successfully
+Shell: Received command: '
+', bytes: 1
+Shell: Command '
+' executed successfully
+Shell: Received command: 'dir
+', bytes: 4
+Shell: Command 'dir
+' executed successfully
+Shell: Received command: 'ipconfig
+', bytes: 9
+Shell: Command 'ipconfig
+' executed successfully
+Shell: Received command: 'cd C:\Windows\System32
+', bytes: 23
+Shell: Failed to change directory to C:\Windows\System32
+
+Shell: Received command: 'dir
+', bytes: 4
+Shell: Command 'dir
+' executed successfully
+Shell: Received command: 'persist
+', bytes: 8
+Shell: Persistence failed
+Shell: Received command: 'keylog_start 
+', bytes: 14
+Shell: Command 'keylog_start 
+' executed successfully
+Shell: Received command: 'dir
+', bytes: 4
+Shell: Command 'dir
+' executed successfully
+Shell: Received command: 'cd
+', bytes: 3
+Shell: Command 'cd
+' executed successfully
+Shell: Received command: 'cd Documments
+', bytes: 14
+Shell: Failed to change directory to Documments
+
+Shell: Received command: '[A
+', bytes: 4
+Shell: Command '[A
+' executed successfully
+Shell: Received command: 'cd Documents
+', bytes: 13
+Shell: Failed to change directory to Documents
+
+Shell: Received command: 'dir
+', bytes: 4
+Shell: Command 'dir
+' executed successfully
+Shell: Received command: 'cd
+', bytes: 3
+Shell: Command 'cd
+' executed successfully
+Shell: Received command: 'cd ..
+', bytes: 6
+Shell: Failed to change directory to ..
+
+Shell: Received command: 'cd ..
+', bytes: 6
+Shell: Failed to change directory to ..
+
+Shell: Connection closed or error: 0
+Shell: Connection closed or error: 0
+Shell: Received command: 'dir
+', bytes: 4
+Shell: Command 'dir
+' executed successfully
+Shell: Connection closed or error: 0
+Shell started at C:\Users\HP ZBook\Desktop
+Received command: 'dir'
+Received command: 'cd ..'
+Shell started at C:\Users\HP ZBook\Desktop
+Received command: 'dir'
+Received command: 'cd C:\'
+Shell started at C:\Users\HP ZBook\Desktop
+Received command: 'dir'
+Received command: 'cd Windows'
+Received command: 'dir'
+Received command: 'cd ..'
+Shell started at C:\Users\HP ZBook\Desktop
+Received command: 'dir'
+Received command: 'cat debug.txt'
+Received command: 'dir'
+Received command: 'cd ..'
+Shell started at C:\Users\HP ZBook\Desktop
+Received command: 'whoami'
+Received command: 'persist'
+Received command: 'persist'
+Received command: 'dir'
+Received command: 'upload debug.txt'
+Received command: ''
+Received command: 'dir'
+Received command: 'cat fahad.txt'
+Received command: ''
+Received command: 'dir'
+Received command: 'pwd'
+Received command: 'dir'
+Received command: 'pwd'
+Received command: 'cd ..'
+Shell started at C:\Users\HP ZBook\Desktop
+Received command: 'dir'
+Shell started at C:\Users\HP ZBook\Desktop
+Received command: 'dir'
+Shell started at C:\Users\HP ZBook\Desktop
+Received command: 'dir'
+Received command: 'dir'
+Received command: 'whoami'
+Shell started at C:\Users\HP ZBook\Desktop
+Received command: 'ls'
+Received command: 'dir'
+Shell started at C:\Users\HP ZBook\Desktop
+Received command: 'dir'
+Received command: 'dir'
+Received command: 'ls'
+Received command: 'cat debug.txt'
+Received command: 'dir'
+Received command: 'cat fahad.txt'
+Received command: ''
+Received command: 'dir'
+Received command: 'systeminfo'
+Received command: 'dir'
+Received command: 'cat fahad.txt'
+Received command: ''
+Received command: 'dir'
+Received command: 'dir'
+Received command: 'persist'
+Received command: ''
+Shell started at C:\Users\HP ZBook\Desktop
+Received command: 'dir'
+Received command: 'systeminfo'
+Received command: 'dir'
+Received command: 'cp fahad.txt'
+Received command: 'cp fahad.txt/Documents'
+Received command: 'keylogger'
+Received command: 'dir'
+Received command: 'whoami'
+Received command: 'dir'
+Received command: 'pwd'
+Received command: 'cd ..'
+Shell started at C:\Users\HP ZBook\Desktop
+Received command: 'dir'
+Received command: 'cat fahad.txt'
+Received command: ''
+Received command: 'cat debug_shell.txt'
+Received command: 'dir'
+Received command: 'cd ..'
