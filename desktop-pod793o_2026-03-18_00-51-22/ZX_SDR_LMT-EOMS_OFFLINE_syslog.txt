@@ -1,4 +1,0 @@
-[2015-2-21 10:42:23] [-1] [offlineLogin] [com.zte.lmt.app.eoms.mainctrl.listener.Login] 登录成功(在线配置)。用户： ，基站IP地址： (null)。
-[2015-2-21 10:43:03] [-1] [offlineLogin] [com.zte.lmt.app.eoms.mainctrl.listener.Login] 登录成功(在线配置)。用户： ，基站IP地址： (null)。
-[2015-2-23 13:54:10] [-1] [offlineLogin] [com.zte.lmt.app.eoms.mainctrl.listener.Login] 登录成功(在线配置)。用户： ，基站IP地址： (null)。
-[2015-3-12 16:42:04] [-1] [offlineLogin] [com.zte.lmt.app.eoms.mainctrl.listener.Login] 登录成功(在线配置)。用户： ，基站IP地址： (null)。

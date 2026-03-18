@@ -1,4 +1,0 @@
-[Aug 26, 2019 10:47:34 AM] [-1] [afterLogin] [com.zte.lmt.app.common.AbstractLocalSmmManager] System login (Online Configuration) succeed, user: root, site ip: 192.254.1.16.
-[Aug 26, 2019 10:47:39 AM] [-1] [export] [com.zte.lmt.ump.api.pal.permanage.TaskController] 0 tasks are exported in a batch.
-[Aug 26, 2019 10:47:39 AM] [-1] [export] [com.zte.lmt.ump.api.pal.permanage.TaskController] 0 tasks are exported in a batch.
-[Aug 26, 2019 10:47:39 AM] [-1] [export] [com.zte.lmt.ump.api.pal.permanage.TaskController] 0 tasks are exported in a batch.
