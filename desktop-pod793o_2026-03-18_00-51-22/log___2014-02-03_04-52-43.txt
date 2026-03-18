@@ -1,0 +1,4305 @@
+DriverPack Solution 13  (2013/03/01,  R317  )
+Version: Microsoft Windows 7 Ultimate   64-bit [6.1]
+Architecture: 64-bit
+CPU: Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz
+GPU: Standard VGA Graphics Adapter
+RAM: 3994 MB
+The JScript version is 5.8 Build 16385
+Today: Mon Feb 3 04:52:57 PST 2014
+env_windir=C:\Windows
+env_SystemRoot=C:\Windows
+env_SystemDrive=C:
+env_temp=C:\Users\HP\AppData\Local\Temp
+Locale: 409
+
+
+Timer_clearcounters 0
+Timer_Loaded_hardware 1841
+
+DeviceInfo
+  Name:         PCI standard PCI-to-PCI bridge
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      PCI\VEN_8086&DEV_1E12&SUBSYS_183F103C&REV_C4\3&11583659&0&E1
+  Class:        System
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(0,28,1)
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     PCI standard PCI-to-PCI bridge
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     PCI\CC_0604
+  inf:      machine.inf,PCI_DRV
+HardwareID
+  PCI\VEN_8086&DEV_1E12&SUBSYS_183F103C&REV_C4
+  PCI\VEN_8086&DEV_1E12&SUBSYS_183F103C
+  PCI\VEN_8086&DEV_1E12&CC_060400
+  PCI\VEN_8086&DEV_1E12&CC_0604
+CompatibleID
+  PCI\VEN_8086&DEV_1E12&REV_C4
+  PCI\VEN_8086&DEV_1E12
+  PCI\VEN_8086&CC_060400
+  PCI\VEN_8086&CC_0604
+  PCI\VEN_8086
+  PCI\CC_060400
+  PCI\CC_0604
+
+
+DeviceInfo
+  Name:         @%SystemRoot%\system32\tcpipcfg.dll,-50003
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_TCPIP\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         PCI standard ISA bridge
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      PCI\VEN_8086&DEV_1E59&SUBSYS_183F103C&REV_04\3&11583659&0&F8
+  Class:        System
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(0,31,0)
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     PCI standard ISA bridge
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     PCI\CC_0601
+  inf:      machine.inf,MSISADRV
+HardwareID
+  PCI\VEN_8086&DEV_1E59&SUBSYS_183F103C&REV_04
+  PCI\VEN_8086&DEV_1E59&SUBSYS_183F103C
+  PCI\VEN_8086&DEV_1E59&CC_060100
+  PCI\VEN_8086&DEV_1E59&CC_0601
+CompatibleID
+  PCI\VEN_8086&DEV_1E59&REV_04
+  PCI\VEN_8086&DEV_1E59
+  PCI\VEN_8086&CC_060100
+  PCI\VEN_8086&CC_0601
+  [dup]PCI\VEN_8086
+  PCI\CC_060100
+  PCI\CC_0601
+
+
+DeviceInfo
+  Name:         Remote Desktop Device Redirector Bus
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @rdpbus.inf,%msft%;Microsoft
+  HWID_reg      ROOT\RDPBUS\0000
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     Remote Desktop Device Redirector Bus
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ROOT\RDPBUS
+  inf:      rdpbus.inf,RDPBUS
+HardwareID
+  ROOT\RDPBUS
+
+
+DeviceInfo
+  Name:         Microsoft Windows Management Interface for ACPI
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @acpi.inf,%msft%;Microsoft
+  HWID_reg      ACPI\PNP0C14\0
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 48
+DriverInfo
+  Name:     Microsoft Windows Management Interface for ACPI
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0C14
+  inf:      acpi.inf,WMIMAP_Inst.NT
+HardwareID
+  ACPI\PNP0C14
+  *PNP0C14
+
+
+DeviceInfo
+  Name:         @%SystemRoot%\system32\drivers\netbt.sys,-2
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_NETBT\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         TCP/IP Registry Compatibility
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_TCPIPREG\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         PS/2 Compatible Mouse
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @msmouse.inf,%msmfg%;Microsoft
+  HWID_reg      ACPI\SYN1E60\4&4FDBDF6&0
+  Class:        Mouse
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 32
+DriverInfo
+  Name:     PS/2 Compatible Mouse
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0F13
+  inf:      msmouse.inf,PS2_Inst
+HardwareID
+  ACPI\SYN1E60
+  *SYN1E60
+CompatibleID
+  *SYN1E00
+  *SYN0002
+  *PNP0F13
+
+
+DeviceInfo
+  Name:         Terminal Server Keyboard Driver
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ROOT\RDP_KBD\0000
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     Terminal Server Keyboard Driver
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ROOT\RDP_KBD
+  inf:      machine.inf,RDP_KBD
+HardwareID
+  ROOT\RDP_KBD
+
+
+DeviceInfo
+  Name:         Terminal Server Mouse Driver
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ROOT\RDP_MOU\0000
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     Terminal Server Mouse Driver
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ROOT\RDP_MOU
+  inf:      machine.inf,RDP_MOU
+HardwareID
+  ROOT\RDP_MOU
+
+
+DeviceInfo
+  Name:         @%SystemRoot%\system32\tcpipcfg.dll,-50004
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_TDX\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         @%SystemRoot%\system32\drivers\fvevol.sys,-100
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_FVEVOL\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         ACPI Thermal Zone
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ACPI\THERMALZONE\TZ01
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 112
+DriverInfo
+  Name:     ACPI Thermal Zone
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ACPI\THERMALZONE
+  inf:      machine.inf,NO_DRV
+HardwareID
+  ACPI\THERMALZONE
+  *THERMALZONE
+
+
+DeviceInfo
+  Name:         Ethernet Controller
+  Status:       DEVICE HAS A PROBLEM: 28.
+  Manufacturer: 
+  HWID_reg      PCI\VEN_10EC&DEV_8136&SUBSYS_183F103C&REV_05\4&FCB2031&0&00E1
+  Class:        
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(2,0,0)
+  ConfigFlags:  64
+  Capabilities: 0
+DriverInfo
+NoDriver
+HardwareID
+  PCI\VEN_10EC&DEV_8136&SUBSYS_183F103C&REV_05
+  PCI\VEN_10EC&DEV_8136&SUBSYS_183F103C
+  PCI\VEN_10EC&DEV_8136&CC_020000
+  PCI\VEN_10EC&DEV_8136&CC_0200
+CompatibleID
+  PCI\VEN_10EC&DEV_8136&REV_05
+  PCI\VEN_10EC&DEV_8136
+  PCI\VEN_10EC&CC_020000
+  PCI\VEN_10EC&CC_0200
+  PCI\VEN_10EC
+  PCI\CC_020000
+  PCI\CC_0200
+
+
+DeviceInfo
+  Name:         PCI standard PCI-to-PCI bridge
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      PCI\VEN_8086&DEV_1E14&SUBSYS_183F103C&REV_C4\3&11583659&0&E2
+  Class:        System
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(0,28,2)
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     PCI standard PCI-to-PCI bridge
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     PCI\CC_0604
+  inf:      machine.inf,PCI_DRV
+HardwareID
+  PCI\VEN_8086&DEV_1E14&SUBSYS_183F103C&REV_C4
+  PCI\VEN_8086&DEV_1E14&SUBSYS_183F103C
+  PCI\VEN_8086&DEV_1E14&CC_060400
+  PCI\VEN_8086&DEV_1E14&CC_0604
+CompatibleID
+  PCI\VEN_8086&DEV_1E14&REV_C4
+  PCI\VEN_8086&DEV_1E14
+  [dup]PCI\VEN_8086&CC_060400
+  [dup]PCI\VEN_8086&CC_0604
+  [dup]PCI\VEN_8086
+  [dup]PCI\CC_060400
+  [dup]PCI\CC_0604
+
+
+DeviceInfo
+  Name:         IDE Channel
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @mshdc.inf,%ms-drivers%;(Standard IDE ATA/ATAPI controllers)
+  HWID_reg      PCIIDE\IDECHANNEL\4&309C1A07&0&0
+  Class:        hdc
+  Location:     Channel 0
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     IDE Channel
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     INTERNAL_IDE_CHANNEL
+  inf:      mshdc.inf,atapi_Inst
+HardwareID
+  INTEL-1E03
+  INTERNAL_IDE_CHANNEL
+CompatibleID
+  *PNP0600
+
+
+DeviceInfo
+  Name:         Plug and Play Software Device Enumerator
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ROOT\SYSTEM\0000
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     Plug and Play Software Device Enumerator
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ROOT\SWENUM
+  inf:      machine.inf,SWENUM
+HardwareID
+  ROOT\SWENUM
+
+
+DeviceInfo
+  Name:         @%SystemRoot%\system32\drivers\nsiproxy.sys,-2
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_NSIPROXY\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         VgaSave
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_VGASAVE\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Microsoft ACPI-Compliant System
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @acpi.inf,%msft%;Microsoft
+  HWID_reg      ACPI_HAL\PNP0C08\0
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 48
+DriverInfo
+  Name:     Microsoft ACPI-Compliant System
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0C08
+  inf:      acpi.inf,ACPI_Inst.NT
+HardwareID
+  ACPI_HAL\PNP0C08
+  *PNP0C08
+
+
+DeviceInfo
+  Name:         @%SystemRoot%\system32\drivers\http.sys,-1
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_HTTP\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         
+  Status:       DEVICE HAS A PROBLEM: 28.
+  Manufacturer: 
+  HWID_reg      ACPI\HPQ0004\3&11583659&0
+  Class:        
+  Location:     
+  ConfigFlags:  64
+  Capabilities: 32
+DriverInfo
+NoDriver
+HardwareID
+  ACPI\HPQ0004
+  *HPQ0004
+
+
+DeviceInfo
+  Name:         UMBus Root Bus Enumerator
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @umbus.inf,%ms%;Microsoft
+  HWID_reg      ROOT\UMBUS\0000
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     UMBus Root Bus Enumerator
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ROOT\UMBUS
+  inf:      umbus.inf,UmBusRoot_Device.NT
+HardwareID
+  ROOT\UMBUS
+
+
+DeviceInfo
+  Name:         IDE Channel
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @mshdc.inf,%ms-drivers%;(Standard IDE ATA/ATAPI controllers)
+  HWID_reg      PCIIDE\IDECHANNEL\4&309C1A07&0&4
+  Class:        hdc
+  Location:     Channel 4
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     IDE Channel
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     INTERNAL_IDE_CHANNEL
+  inf:      mshdc.inf,atapi_Inst
+HardwareID
+  [dup]INTEL-1E03
+  [dup]INTERNAL_IDE_CHANNEL
+CompatibleID
+  [dup]*PNP0600
+
+
+DeviceInfo
+  Name:         Microsoft Watchdog Timer
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @wd.inf,%microsoft%;Microsoft
+  HWID_reg      ACPI_HAL\PNP0C18\0
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 48
+DriverInfo
+  Name:     Microsoft Watchdog Timer
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0C18
+  inf:      wd.inf,WdDevice
+HardwareID
+  ACPI_HAL\PNP0C18
+  *PNP0C18
+
+
+DeviceInfo
+  Name:         @%systemroot%\system32\drivers\hwpolicy.sys,-101
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_HWPOLICY\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Microsoft Virtual Drive Enumerator Driver
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ROOT\VDRVROOT\0000
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     Microsoft Virtual Drive Enumerator Driver
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ROOT\VDRVROOT
+  inf:      machine.inf,VDRVROOT
+HardwareID
+  ROOT\VDRVROOT
+
+
+DeviceInfo
+  Name:         @%SystemRoot%\system32\drivers\volmgrx.sys,-100
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_VOLMGRX\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Intel(R) 82802 Firmware Hub Device
+  Status:       DEVICE IS CURRENTLY STOPPED.
+  Manufacturer: @machine.inf,%intel_mfg%;Intel
+  HWID_reg      ACPI\INT0800\4&4FDBDF6&0
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 32
+DriverInfo
+  Name:     Intel(R) 82802 Firmware Hub Device
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *INT0800
+  inf:      machine.inf,NO_DRV_MEM
+HardwareID
+  ACPI\INT0800
+  *INT0800
+
+
+DeviceInfo
+  Name:         UMBus Enumerator
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @umbus.inf,%ms%;Microsoft
+  HWID_reg      UMB\UMB\1&841921D&0&PRINTERBUSENUMERATOR
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 160
+DriverInfo
+  Name:     UMBus Enumerator
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     UMB\UMBUS
+  inf:      umbus.inf,UmBus_Device.NT
+HardwareID
+  UMB\UMBUS
+CompatibleID
+
+
+DeviceInfo
+  Name:         Network Controller
+  Status:       DEVICE HAS A PROBLEM: 28.
+  Manufacturer: 
+  HWID_reg      PCI\VEN_1814&DEV_3290&SUBSYS_18EC103C&REV_00\4&2DCD215A&0&00E0
+  Class:        
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(1,0,0)
+  ConfigFlags:  64
+  Capabilities: 0
+DriverInfo
+NoDriver
+HardwareID
+  PCI\VEN_1814&DEV_3290&SUBSYS_18EC103C&REV_00
+  PCI\VEN_1814&DEV_3290&SUBSYS_18EC103C
+  PCI\VEN_1814&DEV_3290&CC_028000
+  PCI\VEN_1814&DEV_3290&CC_0280
+CompatibleID
+  PCI\VEN_1814&DEV_3290&REV_00
+  PCI\VEN_1814&DEV_3290
+  PCI\VEN_1814&CC_028000
+  PCI\VEN_1814&CC_0280
+  PCI\VEN_1814
+  PCI\CC_028000
+  PCI\CC_0280
+
+
+DeviceInfo
+  Name:         Null
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_NULL\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Generic PnP Monitor
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @monitor.inf,%generic%;(Standard monitor types)
+  HWID_reg      DISPLAY\LGD0384\4&2161CC0&0&12345678&00&02
+  Class:        Monitor
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 230
+DriverInfo
+  Name:     Generic PnP Monitor
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP09FF
+  inf:      monitor.inf,PnPMonitor.Install
+HardwareID
+  MONITOR\LGD0384
+CompatibleID
+  *PNP09FF
+
+
+DeviceInfo
+  Name:         High Definition Audio Controller
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: Microsoft
+  HWID_reg      PCI\VEN_8086&DEV_1E20&SUBSYS_183F103C&REV_04\3&11583659&0&D8
+  Class:        System
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(0,27,0)
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     High Definition Audio Controller
+  Provider: Microsoft
+  Date:     7-13-2009
+  Version:  6.1.7600.16385
+  HWID:     PCI\CC_0403
+  inf:      hdaudbus.inf,HDAudio_Device.NT
+HardwareID
+  PCI\VEN_8086&DEV_1E20&SUBSYS_183F103C&REV_04
+  PCI\VEN_8086&DEV_1E20&SUBSYS_183F103C
+  PCI\VEN_8086&DEV_1E20&CC_040300
+  PCI\VEN_8086&DEV_1E20&CC_0403
+CompatibleID
+  PCI\VEN_8086&DEV_1E20&REV_04
+  PCI\VEN_8086&DEV_1E20
+  PCI\VEN_8086&CC_040300
+  PCI\VEN_8086&CC_0403
+  [dup]PCI\VEN_8086
+  PCI\CC_040300
+  PCI\CC_0403
+
+
+DeviceInfo
+  Name:         Microsoft AC Adapter
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @battery.inf,%msft%;Microsoft
+  HWID_reg      ACPI\ACPI0003\2&DABA3FF&1
+  Class:        Battery
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 32
+DriverInfo
+  Name:     Microsoft AC Adapter
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ACPI\ACPI0003
+  inf:      battery.inf,AcAdapter_Inst
+HardwareID
+  ACPI\ACPI0003
+  *ACPI0003
+
+
+DeviceInfo
+  Name:         Volume Manager
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ROOT\VOLMGR\0000
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 48
+DriverInfo
+  Name:     Volume Manager
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ROOT\VOLMGR
+  inf:      machine.inf,Volmgr
+HardwareID
+  ROOT\VOLMGR
+CompatibleID
+  DETECTEDINTERNAL\VOLMGR
+  DETECTED\VOLMGR
+
+
+DeviceInfo
+  Name:         KSecDD
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_KSECDD\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Storage volumes
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_VOLSNAP\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         ACPI x64-based PC
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @hal.inf,%gendev_mfg%;(Standard computers)
+  HWID_reg      ROOT\ACPI_HAL\0000
+  Class:        Computer
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     ACPI x64-based PC
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ACPIAPIC
+  inf:      hal.inf,ACPI_AMD64_HAL
+HardwareID
+  ACPIAPIC
+CompatibleID
+  DETECTEDINTERNAL\ACPI_HAL
+  DETECTED\ACPI_HAL
+
+
+DeviceInfo
+  Name:         Motherboard resources
+  Status:       DEVICE IS CURRENTLY STOPPED.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ACPI\INT340E\2&DABA3FF&1
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 32
+DriverInfo
+  Name:     Motherboard resources
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0C02
+  inf:      machine.inf,NO_DRV_MBRES
+HardwareID
+  ACPI\INT340E
+  *INT340E
+CompatibleID
+  *PNP0C02
+
+
+DeviceInfo
+  Name:         Performance Counters for Windows Driver
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_PCW\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         USB Mass Storage Device
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @usbstor.inf,%generic.mfg%;Compatible USB storage device
+  HWID_reg      USB\VID_054C&PID_05BA\CB071035E71215CF67
+  Class:        USB
+  Location:     Port_ 0002.Hub_ 0003
+  ConfigFlags:  0
+  Capabilities: 212
+DriverInfo
+  Name:     USB Mass Storage Device
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     USB\CLASS_08&SUBCLASS_06&PROT_50
+  inf:      usbstor.inf,USBSTOR_BULK.NT
+HardwareID
+  USB\VID_054C&PID_05BA&REV_0100
+  USB\VID_054C&PID_05BA
+CompatibleID
+  USB\CLASS_08&SUBCLASS_06&PROT_50
+  USB\CLASS_08&SUBCLASS_06
+  USB\CLASS_08
+
+
+DeviceInfo
+  Name:         ACPI Fixed Feature Button
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ACPI\FIXEDBUTTON\2&DABA3FF&1
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 96
+DriverInfo
+  Name:     ACPI Fixed Feature Button
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ACPI\FIXEDBUTTON
+  inf:      machine.inf,NO_DRV
+HardwareID
+  ACPI\FIXEDBUTTON
+  *FIXEDBUTTON
+
+
+DeviceInfo
+  Name:         UMBus Enumerator
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @umbus.inf,%ms%;Microsoft
+  HWID_reg      UMB\UMB\1&841921D&0&WPDBUSENUMROOT
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 160
+DriverInfo
+  Name:     UMBus Enumerator
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     UMB\UMBUS
+  inf:      umbus.inf,UmBus_Device.NT
+HardwareID
+  [dup]UMB\UMBUS
+CompatibleID
+
+
+DeviceInfo
+  Name:         KSecPkg
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_KSECPKG\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         File as Volume Driver
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @blbdrive.inf,%msft%;Microsoft
+  HWID_reg      ROOT\BLBDRIVE\0000
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 96
+DriverInfo
+  Name:     File as Volume Driver
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ROOT\BLBDRIVE
+  inf:      blbdrive.inf,blbdrive_device.NT
+HardwareID
+  ROOT\BLBDRIVE
+CompatibleID
+  DETECTEDINTERNAL\BLBDRIVE
+  DETECTED\BLBDRIVE
+
+
+DeviceInfo
+  Name:         @%systemroot%\system32\rascfg.dll,-32012
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_WANARPV6\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         High Definition Audio Device
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: Microsoft
+  HWID_reg      HDAUDIO\FUNC_01&VEN_111D&DEV_76D9&SUBSYS_103C183F&REV_1001\4&29B64726&0&0001
+  Class:        MEDIA
+  Location:     Internal High Definition Audio Bus
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     High Definition Audio Device
+  Provider: Microsoft
+  Date:     7-13-2009
+  Version:  6.1.7600.16385
+  HWID:     HDAUDIO\FUNC_01
+  inf:      hdaudio.inf,HdAudModel
+HardwareID
+  HDAUDIO\FUNC_01&VEN_111D&DEV_76D9&SUBSYS_103C183F&REV_1001
+  HDAUDIO\FUNC_01&VEN_111D&DEV_76D9&SUBSYS_103C183F
+CompatibleID
+  HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_111D&DEV_76D9&REV_1001
+  HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_111D&DEV_76D9&REV_1001
+  HDAUDIO\FUNC_01&VEN_111D&DEV_76D9&REV_1001
+  HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_111D&DEV_76D9
+  HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_111D&DEV_76D9
+  HDAUDIO\FUNC_01&VEN_111D&DEV_76D9
+  HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_111D
+  HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_111D
+  HDAUDIO\FUNC_01&VEN_111D
+  HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20
+  HDAUDIO\FUNC_01&CTLR_VEN_8086
+  HDAUDIO\FUNC_01&GF&VEN_111D&DEV_76D9&SUBSYS_103C183F&REV_1001
+  HDAUDIO\FUNC_01
+
+
+DeviceInfo
+  Name:         Programmable interrupt controller
+  Status:       DEVICE IS CURRENTLY STOPPED.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ACPI\PNP0000\4&4FDBDF6&0
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 32
+DriverInfo
+  Name:     Programmable interrupt controller
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0000
+  inf:      machine.inf,NO_DRV_PIC
+HardwareID
+  ACPI\PNP0000
+  *PNP0000
+
+
+DeviceInfo
+  Name:         PEAUTH
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_PEAUTH\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Composite Bus Enumerator
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @compositebus.inf,%msft%;Microsoft
+  HWID_reg      ROOT\COMPOSITEBUS\0000
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     Composite Bus Enumerator
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ROOT\COMPOSITEBUS
+  inf:      compositebus.inf,CompositeBus_Device.NT
+HardwareID
+  ROOT\COMPOSITEBUS
+
+
+DeviceInfo
+  Name:         Link-Layer Topology Discovery Mapper I/O Driver
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_LLTDIO\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Bluetooth Controller
+  Status:       DEVICE HAS A PROBLEM: 28.
+  Manufacturer: 
+  HWID_reg      PCI\VEN_1814&DEV_3298&SUBSYS_18EC103C&REV_00\4&2DCD215A&0&01E0
+  Class:        
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(1,0,1)
+  ConfigFlags:  64
+  Capabilities: 0
+DriverInfo
+NoDriver
+HardwareID
+  PCI\VEN_1814&DEV_3298&SUBSYS_18EC103C&REV_00
+  PCI\VEN_1814&DEV_3298&SUBSYS_18EC103C
+  PCI\VEN_1814&DEV_3298&CC_0D1100
+  PCI\VEN_1814&DEV_3298&CC_0D11
+CompatibleID
+  PCI\VEN_1814&DEV_3298&REV_00
+  PCI\VEN_1814&DEV_3298
+  PCI\VEN_1814&CC_0D1100
+  PCI\VEN_1814&CC_0D11
+  [dup]PCI\VEN_1814
+  PCI\CC_0D1100
+  PCI\CC_0D11
+
+
+DeviceInfo
+  Name:         Intel Processor
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @cpu.inf,%intel%;Intel
+  HWID_reg      ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_58_-________INTEL(R)_CORE(TM)_I3-3110M_CPU_@_2.40GHZ\_1
+  Class:        Processor
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 48
+DriverInfo
+  Name:     Intel Processor
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ACPI\GENUINEINTEL_-_INTEL64
+  inf:      cpu.inf,IntelPPM_Inst.NT
+HardwareID
+  ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_58
+  *GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_58
+  ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6
+  *GENUINEINTEL_-_INTEL64_FAMILY_6
+  ACPI\GENUINEINTEL_-_INTEL64
+  *GENUINEINTEL_-_INTEL64
+CompatibleID
+  ACPI\PROCESSOR
+
+
+DeviceInfo
+  Name:         Kernel Mode Driver Frameworks service
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_WDF01000\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         SM Bus Controller
+  Status:       DEVICE HAS A PROBLEM: 28.
+  Manufacturer: 
+  HWID_reg      PCI\VEN_8086&DEV_1E22&SUBSYS_183F103C&REV_04\3&11583659&0&FB
+  Class:        
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(0,31,3)
+  ConfigFlags:  64
+  Capabilities: 0
+DriverInfo
+NoDriver
+HardwareID
+  PCI\VEN_8086&DEV_1E22&SUBSYS_183F103C&REV_04
+  PCI\VEN_8086&DEV_1E22&SUBSYS_183F103C
+  PCI\VEN_8086&DEV_1E22&CC_0C0500
+  PCI\VEN_8086&DEV_1E22&CC_0C05
+CompatibleID
+  PCI\VEN_8086&DEV_1E22&REV_04
+  PCI\VEN_8086&DEV_1E22
+  PCI\VEN_8086&CC_0C0500
+  PCI\VEN_8086&CC_0C05
+  [dup]PCI\VEN_8086
+  PCI\CC_0C0500
+  PCI\CC_0C05
+
+
+DeviceInfo
+  Name:         Disk drive
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @disk.inf,%genmanufacturer%;(Standard disk drives)
+  HWID_reg      USBSTOR\DISK&VEN_SONY&PROD_STORAGE_MEDIA&REV_PMAP\CB071035E71215CF67&0
+  Class:        DiskDrive
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 16
+DriverInfo
+  Name:     Disk drive
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     GENDISK
+  inf:      disk.inf,disk_install.NT
+HardwareID
+  USBSTOR\DISKSONY____STORAGE_MEDIA___PMAP
+  USBSTOR\DISKSONY____STORAGE_MEDIA___
+  USBSTOR\DISKSONY____
+  USBSTOR\SONY____STORAGE_MEDIA___P
+  SONY____STORAGE_MEDIA___P
+  USBSTOR\GENDISK
+  GENDISK
+CompatibleID
+  USBSTOR\DISK
+  USBSTOR\RAW
+
+
+DeviceInfo
+  Name:         USB Root Hub
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @usbport.inf,%generic.mfg%;(Standard USB Host Controller)
+  HWID_reg      USB\ROOT_HUB20\4&3489ADF9&0
+  Class:        USB
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 128
+DriverInfo
+  Name:     USB Root Hub
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     USB\ROOT_HUB20
+  inf:      usbport.inf,ROOTHUB.Dev.NT
+HardwareID
+  USB\ROOT_HUB20&VID8086&PID1E26&REV0004
+  USB\ROOT_HUB20&VID8086&PID1E26
+  USB\ROOT_HUB20
+
+
+DeviceInfo
+  Name:         @%SystemRoot%\System32\drivers\pacer.sys,-101
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_PSCHED\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         System timer
+  Status:       DEVICE IS CURRENTLY STOPPED.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ACPI\PNP0100\4&4FDBDF6&0
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 32
+DriverInfo
+  Name:     System timer
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0100
+  inf:      machine.inf,NO_DRV_X
+HardwareID
+  ACPI\PNP0100
+  *PNP0100
+
+
+DeviceInfo
+  Name:         Microsoft Composite Battery
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @battery.inf,%msft%;Microsoft
+  HWID_reg      ROOT\COMPOSITE_BATTERY\0000
+  Class:        Battery
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     Microsoft Composite Battery
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     COMPOSITE_BATTERY
+  inf:      battery.inf,COMPBATT_Inst.NT
+HardwareID
+  COMPOSITE_BATTERY
+
+
+DeviceInfo
+  Name:         WFP Lightweight Filter
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_WFPLWF\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         High precision event timer
+  Status:       DEVICE IS CURRENTLY STOPPED.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ACPI\PNP0103\0
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 48
+DriverInfo
+  Name:     High precision event timer
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0103
+  inf:      machine.inf,NO_DRV_HPET
+HardwareID
+  ACPI\PNP0103
+  *PNP0103
+
+
+DeviceInfo
+  Name:         USB Root Hub
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @usbport.inf,%generic.mfg%;(Standard USB Host Controller)
+  HWID_reg      USB\ROOT_HUB20\4&39962B3F&0
+  Class:        USB
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 128
+DriverInfo
+  Name:     USB Root Hub
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     USB\ROOT_HUB20
+  inf:      usbport.inf,ROOTHUB.Dev.NT
+HardwareID
+  USB\ROOT_HUB20&VID8086&PID1E2D&REV0004
+  USB\ROOT_HUB20&VID8086&PID1E2D
+  [dup]USB\ROOT_HUB20
+
+
+DeviceInfo
+  Name:         @%systemroot%\system32\drivers\afd.sys,-1000
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_AFD\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         @%SystemRoot%\system32\drivers\mountmgr.sys,-100
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_MOUNTMGR\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Direct memory access controller
+  Status:       DEVICE IS CURRENTLY STOPPED.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ACPI\PNP0200\4&4FDBDF6&0
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 32
+DriverInfo
+  Name:     Direct memory access controller
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0200
+  inf:      machine.inf,NO_DRV_X
+HardwareID
+  ACPI\PNP0200
+  *PNP0200
+
+
+DeviceInfo
+  Name:         User Mode Driver Frameworks Platform Driver
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_WUDFPF\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         @%systemroot%\system32\DRIVERS\RDPCDD.sys,-100
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_RDPCDD\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         High Definition Audio Device
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: Microsoft
+  HWID_reg      HDAUDIO\FUNC_01&VEN_8086&DEV_2806&SUBSYS_80860101&REV_1000\4&29B64726&0&0301
+  Class:        MEDIA
+  Location:     Internal High Definition Audio Bus
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     High Definition Audio Device
+  Provider: Microsoft
+  Date:     7-13-2009
+  Version:  6.1.7600.16385
+  HWID:     HDAUDIO\FUNC_01
+  inf:      hdaudio.inf,HdAudModel
+HardwareID
+  HDAUDIO\FUNC_01&VEN_8086&DEV_2806&SUBSYS_80860101&REV_1000
+  HDAUDIO\FUNC_01&VEN_8086&DEV_2806&SUBSYS_80860101
+CompatibleID
+  HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_8086&DEV_2806&REV_1000
+  HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_8086&DEV_2806&REV_1000
+  HDAUDIO\FUNC_01&VEN_8086&DEV_2806&REV_1000
+  HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_8086&DEV_2806
+  HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_8086&DEV_2806
+  HDAUDIO\FUNC_01&VEN_8086&DEV_2806
+  HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_8086
+  HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_8086
+  HDAUDIO\FUNC_01&VEN_8086
+  [dup]HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20
+  [dup]HDAUDIO\FUNC_01&CTLR_VEN_8086
+  HDAUDIO\FUNC_01&GF&VEN_8086&DEV_2806&SUBSYS_80860101&REV_1000
+  [dup]HDAUDIO\FUNC_01
+
+
+DeviceInfo
+  Name:         PCI standard host CPU bridge
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      PCI\VEN_8086&DEV_0154&SUBSYS_183F103C&REV_09\3&11583659&0&00
+  Class:        System
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(0,0,0)
+  ConfigFlags:  0
+  Capabilities: 192
+DriverInfo
+  Name:     PCI standard host CPU bridge
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     PCI\CC_0600
+  inf:      machine.inf,NO_DRV
+HardwareID
+  PCI\VEN_8086&DEV_0154&SUBSYS_183F103C&REV_09
+  PCI\VEN_8086&DEV_0154&SUBSYS_183F103C
+  PCI\VEN_8086&DEV_0154&CC_060000
+  PCI\VEN_8086&DEV_0154&CC_0600
+CompatibleID
+  PCI\VEN_8086&DEV_0154&REV_09
+  PCI\VEN_8086&DEV_0154
+  PCI\VEN_8086&CC_060000
+  PCI\VEN_8086&CC_0600
+  [dup]PCI\VEN_8086
+  PCI\CC_060000
+  PCI\CC_0600
+
+
+DeviceInfo
+  Name:         Standard Enhanced PCI to USB Host Controller
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @usbport.inf,%generic.mfg%;(Standard USB Host Controller)
+  HWID_reg      PCI\VEN_8086&DEV_1E26&SUBSYS_183F103C&REV_04\3&11583659&0&E8
+  Class:        USB
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(0,29,0)
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     Standard Enhanced PCI to USB Host Controller
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     PCI\CC_0C0320
+  inf:      usbport.inf,EHCI.Dev.NT
+HardwareID
+  PCI\VEN_8086&DEV_1E26&SUBSYS_183F103C&REV_04
+  PCI\VEN_8086&DEV_1E26&SUBSYS_183F103C
+  PCI\VEN_8086&DEV_1E26&CC_0C0320
+  PCI\VEN_8086&DEV_1E26&CC_0C03
+CompatibleID
+  PCI\VEN_8086&DEV_1E26&REV_04
+  PCI\VEN_8086&DEV_1E26
+  PCI\VEN_8086&CC_0C0320
+  PCI\VEN_8086&CC_0C03
+  [dup]PCI\VEN_8086
+  PCI\CC_0C0320
+  PCI\CC_0C03
+
+
+DeviceInfo
+  Name:         IDE Channel
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_ATAPI\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         @%SystemRoot%\system32\FirewallAPI.dll,-23092
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_MPSDRV\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Generic volume
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @volume.inf,%msft%;Microsoft
+  HWID_reg      STORAGE\VOLUME\_??_USBSTOR DISK&VEN_SONY&PROD_STORAGE_MEDIA&REV_PMAP CB071035E71215CF67&0 {53F56307-B6BF-11D0-94F2-00A0C91EFB8B}
+  Class:        Volume
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 176
+DriverInfo
+  Name:     Generic volume
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     STORAGE\VOLUME
+  inf:      volume.inf,volume_install.NTAMD64
+HardwareID
+  STORAGE\VOLUME
+
+
+DeviceInfo
+  Name:         Microsoft System Management BIOS Driver
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ROOT\MSSMBIOS\0000
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     Microsoft System Management BIOS Driver
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ROOT\MSSMBIOS
+  inf:      machine.inf,MSSMBIOS_DRV
+HardwareID
+  ROOT\MSSMBIOS
+
+
+DeviceInfo
+  Name:         Standard PS/2 Keyboard
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @keyboard.inf,%std-keyboards%;(Standard keyboards)
+  HWID_reg      ACPI\PNP0303\4&4FDBDF6&0
+  Class:        Keyboard
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 32
+DriverInfo
+  Name:     Standard PS/2 Keyboard
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0303
+  inf:      keyboard.inf,STANDARD_Inst
+HardwareID
+  ACPI\PNP0303
+  *PNP0303
+CompatibleID
+  [dup]*PNP0303
+
+
+DeviceInfo
+  Name:         @%systemroot%\system32\drivers\RDPENCDD.sys,-101
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_RDPENCDD\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Generic volume
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @volume.inf,%msft%;Microsoft
+  HWID_reg      STORAGE\VOLUME\{1AFB2640-8CD0-11E3-B023-806E6F6E6963} 0000000000100000
+  Class:        Volume
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 176
+DriverInfo
+  Name:     Generic volume
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     STORAGE\VOLUME
+  inf:      volume.inf,volume_install.NTAMD64
+HardwareID
+  [dup]STORAGE\VOLUME
+
+
+DeviceInfo
+  Name:         Beep
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_BEEP\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Intel Processor
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @cpu.inf,%intel%;Intel
+  HWID_reg      ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_58_-________INTEL(R)_CORE(TM)_I3-3110M_CPU_@_2.40GHZ\_2
+  Class:        Processor
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 48
+DriverInfo
+  Name:     Intel Processor
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ACPI\GENUINEINTEL_-_INTEL64
+  inf:      cpu.inf,IntelPPM_Inst.NT
+HardwareID
+  [dup]ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_58
+  [dup]*GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_58
+  [dup]ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6
+  [dup]*GENUINEINTEL_-_INTEL64_FAMILY_6
+  [dup]ACPI\GENUINEINTEL_-_INTEL64
+  [dup]*GENUINEINTEL_-_INTEL64
+CompatibleID
+  [dup]ACPI\PROCESSOR
+
+
+DeviceInfo
+  Name:         WAN Miniport (IKEv2)
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @netavpna.inf,%msft%;Microsoft
+  HWID_reg      ROOT\MS_AGILEVPNMINIPORT\0000
+  Class:        Net
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     WAN Miniport (IKEv2)
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     MS_AGILEVPNMINIPORT
+  inf:      netavpna.inf,Ndi-Mp-AgileVpn
+HardwareID
+  MS_AGILEVPNMINIPORT
+
+
+DeviceInfo
+  Name:         PCI bus
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ACPI\PNP0A08\0
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 48
+DriverInfo
+  Name:     PCI bus
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0A03
+  inf:      machine.inf,PCI_DRV_ROOT
+HardwareID
+  ACPI\PNP0A08
+  *PNP0A08
+CompatibleID
+  *PNP0A03
+
+
+DeviceInfo
+  Name:         USB Composite Device
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @usb.inf,%generic.mfg%;(Standard USB Host Controller)
+  HWID_reg      USB\VID_0BDA&PID_58DE\200901010001
+  Class:        USB
+  Location:     Port_ 0005.Hub_ 0004
+  ConfigFlags:  0
+  Capabilities: 144
+DriverInfo
+  Name:     USB Composite Device
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     USB\COMPOSITE
+  inf:      usb.inf,Composite.Dev.NT
+HardwareID
+  USB\VID_0BDA&PID_58DE&REV_2707
+  USB\VID_0BDA&PID_58DE
+CompatibleID
+  USB\DEVCLASS_00&SUBCLASS_00&PROT_00
+  USB\DEVCLASS_00&SUBCLASS_00
+  USB\DEVCLASS_00
+  USB\COMPOSITE
+
+
+DeviceInfo
+  Name:         @%systemroot%\system32\drivers\RdpRefMp.sys,-101
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_RDPREFMP\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Standard VGA Graphics Adapter
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @display.inf,%std%;(Standard display types)
+  HWID_reg      PCI\VEN_8086&DEV_0166&SUBSYS_183F103C&REV_09\3&11583659&0&10
+  Class:        Display
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(0,2,0)
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     Standard VGA Graphics Adapter
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     PCI\CC_0300
+  inf:      display.inf,vga
+HardwareID
+  PCI\VEN_8086&DEV_0166&SUBSYS_183F103C&REV_09
+  PCI\VEN_8086&DEV_0166&SUBSYS_183F103C
+  PCI\VEN_8086&DEV_0166&CC_030000
+  PCI\VEN_8086&DEV_0166&CC_0300
+CompatibleID
+  PCI\VEN_8086&DEV_0166&REV_09
+  PCI\VEN_8086&DEV_0166
+  PCI\VEN_8086&CC_030000
+  PCI\VEN_8086&CC_0300
+  [dup]PCI\VEN_8086
+  PCI\CC_030000
+  PCI\CC_0300
+
+
+DeviceInfo
+  Name:         System CMOS/real time clock
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ACPI\PNP0B00\4&4FDBDF6&0
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 96
+DriverInfo
+  Name:     System CMOS/real time clock
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0B00
+  inf:      machine.inf,NO_DRV_X
+HardwareID
+  ACPI\PNP0B00
+  *PNP0B00
+
+
+DeviceInfo
+  Name:         Standard Enhanced PCI to USB Host Controller
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @usbport.inf,%generic.mfg%;(Standard USB Host Controller)
+  HWID_reg      PCI\VEN_8086&DEV_1E2D&SUBSYS_183F103C&REV_04\3&11583659&0&D0
+  Class:        USB
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(0,26,0)
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     Standard Enhanced PCI to USB Host Controller
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     PCI\CC_0C0320
+  inf:      usbport.inf,EHCI.Dev.NT
+HardwareID
+  PCI\VEN_8086&DEV_1E2D&SUBSYS_183F103C&REV_04
+  PCI\VEN_8086&DEV_1E2D&SUBSYS_183F103C
+  PCI\VEN_8086&DEV_1E2D&CC_0C0320
+  PCI\VEN_8086&DEV_1E2D&CC_0C03
+CompatibleID
+  PCI\VEN_8086&DEV_1E2D&REV_04
+  PCI\VEN_8086&DEV_1E2D
+  [dup]PCI\VEN_8086&CC_0C0320
+  [dup]PCI\VEN_8086&CC_0C03
+  [dup]PCI\VEN_8086
+  [dup]PCI\CC_0C0320
+  [dup]PCI\CC_0C03
+
+
+DeviceInfo
+  Name:         WAN Miniport (L2TP)
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @netrasa.inf,%msft%;Microsoft
+  HWID_reg      ROOT\MS_L2TPMINIPORT\0000
+  Class:        Net
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     WAN Miniport (L2TP)
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     MS_L2TPMINIPORT
+  inf:      netrasa.inf,Ndi-Mp-L2tp
+HardwareID
+  MS_L2TPMINIPORT
+
+
+DeviceInfo
+  Name:         Link-Layer Topology Discovery Responder
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_RSPNDR\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         USB Video Device
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @usbvideo.inf,%msft%;Microsoft
+  HWID_reg      USB\VID_0BDA&PID_58DE&MI_00\7&39A995ED&0&0000
+  Class:        Image
+  Location:     0000.001d.0000.001.005.000.000.000.000
+  ConfigFlags:  0
+  Capabilities: 164
+DriverInfo
+  Name:     USB Video Device
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     USB\CLASS_0E
+  inf:      usbvideo.inf,USBVideo.NT
+HardwareID
+  USB\VID_0BDA&PID_58DE&REV_2707&MI_00
+  USB\VID_0BDA&PID_58DE&MI_00
+CompatibleID
+  USB\CLASS_0E&SUBCLASS_03&PROT_00
+  USB\CLASS_0E&SUBCLASS_03
+  USB\CLASS_0E
+
+
+DeviceInfo
+  Name:         CD-ROM Drive
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @cdrom.inf,%genmanufacturer%;(Standard CD-ROM drives)
+  HWID_reg      IDE\CDROMHP_DVDRAM_GT80N_________________________R102____\5&17F069D9&0&4.0.0
+  Class:        CDROM
+  Location:     Channel 4, Target 0, Lun 0
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     CD-ROM Drive
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     GENCDROM
+  inf:      cdrom.inf,cdrom_install
+HardwareID
+  IDE\CDROMHP_DVDRAM_GT80N_________________________R102____
+  IDE\HP_DVDRAM_GT80N_________________________R102____
+  IDE\CDROMHP_DVDRAM_GT80N_________________________
+  HP_DVDRAM_GT80N_________________________R102____
+  GENCDROM
+CompatibleID
+  [dup]GENCDROM
+
+
+DeviceInfo
+  Name:         System board
+  Status:       DEVICE IS CURRENTLY STOPPED.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ACPI\PNP0C01\2
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 48
+DriverInfo
+  Name:     System board
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0C01
+  inf:      machine.inf,NO_DRV_MBRES
+HardwareID
+  ACPI\PNP0C01
+  *PNP0C01
+
+
+DeviceInfo
+  Name:         WAN Miniport (Network Monitor)
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @netrasa.inf,%msft%;Microsoft
+  HWID_reg      ROOT\MS_NDISWANBH\0000
+  Class:        Net
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     WAN Miniport (Network Monitor)
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     MS_NDISWANBH
+  inf:      netrasa.inf,Ndi-Mp-Bh
+HardwareID
+  MS_NDISWANBH
+
+
+DeviceInfo
+  Name:         Generic volume
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @volume.inf,%msft%;Microsoft
+  HWID_reg      STORAGE\VOLUME\{1AFB2640-8CD0-11E3-B023-806E6F6E6963} 0000000006500000
+  Class:        Volume
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 176
+DriverInfo
+  Name:     Generic volume
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     STORAGE\VOLUME
+  inf:      volume.inf,volume_install.NTAMD64
+HardwareID
+  [dup]STORAGE\VOLUME
+
+
+DeviceInfo
+  Name:         Security Driver
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_SECDRV\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         @%SystemRoot%\system32\clfs.sys,-100
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_CLFS\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Motherboard resources
+  Status:       DEVICE IS CURRENTLY STOPPED.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ACPI\PNP0C02\1
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 48
+DriverInfo
+  Name:     Motherboard resources
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0C02
+  inf:      machine.inf,NO_DRV_MBRES
+HardwareID
+  ACPI\PNP0C02
+  [dup]*PNP0C02
+
+
+DeviceInfo
+  Name:         WAN Miniport (IP)
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @netrasa.inf,%msft%;Microsoft
+  HWID_reg      ROOT\MS_NDISWANIP\0000
+  Class:        Net
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     WAN Miniport (IP)
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     MS_NDISWANIP
+  inf:      netrasa.inf,Ndi-Mp-Ip
+HardwareID
+  MS_NDISWANIP
+
+
+DeviceInfo
+  Name:         Standard AHCI 1.0 Serial ATA Controller
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @mshdc.inf,%ms-ahci%;Standard AHCI 1.0 Serial ATA Controller
+  HWID_reg      PCI\VEN_8086&DEV_1E03&SUBSYS_183F103C&REV_04\3&11583659&0&FA
+  Class:        hdc
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(0,31,2)
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     Standard AHCI 1.0 Serial ATA Controller
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     PCI\CC_010601
+  inf:      mshdc.inf,msahci_Inst
+HardwareID
+  PCI\VEN_8086&DEV_1E03&SUBSYS_183F103C&REV_04
+  PCI\VEN_8086&DEV_1E03&SUBSYS_183F103C
+  PCI\VEN_8086&DEV_1E03&CC_010601
+  PCI\VEN_8086&DEV_1E03&CC_0106
+CompatibleID
+  PCI\VEN_8086&DEV_1E03&REV_04
+  PCI\VEN_8086&DEV_1E03
+  PCI\VEN_8086&CC_010601
+  PCI\VEN_8086&CC_0106
+  [dup]PCI\VEN_8086
+  PCI\CC_010601
+  PCI\CC_0106
+
+
+DeviceInfo
+  Name:         Motherboard resources
+  Status:       DEVICE IS CURRENTLY STOPPED.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ACPI\PNP0C02\2
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 48
+DriverInfo
+  Name:     Motherboard resources
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0C02
+  inf:      machine.inf,NO_DRV_MBRES
+HardwareID
+  [dup]ACPI\PNP0C02
+  [dup]*PNP0C02
+
+
+DeviceInfo
+  Name:         Security Processor Loader Driver
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_SPLDR\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Universal Serial Bus (USB) Controller
+  Status:       DEVICE HAS A PROBLEM: 28.
+  Manufacturer: 
+  HWID_reg      PCI\VEN_8086&DEV_1E31&SUBSYS_183F103C&REV_04\3&11583659&0&A0
+  Class:        
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(0,20,0)
+  ConfigFlags:  64
+  Capabilities: 0
+DriverInfo
+NoDriver
+HardwareID
+  PCI\VEN_8086&DEV_1E31&SUBSYS_183F103C&REV_04
+  PCI\VEN_8086&DEV_1E31&SUBSYS_183F103C
+  PCI\VEN_8086&DEV_1E31&CC_0C0330
+  PCI\VEN_8086&DEV_1E31&CC_0C03
+CompatibleID
+  PCI\VEN_8086&DEV_1E31&REV_04
+  PCI\VEN_8086&DEV_1E31
+  PCI\VEN_8086&CC_0C0330
+  [dup]PCI\VEN_8086&CC_0C03
+  [dup]PCI\VEN_8086
+  PCI\CC_0C0330
+  [dup]PCI\CC_0C03
+
+
+DeviceInfo
+  Name:         CNG
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_CNG\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Generic USB Hub
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @usb.inf,%generichub.mfg%;(Generic USB Hub)
+  HWID_reg      USB\VID_8087&PID_0024\5&26AFB253&0&1
+  Class:        USB
+  Location:     Port_ 0001.Hub_ 0002
+  ConfigFlags:  0
+  Capabilities: 128
+DriverInfo
+  Name:     Generic USB Hub
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     USB\CLASS_09
+  inf:      usb.inf,StandardHub.Dev.NT
+HardwareID
+  USB\VID_8087&PID_0024&REV_0000
+  USB\VID_8087&PID_0024
+CompatibleID
+  USB\CLASS_09&SUBCLASS_00&PROT_00
+  USB\CLASS_09&SUBCLASS_00
+  USB\CLASS_09
+
+
+DeviceInfo
+  Name:         Intel Processor
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @cpu.inf,%intel%;Intel
+  HWID_reg      ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_58_-________INTEL(R)_CORE(TM)_I3-3110M_CPU_@_2.40GHZ\_3
+  Class:        Processor
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 48
+DriverInfo
+  Name:     Intel Processor
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ACPI\GENUINEINTEL_-_INTEL64
+  inf:      cpu.inf,IntelPPM_Inst.NT
+HardwareID
+  [dup]ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_58
+  [dup]*GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_58
+  [dup]ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6
+  [dup]*GENUINEINTEL_-_INTEL64_FAMILY_6
+  [dup]ACPI\GENUINEINTEL_-_INTEL64
+  [dup]*GENUINEINTEL_-_INTEL64
+CompatibleID
+  [dup]ACPI\PROCESSOR
+
+
+DeviceInfo
+  Name:         msisadrv
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_MSISADRV\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Numeric data processor
+  Status:       DEVICE IS CURRENTLY STOPPED.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ACPI\PNP0C04\4&4FDBDF6&0
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 32
+DriverInfo
+  Name:     Numeric data processor
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0C04
+  inf:      machine.inf,NO_DRV_X
+HardwareID
+  ACPI\PNP0C04
+  *PNP0C04
+
+
+DeviceInfo
+  Name:         Storage Media   
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: Sony    
+  HWID_reg      WPDBUSENUMROOT\UMB\2&37C186B&0&STORAGE VOLUME _??_USBSTOR DISK&VEN_SONY&PROD_STORAGE_MEDIA&REV_PMAP CB071035E71215CF67&0 
+  Class:        WPD
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 164
+DriverInfo
+  Name:     WPD FileSystem Volume Driver
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     WPDBUSENUM\FS
+  inf:      wpdfs.inf,Basic_Install
+HardwareID
+CompatibleID
+  WPDBUSENUM\FS
+
+
+DeviceInfo
+  Name:         WAN Miniport (IPv6)
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @netrasa.inf,%msft%;Microsoft
+  HWID_reg      ROOT\MS_NDISWANIPV6\0000
+  Class:        Net
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     WAN Miniport (IPv6)
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     MS_NDISWANIPV6
+  inf:      netrasa.inf,Ndi-Mp-Ipv6
+HardwareID
+  MS_NDISWANIPV6
+
+
+DeviceInfo
+  Name:         @%systemroot%\system32\cscsvc.dll,-202
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_CSC\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  32
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         Disk drive
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @disk.inf,%genmanufacturer%;(Standard disk drives)
+  HWID_reg      IDE\DISKHGST_HTS545050A7E380____________________GG2OACA0\5&273C6266&0&0.0.0
+  Class:        DiskDrive
+  Location:     Channel 0, Target 0, Lun 0
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     Disk drive
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     GENDISK
+  inf:      disk.inf,disk_install.NT
+HardwareID
+  IDE\DISKHGST_HTS545050A7E380____________________GG2OACA0
+  IDE\HGST_HTS545050A7E380____________________GG2OACA0
+  IDE\DISKHGST_HTS545050A7E380____________________
+  HGST_HTS545050A7E380____________________GG2OACA0
+  [dup]GENDISK
+CompatibleID
+  [dup]GENDISK
+
+
+DeviceInfo
+  Name:         Generic USB Hub
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @usb.inf,%generichub.mfg%;(Generic USB Hub)
+  HWID_reg      USB\VID_8087&PID_0024\5&CCE066E&0&1
+  Class:        USB
+  Location:     Port_ 0001.Hub_ 0001
+  ConfigFlags:  0
+  Capabilities: 128
+DriverInfo
+  Name:     Generic USB Hub
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     USB\CLASS_09
+  inf:      usb.inf,StandardHub.Dev.NT
+HardwareID
+  [dup]USB\VID_8087&PID_0024&REV_0000
+  [dup]USB\VID_8087&PID_0024
+CompatibleID
+  [dup]USB\CLASS_09&SUBCLASS_00&PROT_00
+  [dup]USB\CLASS_09&SUBCLASS_00
+  [dup]USB\CLASS_09
+
+
+DeviceInfo
+  Name:         Microsoft ACPI-Compliant Embedded Controller
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ACPI\PNP0C09\1
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 112
+DriverInfo
+  Name:     Microsoft ACPI-Compliant Embedded Controller
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0C09
+  inf:      machine.inf,NO_DRV
+HardwareID
+  ACPI\PNP0C09
+  *PNP0C09
+
+
+DeviceInfo
+  Name:         Generic volume
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @volume.inf,%msft%;Microsoft
+  HWID_reg      STORAGE\VOLUME\{1AFB2640-8CD0-11E3-B023-806E6F6E6963} 000000186A100000
+  Class:        Volume
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 176
+DriverInfo
+  Name:     Generic volume
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     STORAGE\VOLUME
+  inf:      volume.inf,volume_install.NTAMD64
+HardwareID
+  [dup]STORAGE\VOLUME
+
+
+DeviceInfo
+  Name:         WAN Miniport (PPPOE)
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @netrasa.inf,%msft%;Microsoft
+  HWID_reg      ROOT\MS_PPPOEMINIPORT\0000
+  Class:        Net
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     WAN Miniport (PPPOE)
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     MS_PPPOEMINIPORT
+  inf:      netrasa.inf,Ndi-Mp-Pppoe
+HardwareID
+  MS_PPPOEMINIPORT
+
+
+DeviceInfo
+  Name:         PCI standard PCI-to-PCI bridge
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      PCI\VEN_8086&DEV_1E10&SUBSYS_183F103C&REV_C4\3&11583659&0&E0
+  Class:        System
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(0,28,0)
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     PCI standard PCI-to-PCI bridge
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     PCI\CC_0604
+  inf:      machine.inf,PCI_DRV
+HardwareID
+  PCI\VEN_8086&DEV_1E10&SUBSYS_183F103C&REV_C4
+  PCI\VEN_8086&DEV_1E10&SUBSYS_183F103C
+  PCI\VEN_8086&DEV_1E10&CC_060400
+  PCI\VEN_8086&DEV_1E10&CC_0604
+CompatibleID
+  PCI\VEN_8086&DEV_1E10&REV_C4
+  PCI\VEN_8086&DEV_1E10
+  [dup]PCI\VEN_8086&CC_060400
+  [dup]PCI\VEN_8086&CC_0604
+  [dup]PCI\VEN_8086
+  [dup]PCI\CC_060400
+  [dup]PCI\CC_0604
+
+
+DeviceInfo
+  Name:         Microsoft ACPI-Compliant Control Method Battery
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @battery.inf,%msft%;Microsoft
+  HWID_reg      ACPI\PNP0C0A\1
+  Class:        Battery
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 48
+DriverInfo
+  Name:     Microsoft ACPI-Compliant Control Method Battery
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ACPI\PNP0C0A
+  inf:      battery.inf,CmBatt_Inst
+HardwareID
+  ACPI\PNP0C0A
+  *PNP0C0A
+
+
+DeviceInfo
+  Name:         PCI Simple Communications Controller
+  Status:       DEVICE HAS A PROBLEM: 28.
+  Manufacturer: 
+  HWID_reg      PCI\VEN_8086&DEV_1E3A&SUBSYS_183F103C&REV_04\3&11583659&0&B0
+  Class:        
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(0,22,0)
+  ConfigFlags:  64
+  Capabilities: 0
+DriverInfo
+NoDriver
+HardwareID
+  PCI\VEN_8086&DEV_1E3A&SUBSYS_183F103C&REV_04
+  PCI\VEN_8086&DEV_1E3A&SUBSYS_183F103C
+  PCI\VEN_8086&DEV_1E3A&CC_078000
+  PCI\VEN_8086&DEV_1E3A&CC_0780
+CompatibleID
+  PCI\VEN_8086&DEV_1E3A&REV_04
+  PCI\VEN_8086&DEV_1E3A
+  PCI\VEN_8086&CC_078000
+  PCI\VEN_8086&CC_0780
+  [dup]PCI\VEN_8086
+  PCI\CC_078000
+  PCI\CC_0780
+
+
+DeviceInfo
+  Name:         @%SystemRoot%\system32\drivers\ndis.sys,-200
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_NDIS\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         @%systemroot%\system32\drivers\discache.sys,-102
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_DISCACHE\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  32
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         WAN Miniport (PPTP)
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @netrasa.inf,%msft%;Microsoft
+  HWID_reg      ROOT\MS_PPTPMINIPORT\0000
+  Class:        Net
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     WAN Miniport (PPTP)
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     MS_PPTPMINIPORT
+  inf:      netrasa.inf,Ndi-Mp-Pptp
+HardwareID
+  MS_PPTPMINIPORT
+
+
+DeviceInfo
+  Name:         ACPI Power Button
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ACPI\PNP0C0C\2&DABA3FF&1
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 96
+DriverInfo
+  Name:     ACPI Power Button
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0C0C
+  inf:      machine.inf,NO_DRV
+HardwareID
+  ACPI\PNP0C0C
+  *PNP0C0C
+
+
+DeviceInfo
+  Name:         NDProxy
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_NDPROXY\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  32
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         @%SystemRoot%\system32\vmstorfltres.dll,-1000
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: 
+  HWID_reg      ROOT\LEGACY_STORFLT\0000
+  Class:        LegacyDriver
+  Location:     
+  ConfigFlags:  1024
+  Capabilities: 0
+DriverInfo
+NoDriver
+NoID
+
+
+DeviceInfo
+  Name:         WAN Miniport (SSTP)
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @netsstpa.inf,%msft%;Microsoft
+  HWID_reg      ROOT\MS_SSTPMINIPORT\0000
+  Class:        Net
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 0
+DriverInfo
+  Name:     WAN Miniport (SSTP)
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     MS_SSTPMINIPORT
+  inf:      netsstpa.inf,Ndi-Mp-Sstp
+HardwareID
+  MS_SSTPMINIPORT
+
+
+DeviceInfo
+  Name:         ACPI Lid
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @machine.inf,%gendev_mfg%;(Standard system devices)
+  HWID_reg      ACPI\PNP0C0D\2&DABA3FF&1
+  Class:        System
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 96
+DriverInfo
+  Name:     ACPI Lid
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     *PNP0C0D
+  inf:      machine.inf,NO_DRV
+HardwareID
+  ACPI\PNP0C0D
+  *PNP0C0D
+
+
+DeviceInfo
+  Name:         Intel Processor
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @cpu.inf,%intel%;Intel
+  HWID_reg      ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_58_-________INTEL(R)_CORE(TM)_I3-3110M_CPU_@_2.40GHZ\_4
+  Class:        Processor
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 48
+DriverInfo
+  Name:     Intel Processor
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     ACPI\GENUINEINTEL_-_INTEL64
+  inf:      cpu.inf,IntelPPM_Inst.NT
+HardwareID
+  [dup]ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_58
+  [dup]*GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_58
+  [dup]ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6
+  [dup]*GENUINEINTEL_-_INTEL64_FAMILY_6
+  [dup]ACPI\GENUINEINTEL_-_INTEL64
+  [dup]*GENUINEINTEL_-_INTEL64
+CompatibleID
+  [dup]ACPI\PROCESSOR
+
+
+DeviceInfo
+  Name:         Generic volume
+  Status:       DRIVER IS RUNNING.
+  Manufacturer: @volume.inf,%msft%;Microsoft
+  HWID_reg      STORAGE\VOLUME\{1AFB2640-8CD0-11E3-B023-806E6F6E6963} 000000493E100000
+  Class:        Volume
+  Location:     
+  ConfigFlags:  0
+  Capabilities: 176
+DriverInfo
+  Name:     Generic volume
+  Provider: Microsoft
+  Date:     6-21-2006
+  Version:  6.1.7600.16385
+  HWID:     STORAGE\VOLUME
+  inf:      volume.inf,volume_install.NTAMD64
+HardwareID
+  [dup]STORAGE\VOLUME
+
+
+DeviceInfo
+  Name:         PCI Device
+  Status:       DEVICE HAS A PROBLEM: 28.
+  Manufacturer: 
+  HWID_reg      PCI\VEN_10EC&DEV_5229&SUBSYS_183F103C&REV_01\4&33BFD1&0&00E2
+  Class:        
+  Location:     @system32\DRIVERS\pci.sys, 65536;PCI bus %1, device %2, function %3;(3,0,0)
+  ConfigFlags:  64
+  Capabilities: 0
+DriverInfo
+NoDriver
+HardwareID
+  PCI\VEN_10EC&DEV_5229&SUBSYS_183F103C&REV_01
+  PCI\VEN_10EC&DEV_5229&SUBSYS_183F103C
+  PCI\VEN_10EC&DEV_5229&CC_FF0000
+  PCI\VEN_10EC&DEV_5229&CC_FF00
+CompatibleID
+  PCI\VEN_10EC&DEV_5229&REV_01
+  PCI\VEN_10EC&DEV_5229
+  PCI\VEN_10EC&CC_FF0000
+  PCI\VEN_10EC&CC_FF00
+  [dup]PCI\VEN_10EC
+  PCI\CC_FF0000
+  PCI\CC_FF00
+
+
+Found devices: 323
+Timer_hardware_update 171
+
+DRP: Drivers
+47964 bytes actually read from Indexes\DP_Biometric_13033_Drivers.txt
+**2 Bad date2 = undefined
+
+MatchFound
+  Pack:     Drivers\DP_Bluetooth_13035
+  Device:   Ralink Bluetooth PCIe Adapter
+  Score:    4
+  Sign:     0
+  ThisHWID: PCI\VEN_1814&DEV_3298&SUBSYS_18EC103C [1]
+  ThisVer:  10/09/2012,2.09.07.0002
+  ThisInf:  Ralink\FORCED\NTx64\USB\rtbthx.inf
+  ThisSect: Ralink.NTAMD64
+  InstHWID: undefined [undefined]
+  InstVer:  none
+  InstInf:  none
+  InstSect: none
+**2 Bad date2 = none
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_1814&DEV_3298&SUBSYS_18EC103C&REV_00
+    PCI\VEN_1814&DEV_3298&SUBSYS_18EC103C
+    PCI\VEN_1814&DEV_3298&CC_0D1100
+    PCI\VEN_1814&DEV_3298&CC_0D11
+    PCI\VEN_1814&DEV_3298&REV_00
+    PCI\VEN_1814&DEV_3298
+    PCI\VEN_1814&CC_0D1100
+    PCI\VEN_1814&CC_0D11
+    PCI\CC_0D1100
+    PCI\CC_0D11
+
+33530 bytes actually read from Indexes\DP_Bluetooth_13035_Drivers.txt
+**2 Bad date2 = undefined
+
+MatchFound
+  Pack:     Drivers\DP_CardReader_13035
+  Device:   Realtek PCIE CardReader
+  Score:    4
+  Sign:     0
+  ThisHWID: PCI\VEN_10EC&DEV_5229&SUBSYS_183F103C [1]
+  ThisVer:  01/23/2013,6.2.9200.29053
+  ThisInf:  Realtek\Allx64\5229_6.2.9200.29053\RtsP2StorMSI.inf
+  ThisSect: Vendor.NTamd64
+  InstHWID: undefined [undefined]
+  InstVer:  none
+  InstInf:  none
+  InstSect: none
+**2 Bad date2 = none
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_10EC&DEV_5229&SUBSYS_183F103C&REV_01
+    PCI\VEN_10EC&DEV_5229&SUBSYS_183F103C
+    PCI\VEN_10EC&DEV_5229&CC_FF0000
+    PCI\VEN_10EC&DEV_5229&CC_FF00
+    PCI\VEN_10EC&DEV_5229&REV_01
+    PCI\VEN_10EC&DEV_5229
+    PCI\VEN_10EC&CC_FF0000
+    PCI\VEN_10EC&CC_FF00
+    PCI\CC_FF0000
+    PCI\CC_FF00
+
+41514 bytes actually read from Indexes\DP_CardReader_13035_Drivers.txt
+
+MatchFound
+  Pack:     Drivers\DP_Chipset_13035
+  Device:   Intel(R) 7 Series/C216 Chipset Family PCI Express Root Port 2 - 1E12
+  Score:    4
+  Sign:     0
+  ThisHWID: PCI\VEN_8086&DEV_1E12 [5]
+  ThisVer:  02/25/2013,9.3.0.1027
+  ThisInf:  Intel\WinAll\INF_9.4.0.1017\PantCore.inf
+  ThisSect: INTEL
+  InstHWID: PCI\CC_0604 [10]
+  InstVer:  6-21-2006
+  InstInf:  machine.inf
+  InstSect: PCI_DRV
+  Rank:     Better
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_8086&DEV_1E12&SUBSYS_183F103C&REV_C4
+    PCI\VEN_8086&DEV_1E12&SUBSYS_183F103C
+    PCI\VEN_8086&DEV_1E12&CC_060400
+    PCI\VEN_8086&DEV_1E12&CC_0604
+    PCI\VEN_8086&DEV_1E12&REV_C4
+    PCI\VEN_8086&DEV_1E12
+    PCI\VEN_8086&CC_060400
+    PCI\VEN_8086&CC_0604
+    PCI\VEN_8086
+    PCI\CC_060400
+    PCI\CC_0604
+
+
+MatchFound
+  Pack:     Drivers\DP_Chipset_13035
+  Device:   Intel(R) HM76 Express Chipset LPC Controller - 1E59
+  Score:    4
+  Sign:     0
+  ThisHWID: PCI\VEN_8086&DEV_1E59 [5]
+  ThisVer:  02/25/2013,9.3.0.1027
+  ThisInf:  Intel\WinAll\INF_9.4.0.1017\PantCore.inf
+  ThisSect: INTEL
+  InstHWID: PCI\CC_0601 [9]
+  InstVer:  6-21-2006
+  InstInf:  machine.inf
+  InstSect: MSISADRV
+  Rank:     Better
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_8086&DEV_1E59&SUBSYS_183F103C&REV_04
+    PCI\VEN_8086&DEV_1E59&SUBSYS_183F103C
+    PCI\VEN_8086&DEV_1E59&CC_060100
+    PCI\VEN_8086&DEV_1E59&CC_0601
+    PCI\VEN_8086&DEV_1E59&REV_04
+    PCI\VEN_8086&DEV_1E59
+    PCI\VEN_8086&CC_060100
+    PCI\VEN_8086&CC_0601
+    PCI\CC_060100
+    PCI\CC_0601
+
+
+MatchFound
+  Pack:     Drivers\DP_Chipset_13035
+  Device:   Intel(R) 7 Series/C216 Chipset Family PCI Express Root Port 3 - 1E14
+  Score:    4
+  Sign:     0
+  ThisHWID: PCI\VEN_8086&DEV_1E14 [5]
+  ThisVer:  02/25/2013,9.3.0.1027
+  ThisInf:  Intel\WinAll\INF_9.4.0.1017\PantCore.inf
+  ThisSect: INTEL
+  InstHWID: INTEL-1E03 [6]
+  InstVer:  6-21-2006
+  InstInf:  machine.inf
+  InstSect: PCI_DRV
+  Rank:     Better
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_8086&DEV_1E14&SUBSYS_183F103C&REV_C4
+    PCI\VEN_8086&DEV_1E14&SUBSYS_183F103C
+    PCI\VEN_8086&DEV_1E14&CC_060400
+    PCI\VEN_8086&DEV_1E14&CC_0604
+    PCI\VEN_8086&DEV_1E14&REV_C4
+    PCI\VEN_8086&DEV_1E14
+
+**2 Bad date2 = undefined
+
+MatchFound
+  Pack:     Drivers\DP_Chipset_13035
+  Device:   Intel(R) 7 Series/C216 Chipset Family SMBus Host Controller - 1E22
+  Score:    4
+  Sign:     0
+  ThisHWID: PCI\VEN_8086&DEV_1E22 [5]
+  ThisVer:  02/25/2013,9.3.0.1027
+  ThisInf:  Intel\WinAll\INF_9.4.0.1017\PantSMB.inf
+  ThisSect: INTEL.NTamd64
+  InstHWID: undefined [undefined]
+  InstVer:  none
+  InstInf:  none
+  InstSect: none
+**2 Bad date2 = none
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_8086&DEV_1E22&SUBSYS_183F103C&REV_04
+    PCI\VEN_8086&DEV_1E22&SUBSYS_183F103C
+    PCI\VEN_8086&DEV_1E22&CC_0C0500
+    PCI\VEN_8086&DEV_1E22&CC_0C05
+    PCI\VEN_8086&DEV_1E22&REV_04
+    PCI\VEN_8086&DEV_1E22
+    PCI\VEN_8086&CC_0C0500
+    PCI\VEN_8086&CC_0C05
+    PCI\CC_0C0500
+    PCI\CC_0C05
+
+
+MatchFound
+  Pack:     Drivers\DP_Chipset_13035
+  Device:   3rd Gen Core processor DRAM Controller - 0154
+  Score:    4
+  Sign:     0
+  ThisHWID: PCI\VEN_8086&DEV_0154 [5]
+  ThisVer:  02/25/2013,9.3.0.1027
+  ThisInf:  Intel\WinAll\INF_9.4.0.1017\IvyBridg.inf
+  ThisSect: INTEL.NTamd64
+  InstHWID: PCI\CC_0600 [9]
+  InstVer:  6-21-2006
+  InstInf:  machine.inf
+  InstSect: NO_DRV
+  Rank:     Better
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_8086&DEV_0154&SUBSYS_183F103C&REV_09
+    PCI\VEN_8086&DEV_0154&SUBSYS_183F103C
+    PCI\VEN_8086&DEV_0154&CC_060000
+    PCI\VEN_8086&DEV_0154&CC_0600
+    PCI\VEN_8086&DEV_0154&REV_09
+    PCI\VEN_8086&DEV_0154
+    PCI\VEN_8086&CC_060000
+    PCI\VEN_8086&CC_0600
+    PCI\CC_060000
+    PCI\CC_0600
+
+
+MatchFound
+  Pack:     Drivers\DP_Chipset_13035
+  Device:   Intel(R) 7 Series/C216 Chipset Family SATA AHCI Controller - 1E03
+  Score:    4
+  Sign:     0
+  ThisHWID: PCI\VEN_8086&DEV_1E03 [5]
+  ThisVer:  02/25/2013,9.3.0.1027
+  ThisInf:  Intel\WinAll\INF_9.4.0.1017\PantAHCI.inf
+  ThisSect: INTEL.NTamd64
+  InstHWID: PCI\CC_010601 [8]
+  InstVer:  6-21-2006
+  InstInf:  mshdc.inf
+  InstSect: msahci_Inst
+  Rank:     Better
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_8086&DEV_1E03&SUBSYS_183F103C&REV_04
+    PCI\VEN_8086&DEV_1E03&SUBSYS_183F103C
+    PCI\VEN_8086&DEV_1E03&CC_010601
+    PCI\VEN_8086&DEV_1E03&CC_0106
+    PCI\VEN_8086&DEV_1E03&REV_04
+    PCI\VEN_8086&DEV_1E03
+    PCI\VEN_8086&CC_010601
+    PCI\VEN_8086&CC_0106
+    PCI\CC_010601
+    PCI\CC_0106
+
+
+MatchFound
+  Pack:     Drivers\DP_Chipset_13035
+  Device:   Intel(R) 7 Series/C216 Chipset Family PCI Express Root Port 1 - 1E10
+  Score:    4
+  Sign:     0
+  ThisHWID: PCI\VEN_8086&DEV_1E10 [5]
+  ThisVer:  02/25/2013,9.3.0.1027
+  ThisInf:  Intel\WinAll\INF_9.4.0.1017\PantCore.inf
+  ThisSect: INTEL
+  InstHWID: ACPI\PNP0C0A [6]
+  InstVer:  6-21-2006
+  InstInf:  machine.inf
+  InstSect: PCI_DRV
+  Rank:     Better
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_8086&DEV_1E10&SUBSYS_183F103C&REV_C4
+    PCI\VEN_8086&DEV_1E10&SUBSYS_183F103C
+    PCI\VEN_8086&DEV_1E10&CC_060400
+    PCI\VEN_8086&DEV_1E10&CC_0604
+    PCI\VEN_8086&DEV_1E10&REV_C4
+    PCI\VEN_8086&DEV_1E10
+
+**2 Bad date2 = undefined
+
+MatchFound
+  Pack:     Drivers\DP_Chipset_13035
+  Device:   Intel(R) Management Engine Interface 
+  Score:    24
+  Sign:     1
+  ThisHWID: PCI\VEN_8086&DEV_1E3A [5]
+  ThisVer:  12/17/2012,9.0.0.1287
+  ThisInf:  Intel\WinAll\HECI\1x3A_9.0\HECI.inf
+  ThisSect: Intel.NTamd64
+  InstHWID: undefined [undefined]
+  InstVer:  none
+  InstInf:  none
+  InstSect: none
+**2 Bad date2 = none
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_8086&DEV_1E3A&SUBSYS_183F103C&REV_04
+    PCI\VEN_8086&DEV_1E3A&SUBSYS_183F103C
+    PCI\VEN_8086&DEV_1E3A&CC_078000
+    PCI\VEN_8086&DEV_1E3A&CC_0780
+    PCI\VEN_8086&DEV_1E3A&REV_04
+    PCI\VEN_8086&DEV_1E3A
+    PCI\VEN_8086&CC_078000
+    PCI\VEN_8086&CC_0780
+    PCI\CC_078000
+    PCI\CC_0780
+
+36693 bytes actually read from Indexes\DP_Chipset_13035_Drivers.txt
+**2 Bad date2 = undefined
+
+MatchFound
+  Pack:     Drivers\DP_LAN_13035
+  Device:   Realtek PCIe FE Family Controller
+  Score:    24
+  Sign:     1
+  ThisHWID: PCI\VEN_10EC&DEV_8136&SUBSYS_183F103C&REV_05 [0]
+  ThisVer:  03/04/2013,7.069.0304.2013
+  ThisInf:  Realtek\7x64\PCIe_7.069.0304.2013\rt64win7.inf
+  ThisSect: Realtek.NTamd64
+  InstHWID: undefined [undefined]
+  InstVer:  none
+  InstInf:  none
+  InstSect: none
+**2 Bad date2 = none
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_10EC&DEV_8136&SUBSYS_183F103C&REV_05
+    PCI\VEN_10EC&DEV_8136&SUBSYS_183F103C
+    PCI\VEN_10EC&DEV_8136&CC_020000
+    PCI\VEN_10EC&DEV_8136&CC_0200
+    PCI\VEN_10EC&DEV_8136&REV_05
+    PCI\VEN_10EC&DEV_8136
+    PCI\VEN_10EC&CC_020000
+    PCI\VEN_10EC&CC_0200
+    PCI\VEN_10EC
+    PCI\CC_020000
+    PCI\CC_0200
+
+50785 bytes actually read from Indexes\DP_LAN_13035_Drivers.txt
+
+MatchFound
+  Pack:     Drivers\DP_MassStorage_13034
+  Device:   Intel(R) 7 Series Chipset Family SATA AHCI Controller
+  Score:    24
+  Sign:     1
+  ThisHWID: PCI\VEN_8086&DEV_1E03&CC_0106 [3]
+  ThisVer:  02/04/2013,11.7.3.1001 
+  ThisInf:  Intel\FORCED\Allx64\11.7.3.1001_rste\iaAHCIC.inf
+  ThisSect: INTEL.NTamd64.6.2
+  InstHWID: PCI\CC_010601 [8]
+  InstVer:  6-21-2006
+  InstInf:  mshdc.inf
+  InstSect: msahci_Inst
+  Rank:     Better
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_8086&DEV_1E03&SUBSYS_183F103C&REV_04
+    PCI\VEN_8086&DEV_1E03&SUBSYS_183F103C
+    PCI\VEN_8086&DEV_1E03&CC_010601
+    PCI\VEN_8086&DEV_1E03&CC_0106
+    PCI\VEN_8086&DEV_1E03&REV_04
+    PCI\VEN_8086&DEV_1E03
+    PCI\VEN_8086&CC_010601
+    PCI\VEN_8086&CC_0106
+    PCI\CC_010601
+    PCI\CC_0106
+
+49803 bytes actually read from Indexes\DP_MassStorage_13034_Drivers.txt
+43098 bytes actually read from Indexes\DP_Misc_13035_Drivers.txt
+46930 bytes actually read from Indexes\DP_Modem_13035_Drivers.txt
+31932 bytes actually read from Indexes\DP_Monitor_13035_Drivers.txt
+**2 Bad date2 = undefined
+
+MatchFound
+  Pack:     Drivers\DP_Notebook_13034
+  Device:   HP Mobile Data Protection Sensor
+  Score:    4
+  Sign:     0
+  ThisHWID: ACPI\HPQ0004 [0]
+  ThisVer:  09/24/2012,4.2.9.1
+  ThisInf:  HP\FORCED\NTx64\ACCELEROMETER\HPQ0004\accelerometer.inf
+  ThisSect: HP.ntamd64
+  InstHWID: undefined [undefined]
+  InstVer:  none
+  InstInf:  none
+  InstSect: none
+**2 Bad date2 = none
+  Verdict:  Driver can be updated
+  Other HWIDs
+    ACPI\HPQ0004
+    *HPQ0004
+
+31713 bytes actually read from Indexes\DP_Notebook_13034_Drivers.txt
+
+MatchFound
+  Pack:     Drivers\DP_Sounds_HDMI_13035
+  Device:   Intel(R) Display Audio
+  Score:    24
+  Sign:     1
+  ThisHWID: HDAUDIO\FUNC_01&VEN_8086&DEV_2806&SUBSYS_80860101 [1]
+  ThisVer:  01/11/2013,6.16.00.3106
+  ThisInf:  Intel\FORCED\Audio\NTx64\2807\IntcDAud.inf
+  ThisSect: Intel.NTAMD64.6.2
+  InstHWID: PCI\VEN_8086&DEV_0154&SUBSYS_183F103C&REV_09 [12]
+  InstVer:  7-13-2009
+  InstInf:  hdaudio.inf
+  InstSect: HdAudModel
+  Rank:     Better
+  Verdict:  Driver can be updated
+  Other HWIDs
+    HDAUDIO\FUNC_01&VEN_8086&DEV_2806&SUBSYS_80860101&REV_1000
+    HDAUDIO\FUNC_01&VEN_8086&DEV_2806&SUBSYS_80860101
+    HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_8086&DEV_2806&REV_1000
+    HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_8086&DEV_2806&REV_1000
+    HDAUDIO\FUNC_01&VEN_8086&DEV_2806&REV_1000
+    HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_8086&DEV_2806
+    HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_8086&DEV_2806
+    HDAUDIO\FUNC_01&VEN_8086&DEV_2806
+    HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_8086
+    HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_8086
+    HDAUDIO\FUNC_01&VEN_8086
+    HDAUDIO\FUNC_01&GF&VEN_8086&DEV_2806&SUBSYS_80860101&REV_1000
+
+42761 bytes actually read from Indexes\DP_Sounds_HDMI_13035_Drivers.txt
+50723 bytes actually read from Indexes\DP_Sounds_Realtek_13035_Drivers.txt
+55847 bytes actually read from Indexes\DP_Sound_ADI_13035_Drivers.txt
+48319 bytes actually read from Indexes\DP_Sound_CMedia_13035_Drivers.txt
+53082 bytes actually read from Indexes\DP_Sound_Conexant_13034_Drivers.txt
+40603 bytes actually read from Indexes\DP_Sound_Creative_13034_Drivers.txt
+
+MatchFound
+  Pack:     Drivers\DP_Sound_IDT_13034
+  Device:   IDT High Definition Audio CODEC
+  Score:    24
+  Sign:     1
+  ThisHWID: HDAUDIO\FUNC_01&VEN_111D&DEV_76D9&SUBSYS_103C183F [1]
+  ThisVer:  12/27/2012,6.10.6448.0
+  ThisInf:  AllNT\HP_6.10.6448\STWRT64.INF
+  ThisSect: IDT.NTamd64
+  InstHWID: HDAUDIO\FUNC_01 [14]
+  InstVer:  7-13-2009
+  InstInf:  hdaudio.inf
+  InstSect: HdAudModel
+  Rank:     Better
+  Verdict:  Driver can be updated
+  Other HWIDs
+    HDAUDIO\FUNC_01&VEN_111D&DEV_76D9&SUBSYS_103C183F&REV_1001
+    HDAUDIO\FUNC_01&VEN_111D&DEV_76D9&SUBSYS_103C183F
+    HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_111D&DEV_76D9&REV_1001
+    HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_111D&DEV_76D9&REV_1001
+    HDAUDIO\FUNC_01&VEN_111D&DEV_76D9&REV_1001
+    HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_111D&DEV_76D9
+    HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_111D&DEV_76D9
+    HDAUDIO\FUNC_01&VEN_111D&DEV_76D9
+    HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_111D
+    HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_111D
+    HDAUDIO\FUNC_01&VEN_111D
+    HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20
+    HDAUDIO\FUNC_01&CTLR_VEN_8086
+    HDAUDIO\FUNC_01&GF&VEN_111D&DEV_76D9&SUBSYS_103C183F&REV_1001
+    HDAUDIO\FUNC_01
+
+45347 bytes actually read from Indexes\DP_Sound_IDT_13034_Drivers.txt
+42426 bytes actually read from Indexes\DP_Sound_Others_13035_Drivers.txt
+43979 bytes actually read from Indexes\DP_Sound_VIA_13035_Drivers.txt
+38922 bytes actually read from Indexes\DP_Telephone_13035_Drivers.txt
+37062 bytes actually read from Indexes\DP_TV_Aver_13034_Drivers.txt
+8112 bytes actually read from Indexes\DP_TV_Beholder_13014_Drivers.txt
+47991 bytes actually read from Indexes\DP_TV_DVB_13033_Drivers.txt
+39999 bytes actually read from Indexes\DP_TV_Others_13035_Drivers.txt
+49996 bytes actually read from Indexes\DP_Video_AMD_Desktop_13032_Drivers.txt
+37882 bytes actually read from Indexes\DP_Video_AMD_Notebook_13023_Drivers.txt
+
+MatchFound
+  Pack:     Drivers\DP_Video_Intel_13035
+  Device:   Intel(R) HD Graphics 4000
+  Score:    4
+  Sign:     0
+  ThisHWID: PCI\VEN_8086&DEV_0166 [5]
+  ThisVer:  03/06/2013,9.18.10.3055
+  ThisInf:  FORCED\NTx64\HD4600_9.18.10.3055\igdlh64 HF2r2.inf
+  ThisSect: Intel.Mfg.NTamd64
+  InstHWID: PCI\CC_0300 [9]
+  InstVer:  6-21-2006
+  InstInf:  display.inf
+  InstSect: vga
+  Rank:     Better
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_8086&DEV_0166&SUBSYS_183F103C&REV_09
+    PCI\VEN_8086&DEV_0166&SUBSYS_183F103C
+    PCI\VEN_8086&DEV_0166&CC_030000
+    PCI\VEN_8086&DEV_0166&CC_0300
+    PCI\VEN_8086&DEV_0166&REV_09
+    PCI\VEN_8086&DEV_0166
+    PCI\VEN_8086&CC_030000
+    PCI\VEN_8086&CC_0300
+    PCI\CC_030000
+    PCI\CC_0300
+
+41019 bytes actually read from Indexes\DP_Video_Intel_13035_Drivers.txt
+39080 bytes actually read from Indexes\DP_Video_MacBook_13015_Drivers.txt
+28898 bytes actually read from Indexes\DP_Video_nVIDIA_Desktop_13035_Drivers.txt
+55304 bytes actually read from Indexes\DP_Video_nVIDIA_Notebook_13035_Drivers.txt
+53408 bytes actually read from Indexes\DP_Video_Others_13034_Drivers.txt
+
+MatchFound
+  Pack:     Drivers\DP_WebCam_13035
+  Device:   Realtek USB2.0 PC Camera
+  Score:    24
+  Sign:     1
+  ThisHWID: USB\VID_0BDA&PID_58DE [1]
+  ThisVer:  03/06/2013,6.2.9200.10220
+  ThisInf:  Realtek\Allx64\6.2.9200.10220\RtsUVC.inf
+  ThisSect: Realtek.NTamd64
+  InstHWID: USB\COMPOSITE [5]
+  InstVer:  6-21-2006
+  InstInf:  usb.inf
+  InstSect: Composite.Dev.NT
+  Rank:     Better
+  Verdict:  Driver can be updated
+  Other HWIDs
+    USB\VID_0BDA&PID_58DE&REV_2707
+    USB\VID_0BDA&PID_58DE
+    USB\DEVCLASS_00&SUBCLASS_00&PROT_00
+    USB\DEVCLASS_00&SUBCLASS_00
+    USB\DEVCLASS_00
+    USB\COMPOSITE
+
+
+MatchFound
+  Pack:     Drivers\DP_WebCam_13035
+  Device:   Realtek USB2.0 PC Camera
+  Score:    24
+  Sign:     1
+  ThisHWID: USB\VID_0BDA&PID_58DE&MI_00 [1]
+  ThisVer:  03/06/2013,6.2.9200.10220
+  ThisInf:  Realtek\Allx64\6.2.9200.10220\RtsUVC.inf
+  ThisSect: Realtek.NTamd64.6
+  InstHWID: USB\CLASS_0E [4]
+  InstVer:  6-21-2006
+  InstInf:  usbvideo.inf
+  InstSect: USBVideo.NT
+  Rank:     Better
+  Verdict:  Driver can be updated
+  Other HWIDs
+    USB\VID_0BDA&PID_58DE&REV_2707&MI_00
+    USB\VID_0BDA&PID_58DE&MI_00
+    USB\CLASS_0E&SUBCLASS_03&PROT_00
+    USB\CLASS_0E&SUBCLASS_03
+    USB\CLASS_0E
+
+49121 bytes actually read from Indexes\DP_WebCam_13035_Drivers.txt
+**2 Bad date2 = undefined
+
+MatchFound
+  Pack:     Drivers\DP_WLAN_13035
+  Device:   Ralink RT3290 802.11bgn Wi-Fi Adapter
+  Score:    25
+  Sign:     1
+  ThisHWID: PCI\VEN_1814&DEV_3290&SUBSYS_18EC103C [1]
+  ThisVer:  02/18/2013,5.00.21.0000
+  ThisInf:  Ralink\All7\2860_5.00.21\netr28x.inf
+  ThisSect: Ralink.NTamd64.6.1
+  InstHWID: undefined [undefined]
+  InstVer:  none
+  InstInf:  none
+  InstSect: none
+**2 Bad date2 = none
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_1814&DEV_3290&SUBSYS_18EC103C&REV_00
+    PCI\VEN_1814&DEV_3290&SUBSYS_18EC103C
+    PCI\VEN_1814&DEV_3290&CC_028000
+    PCI\VEN_1814&DEV_3290&CC_0280
+    PCI\VEN_1814&DEV_3290&REV_00
+    PCI\VEN_1814&DEV_3290
+    PCI\VEN_1814&CC_028000
+    PCI\VEN_1814&CC_0280
+    PCI\VEN_1814
+    PCI\CC_028000
+    PCI\CC_0280
+
+54090 bytes actually read from Indexes\DP_WLAN_13035_Drivers.txt
+
+MatchFound
+  Pack:     Drivers\DP_xUSB_13035
+  Device:   Intel(R) 7 Series/C216 Chipset Family USB Enhanced Host Controller - 1E26
+  Score:    24
+  Sign:     1
+  ThisHWID: PCI\VEN_8086&DEV_1E26 [5]
+  ThisVer:  02/25/2013,9.3.0.1027
+  ThisInf:  Intel_1.0.7.248\WinAll\PantUSB.inf
+  ThisSect: INTEL
+  InstHWID: PCI\CC_0C0320 [8]
+  InstVer:  6-21-2006
+  InstInf:  usbport.inf
+  InstSect: EHCI.Dev.NT
+  Rank:     Better
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_8086&DEV_1E26&SUBSYS_183F103C&REV_04
+    PCI\VEN_8086&DEV_1E26&SUBSYS_183F103C
+    PCI\VEN_8086&DEV_1E26&CC_0C0320
+    PCI\VEN_8086&DEV_1E26&CC_0C03
+    PCI\VEN_8086&DEV_1E26&REV_04
+    PCI\VEN_8086&DEV_1E26
+    PCI\VEN_8086&CC_0C0320
+    PCI\VEN_8086&CC_0C03
+    PCI\CC_0C0320
+    PCI\CC_0C03
+
+
+MatchFound
+  Pack:     Drivers\DP_xUSB_13035
+  Device:   PCI bus
+  Score:    25
+  Sign:     1
+  ThisHWID: *PNP0A08 [1]
+  ThisVer:  12/04/2012,1.0.7.248
+  ThisInf:  Intel_1.0.7.248\STRICT\7x64\iusb3hcs.inf
+  ThisSect: HCSwitch_PCIF.NTAMD64.6.1
+  InstHWID: *PNP0A03 [2]
+  InstVer:  6-21-2006
+  InstInf:  machine.inf
+  InstSect: PCI_DRV_ROOT
+  Rank:     Better
+  Verdict:  Driver can be updated
+  Other HWIDs
+    ACPI\PNP0A08
+    *PNP0A08
+    *PNP0A03
+
+
+MatchFound
+  Pack:     Drivers\DP_xUSB_13035
+  Device:   Intel(R) 7 Series/C216 Chipset Family USB Enhanced Host Controller - 1E2D
+  Score:    24
+  Sign:     1
+  ThisHWID: PCI\VEN_8086&DEV_1E2D [5]
+  ThisVer:  02/25/2013,9.3.0.1027
+  ThisInf:  Intel_1.0.7.248\WinAll\PantUSB.inf
+  ThisSect: INTEL.NTamd64
+  InstHWID: MS_L2TPMINIPORT [6]
+  InstVer:  6-21-2006
+  InstInf:  usbport.inf
+  InstSect: EHCI.Dev.NT
+  Rank:     Better
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_8086&DEV_1E2D&SUBSYS_183F103C&REV_04
+    PCI\VEN_8086&DEV_1E2D&SUBSYS_183F103C
+    PCI\VEN_8086&DEV_1E2D&CC_0C0320
+    PCI\VEN_8086&DEV_1E2D&CC_0C03
+    PCI\VEN_8086&DEV_1E2D&REV_04
+    PCI\VEN_8086&DEV_1E2D
+
+**2 Bad date2 = undefined
+
+MatchFound
+  Pack:     Drivers\DP_xUSB_13035
+  Device:   Intel(R) USB 3.0 eXtensible Host Controller
+  Score:    25
+  Sign:     1
+  ThisHWID: PCI\VEN_8086&DEV_1E31&REV_04 [4]
+  ThisVer:  12/04/2012,1.0.7.248
+  ThisInf:  Intel_1.0.7.248\STRICT\7x64\iusb3xhc.inf
+  ThisSect: Intel.NTAMD64.6.1
+  InstHWID: undefined [undefined]
+  InstVer:  none
+  InstInf:  none
+  InstSect: none
+**2 Bad date2 = none
+  Verdict:  Driver can be updated
+  Other HWIDs
+    PCI\VEN_8086&DEV_1E31&SUBSYS_183F103C&REV_04
+    PCI\VEN_8086&DEV_1E31&SUBSYS_183F103C
+    PCI\VEN_8086&DEV_1E31&CC_0C0330
+    PCI\VEN_8086&DEV_1E31&CC_0C03
+    PCI\VEN_8086&DEV_1E31&REV_04
+    PCI\VEN_8086&DEV_1E31
+    PCI\VEN_8086&CC_0C0330
+    PCI\CC_0C0330
+
+29862 bytes actually read from Indexes\DP_xUSB_13035_Drivers.txt
+1447795 bytes actually read in total
+Timer_Index_complite 11482
+
+
+Found_skip PCI\VEN_8086&DEV_1E12&SUBSYS_183F103C&REV_C4
+Found_skip PCI\VEN_8086&DEV_1E12&SUBSYS_183F103C
+Found_skip PCI\VEN_8086&DEV_1E12&CC_060400
+Found_skip PCI\VEN_8086&DEV_1E12&CC_0604
+Found_skip PCI\VEN_8086&DEV_1E12&REV_C4
+Found_skip PCI\VEN_8086&DEV_1E12
+Found_skip PCI\VEN_8086&CC_060400
+Found_skip PCI\VEN_8086&CC_0604
+Found_skip PCI\VEN_8086
+Found_skip PCI\CC_060400
+Found_skip PCI\CC_0604
+Found_skip PCI\VEN_8086&DEV_1E59&SUBSYS_183F103C&REV_04
+Found_skip PCI\VEN_8086&DEV_1E59&SUBSYS_183F103C
+Found_skip PCI\VEN_8086&DEV_1E59&CC_060100
+Found_skip PCI\VEN_8086&DEV_1E59&CC_0601
+Found_skip PCI\VEN_8086&DEV_1E59&REV_04
+Found_skip PCI\VEN_8086&DEV_1E59
+Found_skip PCI\VEN_8086&CC_060100
+Found_skip PCI\VEN_8086&CC_0601
+Found_skip PCI\CC_060100
+Found_skip PCI\CC_0601
+MatchNotFound
+  Name:   Remote Desktop Device Redirector Bus
+  HWID:   ROOT\RDPBUS
+  Manuf:  @rdpbus.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Microsoft Windows Management Interface for ACPI
+  HWID:   ACPI\PNP0C14
+  Manuf:  @acpi.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   PS/2 Compatible Mouse
+  HWID:   ACPI\SYN1E60
+  Manuf:  @msmouse.inf,%msmfg%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Terminal Server Keyboard Driver
+  HWID:   ROOT\RDP_KBD
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Terminal Server Mouse Driver
+  HWID:   ROOT\RDP_MOU
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   ACPI Thermal Zone
+  HWID:   ACPI\THERMALZONE
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+Found_skip PCI\VEN_10EC&DEV_8136&SUBSYS_183F103C&REV_05
+Found_skip PCI\VEN_10EC&DEV_8136&SUBSYS_183F103C
+Found_skip PCI\VEN_10EC&DEV_8136&CC_020000
+Found_skip PCI\VEN_10EC&DEV_8136&CC_0200
+Found_skip PCI\VEN_10EC&DEV_8136&REV_05
+Found_skip PCI\VEN_10EC&DEV_8136
+Found_skip PCI\VEN_10EC&CC_020000
+Found_skip PCI\VEN_10EC&CC_0200
+Found_skip PCI\VEN_10EC
+Found_skip PCI\CC_020000
+Found_skip PCI\CC_0200
+Found_skip PCI\VEN_8086&DEV_1E14&SUBSYS_183F103C&REV_C4
+Found_skip PCI\VEN_8086&DEV_1E14&SUBSYS_183F103C
+Found_skip PCI\VEN_8086&DEV_1E14&CC_060400
+Found_skip PCI\VEN_8086&DEV_1E14&CC_0604
+Found_skip PCI\VEN_8086&DEV_1E14&REV_C4
+Found_skip PCI\VEN_8086&DEV_1E14
+MatchNotFound
+  Name:   IDE Channel
+  HWID:   INTEL-1E03
+  Manuf:  @mshdc.inf,%ms-drivers%;(Standard IDE ATA/ATAPI controllers)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Plug and Play Software Device Enumerator
+  HWID:   ROOT\SWENUM
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Microsoft ACPI-Compliant System
+  HWID:   ACPI_HAL\PNP0C08
+  Manuf:  @acpi.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+Found_skip ACPI\HPQ0004
+Found_skip *HPQ0004
+MatchNotFound
+  Name:   UMBus Root Bus Enumerator
+  HWID:   ROOT\UMBUS
+  Manuf:  @umbus.inf,%ms%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Microsoft Watchdog Timer
+  HWID:   ACPI_HAL\PNP0C18
+  Manuf:  @wd.inf,%microsoft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Microsoft Virtual Drive Enumerator Driver
+  HWID:   ROOT\VDRVROOT
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Intel(R) 82802 Firmware Hub Device
+  HWID:   ACPI\INT0800
+  Manuf:  @machine.inf,%intel_mfg%;Intel
+  Provid: Microsoft
+  Status: DEVICE IS CURRENTLY STOPPED.
+
+MatchNotFound
+  Name:   UMBus Enumerator
+  HWID:   UMB\UMBUS
+  Manuf:  @umbus.inf,%ms%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+Found_skip PCI\VEN_1814&DEV_3290&SUBSYS_18EC103C&REV_00
+Found_skip PCI\VEN_1814&DEV_3290&SUBSYS_18EC103C
+Found_skip PCI\VEN_1814&DEV_3290&CC_028000
+Found_skip PCI\VEN_1814&DEV_3290&CC_0280
+Found_skip PCI\VEN_1814&DEV_3290&REV_00
+Found_skip PCI\VEN_1814&DEV_3290
+Found_skip PCI\VEN_1814&CC_028000
+Found_skip PCI\VEN_1814&CC_0280
+Found_skip PCI\VEN_1814
+Found_skip PCI\CC_028000
+Found_skip PCI\CC_0280
+MatchNotFound
+  Name:   Generic PnP Monitor
+  HWID:   MONITOR\LGD0384
+  Manuf:  @monitor.inf,%generic%;(Standard monitor types)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   High Definition Audio Controller
+  HWID:   PCI\VEN_8086&DEV_1E20&SUBSYS_183F103C&REV_04
+  Manuf:  Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Microsoft AC Adapter
+  HWID:   ACPI\ACPI0003
+  Manuf:  @battery.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Volume Manager
+  HWID:   ROOT\VOLMGR
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   ACPI x64-based PC
+  HWID:   ACPIAPIC
+  Manuf:  @hal.inf,%gendev_mfg%;(Standard computers)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Motherboard resources
+  HWID:   ACPI\INT340E
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DEVICE IS CURRENTLY STOPPED.
+
+MatchNotFound
+  Name:   USB Mass Storage Device
+  HWID:   USB\VID_054C&PID_05BA&REV_0100
+  Manuf:  @usbstor.inf,%generic.mfg%;Compatible USB storage device
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   ACPI Fixed Feature Button
+  HWID:   ACPI\FIXEDBUTTON
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   File as Volume Driver
+  HWID:   ROOT\BLBDRIVE
+  Manuf:  @blbdrive.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+Found_skip HDAUDIO\FUNC_01&VEN_111D&DEV_76D9&SUBSYS_103C183F&REV_1001
+Found_skip HDAUDIO\FUNC_01&VEN_111D&DEV_76D9&SUBSYS_103C183F
+Found_skip HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_111D&DEV_76D9&REV_1001
+Found_skip HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_111D&DEV_76D9&REV_1001
+Found_skip HDAUDIO\FUNC_01&VEN_111D&DEV_76D9&REV_1001
+Found_skip HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_111D&DEV_76D9
+Found_skip HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_111D&DEV_76D9
+Found_skip HDAUDIO\FUNC_01&VEN_111D&DEV_76D9
+Found_skip HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_111D
+Found_skip HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_111D
+Found_skip HDAUDIO\FUNC_01&VEN_111D
+Found_skip HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20
+Found_skip HDAUDIO\FUNC_01&CTLR_VEN_8086
+Found_skip HDAUDIO\FUNC_01&GF&VEN_111D&DEV_76D9&SUBSYS_103C183F&REV_1001
+Found_skip HDAUDIO\FUNC_01
+MatchNotFound
+  Name:   Programmable interrupt controller
+  HWID:   ACPI\PNP0000
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DEVICE IS CURRENTLY STOPPED.
+
+MatchNotFound
+  Name:   Composite Bus Enumerator
+  HWID:   ROOT\COMPOSITEBUS
+  Manuf:  @compositebus.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+Found_skip PCI\VEN_1814&DEV_3298&SUBSYS_18EC103C&REV_00
+Found_skip PCI\VEN_1814&DEV_3298&SUBSYS_18EC103C
+Found_skip PCI\VEN_1814&DEV_3298&CC_0D1100
+Found_skip PCI\VEN_1814&DEV_3298&CC_0D11
+Found_skip PCI\VEN_1814&DEV_3298&REV_00
+Found_skip PCI\VEN_1814&DEV_3298
+Found_skip PCI\VEN_1814&CC_0D1100
+Found_skip PCI\VEN_1814&CC_0D11
+Found_skip PCI\CC_0D1100
+Found_skip PCI\CC_0D11
+MatchNotFound
+  Name:   Intel Processor
+  HWID:   ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_58
+  Manuf:  @cpu.inf,%intel%;Intel
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+Found_skip PCI\VEN_8086&DEV_1E22&SUBSYS_183F103C&REV_04
+Found_skip PCI\VEN_8086&DEV_1E22&SUBSYS_183F103C
+Found_skip PCI\VEN_8086&DEV_1E22&CC_0C0500
+Found_skip PCI\VEN_8086&DEV_1E22&CC_0C05
+Found_skip PCI\VEN_8086&DEV_1E22&REV_04
+Found_skip PCI\VEN_8086&DEV_1E22
+Found_skip PCI\VEN_8086&CC_0C0500
+Found_skip PCI\VEN_8086&CC_0C05
+Found_skip PCI\CC_0C0500
+Found_skip PCI\CC_0C05
+MatchNotFound
+  Name:   Disk drive
+  HWID:   USBSTOR\DISKSONY____STORAGE_MEDIA___PMAP
+  Manuf:  @disk.inf,%genmanufacturer%;(Standard disk drives)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   USB Root Hub
+  HWID:   USB\ROOT_HUB20&VID8086&PID1E26&REV0004
+  Manuf:  @usbport.inf,%generic.mfg%;(Standard USB Host Controller)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   System timer
+  HWID:   ACPI\PNP0100
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DEVICE IS CURRENTLY STOPPED.
+
+MatchNotFound
+  Name:   Microsoft Composite Battery
+  HWID:   COMPOSITE_BATTERY
+  Manuf:  @battery.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   High precision event timer
+  HWID:   ACPI\PNP0103
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DEVICE IS CURRENTLY STOPPED.
+
+MatchNotFound
+  Name:   USB Root Hub
+  HWID:   USB\ROOT_HUB20&VID8086&PID1E2D&REV0004
+  Manuf:  @usbport.inf,%generic.mfg%;(Standard USB Host Controller)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Direct memory access controller
+  HWID:   ACPI\PNP0200
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DEVICE IS CURRENTLY STOPPED.
+
+Found_skip HDAUDIO\FUNC_01&VEN_8086&DEV_2806&SUBSYS_80860101&REV_1000
+Found_skip HDAUDIO\FUNC_01&VEN_8086&DEV_2806&SUBSYS_80860101
+Found_skip HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_8086&DEV_2806&REV_1000
+Found_skip HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_8086&DEV_2806&REV_1000
+Found_skip HDAUDIO\FUNC_01&VEN_8086&DEV_2806&REV_1000
+Found_skip HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_8086&DEV_2806
+Found_skip HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_8086&DEV_2806
+Found_skip HDAUDIO\FUNC_01&VEN_8086&DEV_2806
+Found_skip HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_1E20&VEN_8086
+Found_skip HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_8086
+Found_skip HDAUDIO\FUNC_01&VEN_8086
+Found_skip HDAUDIO\FUNC_01&GF&VEN_8086&DEV_2806&SUBSYS_80860101&REV_1000
+Found_skip PCI\VEN_8086&DEV_0154&SUBSYS_183F103C&REV_09
+Found_skip PCI\VEN_8086&DEV_0154&SUBSYS_183F103C
+Found_skip PCI\VEN_8086&DEV_0154&CC_060000
+Found_skip PCI\VEN_8086&DEV_0154&CC_0600
+Found_skip PCI\VEN_8086&DEV_0154&REV_09
+Found_skip PCI\VEN_8086&DEV_0154
+Found_skip PCI\VEN_8086&CC_060000
+Found_skip PCI\VEN_8086&CC_0600
+Found_skip PCI\CC_060000
+Found_skip PCI\CC_0600
+Found_skip PCI\VEN_8086&DEV_1E26&SUBSYS_183F103C&REV_04
+Found_skip PCI\VEN_8086&DEV_1E26&SUBSYS_183F103C
+Found_skip PCI\VEN_8086&DEV_1E26&CC_0C0320
+Found_skip PCI\VEN_8086&DEV_1E26&CC_0C03
+Found_skip PCI\VEN_8086&DEV_1E26&REV_04
+Found_skip PCI\VEN_8086&DEV_1E26
+Found_skip PCI\VEN_8086&CC_0C0320
+Found_skip PCI\VEN_8086&CC_0C03
+Found_skip PCI\CC_0C0320
+Found_skip PCI\CC_0C03
+MatchNotFound
+  Name:   Generic volume
+  HWID:   STORAGE\VOLUME
+  Manuf:  @volume.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Microsoft System Management BIOS Driver
+  HWID:   ROOT\MSSMBIOS
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Standard PS/2 Keyboard
+  HWID:   ACPI\PNP0303
+  Manuf:  @keyboard.inf,%std-keyboards%;(Standard keyboards)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   WAN Miniport (IKEv2)
+  HWID:   MS_AGILEVPNMINIPORT
+  Manuf:  @netavpna.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+Found_skip ACPI\PNP0A08
+Found_skip *PNP0A08
+Found_skip *PNP0A03
+Found_skip USB\VID_0BDA&PID_58DE&REV_2707
+Found_skip USB\VID_0BDA&PID_58DE
+Found_skip USB\DEVCLASS_00&SUBCLASS_00&PROT_00
+Found_skip USB\DEVCLASS_00&SUBCLASS_00
+Found_skip USB\DEVCLASS_00
+Found_skip USB\COMPOSITE
+Found_skip PCI\VEN_8086&DEV_0166&SUBSYS_183F103C&REV_09
+Found_skip PCI\VEN_8086&DEV_0166&SUBSYS_183F103C
+Found_skip PCI\VEN_8086&DEV_0166&CC_030000
+Found_skip PCI\VEN_8086&DEV_0166&CC_0300
+Found_skip PCI\VEN_8086&DEV_0166&REV_09
+Found_skip PCI\VEN_8086&DEV_0166
+Found_skip PCI\VEN_8086&CC_030000
+Found_skip PCI\VEN_8086&CC_0300
+Found_skip PCI\CC_030000
+Found_skip PCI\CC_0300
+MatchNotFound
+  Name:   System CMOS/real time clock
+  HWID:   ACPI\PNP0B00
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+Found_skip PCI\VEN_8086&DEV_1E2D&SUBSYS_183F103C&REV_04
+Found_skip PCI\VEN_8086&DEV_1E2D&SUBSYS_183F103C
+Found_skip PCI\VEN_8086&DEV_1E2D&CC_0C0320
+Found_skip PCI\VEN_8086&DEV_1E2D&CC_0C03
+Found_skip PCI\VEN_8086&DEV_1E2D&REV_04
+Found_skip PCI\VEN_8086&DEV_1E2D
+MatchNotFound
+  Name:   WAN Miniport (L2TP)
+  HWID:   MS_L2TPMINIPORT
+  Manuf:  @netrasa.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+Found_skip USB\VID_0BDA&PID_58DE&REV_2707&MI_00
+Found_skip USB\VID_0BDA&PID_58DE&MI_00
+Found_skip USB\CLASS_0E&SUBCLASS_03&PROT_00
+Found_skip USB\CLASS_0E&SUBCLASS_03
+Found_skip USB\CLASS_0E
+MatchNotFound
+  Name:   CD-ROM Drive
+  HWID:   IDE\CDROMHP_DVDRAM_GT80N_________________________R102____
+  Manuf:  @cdrom.inf,%genmanufacturer%;(Standard CD-ROM drives)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   System board
+  HWID:   ACPI\PNP0C01
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DEVICE IS CURRENTLY STOPPED.
+
+MatchNotFound
+  Name:   WAN Miniport (Network Monitor)
+  HWID:   MS_NDISWANBH
+  Manuf:  @netrasa.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Motherboard resources
+  HWID:   ACPI\PNP0C02
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DEVICE IS CURRENTLY STOPPED.
+
+MatchNotFound
+  Name:   WAN Miniport (IP)
+  HWID:   MS_NDISWANIP
+  Manuf:  @netrasa.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+Found_skip PCI\VEN_8086&DEV_1E03&SUBSYS_183F103C&REV_04
+Found_skip PCI\VEN_8086&DEV_1E03&SUBSYS_183F103C
+Found_skip PCI\VEN_8086&DEV_1E03&CC_010601
+Found_skip PCI\VEN_8086&DEV_1E03&CC_0106
+Found_skip PCI\VEN_8086&DEV_1E03&REV_04
+Found_skip PCI\VEN_8086&DEV_1E03
+Found_skip PCI\VEN_8086&CC_010601
+Found_skip PCI\VEN_8086&CC_0106
+Found_skip PCI\CC_010601
+Found_skip PCI\CC_0106
+Found_skip PCI\VEN_8086&DEV_1E31&SUBSYS_183F103C&REV_04
+Found_skip PCI\VEN_8086&DEV_1E31&SUBSYS_183F103C
+Found_skip PCI\VEN_8086&DEV_1E31&CC_0C0330
+Found_skip PCI\VEN_8086&DEV_1E31&CC_0C03
+Found_skip PCI\VEN_8086&DEV_1E31&REV_04
+Found_skip PCI\VEN_8086&DEV_1E31
+Found_skip PCI\VEN_8086&CC_0C0330
+Found_skip PCI\CC_0C0330
+MatchNotFound
+  Name:   Generic USB Hub
+  HWID:   USB\VID_8087&PID_0024&REV_0000
+  Manuf:  @usb.inf,%generichub.mfg%;(Generic USB Hub)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Numeric data processor
+  HWID:   ACPI\PNP0C04
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DEVICE IS CURRENTLY STOPPED.
+
+MatchNotFound
+  Name:   Storage Media   
+  HWID:   WPDBUSENUM\FS
+  Manuf:  Sony    
+  Provid: undefined
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   WAN Miniport (IPv6)
+  HWID:   MS_NDISWANIPV6
+  Manuf:  @netrasa.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Disk drive
+  HWID:   IDE\DISKHGST_HTS545050A7E380____________________GG2OACA0
+  Manuf:  @disk.inf,%genmanufacturer%;(Standard disk drives)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   Microsoft ACPI-Compliant Embedded Controller
+  HWID:   ACPI\PNP0C09
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   WAN Miniport (PPPOE)
+  HWID:   MS_PPPOEMINIPORT
+  Manuf:  @netrasa.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+Found_skip PCI\VEN_8086&DEV_1E10&SUBSYS_183F103C&REV_C4
+Found_skip PCI\VEN_8086&DEV_1E10&SUBSYS_183F103C
+Found_skip PCI\VEN_8086&DEV_1E10&CC_060400
+Found_skip PCI\VEN_8086&DEV_1E10&CC_0604
+Found_skip PCI\VEN_8086&DEV_1E10&REV_C4
+Found_skip PCI\VEN_8086&DEV_1E10
+MatchNotFound
+  Name:   Microsoft ACPI-Compliant Control Method Battery
+  HWID:   ACPI\PNP0C0A
+  Manuf:  @battery.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+Found_skip PCI\VEN_8086&DEV_1E3A&SUBSYS_183F103C&REV_04
+Found_skip PCI\VEN_8086&DEV_1E3A&SUBSYS_183F103C
+Found_skip PCI\VEN_8086&DEV_1E3A&CC_078000
+Found_skip PCI\VEN_8086&DEV_1E3A&CC_0780
+Found_skip PCI\VEN_8086&DEV_1E3A&REV_04
+Found_skip PCI\VEN_8086&DEV_1E3A
+Found_skip PCI\VEN_8086&CC_078000
+Found_skip PCI\VEN_8086&CC_0780
+Found_skip PCI\CC_078000
+Found_skip PCI\CC_0780
+MatchNotFound
+  Name:   WAN Miniport (PPTP)
+  HWID:   MS_PPTPMINIPORT
+  Manuf:  @netrasa.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   ACPI Power Button
+  HWID:   ACPI\PNP0C0C
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   WAN Miniport (SSTP)
+  HWID:   MS_SSTPMINIPORT
+  Manuf:  @netsstpa.inf,%msft%;Microsoft
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+MatchNotFound
+  Name:   ACPI Lid
+  HWID:   ACPI\PNP0C0D
+  Manuf:  @machine.inf,%gendev_mfg%;(Standard system devices)
+  Provid: Microsoft
+  Status: DRIVER IS RUNNING.
+
+Found_skip PCI\VEN_10EC&DEV_5229&SUBSYS_183F103C&REV_01
+Found_skip PCI\VEN_10EC&DEV_5229&SUBSYS_183F103C
+Found_skip PCI\VEN_10EC&DEV_5229&CC_FF0000
+Found_skip PCI\VEN_10EC&DEV_5229&CC_FF00
+Found_skip PCI\VEN_10EC&DEV_5229&REV_01
+Found_skip PCI\VEN_10EC&DEV_5229
+Found_skip PCI\VEN_10EC&CC_FF0000
+Found_skip PCI\VEN_10EC&CC_FF00
+Found_skip PCI\CC_FF0000
+Found_skip PCI\CC_FF00
+Timer_drivers_scaned 0
+
+Groups
+  driver_available: 8
+  no_driver: 0
+  driver_new: 15
+  driver_uptodate: 0
+  driver_old: 0
+  driver_unknown: 1
+  driver_standard: 55
+  driverpacks: 34
+
+Timer_ready 203
+
+perform_task(1);
+  Pack:    Drivers\DP_Bluetooth_13035
+  Group:   driver_available
+  Mode:    1
+  Name:    Ralink Bluetooth PCIe Adapter
+  HWID:    PCI\VEN_1814&DEV_3298&SUBSYS_18EC103C
+  Inf:     Ralink\FORCED\NTx64\USB\rtbthx.inf
+  Version: 10/09/2012,2.09.07.0002
+  Status:  DEVICE HAS A PROBLEM: 28.
+Start driver instalation
+Dirs: Ralink\FORCED\NTx64\USB\
+Ralink\FORCED\NTx64\USB\  Ralink\FORCED\NTx64\USB\
+tools\7za.exe x -yo"C:\Users\HP\AppData\Local\Temp\drp\DP_Bluetooth_13035\drp" "Drivers\DP_Bluetooth_13035.7z" "Ralink\FORCED\NTx64\USB\"
+Return: 0
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_Bluetooth_13035\drp\Ralink\FORCED\NTx64\USB\rtbthx.inf" "PCI\VEN_1814&DEV_3298&SUBSYS_18EC103C"
+Ret: 0
+Done 8393
+perform_task(3);
+  Pack:    Drivers\DP_CardReader_13035
+  Group:   driver_available
+  Mode:    1
+  Name:    Realtek PCIE CardReader
+  HWID:    PCI\VEN_10EC&DEV_5229&SUBSYS_183F103C
+  Inf:     Realtek\Allx64\5229_6.2.9200.29053\RtsP2StorMSI.inf
+  Version: 01/23/2013,6.2.9200.29053
+  Status:  DEVICE HAS A PROBLEM: 28.
+Start driver instalation
+Dirs: Realtek\Allx64\5229_6.2.9200.29053\
+Realtek\Allx64\5229_6.2.9200.29053\  Realtek\Allx64\5229_6.2.9200.29053\
+tools\7za.exe x -yo"C:\Users\HP\AppData\Local\Temp\drp\DP_CardReader_13035\drp" "Drivers\DP_CardReader_13035.7z" "Realtek\Allx64\5229_6.2.9200.29053\"
+Return: 0
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_CardReader_13035\drp\Realtek\Allx64\5229_6.2.9200.29053\RtsP2StorMSI.inf" "PCI\VEN_10EC&DEV_5229&SUBSYS_183F103C"
+Ret: 0
+Done 7956
+perform_task(5);
+  Pack:    Drivers\DP_Chipset_13035
+  Group:   driver_new
+  Mode:    1
+  Name:    Intel(R) 7 Series/C216 Chipset Family PCI Express Root Port 2 - 1E12
+  HWID:    PCI\VEN_8086&DEV_1E12
+  Inf:     Intel\WinAll\INF_9.4.0.1017\PantCore.inf
+  Version: 02/25/2013,9.3.0.1027
+  Status:  DRIVER IS RUNNING.
+Start driver instalation
+Dirs: Intel\WinAll\INF_9.4.0.1017\|Intel\WinAll\HECI\1x3A_9.0\
+Intel\WinAll\INF_9.4.0.1017\" "Intel\WinAll\HECI\1x3A_9.0\  Intel\WinAll\INF_9.4.0.1017\
+tools\7za.exe x -yo"C:\Users\HP\AppData\Local\Temp\drp\DP_Chipset_13035\drp" "Drivers\DP_Chipset_13035.7z" "Intel\WinAll\INF_9.4.0.1017\" "Intel\WinAll\HECI\1x3A_9.0\"
+Return: 0
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_Chipset_13035\drp\Intel\WinAll\INF_9.4.0.1017\PantCore.inf" "PCI\VEN_8086&DEV_1E12"
+Ret: 0
+Done 5662
+perform_task(6);
+  Pack:    Drivers\DP_Chipset_13035
+  Group:   driver_new
+  Mode:    1
+  Name:    Intel(R) HM76 Express Chipset LPC Controller - 1E59
+  HWID:    PCI\VEN_8086&DEV_1E59
+  Inf:     Intel\WinAll\INF_9.4.0.1017\PantCore.inf
+  Version: 02/25/2013,9.3.0.1027
+  Status:  DRIVER IS RUNNING.
+Start driver instalation
+Dirs: 
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_Chipset_13035\drp\Intel\WinAll\INF_9.4.0.1017\PantCore.inf" "PCI\VEN_8086&DEV_1E59"
+Ret: 1
+Done 1045
+perform_task(7);
+  Pack:    Drivers\DP_Chipset_13035
+  Group:   driver_new
+  Mode:    1
+  Name:    Intel(R) 7 Series/C216 Chipset Family PCI Express Root Port 3 - 1E14
+  HWID:    PCI\VEN_8086&DEV_1E14
+  Inf:     Intel\WinAll\INF_9.4.0.1017\PantCore.inf
+  Version: 02/25/2013,9.3.0.1027
+  Status:  DRIVER IS RUNNING.
+Start driver instalation
+Dirs: 
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_Chipset_13035\drp\Intel\WinAll\INF_9.4.0.1017\PantCore.inf" "PCI\VEN_8086&DEV_1E14"
+Ret: 0
+Done 1311
+perform_task(8);
+  Pack:    Drivers\DP_Chipset_13035
+  Group:   driver_available
+  Mode:    1
+  Name:    Intel(R) 7 Series/C216 Chipset Family SMBus Host Controller - 1E22
+  HWID:    PCI\VEN_8086&DEV_1E22
+  Inf:     Intel\WinAll\INF_9.4.0.1017\PantSMB.inf
+  Version: 02/25/2013,9.3.0.1027
+  Status:  DEVICE HAS A PROBLEM: 28.
+Start driver instalation
+Dirs: 
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_Chipset_13035\drp\Intel\WinAll\INF_9.4.0.1017\PantSMB.inf" "PCI\VEN_8086&DEV_1E22"
+Ret: 0
+Done 1232
+perform_task(9);
+  Pack:    Drivers\DP_Chipset_13035
+  Group:   driver_new
+  Mode:    1
+  Name:    3rd Gen Core processor DRAM Controller - 0154
+  HWID:    PCI\VEN_8086&DEV_0154
+  Inf:     Intel\WinAll\INF_9.4.0.1017\IvyBridg.inf
+  Version: 02/25/2013,9.3.0.1027
+  Status:  DRIVER IS RUNNING.
+Start driver instalation
+Dirs: 
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_Chipset_13035\drp\Intel\WinAll\INF_9.4.0.1017\IvyBridg.inf" "PCI\VEN_8086&DEV_0154"
+Ret: 0
+Done 1108
+perform_task(10);
+  Pack:    Drivers\DP_Chipset_13035
+  Group:   driver_new
+  Mode:    1
+  Name:    Intel(R) 7 Series/C216 Chipset Family SATA AHCI Controller - 1E03
+  HWID:    PCI\VEN_8086&DEV_1E03
+  Inf:     Intel\WinAll\INF_9.4.0.1017\PantAHCI.inf
+  Version: 02/25/2013,9.3.0.1027
+  Status:  DRIVER IS RUNNING.
+Start driver instalation
+Dirs: 
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_Chipset_13035\drp\Intel\WinAll\INF_9.4.0.1017\PantAHCI.inf" "PCI\VEN_8086&DEV_1E03"
+Ret: 1
+Done 2215
+perform_task(11);
+  Pack:    Drivers\DP_Chipset_13035
+  Group:   driver_new
+  Mode:    1
+  Name:    Intel(R) 7 Series/C216 Chipset Family PCI Express Root Port 1 - 1E10
+  HWID:    PCI\VEN_8086&DEV_1E10
+  Inf:     Intel\WinAll\INF_9.4.0.1017\PantCore.inf
+  Version: 02/25/2013,9.3.0.1027
+  Status:  DRIVER IS RUNNING.
+Start driver instalation
+Dirs: 
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_Chipset_13035\drp\Intel\WinAll\INF_9.4.0.1017\PantCore.inf" "PCI\VEN_8086&DEV_1E10"
+Ret: 0
+Done 2121
+perform_task(12);
+  Pack:    Drivers\DP_Chipset_13035
+  Group:   driver_available
+  Mode:    1
+  Name:    Intel(R) Management Engine Interface 
+  HWID:    PCI\VEN_8086&DEV_1E3A
+  Inf:     Intel\WinAll\HECI\1x3A_9.0\HECI.inf
+  Version: 12/17/2012,9.0.0.1287
+  Status:  DEVICE HAS A PROBLEM: 28.
+Start driver instalation
+Dirs: 
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_Chipset_13035\drp\Intel\WinAll\HECI\1x3A_9.0\HECI.inf" "PCI\VEN_8086&DEV_1E3A"
+Ret: 0
+Done 1826
+perform_task(14);
+  Pack:    Drivers\DP_LAN_13035
+  Group:   driver_available
+  Mode:    1
+  Name:    Realtek PCIe FE Family Controller
+  HWID:    PCI\VEN_10EC&DEV_8136&SUBSYS_183F103C&REV_05
+  Inf:     Realtek\7x64\PCIe_7.069.0304.2013\rt64win7.inf
+  Version: 03/04/2013,7.069.0304.2013
+  Status:  DEVICE HAS A PROBLEM: 28.
+Start driver instalation
+Dirs: Realtek\7x64\PCIe_7.069.0304.2013\
+Realtek\7x64\PCIe_7.069.0304.2013\  Realtek\7x64\PCIe_7.069.0304.2013\
+tools\7za.exe x -yo"C:\Users\HP\AppData\Local\Temp\drp\DP_LAN_13035\drp" "Drivers\DP_LAN_13035.7z" "Realtek\7x64\PCIe_7.069.0304.2013\"
+Return: 0
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_LAN_13035\drp\Realtek\7x64\PCIe_7.069.0304.2013\rt64win7.inf" "PCI\VEN_10EC&DEV_8136&SUBSYS_183F103C&REV_05"
+Ret: 0
+Done 33025
+perform_task(16);
+  Pack:    Drivers\DP_MassStorage_13034
+  Group:   driver_new
+  Mode:    1
+  Name:    Intel(R) 7 Series Chipset Family SATA AHCI Controller
+  HWID:    PCI\VEN_8086&DEV_1E03&CC_0106
+  Inf:     Intel\FORCED\Allx64\11.7.3.1001_rste\iaAHCIC.inf
+  Version: 02/04/2013,11.7.3.1001 
+  Status:  DRIVER IS RUNNING.
+Start driver instalation
+Dirs: Intel\FORCED\Allx64\11.7.3.1001_rste\
+Intel\FORCED\Allx64\11.7.3.1001_rste\  Intel\FORCED\Allx64\11.7.3.1001_rste\
+tools\7za.exe x -yo"C:\Users\HP\AppData\Local\Temp\drp\DP_MassStorage_13034\drp" "Drivers\DP_MassStorage_13034.7z" "Intel\FORCED\Allx64\11.7.3.1001_rste\"
+Return: 0
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_MassStorage_13034\drp\Intel\FORCED\Allx64\11.7.3.1001_rste\iaAHCIC.inf" "PCI\VEN_8086&DEV_1E03&CC_0106"
+Ret: 1
+Done 6209
+perform_task(21);
+  Pack:    Drivers\DP_Notebook_13034
+  Group:   driver_available
+  Mode:    1
+  Name:    HP Mobile Data Protection Sensor
+  HWID:    ACPI\HPQ0004
+  Inf:     HP\FORCED\NTx64\ACCELEROMETER\HPQ0004\accelerometer.inf
+  Version: 09/24/2012,4.2.9.1
+  Status:  DEVICE HAS A PROBLEM: 28.
+Start driver instalation
+Dirs: HP\FORCED\NTx64\ACCELEROMETER\HPQ0004\
+HP\FORCED\NTx64\ACCELEROMETER\HPQ0004\  HP\FORCED\NTx64\ACCELEROMETER\HPQ0004\
+tools\7za.exe x -yo"C:\Users\HP\AppData\Local\Temp\drp\DP_Notebook_13034\drp" "Drivers\DP_Notebook_13034.7z" "HP\FORCED\NTx64\ACCELEROMETER\HPQ0004\"
+Return: 0
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_Notebook_13034\drp\HP\FORCED\NTx64\ACCELEROMETER\HPQ0004\accelerometer.inf" "ACPI\HPQ0004"
+Ret: 1
+Done 5163
+perform_task(23);
+  Pack:    Drivers\DP_Sounds_HDMI_13035
+  Group:   driver_new
+  Mode:    1
+  Name:    Intel(R) Display Audio
+  HWID:    HDAUDIO\FUNC_01&VEN_8086&DEV_2806&SUBSYS_80860101
+  Inf:     Intel\FORCED\Audio\NTx64\2807\IntcDAud.inf
+  Version: 01/11/2013,6.16.00.3106
+  Status:  DRIVER IS RUNNING.
+Start driver instalation
+Dirs: Intel\FORCED\Audio\NTx64\2807\
+Intel\FORCED\Audio\NTx64\2807\  Intel\FORCED\Audio\NTx64\2807\
+tools\7za.exe x -yo"C:\Users\HP\AppData\Local\Temp\drp\DP_Sounds_HDMI_13035\drp" "Drivers\DP_Sounds_HDMI_13035.7z" "Intel\FORCED\Audio\NTx64\2807\"
+Return: 0
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_Sounds_HDMI_13035\drp\Intel\FORCED\Audio\NTx64\2807\IntcDAud.inf" "HDAUDIO\FUNC_01&VEN_8086&DEV_2806&SUBSYS_80860101"
+Ret: 0
+Done 33197
+perform_task(30);
+  Pack:    Drivers\DP_Sound_IDT_13034
+  Group:   driver_new
+  Mode:    1
+  Name:    IDT High Definition Audio CODEC
+  HWID:    HDAUDIO\FUNC_01&VEN_111D&DEV_76D9&SUBSYS_103C183F
+  Inf:     AllNT\HP_6.10.6448\STWRT64.INF
+  Version: 12/27/2012,6.10.6448.0
+  Status:  DRIVER IS RUNNING.
+Start driver instalation
+Dirs: AllNT\HP_6.10.6448\
+AllNT\HP_6.10.6448\  AllNT\HP_6.10.6448\
+tools\7za.exe x -yo"C:\Users\HP\AppData\Local\Temp\drp\DP_Sound_IDT_13034\drp" "Drivers\DP_Sound_IDT_13034.7z" "AllNT\HP_6.10.6448\"
+Return: 0
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_Sound_IDT_13034\drp\AllNT\HP_6.10.6448\STWRT64.INF" "HDAUDIO\FUNC_01&VEN_111D&DEV_76D9&SUBSYS_103C183F"
+Ret: 0
+Done 57471
+perform_task(41);
+  Pack:    Drivers\DP_Video_Intel_13035
+  Group:   driver_new
+  Mode:    1
+  Name:    Intel(R) HD Graphics 4000
+  HWID:    PCI\VEN_8086&DEV_0166
+  Inf:     FORCED\NTx64\HD4600_9.18.10.3055\igdlh64 HF2r2.inf
+  Version: 03/06/2013,9.18.10.3055
+  Status:  DRIVER IS RUNNING.
+Start driver instalation
+Dirs: FORCED\NTx64\HD4600_9.18.10.3055\
+FORCED\NTx64\HD4600_9.18.10.3055\  FORCED\NTx64\HD4600_9.18.10.3055\
+tools\7za.exe x -yo"C:\Users\HP\AppData\Local\Temp\drp\DP_Video_Intel_13035\drp" "Drivers\DP_Video_Intel_13035.7z" "FORCED\NTx64\HD4600_9.18.10.3055\"
+Return: 0
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_Video_Intel_13035\drp\FORCED\NTx64\HD4600_9.18.10.3055\igdlh64 HF2r2.inf" "PCI\VEN_8086&DEV_0166"
+Ret: 1
+Done 74786
+perform_task(47);
+  Pack:    Drivers\DP_WebCam_13035
+  Group:   driver_new
+  Mode:    1
+  Name:    Realtek USB2.0 PC Camera
+  HWID:    USB\VID_0BDA&PID_58DE
+  Inf:     Realtek\Allx64\6.2.9200.10220\RtsUVC.inf
+  Version: 03/06/2013,6.2.9200.10220
+  Status:  DRIVER IS RUNNING.
+Start driver instalation
+Dirs: Realtek\Allx64\6.2.9200.10220\
+Realtek\Allx64\6.2.9200.10220\  Realtek\Allx64\6.2.9200.10220\
+tools\7za.exe x -yo"C:\Users\HP\AppData\Local\Temp\drp\DP_WebCam_13035\drp" "Drivers\DP_WebCam_13035.7z" "Realtek\Allx64\6.2.9200.10220\"
+Return: 0
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_WebCam_13035\drp\Realtek\Allx64\6.2.9200.10220\RtsUVC.inf" "USB\VID_0BDA&PID_58DE"
+Ret: 2
+Done 30732
+perform_task(48);
+  Pack:    Drivers\DP_WebCam_13035
+  Group:   driver_new
+  Mode:    1
+  Name:    Realtek USB2.0 PC Camera
+  HWID:    USB\VID_0BDA&PID_58DE&MI_00
+  Inf:     Realtek\Allx64\6.2.9200.10220\RtsUVC.inf
+  Version: 03/06/2013,6.2.9200.10220
+  Status:  DRIVER IS RUNNING.
+Start driver instalation
+Dirs: 
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_WebCam_13035\drp\Realtek\Allx64\6.2.9200.10220\RtsUVC.inf" "USB\VID_0BDA&PID_58DE&MI_00"
+Ret: 0
+Done 4618
+perform_task(50);
+  Pack:    Drivers\DP_WLAN_13035
+  Group:   driver_available
+  Mode:    1
+  Name:    Ralink RT3290 802.11bgn Wi-Fi Adapter
+  HWID:    PCI\VEN_1814&DEV_3290&SUBSYS_18EC103C
+  Inf:     Ralink\All7\2860_5.00.21\netr28x.inf
+  Version: 02/18/2013,5.00.21.0000
+  Status:  DEVICE HAS A PROBLEM: 28.
+Start driver instalation
+Dirs: Ralink\All7\2860_5.00.21\
+Ralink\All7\2860_5.00.21\  Ralink\All7\2860_5.00.21\
+tools\7za.exe x -yo"C:\Users\HP\AppData\Local\Temp\drp\DP_WLAN_13035\drp" "Drivers\DP_WLAN_13035.7z" "Ralink\All7\2860_5.00.21\"
+Return: 0
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_WLAN_13035\drp\Ralink\All7\2860_5.00.21\netr28x.inf" "PCI\VEN_1814&DEV_3290&SUBSYS_18EC103C"
+Ret: 0
+Done 28829
+perform_task(52);
+  Pack:    Drivers\DP_xUSB_13035
+  Group:   driver_new
+  Mode:    1
+  Name:    Intel(R) 7 Series/C216 Chipset Family USB Enhanced Host Controller - 1E26
+  HWID:    PCI\VEN_8086&DEV_1E26
+  Inf:     Intel_1.0.7.248\WinAll\PantUSB.inf
+  Version: 02/25/2013,9.3.0.1027
+  Status:  DRIVER IS RUNNING.
+Start driver instalation
+Dirs: Intel_1.0.7.248\WinAll\|Intel_1.0.7.248\STRICT\7x64\
+Intel_1.0.7.248\WinAll\" "Intel_1.0.7.248\STRICT\7x64\  Intel_1.0.7.248\WinAll\
+tools\7za.exe x -yo"C:\Users\HP\AppData\Local\Temp\drp\DP_xUSB_13035\drp" "Drivers\DP_xUSB_13035.7z" "Intel_1.0.7.248\WinAll\" "Intel_1.0.7.248\STRICT\7x64\"
+Return: 0
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_xUSB_13035\drp\Intel_1.0.7.248\WinAll\PantUSB.inf" "PCI\VEN_8086&DEV_1E26"
+Ret: 0
+Done 4290
+perform_task(53);
+  Pack:    Drivers\DP_xUSB_13035
+  Group:   driver_new
+  Mode:    1
+  Name:    PCI bus
+  HWID:    *PNP0A08
+  Inf:     Intel_1.0.7.248\STRICT\7x64\iusb3hcs.inf
+  Version: 12/04/2012,1.0.7.248
+  Status:  DRIVER IS RUNNING.
+Start driver instalation
+Dirs: 
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_xUSB_13035\drp\Intel_1.0.7.248\STRICT\7x64\iusb3hcs.inf" "*PNP0A08"
+Ret: 1
+Done 12010
+perform_task(54);
+  Pack:    Drivers\DP_xUSB_13035
+  Group:   driver_new
+  Mode:    1
+  Name:    Intel(R) 7 Series/C216 Chipset Family USB Enhanced Host Controller - 1E2D
+  HWID:    PCI\VEN_8086&DEV_1E2D
+  Inf:     Intel_1.0.7.248\WinAll\PantUSB.inf
+  Version: 02/25/2013,9.3.0.1027
+  Status:  DRIVER IS RUNNING.
+Start driver instalation
+Dirs: 
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_xUSB_13035\drp\Intel_1.0.7.248\WinAll\PantUSB.inf" "PCI\VEN_8086&DEV_1E2D"
+Ret: 1
+Done 936
+perform_task(55);
+  Pack:    Drivers\DP_xUSB_13035
+  Group:   driver_available
+  Mode:    1
+  Name:    Intel(R) USB 3.0 eXtensible Host Controller
+  HWID:    PCI\VEN_8086&DEV_1E31&REV_04
+  Inf:     Intel_1.0.7.248\STRICT\7x64\iusb3xhc.inf
+  Version: 12/04/2012,1.0.7.248
+  Status:  DEVICE HAS A PROBLEM: 28.
+Start driver instalation
+Dirs: 
+tools\devcon64.exe update "C:\Users\HP\AppData\Local\Temp\drp\DP_xUSB_13035\drp\Intel_1.0.7.248\STRICT\7x64\iusb3xhc.inf" "PCI\VEN_8086&DEV_1E31&REV_04"
+Ret: 0
+Done 1357
