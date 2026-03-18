@@ -1,0 +1,334 @@
+ACPI\FIXEDBUTTON\2&DABA3FF&0
+    Name: ACPI Fixed Feature Button
+    Driver is running.
+ACPI\GENUINEINTEL_-_X86_FAMILY_15_MODEL_3\_0
+    Name: Intel(R) Pentium(R) 4 CPU 2.80GHz
+    Driver is running.
+ACPI\PNP0000\4&1506BB2E&0
+    Name: Programmable interrupt controller
+    Device is currently stopped.
+ACPI\PNP0100\4&1506BB2E&0
+    Name: System timer
+    Device is currently stopped.
+ACPI\PNP0200\4&1506BB2E&0
+    Name: Direct memory access controller
+    Device is currently stopped.
+ACPI\PNP0401\4&1506BB2E&0
+    Name: ECP Printer Port (LPT1)
+    Driver is running.
+ACPI\PNP0501\1
+    Name: Nuvoton Communications Port (COM1)
+    Driver is running.
+ACPI\PNP0700\4&1506BB2E&0
+    Name: Standard floppy disk controller
+    Driver is running.
+ACPI\PNP0800\4&1506BB2E&0
+    Name: System speaker
+    Device is currently stopped.
+ACPI\PNP0A03\4
+    Name: PCI bus
+    Driver is running.
+ACPI\PNP0B00\4&1506BB2E&0
+    Name: System CMOS/real time clock
+    Driver is running.
+ACPI\PNP0C01\1
+    Name: System board
+    Device is currently stopped.
+ACPI\PNP0C01\B
+    Name: System board
+    Device is currently stopped.
+ACPI\PNP0C04\4&1506BB2E&0
+    Name: Numeric data processor
+    Device is currently stopped.
+ACPI\PNP0C0C\2&DABA3FF&0
+    Name: ACPI Power Button
+    Driver is running.
+ACPI\PNP0F13\4&1506BB2E&0
+    Name: PS/2 Compatible Mouse
+    Driver is running.
+ACPI_HAL\PNP0C08\0
+    Name: Microsoft ACPI-Compliant System
+    Driver is running.
+DISPLAY\DEL3012\4&1E85A963&0&80861100&00&02
+    Name: Dell E773s
+    Driver is running.
+FDC\GENERIC_FLOPPY_DRIVE\5&14E44C3B&0&0
+    Name: Floppy disk drive
+    Driver is running.
+HID\VID_413C&PID_2003\6&F56D9A&0&0000
+    Name: HID Keyboard Device
+    Driver is running.
+IDE\CDROMHL-DT-ST_CDRW/DVD_GCC4482_______________E107____\5&70107E7&0&0.0.0
+    Name: HL-DT-ST CDRW/DVD GCC4482
+    Driver is running.
+IDE\DISKST340014A_______________________________8.16____\4A33415833483648202020202020202020202020
+    Name: ST340014A
+    Driver is running.
+ISAPNP\READDATAPORT\0
+    Name: ISAPNP Read Data Port
+    Driver is running.
+LPTENUM\MICROSOFTRAWPORT\5&316E3FD5&0&LPT1
+    Name: Printer Port Logical Interface
+    Driver is running.
+PCI\VEN_14F1&DEV_2702&SUBSYS_8D881043&REV_01\4&1C660DD6&0&08F0
+    Name: Conexant D850 56K V.9x DFVc Modem
+    Driver is running.
+PCI\VEN_8086&DEV_1050&SUBSYS_017A1028&REV_02\4&1C660DD6&0&40F0
+    Name: Intel(R) PRO/100 VE Network Connection
+    Driver is running.
+PCI\VEN_8086&DEV_244E&SUBSYS_00000000&REV_C2\3&172E68DD&0&F0
+    Name: Intel(R) 82801 PCI Bridge - 244E
+    Driver is running.
+PCI\VEN_8086&DEV_24D0&SUBSYS_00000000&REV_02\3&172E68DD&0&F8
+    Name: Intel(R) 82801EB LPC Interface Controller - 24D0
+    Driver is running.
+PCI\VEN_8086&DEV_24D1&SUBSYS_017A1028&REV_02\3&172E68DD&0&FA
+    Name: Intel(R) 82801EB Ultra ATA Storage Controllers - 24D1
+    Driver is running.
+PCI\VEN_8086&DEV_24D2&SUBSYS_017A1028&REV_02\3&172E68DD&0&E8
+    Name: Intel(R) 82801EB USB Universal Host Controller - 24D2
+    Driver is running.
+PCI\VEN_8086&DEV_24D3&SUBSYS_017A1028&REV_02\3&172E68DD&0&FB
+    Name: Intel(R) 82801EB SMBus Controller - 24D3
+    Device is currently stopped.
+PCI\VEN_8086&DEV_24D4&SUBSYS_017A1028&REV_02\3&172E68DD&0&E9
+    Name: Intel(R) 82801EB USB Universal Host Controller - 24D4
+    Driver is running.
+PCI\VEN_8086&DEV_24D5&SUBSYS_017A1028&REV_02\3&172E68DD&0&FD
+    Name: SoundMAX Integrated Digital Audio
+    Driver is running.
+PCI\VEN_8086&DEV_24DB&SUBSYS_017A1028&REV_02\3&172E68DD&0&F9
+    Name: Intel(R) 82801EB Ultra ATA Storage Controllers - 24DB
+    Driver is running.
+PCI\VEN_8086&DEV_24DD&SUBSYS_017A1028&REV_02\3&172E68DD&0&EF
+    Name: Intel(R) 82801EB USB2 Enhanced Host Controller - 24DD
+    Driver is running.
+PCI\VEN_8086&DEV_24DE&SUBSYS_017A1028&REV_02\3&172E68DD&0&EB
+    Name: Intel(R) 82801EB USB Universal Host Controller - 24DE
+    Driver is running.
+PCI\VEN_8086&DEV_2570&SUBSYS_00000000&REV_02\3&172E68DD&0&00
+    Name: Intel(R) 82865G/PE/P/GV/82848P Processor to I/O Controller - 2570
+    Driver is running.
+PCI\VEN_8086&DEV_2572&SUBSYS_017A1028&REV_02\3&172E68DD&0&10
+    Name: Intel(R) 82865G Graphics Controller
+    Driver is running.
+PCIIDE\IDECHANNEL\4&33DBDB8E&0&0
+    Name: Primary IDE Channel
+    Driver is running.
+PCIIDE\IDECHANNEL\4&33DBDB8E&0&1
+    Name: Secondary IDE Channel
+    Driver is running.
+ROOT\ACPI_HAL\0000
+    Name: ACPI Uniprocessor PC
+    Driver is running.
+ROOT\DMIO\0000
+    Name: Logical Disk Manager
+    Driver is running.
+ROOT\FTDISK\0000
+    Name: Volume Manager
+    Driver is running.
+ROOT\LEGACY_AFD\0000
+    Name: AFD
+    Driver is running.
+ROOT\LEGACY_AMBAKDRV\0000
+    Name: ambakdrv
+    Driver is running.
+ROOT\LEGACY_AMMNTDRV\0000
+    Name: ammntdrv
+    Driver is running.
+ROOT\LEGACY_AMWRTDRV\0000
+    Name: amwrtdrv
+    Driver is running.
+ROOT\LEGACY_BEEP\0000
+    Name: Beep
+    Driver is running.
+ROOT\LEGACY_DMBOOT\0000
+    Name: dmboot
+    Driver is running.
+ROOT\LEGACY_DMLOAD\0000
+    Name: dmload
+    Driver is running.
+ROOT\LEGACY_FIPS\0000
+    Name: Fips
+    Driver is running.
+ROOT\LEGACY_GPC\0000
+    Name: Generic Packet Classifier
+    Driver is running.
+ROOT\LEGACY_HTTP\0000
+    Name: HTTP
+    Driver is running.
+ROOT\LEGACY_IPNAT\0000
+    Name: IP Network Address Translator
+    Driver is running.
+ROOT\LEGACY_IPSEC\0000
+    Name: IPSEC driver
+    Driver is running.
+ROOT\LEGACY_KSECDD\0000
+    Name: ksecdd
+    Driver is running.
+ROOT\LEGACY_MDMXSDK\0000
+    Name: mdmxsdk
+    Driver is running.
+ROOT\LEGACY_MNMDD\0000
+    Name: mnmdd
+    Driver is running.
+ROOT\LEGACY_MOUNTMGR\0000
+    Name: mountmgr
+    Driver is running.
+ROOT\LEGACY_NDIS\0000
+    Name: NDIS System Driver
+    Driver is running.
+ROOT\LEGACY_NDISTAPI\0000
+    Name: Remote Access NDIS TAPI Driver
+    Driver is running.
+ROOT\LEGACY_NDISUIO\0000
+    Name: NDIS Usermode I/O Protocol
+    Driver is running.
+ROOT\LEGACY_NDPROXY\0000
+    Name: NDProxy
+    Driver is running.
+ROOT\LEGACY_NETBT\0000
+    Name: NetBios over Tcpip
+    Driver is running.
+ROOT\LEGACY_NULL\0000
+    Name: Null
+    Driver is running.
+ROOT\LEGACY_OMCI\0000
+    Name: OMCI
+    Driver is running.
+ROOT\LEGACY_PARTMGR\0000
+    Name: PartMgr
+    Driver is running.
+ROOT\LEGACY_PARVDM\0000
+    Name: ParVdm
+    Driver is running.
+ROOT\LEGACY_PCIIDE\0000
+    Name: PCIIde
+    Driver is running.
+ROOT\LEGACY_RASACD\0000
+    Name: Remote Access Auto Connection Driver
+    Driver is running.
+ROOT\LEGACY_RDPCDD\0000
+    Name: RDPCDD
+    Driver is running.
+ROOT\LEGACY_TCPIP\0000
+    Name: TCP/IP Protocol Driver
+    Driver is running.
+ROOT\LEGACY_VGASAVE\0000
+    Name: VgaSave
+    Driver is running.
+ROOT\LEGACY_VOLSNAP\0000
+    Name: VolSnap
+    Driver is running.
+ROOT\LEGACY_WANARP\0000
+    Name: Remote Access IP ARP Driver
+    Driver is running.
+ROOT\LEGACY_WDF01000\0000
+    Name: Kernel Mode Driver Frameworks service
+    Driver is running.
+ROOT\MEDIA\MS_MMACM
+    Name: Audio Codecs
+    Driver is running.
+ROOT\MEDIA\MS_MMDRV
+    Name: Legacy Audio Drivers
+    Driver is running.
+ROOT\MEDIA\MS_MMMCI
+    Name: Media Control Devices
+    Driver is running.
+ROOT\MEDIA\MS_MMVCD
+    Name: Legacy Video Capture Devices
+    Driver is running.
+ROOT\MEDIA\MS_MMVID
+    Name: Video Codecs
+    Driver is running.
+ROOT\MS_L2TPMINIPORT\0000
+    Name: WAN Miniport (L2TP)
+    Driver is running.
+ROOT\MS_NDISWANIP\0000
+    Name: WAN Miniport (IP)
+    Driver is running.
+ROOT\MS_PPPOEMINIPORT\0000
+    Name: WAN Miniport (PPPOE)
+    Driver is running.
+ROOT\MS_PPTPMINIPORT\0000
+    Name: WAN Miniport (PPTP)
+    Driver is running.
+ROOT\MS_PSCHEDMP\0000
+    Name: WAN Miniport (IP) - Packet Scheduler Miniport
+    Driver is running.
+ROOT\MS_PSCHEDMP\0001
+    Name: Intel(R) PRO/100 VE Network Connection - Packet Scheduler Miniport
+    Driver is running.
+ROOT\MS_PTIMINIPORT\0000
+    Name: Direct Parallel
+    Driver is running.
+ROOT\RDPDR\0000
+    Name: Terminal Server Device Redirector
+    Driver is running.
+ROOT\RDP_KBD\0000
+    Name: Terminal Server Keyboard Driver
+    Driver is running.
+ROOT\RDP_MOU\0000
+    Name: Terminal Server Mouse Driver
+    Driver is running.
+ROOT\SYSTEM\0000
+    Name: Plug and Play Software Device Enumerator
+    Driver is running.
+ROOT\SYSTEM\0001
+    Name: Microcode Update Device
+    Driver is running.
+ROOT\SYSTEM\0002
+    Name: Microsoft System Management BIOS Driver
+    Driver is running.
+STORAGE\REMOVABLEMEDIA\7&B194FD1&0&RM
+    Name: Generic volume
+    Driver is running.
+STORAGE\VOLUME\1&30A96598&0&SIGNATURE280549OFFSET8000LENGTH7470980000
+    Name: Generic volume
+    Driver is running.
+STORAGE\VOLUME\1&30A96598&0&SIGNATURE80OFFSET4E22CEC00LENGTH2ED9D7200
+    Name: Generic volume
+    Driver is running.
+STORAGE\VOLUME\1&30A96598&0&SIGNATURE80OFFSET7CFCADC00LENGTH17FE02000
+    Name: Generic volume
+    Driver is running.
+STORAGE\VOLUME\1&30A96598&0&SIGNATURE80OFFSET7E00LENGTH4E22C6E00
+    Name: Generic volume
+    Driver is running.
+SW\{A7C7A5B0-5AF3-11D1-9CED-00A024BF0407}\{9B365890-165F-11D0-A195-0020AFD156E4}
+    Name: Microsoft Kernel System Audio Device
+    Driver is running.
+SW\{B7EAFDC0-A680-11D0-96D8-00AA0051E51D}\{9B365890-165F-11D0-A195-0020AFD156E4}
+    Name: Microsoft Kernel Wave Audio Mixer
+    Driver is running.
+SW\{CD171DE3-69E5-11D2-B56D-0000F8754380}\{9B365890-165F-11D0-A195-0020AFD156E4}
+    Name: Microsoft WINMM WDM Audio Compatibility Driver
+    Driver is running.
+USB\ROOT_HUB\4&1BDD60F9&0
+    Name: USB Root Hub
+    Driver is running.
+USB\ROOT_HUB\4&2F54C96E&0
+    Name: USB Root Hub
+    Driver is running.
+USB\ROOT_HUB\4&37DC0A2C&0
+    Name: USB Root Hub
+    Driver is running.
+USB\ROOT_HUB20\4&19797021&0
+    Name: USB Root Hub
+    Driver is running.
+USB\VID_0781&PID_5567\4C532000070508103200
+    Name: USB Mass Storage Device
+    Driver is running.
+USB\VID_174C&PID_5106\______TE85134NHAWH0R
+    Name: USB Mass Storage Device
+    Driver is running.
+USB\VID_413C&PID_2003\5&1C81B931&0&1
+    Name: USB Human Interface Device
+    Driver is running.
+USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_2.01\4C532000070508103200&0
+    Name: SanDisk Cruzer Blade USB Device
+    Driver is running.
+USBSTOR\DISK&VEN_STOREJET&PROD_TRANSCEND&REV_0\______TE85134NHAWH0R&0
+    Name: StoreJet Transcend USB Device
+    Driver is running.
+111 matching device(s) found.
