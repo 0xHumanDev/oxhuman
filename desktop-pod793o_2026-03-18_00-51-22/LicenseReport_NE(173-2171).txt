@@ -1,0 +1,25 @@
+		License Management
+Object             	License File Type                	Capability	Loaded
+NE(173-2171)       	1588 file                        	Enable    	Yes
+NE(173-2171)       	Radio LAG file                   	Enable    	Yes
+NE(173-2171)       	Synchronous Ethernet service file	Enable    	Yes
+NE(173-2171)       	MPLS file                        	Enable    	Yes
+NE(173-2171)       	GE Port file                     	MAX       	Yes
+NE(173-2171)       	ERPS file                        	Enable    	Yes
+NE(173-2171)       	PLA file                         	Enable    	Yes
+NE(173-2171)       	MPLS-TP OAM file                 	Enable    	Yes
+NE(173-2171)       	WRED function file               	Enable    	Yes
+NE(173-2171)       	L2DCN file                       	Enable    	Yes
+NE(173-2171)       	LLDP file                        	Enable    	Yes
+NE(173-2171)       	STM-1 Function file              	MAX       	Yes
+NE(173-2171)       	AM file                          	MAX       	Yes
+NE(173-2171)       	E1 Priority file                 	MAX       	Yes
+NE(173-2171)       	Bandwidth acceleration file      	MAX       	Yes
+NE(173-2171)       	XPIC file                        	MAX       	Yes
+NE(173-2171)       	1024QAM file                     	MAX       	Yes
+NE(173-2171)-3-ISV3	AM file                          	Disable   	Yes
+NE(173-2171)-3-ISV3	Hybrid file                      	MAX       	Yes
+NE(173-2171)-3-ISV3	E1 Priority file                 	Disable   	Yes
+NE(173-2171)-3-ISV3	Bandwidth acceleration file      	Disable   	Yes
+NE(173-2171)-3-ISV3	XPIC file                        	Disable   	Yes
+NE(173-2171)-3-ISV3	1024QAM file                     	Disable   	Yes
