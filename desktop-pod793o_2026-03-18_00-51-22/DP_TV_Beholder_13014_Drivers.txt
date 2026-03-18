@@ -1,0 +1,113 @@
+Version5;
+PCI\VEN_1131&DEV_7231&SUBSYS_81005ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV A8
+PCI\VEN_1131&DEV_7231&SUBSYS_81005ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV A8
+PCI\VEN_1131&DEV_7133&SUBSYS_00000000	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Beholder TV Tuner (SAA7135)
+PCI\VEN_1131&DEV_7133&SUBSYS_00000000	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Beholder TV Tuner (SAA7135)
+PCI\VEN_1131&DEV_7133&SUBSYS_71505ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV H75
+PCI\VEN_1131&DEV_7133&SUBSYS_71505ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV H75
+PCI\VEN_1131&DEV_7133&SUBSYS_50305ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 503 FM
+PCI\VEN_1131&DEV_7133&SUBSYS_50305ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 503 FM
+PCI\VEN_1131&DEV_7133&SUBSYS_62905ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV H6
+PCI\VEN_1131&DEV_7133&SUBSYS_62905ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV H6
+PCI\VEN_1131&DEV_7133&SUBSYS_70905ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV A7
+PCI\VEN_1131&DEV_7133&SUBSYS_70905ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV A7
+PCI\VEN_1131&DEV_7130&SUBSYS_00000000	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Beholder TV Tuner (SAA7130)
+PCI\VEN_1131&DEV_7133&SUBSYS_50710000	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 507 RDS
+PCI\VEN_1131&DEV_7130&SUBSYS_00000000	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Beholder TV Tuner (SAA7130)
+PCI\VEN_1131&DEV_7133&SUBSYS_50710000	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 507 RDS
+PCI\VEN_1131&DEV_7133&SUBSYS_52010000	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV Columbus
+PCI\VEN_1131&DEV_7133&SUBSYS_52010000	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV Columbus
+PCI\VEN_1131&DEV_7134&SUBSYS_60705ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 607 FM
+PCI\VEN_1131&DEV_7134&SUBSYS_60705ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 607 FM
+PCI\VEN_1131&DEV_7231&SUBSYS_80015ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV H8
+PCI\VEN_1131&DEV_7231&SUBSYS_80015ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV H8
+USB\VID_6000&PID_DEC4	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV Wander
+USB\VID_6000&PID_DEC4	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV Wander
+USB\VID_6000&PID_DEC5	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV Voyage
+USB\VID_6000&PID_DEC5	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV Voyage
+PCI\VEN_1131&DEV_7133&SUBSYS_71515ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV H75
+USB\VID_6000&PID_DEC6	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV Wander Lite
+PCI\VEN_1131&DEV_7133&SUBSYS_71515ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV H75
+USB\VID_6000&PID_DEC6	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV Wander Lite
+USB\VID_6000&PID_DEC7	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV Voyage Lite
+USB\VID_6000&PID_DEC7	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV Voyage Lite
+USB\VID_6000&PID_DEC0	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV Wander
+USB\VID_6000&PID_DEC0	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV Wander
+USB\VID_6000&PID_DEC1	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV Voyage
+PCI\VEN_1131&DEV_7134&SUBSYS_00000000	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Beholder TV Tuner (SAA7134)
+PCI\VEN_1131&DEV_7134&SUBSYS_00000000	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Beholder TV Tuner (SAA7134)
+USB\VID_6000&PID_DEC1	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV Voyage
+USB\VID_6000&PID_DEC2	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV Wander Lite
+USB\VID_6000&PID_DEC2	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV Wander Lite
+USB\VID_6000&PID_DEC3	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV Voyage Lite
+USB\VID_6000&PID_DEC3	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV Voyage Lite
+PCI\VEN_1131&DEV_7133&SUBSYS_60915ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 609 FM
+PCI\VEN_1131&DEV_7133&SUBSYS_60915ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 609 FM
+PCI\VEN_1131&DEV_7134&SUBSYS_60715ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 607 FM
+PCI\VEN_1131&DEV_7134&SUBSYS_60715ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 607 FM
+PCI\VEN_1131&DEV_7231&SUBSYS_81015ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV A8
+PCI\VEN_1131&DEV_7231&SUBSYS_81015ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV A8
+PCI\VEN_1131&DEV_7133&SUBSYS_75915ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV X7
+PCI\VEN_1131&DEV_7133&SUBSYS_75915ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV X7
+PCI\VEN_1131&DEV_7231&SUBSYS_80515ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV H85
+PCI\VEN_1131&DEV_7231&SUBSYS_80515ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV H85
+PCI\VEN_1131&DEV_7133&SUBSYS_40910000	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 409 FM
+PCI\VEN_1131&DEV_7133&SUBSYS_40910000	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 409 FM
+PCI\VEN_1131&DEV_7133&SUBSYS_60905ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 609 FM
+PCI\VEN_1131&DEV_7133&SUBSYS_60905ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 609 FM
+PCI\VEN_1131&DEV_7231&SUBSYS_80005ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV H8
+PCI\VEN_1131&DEV_7231&SUBSYS_80005ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV H8
+PCI\VEN_1131&DEV_7133&SUBSYS_61905ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV M6
+PCI\VEN_1131&DEV_7133&SUBSYS_61905ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV M6
+PCI\VEN_1131&DEV_7130&SUBSYS_505B0000	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 505 RDS
+PCI\VEN_1131&DEV_7130&SUBSYS_505B0000	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 505 RDS
+PCI\VEN_1131&DEV_7134&SUBSYS_40710000	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 407 FM
+PCI\VEN_1131&DEV_7134&SUBSYS_40710000	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 407 FM
+PCI\VEN_1131&DEV_7231&SUBSYS_81515ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV A85
+PCI\VEN_1131&DEV_7231&SUBSYS_81515ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV A85
+PCI\VEN_1131&DEV_7134&SUBSYS_40360000	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 403
+PCI\VEN_1131&DEV_7134&SUBSYS_40360000	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 403
+PCI\VEN_1131&DEV_7134&SUBSYS_40370000	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 403 FM
+PCI\VEN_1131&DEV_7134&SUBSYS_40370000	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 403 FM
+PCI\VEN_1131&DEV_7133&SUBSYS_507B0000	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 507 RDS
+PCI\VEN_1131&DEV_7133&SUBSYS_507B0000	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 507 RDS
+PCI\VEN_1131&DEV_7134&SUBSYS_50705ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 507 FM
+PCI\VEN_1131&DEV_7134&SUBSYS_50705ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 507 FM
+PCI\VEN_1131&DEV_7231&SUBSYS_81505ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV A85
+PCI\VEN_1131&DEV_7231&SUBSYS_81505ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV A85
+PCI\VEN_1131&DEV_7133&SUBSYS_50905ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 509 FM
+PCI\VEN_1131&DEV_7133&SUBSYS_50905ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 509 FM
+PCI\VEN_1131&DEV_7130&SUBSYS_00001131	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 401
+PCI\VEN_1131&DEV_7130&SUBSYS_00001131	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 401
+PCI\VEN_1131&DEV_7134&SUBSYS_00001131	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 403 FM
+PCI\VEN_1131&DEV_7134&SUBSYS_00001131	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 403 FM
+PCI\VEN_1131&DEV_7231&SUBSYS_80505ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV H85
+PCI\VEN_1131&DEV_7231&SUBSYS_80505ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV H85
+PCI\VEN_1131&DEV_7133&SUBSYS_61935ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV M6 Extra
+PCI\VEN_1131&DEV_7133&SUBSYS_61935ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV M6 Extra
+PCI\VEN_1131&DEV_7133&SUBSYS_75955ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV X7
+PCI\VEN_1131&DEV_7133&SUBSYS_75955ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV X7
+PCI\VEN_1131&DEV_7133&SUBSYS_71905ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV H7
+PCI\VEN_1131&DEV_7133&SUBSYS_71905ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV H7
+PCI\VEN_1131&DEV_7130&SUBSYS_50510000	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 505 RDS
+PCI\VEN_1131&DEV_7130&SUBSYS_50510000	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 505 RDS
+PCI\VEN_1131&DEV_7134&SUBSYS_60725ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 607 RDS
+PCI\VEN_1131&DEV_7134&SUBSYS_60725ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 607 RDS
+PCI\VEN_1131&DEV_7130&SUBSYS_50105ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 501
+PCI\VEN_1131&DEV_7130&SUBSYS_50105ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 501
+PCI\VEN_1131&DEV_7133&SUBSYS_60935ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 609 RDS
+PCI\VEN_1131&DEV_7133&SUBSYS_60935ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 609 RDS
+PCI\VEN_1131&DEV_7133&SUBSYS_71915ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV H7
+PCI\VEN_1131&DEV_7133&SUBSYS_71915ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV H7
+PCI\VEN_1131&DEV_7133&SUBSYS_61915ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV M63
+PCI\VEN_1131&DEV_7133&SUBSYS_61915ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV M63
+PCI\VEN_1131&DEV_7134&SUBSYS_60735ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 607 RDS
+PCI\VEN_1131&DEV_7134&SUBSYS_60735ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 607 RDS
+PCI\VEN_1131&DEV_7130&SUBSYS_40160000	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 401
+PCI\VEN_1131&DEV_7130&SUBSYS_40160000	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 401
+PCI\VEN_1131&DEV_7133&SUBSYS_60925ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 609 RDS
+PCI\VEN_1131&DEV_7133&SUBSYS_60925ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 609 RDS
+PCI\VEN_1131&DEV_7130&SUBSYS_40510000	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 405 FM
+PCI\VEN_1131&DEV_7130&SUBSYS_40510000	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 405 FM
+PCI\VEN_1131&DEV_7130&SUBSYS_50505ACE	WinAll\5.3.8.0\	beholder.inf	Beholder.NTamd64	1	12/27/2012,5.3.8.0	Behold TV 505 FM
+PCI\VEN_1131&DEV_7130&SUBSYS_50505ACE	WinAll\5.3.8.0\	beholder.inf	Beholder	1	12/27/2012,5.3.8.0	Behold TV 505 FM
