@@ -1,0 +1,8 @@
+Title: Serial ATA: Intel Rapid Storage Technology  Management Console and Driver,Rapid Storage Technolr...
+Version: A00
+OEM Name: 
+OEM Version: 12.0.2.1001
+Computers: Optiplex: 3011, 9020; Precision: T1700
+OS: Windows 7 32-bit - Professional, Windows 7 32-bit - Home Premium, Windows 8 64-bit - Pro, Windows 7 64-bit - Home Premium, Windows 7 64-bit - Home Basic, Windows 8 64-bit - H, Windows 7 64-bit - Ultimate, Windows 7 64-bit - Professional, Windows 8 32-bit - H, Windows 8 32-bit - Pro, Windows 7 32-bit - Home Basic, Windows 8 64-bit - EM, Windows 8 32-bit - EM, Windows 7 32-bit - Starter, Windows 7 32-bit - Ultimate
+Languages: Japanese,Chinese Simplified,Spanish,Korean,French,Italian,Chinese Traditional,German,English,Br Portuguese
+Created: 7/2/2013
