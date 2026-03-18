@@ -1,0 +1,2611 @@
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Run mode of ManagedElement is: 0
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Radio mode of ManagedElement is: G
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Found partially matched pkg: D:\Pachage 13\SW_PLAT_V4.13.10.30P43.pkg
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: --------------- Selected package ---------------
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: D:\Pachage 13\SW_GSM_V4.13.10.30P43.pkg
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: D:\Pachage 13\SW_PLAT_V4.13.10.30P43.pkg
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ------------------------------------------------
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3145858
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:50002
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:50001
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6357120
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6373504
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6359168
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3145730
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3147778
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3172352
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6430721
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6430722
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6430720
+Dec 9, 2019 9:36:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3407872
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3409927
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3409926
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3416065
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3409920
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3416064
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3416064
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3612672
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3612674
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:50002
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:50001
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3481600
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3481602
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:50101
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:50100
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:33 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:33 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:33 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:33 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:33 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:33 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:33 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:33 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:33 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:33 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:33 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:34 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:34 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:36:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: enter login(zte, zte)
+Dec 9, 2019 9:36:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:login:
+Dec 9, 2019 9:36:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:Password:
+Dec 9, 2019 9:36:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:#
+Dec 9, 2019 9:36:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: reply is #
+Dec 9, 2019 9:36:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: =====OS is Linux=====
+Dec 9, 2019 9:36:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: =====State is CPU=====
+Dec 9, 2019 9:36:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :su root
+Dec 9, 2019 9:36:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :reboot
+Dec 9, 2019 9:36:36 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :reset
+Dec 9, 2019 9:36:36 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :BspBoardReset
+Dec 9, 2019 9:36:36 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+	at java.io.BufferedOutputStream.flush(Unknown Source)
+	at org.apache.commons.net.telnet.TelnetClient._flushOutputStream(TelnetClient.java:77)
+	at org.apache.commons.net.telnet.TelnetOutputStream.flush(TelnetOutputStream.java:145)
+	at com.zte.lmt.tools.btsimage.TelnetClient.execute(Unknown Source)
+	at com.zte.lmt.tools.btsimage.TelnetClient.reboot(Unknown Source)
+	at com.zte.lmt.tools.btsimage.BtsBurner.burn(Unknown Source)
+	at com.zte.lmt.tools.btsimage.BtsBurner.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Dec 9, 2019 9:36:36 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :exit
+Dec 9, 2019 9:36:36 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: catched an exception, but will be ignored...
+Dec 9, 2019 9:36:36 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+	at java.io.BufferedOutputStream.flush(Unknown Source)
+	at org.apache.commons.net.telnet.TelnetClient._flushOutputStream(TelnetClient.java:77)
+	at org.apache.commons.net.telnet.TelnetOutputStream.flush(TelnetOutputStream.java:145)
+	at com.zte.lmt.tools.btsimage.TelnetClient.execute(Unknown Source)
+	at com.zte.lmt.tools.btsimage.TelnetClient.disConnect(Unknown Source)
+	at com.zte.lmt.tools.btsimage.BtsBurner.burn(Unknown Source)
+	at com.zte.lmt.tools.btsimage.BtsBurner.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Dec 9, 2019 9:36:36 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: wait shutdown...
+Dec 9, 2019 9:36:38 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Dec 9, 2019 9:36:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Dec 9, 2019 9:36:46 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: wake up ...
+Dec 9, 2019 9:37:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ping nodeb return true
+Dec 9, 2019 9:37:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:37:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: enter login(zte, zte)
+Dec 9, 2019 9:37:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:login:
+Dec 9, 2019 9:37:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:Password:
+Dec 9, 2019 9:37:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Dec 9, 2019 9:37:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: reply is =>
+Dec 9, 2019 9:37:05 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Dec 9, 2019 9:37:06 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Dec 9, 2019 9:37:07 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Dec 9, 2019 9:37:08 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Dec 9, 2019 9:37:09 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Dec 9, 2019 9:37:10 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Dec 9, 2019 9:37:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Dec 9, 2019 9:37:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Dec 9, 2019 9:37:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :
+
+Dec 9, 2019 9:37:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Dec 9, 2019 9:37:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: linux del bootload.o success
+Dec 9, 2019 9:37:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Linux sleep 5s
+Dec 9, 2019 9:37:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :
+
+Dec 9, 2019 9:37:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Dec 9, 2019 9:37:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :
+Dec 9, 2019 9:37:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Dec 9, 2019 9:37:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :pwd
+Dec 9, 2019 9:37:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: reply is :pwd
+
+Dec 9, 2019 9:37:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Retry pwd!
+Dec 9, 2019 9:37:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :
+Dec 9, 2019 9:37:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Dec 9, 2019 9:37:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :pwd
+Dec 9, 2019 9:37:18 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: reply is :pwd
+/mnt/flash/
+
+Dec 9, 2019 9:37:18 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :exit
+Dec 9, 2019 9:37:18 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ftp try firstly: true
+Dec 9, 2019 9:37:18 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: logPath is D:\LMT 13\Release\copy_version\LMT\log\Trace\BtsImage_log.txt
+Dec 9, 2019 9:37:18 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zipFilePath is D:\LMT 13\Release\copy_version\LMT\log\Trace\BtsImage_log.zip
+Dec 9, 2019 9:37:18 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zip Compress file successful!
+Dec 9, 2019 9:37:18 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put log file:D:\LMT 13\Release\copy_version\LMT\log\Trace\BtsImage_log.zip to /OamLog/BtsImage_log.zip is true
+Dec 9, 2019 9:37:28 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ftp try firstly: true
+Dec 9, 2019 9:37:28 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ftpRoot : /
+Dec 9, 2019 9:37:28 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: tempRoot : /mnt/flash
+Dec 9, 2019 9:37:28 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Master board productnumber is 12288
+Dec 9, 2019 9:37:28 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: CC0 or CCE1
+Dec 9, 2019 9:37:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /
+Dec 9, 2019 9:37:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /BAK
+Dec 9, 2019 9:37:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /BAK/boot.ini
+Dec 9, 2019 9:37:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /BAK/DefaultCpu.bin
+Dec 9, 2019 9:37:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /BAK/DefaultFpga.bin
+Dec 9, 2019 9:37:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /BAK/modb.xml.gz
+Dec 9, 2019 9:37:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /BAK/VerInfo.ini
+Dec 9, 2019 9:37:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /BAK/AlmSiteInfo.dat
+Dec 9, 2019 9:37:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /BAK
+Dec 9, 2019 9:37:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /BIN
+Dec 9, 2019 9:37:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /BIN/boot.ini
+Dec 9, 2019 9:37:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /BIN/cpu_cur.swv
+Dec 9, 2019 9:38:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /BIN/fpga_cur.swv
+Dec 9, 2019 9:38:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /BIN/VerInfo.ini
+Dec 9, 2019 9:38:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /BIN
+Dec 9, 2019 9:38:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /config
+Dec 9, 2019 9:38:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /config/comcfg.ini
+Dec 9, 2019 9:38:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /config/lmtUser.xml
+Dec 9, 2019 9:38:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /config/accessLogA.log
+Dec 9, 2019 9:38:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /config/accessLogB.log
+Dec 9, 2019 9:38:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /config/BrsAutoLog.txt
+Dec 9, 2019 9:38:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /config/omcbpath.xml
+Dec 9, 2019 9:38:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /config/omcbr.xml
+Dec 9, 2019 9:38:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /config
+Dec 9, 2019 9:38:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT
+Dec 9, 2019 9:38:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM
+Dec 9, 2019 9:38:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW1
+Dec 9, 2019 9:38:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/CCA-GSM-V4.13.1.cpu
+Dec 9, 2019 9:38:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/R_PKGRST.xml
+Dec 9, 2019 9:38:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/R_SWID.xml
+Dec 9, 2019 9:38:08 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/Ubpg-4.13.10.30.cpu
+Dec 9, 2019 9:38:10 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/UbpgDsp-4.13.10.dsp
+Dec 9, 2019 9:38:15 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/UbpgFpga-4.13.1.fpg
+Dec 9, 2019 9:38:15 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW1/P1
+Dec 9, 2019 9:38:16 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/P1/RU81B-G-4.13.10.dsp
+Dec 9, 2019 9:38:19 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/P1/RU81B-G-4.13.10.fpg
+Dec 9, 2019 9:38:19 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW1/P1
+Dec 9, 2019 9:38:19 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW1/data
+Dec 9, 2019 9:38:19 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW1/data/version
+Dec 9, 2019 9:38:19 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW1/data/version/dbdata
+Dec 9, 2019 9:38:19 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/version/dbdata/G_GSMCFG.xml
+Dec 9, 2019 9:38:19 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/version/dbdata/G_RUPAR.xml
+Dec 9, 2019 9:38:19 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/version/dbdata/G_SECTOR.xml
+Dec 9, 2019 9:38:19 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/version/dbdata/G_TRXPAR.xml
+Dec 9, 2019 9:38:19 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/version/dbdata/G_THRESHOLD.xml
+Dec 9, 2019 9:38:19 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/version/dbdata/G_LOCALSW.xml
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/version/dbdata/G_TRAFMAP.xml
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/version/dbdata/G_RUCHANPAR.xml
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/version/dbdata/G_TRUPAR.xml
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/version/dbdata/G_SECRUCHANCFG.xml
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/version/dbdata/G_RURFDEVICE.xml
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/version/dbdata/G_ANTDETECTOR.xml
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW1/data/version/dbdata
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW1/data/version/vmp
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW1/data/version/vmp
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/version/FLAG.BAK
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/version/FLAG.BIN
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW1/data/version
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW1/data/temp
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW1/data/temp
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW1/data/bak
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW1/data/bak/dbdata
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/bak/dbdata/G_GSMCFG.xml
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/bak/dbdata/G_RUPAR.xml
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/bak/dbdata/G_SECTOR.xml
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/bak/dbdata/G_TRXPAR.xml
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/bak/dbdata/G_THRESHOLD.xml
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/bak/dbdata/G_LOCALSW.xml
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/bak/dbdata/G_TRAFMAP.xml
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/bak/dbdata/G_RUCHANPAR.xml
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/bak/dbdata/G_TRUPAR.xml
+Dec 9, 2019 9:38:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/bak/dbdata/G_SECRUCHANCFG.xml
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/bak/dbdata/G_RURFDEVICE.xml
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/GSM/SW1/data/bak/dbdata/G_ANTDETECTOR.xml
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW1/data/bak/dbdata
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW1/data/bak/vmp
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW1/data/bak/vmp
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW1/data/bak
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW1/data
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW1/P2
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW1/P2
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW1/PATCH
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW1/PATCH
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW1/PATCH2
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW1/PATCH2
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW1
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW2
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW2/data
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW2/data/version
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW2/data/version
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW2/data/temp
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW2/data/temp
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW2/data/bak
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW2/data/bak
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW2/data
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW2/P1
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW2/P1
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW2/P2
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW2/P2
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW2/PATCH
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW2/PATCH
+Dec 9, 2019 9:38:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW2/PATCH2
+Dec 9, 2019 9:38:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW2/PATCH2
+Dec 9, 2019 9:38:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW2
+Dec 9, 2019 9:38:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW3
+Dec 9, 2019 9:38:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW3/P1
+Dec 9, 2019 9:38:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW3/P1
+Dec 9, 2019 9:38:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW3/P2
+Dec 9, 2019 9:38:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW3/P2
+Dec 9, 2019 9:38:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW3
+Dec 9, 2019 9:38:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW4
+Dec 9, 2019 9:38:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW4/P1
+Dec 9, 2019 9:38:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW4/P1
+Dec 9, 2019 9:38:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/GSM/SW4/P2
+Dec 9, 2019 9:38:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW4/P2
+Dec 9, 2019 9:38:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM/SW4
+Dec 9, 2019 9:38:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/GSM
+Dec 9, 2019 9:38:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS
+Dec 9, 2019 9:38:23 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW1
+Dec 9, 2019 9:38:28 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/BPK-V4.13.10.30P.so
+Dec 9, 2019 9:38:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/BpkDsp-V4.13.10.dsp
+Dec 9, 2019 9:38:37 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/BpkFpga-V4.13.1.fpg
+Dec 9, 2019 9:38:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/CCA-UMTS-V4.13..cpu
+Dec 9, 2019 9:38:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/DV.XML
+Dec 9, 2019 9:38:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/R_PKGRST.xml
+Dec 9, 2019 9:38:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/R_SWID.xml
+Dec 9, 2019 9:38:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW1/P1
+Dec 9, 2019 9:38:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/P1/RU81B-U-4.13.10.dsp
+Dec 9, 2019 9:38:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/P1/RU81B-U-4.13.10.fpg
+Dec 9, 2019 9:38:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW1/P1
+Dec 9, 2019 9:38:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW1/data
+Dec 9, 2019 9:38:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW1/data/version
+Dec 9, 2019 9:38:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW1/data/version/dbdata
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_UMTSCFG.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_ANT.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_RFREL.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_RFCFG.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_SECTOR.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_TELOPRTCE.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_RADIOU.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_LCELLREL.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_HSDPA.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_UPASCH.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_UPAPWR.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_FEOAM.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_SIGMAP.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_PMPARACFG.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_SYNCE.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_ALCAP.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_RFDELAY.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_RESUME.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/dbdata/R_ANTDETECTORU.xml
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW1/data/version/dbdata
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW1/data/version/vmp
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW1/data/version/vmp
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/FLAG.BAK
+Dec 9, 2019 9:38:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/version/FLAG.BIN
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW1/data/version
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW1/data/temp
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW1/data/temp
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW1/data/bak
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW1/data/bak/dbdata
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_UMTSCFG.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_ANT.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_RFREL.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_RFCFG.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_SECTOR.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_TELOPRTCE.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_RADIOU.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_LCELLREL.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_HSDPA.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_UPASCH.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_UPAPWR.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_FEOAM.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_SIGMAP.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_PMPARACFG.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_SYNCE.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_ALCAP.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_RFDELAY.xml
+Dec 9, 2019 9:38:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_RESUME.xml
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /PRODUCT/UMTS/SW1/data/bak/dbdata/R_ANTDETECTORU.xml
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW1/data/bak/dbdata
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW1/data/bak/vmp
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW1/data/bak/vmp
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW1/data/bak
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW1/data
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW1/P2
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW1/P2
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW1/PATCH
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW1/PATCH
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW1/PATCH2
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW1/PATCH2
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW1
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW2
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW2/data
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW2/data/version
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW2/data/version
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW2/data/temp
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW2/data/temp
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW2/data/bak
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW2/data/bak
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW2/data
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW2/P1
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW2/P1
+Dec 9, 2019 9:38:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW2/P2
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW2/P2
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW2/PATCH
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW2/PATCH
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW2/PATCH2
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW2/PATCH2
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW2
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW3
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW3/P1
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW3/P1
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW3/P2
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW3/P2
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW3
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW4
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW4/P1
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW4/P1
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/UMTS/SW4/P2
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW4/P2
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS/SW4
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/UMTS
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW1
+Dec 9, 2019 9:38:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW1/data
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW1/data/version
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW1/data/version
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW1/data/temp
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW1/data/temp
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW1/data/bak
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW1/data/bak
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW1/data
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW1/P1
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW1/P1
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW1/P2
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW1/P2
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW1/PATCH
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW1/PATCH
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW1/PATCH2
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW1/PATCH2
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW1
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW2
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW2/data
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW2/data/version
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW2/data/version
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW2/data/temp
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW2/data/temp
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW2/data/bak
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW2/data/bak
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW2/data
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW2/P1
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW2/P1
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW2/P2
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW2/P2
+Dec 9, 2019 9:38:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW2/PATCH
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW2/PATCH
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW2/PATCH2
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW2/PATCH2
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW2
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW3
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW3/P1
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW3/P1
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW3/P2
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW3/P2
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW3
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW4
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW4/P1
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW4/P1
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/TD/SW4/P2
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW4/P2
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD/SW4
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/TD
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW1
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW1/data
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW1/data/version
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW1/data/version
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW1/data/temp
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW1/data/temp
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW1/data/bak
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW1/data/bak
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW1/data
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW1/P1
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW1/P1
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW1/P2
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW1/P2
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW1/PATCH
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW1/PATCH
+Dec 9, 2019 9:38:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW1/PATCH2
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW1/PATCH2
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW1
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW2
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW2/data
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW2/data/version
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW2/data/version
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW2/data/temp
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW2/data/temp
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW2/data/bak
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW2/data/bak
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW2/data
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW2/P1
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW2/P1
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW2/P2
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW2/P2
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW2/PATCH
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW2/PATCH
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW2/PATCH2
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW2/PATCH2
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW2
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW3
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW3/P1
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW3/P1
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW3/P2
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW3/P2
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW3
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW4
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW4/P1
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW4/P1
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/CDMA/SW4/P2
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW4/P2
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA/SW4
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/CDMA
+Dec 9, 2019 9:38:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW1
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW1/data
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW1/data/version
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW1/data/version
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW1/data/temp
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW1/data/temp
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW1/data/bak
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW1/data/bak
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW1/data
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW1/P1
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW1/P1
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW1/P2
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW1/P2
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW1/PATCH
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW1/PATCH
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW1/PATCH2
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW1/PATCH2
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW1
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW2
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW2/data
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW2/data/version
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW2/data/version
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW2/data/temp
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW2/data/temp
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW2/data/bak
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW2/data/bak
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW2/data
+Dec 9, 2019 9:38:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW2/P1
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW2/P1
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW2/P2
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW2/P2
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW2/PATCH
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW2/PATCH
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW2/PATCH2
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW2/PATCH2
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW2
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW3
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW3/P1
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW3/P1
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW3/P2
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW3/P2
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW3
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW4
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW4/P1
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW4/P1
+Dec 9, 2019 9:38:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTEFDD/SW4/P2
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW4/P2
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD/SW4
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTEFDD
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW1
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW1/data
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW1/data/version
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW1/data/version
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW1/data/temp
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW1/data/temp
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW1/data/bak
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW1/data/bak
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW1/data
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW1/P1
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW1/P1
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW1/P2
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW1/P2
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW1/PATCH
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW1/PATCH
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW1/PATCH2
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW1/PATCH2
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW1
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW2
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW2/data
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW2/data/version
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW2/data/version
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW2/data/temp
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW2/data/temp
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW2/data/bak
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW2/data/bak
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW2/data
+Dec 9, 2019 9:38:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW2/P1
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW2/P1
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW2/P2
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW2/P2
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW2/PATCH
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW2/PATCH
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW2/PATCH2
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW2/PATCH2
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW2
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW3
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW3/P1
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW3/P1
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW3/P2
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW3/P2
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW3
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW4
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW4/P1
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW4/P1
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/LTETDD/SW4/P2
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW4/P2
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD/SW4
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/LTETDD
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW1
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW1/data
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW1/data/version
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW1/data/version
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW1/data/temp
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW1/data/temp
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW1/data/bak
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW1/data/bak
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW1/data
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW1/P1
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW1/P1
+Dec 9, 2019 9:38:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW1/P2
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW1/P2
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW1/PATCH
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW1/PATCH
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW1/PATCH2
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW1/PATCH2
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW1
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW2
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW2/data
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW2/data/version
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW2/data/version
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW2/data/temp
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW2/data/temp
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW2/data/bak
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW2/data/bak
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW2/data
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW2/P1
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW2/P1
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW2/P2
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW2/P2
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW2/PATCH
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW2/PATCH
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW2/PATCH2
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW2/PATCH2
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW2
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW3
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW3/P1
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW3/P1
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW3/P2
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW3/P2
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW3
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW4
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW4/P1
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW4/P1
+Dec 9, 2019 9:38:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/WIMAX/SW4/P2
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW4/P2
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX/SW4
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/WIMAX
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW1
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW1/data
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW1/data/version
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW1/data/version
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW1/data/temp
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW1/data/temp
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW1/data/bak
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW1/data/bak
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW1/data
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW1/P1
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW1/P1
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW1/P2
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW1/P2
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW1/PATCH
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW1/PATCH
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW1/PATCH2
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW1/PATCH2
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW1
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW2
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW2/data
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW2/data/version
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW2/data/version
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW2/data/temp
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW2/data/temp
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW2/data/bak
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW2/data/bak
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW2/data
+Dec 9, 2019 9:39:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW2/P1
+Dec 9, 2019 9:39:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW2/P1
+Dec 9, 2019 9:39:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW2/P2
+Dec 9, 2019 9:39:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW2/P2
+Dec 9, 2019 9:39:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW2/PATCH
+Dec 9, 2019 9:39:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW2/PATCH
+Dec 9, 2019 9:39:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW2/PATCH2
+Dec 9, 2019 9:39:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW2/PATCH2
+Dec 9, 2019 9:39:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW2
+Dec 9, 2019 9:39:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW3
+Dec 9, 2019 9:39:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW3/P1
+Dec 9, 2019 9:39:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW3/P1
+Dec 9, 2019 9:39:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW3/P2
+Dec 9, 2019 9:39:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW3/P2
+Dec 9, 2019 9:39:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW3
+Dec 9, 2019 9:39:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW4
+Dec 9, 2019 9:39:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW4/P1
+Dec 9, 2019 9:39:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW4/P1
+Dec 9, 2019 9:39:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /PRODUCT/MWAVE/SW4/P2
+Dec 9, 2019 9:39:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW4/P2
+Dec 9, 2019 9:39:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE/SW4
+Dec 9, 2019 9:39:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT/MWAVE
+Dec 9, 2019 9:39:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /PRODUCT
+Dec 9, 2019 9:39:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1
+Dec 9, 2019 9:39:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/BPK_UMTS-V4.13..cpu
+Dec 9, 2019 9:39:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/DV.XML
+Dec 9, 2019 9:39:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/Fce7Mcu-V510200.mmc
+Dec 9, 2019 9:39:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/Fce8Mcu-V410212.mmc
+Dec 9, 2019 9:39:13 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/FceMcu-V710203-.mmc
+Dec 9, 2019 9:39:15 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/Fs-V4.13.10.30P.cpu
+Dec 9, 2019 9:39:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/Fs0MulFpga-V4.1.fpg
+Dec 9, 2019 9:39:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/Fs5CranFpga-V4..fpg
+Dec 9, 2019 9:39:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/Fs5Mcu-V610212-.mmc
+Dec 9, 2019 9:39:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/FsFpga-V4.13.10.fpg
+Dec 9, 2019 9:39:31 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/FsMcu-V310212-2.mmc
+Dec 9, 2019 9:39:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/Pm0Mcu-V710212-.mmc
+Dec 9, 2019 9:39:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/Pm4Mcu-V710203-.mmc
+Dec 9, 2019 9:39:32 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/R_PKGRST.xml
+Dec 9, 2019 9:39:34 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/R_SWID.xml
+Dec 9, 2019 9:39:34 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/Sa0Mcu-V110223-.mmc
+Dec 9, 2019 9:39:34 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/Sa2Mcu-V110223-.mmc
+Dec 9, 2019 9:39:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/Strategy.xml
+Dec 9, 2019 9:39:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/StrategyMap.xml
+Dec 9, 2019 9:39:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/data
+Dec 9, 2019 9:39:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/data/modb
+Dec 9, 2019 9:39:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/modb/modb.xml.gz
+Dec 9, 2019 9:39:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/modb/modb.xml.old.gz
+Dec 9, 2019 9:39:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/data/modb
+Dec 9, 2019 9:39:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/data/version
+Dec 9, 2019 9:39:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/FLAG.BAK
+Dec 9, 2019 9:39:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/FLAG.BIN
+Dec 9, 2019 9:39:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/data/version/dbdata
+Dec 9, 2019 9:39:37 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_SYSTEM.xml
+Dec 9, 2019 9:39:37 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TANK.xml
+Dec 9, 2019 9:39:37 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_RACK.xml
+Dec 9, 2019 9:39:37 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_SHELF.xml
+Dec 9, 2019 9:39:37 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_BOARD.xml
+Dec 9, 2019 9:39:38 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PWSUPPLY.xml
+Dec 9, 2019 9:39:38 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_BESPA.xml
+Dec 9, 2019 9:39:38 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_COMINFO.xml
+Dec 9, 2019 9:39:38 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_CLOCKPARA.xml
+Dec 9, 2019 9:39:38 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_CLOCK.xml
+Dec 9, 2019 9:39:38 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_DRYCT.xml
+Dec 9, 2019 9:39:38 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_DRYCTOUT.xml
+Dec 9, 2019 9:39:38 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_SNTP.xml
+Dec 9, 2019 9:39:38 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_FAN.xml
+Dec 9, 2019 9:39:38 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PWRCFG.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PMPCFG.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PMPTASK.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_FILTERRULE.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_INVENTORY.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_ETHPARA.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_E1T1.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TROPT.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_S1LINE.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_CHNE1.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TSIPAR.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_HDLC.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PPP.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_LACPPORT.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_LACPAGG.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_GBPORT.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PORT_GRP.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_IPPARA.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_IPV6PARA.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_STROUT_DETECT.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_BFDATH.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_BFD.xml
+Dec 9, 2019 9:39:39 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_STROUT.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_STIPV6ROUT.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_SCTP.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_SCTPV6.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_QOS_DSCP.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TCP.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_SPEC_FUNC.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_IPCLK.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PTPPORT.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_IMAPAR.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TCPARA.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_A2VCR.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_A5VCR.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_ATMROU.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_OMCB.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_OMCBV6.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_IPBW_GRP.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_IPBW.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_SIG_IPBWRES.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_IPBW_QOS.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_IPSEC_GL.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_IKE.xml
+Dec 9, 2019 9:39:40 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TRANS.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_FILTER.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_IPSEC.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_ETHOAMFUNC.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_OAMFUN_PARA.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_DSCPCOS.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_CPULIM.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_FSPORT.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_RRUHW.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TOPO.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_DELAY.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TDM.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PORTCFG.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_VLANCFG.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_DSCPTOQUE.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TAGTOQUE.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_UESBRDCFG.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_AISG.xml
+Dec 9, 2019 9:39:41 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_BTC.xml
+Dec 9, 2019 9:39:42 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_ETHCFM_MD.xml
+Dec 9, 2019 9:39:42 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_ETHCFM_MA.xml
+Dec 9, 2019 9:39:42 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_ETHCFM_MP.xml
+Dec 9, 2019 9:39:42 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_ETHCFM_CCM.xml
+Dec 9, 2019 9:39:42 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_DOT1X.xml
+Dec 9, 2019 9:39:42 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_DHCPRELAY.xml
+Dec 9, 2019 9:39:42 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_SPECIALCMD.xml
+Dec 9, 2019 9:39:42 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_BPDLY.xml
+Dec 9, 2019 9:39:42 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_BKLINK.xml
+Dec 9, 2019 9:39:42 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_RRUSWT.xml
+Dec 9, 2019 9:39:42 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_RCHN.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_RIRAG.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PHYANT.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_RANT.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_ACTS.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_ANTC.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PUBFNC.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PRIFNC.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_SELINK.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_ANTPRO.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_AUTOR.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_RRUPORT.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_SWITCHBOARD.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_NBPARA.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_SONFUNCSWITCH.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_OSPF_INSTANCE.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_OSPF_AREA.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_OSPF_STUB.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_OSPF_NSSA.xml
+Dec 9, 2019 9:39:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_OSPF_V_LINK.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_OSPF_INTF.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_OSPF_RANGE.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_OSPF_REDIST.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_OSPF_FILTER.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_OSPF_SUMMARY.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_RRUGNSS.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PKICMP.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_ACLRULE.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TELOPRT.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TRAFMAP.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_X2SONFUN.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_RANTMAP.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_IPPAIR_KPI.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_IPVLAN_KPI.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_IPDSCP_KPI.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PKICRL.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_NSBT.xml
+Dec 9, 2019 9:39:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_EPATYPE.xml
+Dec 9, 2019 9:39:45 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TSMATCH.xml
+Dec 9, 2019 9:39:45 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_ANTCHLMAP.xml
+Dec 9, 2019 9:39:45 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_BEAR_CFG.xml
+Dec 9, 2019 9:39:45 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PMPHTTPCFG.xml
+Dec 9, 2019 9:39:45 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PMPTASKCFG.xml
+Dec 9, 2019 9:39:45 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_LOGICBRDINFO.xml
+Dec 9, 2019 9:39:45 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PHYBOARDINFO.xml
+Dec 9, 2019 9:39:45 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TRANSRBACK.xml
+Dec 9, 2019 9:39:45 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_XAUTH.xml
+Dec 9, 2019 9:39:45 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_ARITHGRP.xml
+Dec 9, 2019 9:39:46 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_RUANTPARA.xml
+Dec 9, 2019 9:39:46 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_CMP_CFG.xml
+Dec 9, 2019 9:39:46 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_LIPA_CFG.xml
+Dec 9, 2019 9:39:46 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_SWVERNO.xml
+Dec 9, 2019 9:39:46 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_UCICFG.xml
+Dec 9, 2019 9:39:46 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_CCPARA.xml
+Dec 9, 2019 9:39:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_RUABILITY.xml
+Dec 9, 2019 9:39:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_RUCHLABILITY.xml
+Dec 9, 2019 9:39:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_FANMAP.xml
+Dec 9, 2019 9:39:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_VONDTYPENUM.xml
+Dec 9, 2019 9:39:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_BOARDMODE.xml
+Dec 9, 2019 9:39:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TDMLINKINFO.xml
+Dec 9, 2019 9:39:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TDMBOARDINFO.xml
+Dec 9, 2019 9:39:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_AGPSPARA.xml
+Dec 9, 2019 9:39:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_CHIPID.xml
+Dec 9, 2019 9:39:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_CPUINFO.xml
+Dec 9, 2019 9:39:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_BANDINFO.xml
+Dec 9, 2019 9:39:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_ALMCUSTOMINFO.xml
+Dec 9, 2019 9:39:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_DFAP.xml
+Dec 9, 2019 9:39:47 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_LCVTHRESHOLD.xml
+Dec 9, 2019 9:39:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TMA.xml
+Dec 9, 2019 9:39:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PHYANTINF.xml
+Dec 9, 2019 9:39:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PHYANTCABLE.xml
+Dec 9, 2019 9:39:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_AISGDEVICE.xml
+Dec 9, 2019 9:39:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_RET.xml
+Dec 9, 2019 9:39:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PWRSHARESWI.xml
+Dec 9, 2019 9:39:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_LCSMAINAIN.xml
+Dec 9, 2019 9:39:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_RRUPORTCAP.xml
+Dec 9, 2019 9:39:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_ETHACLCASE.xml
+Dec 9, 2019 9:39:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_ETHACLRULE.xml
+Dec 9, 2019 9:39:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_OAM_LOG.xml
+Dec 9, 2019 9:39:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_PMCounter.xml
+Dec 9, 2019 9:39:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_IPPD.xml
+Dec 9, 2019 9:39:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_RFCABLE.xml
+Dec 9, 2019 9:39:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_NODEB.xml
+Dec 9, 2019 9:39:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_QOSBW.xml
+Dec 9, 2019 9:39:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_RFFREQ.xml
+Dec 9, 2019 9:39:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TAMCTRL.xml
+Dec 9, 2019 9:39:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_TRAFCFG.xml
+Dec 9, 2019 9:39:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/dbdata/R_DELAY_BAK.xml
+Dec 9, 2019 9:39:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/data/version/dbdata
+Dec 9, 2019 9:39:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/POWERONFLAG.BAK
+Dec 9, 2019 9:39:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/POWERONFLAG.BIN
+Dec 9, 2019 9:39:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/data/version/vmp
+Dec 9, 2019 9:39:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/vmp/R_PKGRST.xml
+Dec 9, 2019 9:39:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/vmp/R_SWID.xml
+Dec 9, 2019 9:39:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/vmp/R_SWINFO.xml
+Dec 9, 2019 9:39:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/vmp/R_SWPKG.xml
+Dec 9, 2019 9:39:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/version/vmp/R_SWID_BAK.xml
+Dec 9, 2019 9:39:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/data/version/vmp
+Dec 9, 2019 9:39:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/data/version
+Dec 9, 2019 9:39:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/data/temp
+Dec 9, 2019 9:39:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/temp/dbe.log
+Dec 9, 2019 9:39:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/temp/PLAT_dv.xml
+Dec 9, 2019 9:39:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/temp/UMTS_dv.xml
+Dec 9, 2019 9:39:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/data/temp/rec_trans
+Dec 9, 2019 9:39:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/temp/rec_trans/rec_tc.bin
+Dec 9, 2019 9:39:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/data/temp/rec_trans
+Dec 9, 2019 9:39:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/temp/combTest.xml
+Dec 9, 2019 9:39:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/data/temp
+Dec 9, 2019 9:39:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/data/bak
+Dec 9, 2019 9:39:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/data/bak/dbdata
+Dec 9, 2019 9:39:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_SYSTEM.xml
+Dec 9, 2019 9:39:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TANK.xml
+Dec 9, 2019 9:39:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_RACK.xml
+Dec 9, 2019 9:39:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_SHELF.xml
+Dec 9, 2019 9:39:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_BOARD.xml
+Dec 9, 2019 9:39:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PWSUPPLY.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_BESPA.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_COMINFO.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_CLOCKPARA.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_CLOCK.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_DRYCT.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_DRYCTOUT.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_SNTP.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_FAN.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PWRCFG.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PMPCFG.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PMPTASK.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_FILTERRULE.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_INVENTORY.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_ETHPARA.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_E1T1.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TROPT.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_S1LINE.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_CHNE1.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TSIPAR.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_HDLC.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PPP.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_LACPPORT.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_LACPAGG.xml
+Dec 9, 2019 9:39:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_GBPORT.xml
+Dec 9, 2019 9:39:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PORT_GRP.xml
+Dec 9, 2019 9:39:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_IPPARA.xml
+Dec 9, 2019 9:39:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_IPV6PARA.xml
+Dec 9, 2019 9:39:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_STROUT_DETECT.xml
+Dec 9, 2019 9:39:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_BFDATH.xml
+Dec 9, 2019 9:39:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_BFD.xml
+Dec 9, 2019 9:39:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_STROUT.xml
+Dec 9, 2019 9:39:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_STIPV6ROUT.xml
+Dec 9, 2019 9:39:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_SCTP.xml
+Dec 9, 2019 9:39:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_SCTPV6.xml
+Dec 9, 2019 9:39:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_QOS_DSCP.xml
+Dec 9, 2019 9:39:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TCP.xml
+Dec 9, 2019 9:39:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_SPEC_FUNC.xml
+Dec 9, 2019 9:39:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_IPCLK.xml
+Dec 9, 2019 9:39:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PTPPORT.xml
+Dec 9, 2019 9:39:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_IMAPAR.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TCPARA.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_A2VCR.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_A5VCR.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_ATMROU.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_OMCB.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_OMCBV6.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_IPBW_GRP.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_IPBW.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_SIG_IPBWRES.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_IPBW_QOS.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_IPSEC_GL.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_IKE.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TRANS.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_FILTER.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_IPSEC.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_ETHOAMFUNC.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_OAMFUN_PARA.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_DSCPCOS.xml
+Dec 9, 2019 9:40:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_CPULIM.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_FSPORT.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_RRUHW.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TOPO.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_DELAY.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TDM.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PORTCFG.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_VLANCFG.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_DSCPTOQUE.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TAGTOQUE.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_UESBRDCFG.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_AISG.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_BTC.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_ETHCFM_MD.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_ETHCFM_MA.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_ETHCFM_MP.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_ETHCFM_CCM.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_DOT1X.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_DHCPRELAY.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_SPECIALCMD.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_BPDLY.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_BKLINK.xml
+Dec 9, 2019 9:40:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_RRUSWT.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_RCHN.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_RIRAG.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PHYANT.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_RANT.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_ACTS.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_ANTC.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PUBFNC.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PRIFNC.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_SELINK.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_ANTPRO.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_AUTOR.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_RRUPORT.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_SWITCHBOARD.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_NBPARA.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_SONFUNCSWITCH.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_OSPF_INSTANCE.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_OSPF_AREA.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_OSPF_STUB.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_OSPF_NSSA.xml
+Dec 9, 2019 9:40:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_OSPF_V_LINK.xml
+Dec 9, 2019 9:40:03 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_OSPF_INTF.xml
+Dec 9, 2019 9:40:03 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_OSPF_RANGE.xml
+Dec 9, 2019 9:40:03 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_OSPF_REDIST.xml
+Dec 9, 2019 9:40:03 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_OSPF_FILTER.xml
+Dec 9, 2019 9:40:03 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_OSPF_SUMMARY.xml
+Dec 9, 2019 9:40:03 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_RRUGNSS.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PKICMP.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_ACLRULE.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TELOPRT.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TRAFMAP.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_X2SONFUN.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_RANTMAP.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_IPPAIR_KPI.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_IPVLAN_KPI.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_IPDSCP_KPI.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PKICRL.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_NSBT.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_EPATYPE.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TSMATCH.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_ANTCHLMAP.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_BEAR_CFG.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PMPHTTPCFG.xml
+Dec 9, 2019 9:40:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PMPTASKCFG.xml
+Dec 9, 2019 9:40:05 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_LOGICBRDINFO.xml
+Dec 9, 2019 9:40:05 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PHYBOARDINFO.xml
+Dec 9, 2019 9:40:05 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TRANSRBACK.xml
+Dec 9, 2019 9:40:05 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_XAUTH.xml
+Dec 9, 2019 9:40:05 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_ARITHGRP.xml
+Dec 9, 2019 9:40:05 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_RUANTPARA.xml
+Dec 9, 2019 9:40:05 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_CMP_CFG.xml
+Dec 9, 2019 9:40:05 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_LIPA_CFG.xml
+Dec 9, 2019 9:40:05 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_SWVERNO.xml
+Dec 9, 2019 9:40:05 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_UCICFG.xml
+Dec 9, 2019 9:40:05 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_CCPARA.xml
+Dec 9, 2019 9:40:05 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_RUABILITY.xml
+Dec 9, 2019 9:40:06 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_RUCHLABILITY.xml
+Dec 9, 2019 9:40:06 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_FANMAP.xml
+Dec 9, 2019 9:40:06 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_VONDTYPENUM.xml
+Dec 9, 2019 9:40:06 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_BOARDMODE.xml
+Dec 9, 2019 9:40:06 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TDMLINKINFO.xml
+Dec 9, 2019 9:40:06 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TDMBOARDINFO.xml
+Dec 9, 2019 9:40:06 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_AGPSPARA.xml
+Dec 9, 2019 9:40:06 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_CHIPID.xml
+Dec 9, 2019 9:40:06 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_CPUINFO.xml
+Dec 9, 2019 9:40:06 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_BANDINFO.xml
+Dec 9, 2019 9:40:06 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_ALMCUSTOMINFO.xml
+Dec 9, 2019 9:40:06 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_DFAP.xml
+Dec 9, 2019 9:40:06 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_LCVTHRESHOLD.xml
+Dec 9, 2019 9:40:06 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TMA.xml
+Dec 9, 2019 9:40:07 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PHYANTINF.xml
+Dec 9, 2019 9:40:07 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PHYANTCABLE.xml
+Dec 9, 2019 9:40:07 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_AISGDEVICE.xml
+Dec 9, 2019 9:40:07 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_RET.xml
+Dec 9, 2019 9:40:07 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PWRSHARESWI.xml
+Dec 9, 2019 9:40:07 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_LCSMAINAIN.xml
+Dec 9, 2019 9:40:07 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_RRUPORTCAP.xml
+Dec 9, 2019 9:40:07 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_ETHACLCASE.xml
+Dec 9, 2019 9:40:07 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_ETHACLRULE.xml
+Dec 9, 2019 9:40:07 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_OAM_LOG.xml
+Dec 9, 2019 9:40:08 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_PMCounter.xml
+Dec 9, 2019 9:40:08 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_IPPD.xml
+Dec 9, 2019 9:40:08 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_RFCABLE.xml
+Dec 9, 2019 9:40:08 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_NODEB.xml
+Dec 9, 2019 9:40:08 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_QOSBW.xml
+Dec 9, 2019 9:40:08 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_RFFREQ.xml
+Dec 9, 2019 9:40:08 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TAMCTRL.xml
+Dec 9, 2019 9:40:08 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_TRAFCFG.xml
+Dec 9, 2019 9:40:08 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/dbdata/R_DELAY_BAK.xml
+Dec 9, 2019 9:40:08 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/data/bak/dbdata
+Dec 9, 2019 9:40:08 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/data/bak/vmp
+Dec 9, 2019 9:40:09 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/vmp/R_SWPKG.xml
+Dec 9, 2019 9:40:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/vmp/R_SWID.xml
+Dec 9, 2019 9:40:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/vmp/R_PKGRST.xml
+Dec 9, 2019 9:40:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/bak/vmp/R_SWINFO.xml
+Dec 9, 2019 9:40:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/data/bak/vmp
+Dec 9, 2019 9:40:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/data/bak
+Dec 9, 2019 9:40:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/data/modbbak
+Dec 9, 2019 9:40:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/modbbak/modb.xml.brs.gz
+Dec 9, 2019 9:40:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/data/modbbak
+Dec 9, 2019 9:40:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/data/motemp
+Dec 9, 2019 9:40:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/motemp/PLAT_modb.idx
+Dec 9, 2019 9:40:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/motemp/GSM_modb.idx
+Dec 9, 2019 9:40:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/motemp/UMTS_modb.idx
+Dec 9, 2019 9:40:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/data/motemp/dv
+Dec 9, 2019 9:40:13 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/motemp/dv/PLAT_dv.xml
+Dec 9, 2019 9:40:13 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/motemp/dv/UMTS_dv.xml
+Dec 9, 2019 9:40:13 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/data/motemp/dv
+Dec 9, 2019 9:40:13 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/motemp/dv.tar
+Dec 9, 2019 9:40:14 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/motemp/dv.tar.gz
+Dec 9, 2019 9:40:14 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/motemp/modbdown.xml.gz
+Dec 9, 2019 9:40:14 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/motemp/motrans.xml.gz
+Dec 9, 2019 9:40:14 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/motemp/rec_1.xml
+Dec 9, 2019 9:40:14 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/data/motemp
+Dec 9, 2019 9:40:14 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/data/dv
+Dec 9, 2019 9:40:15 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/dv/PLAT_dv.xml
+Dec 9, 2019 9:40:15 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/dv/PLAT_dv_rec_trans.xml
+Dec 9, 2019 9:40:15 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/dv/UMTS_dv.xml
+Dec 9, 2019 9:40:15 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/dv/UMTS_dv_rec_trans.xml
+Dec 9, 2019 9:40:15 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/data/dv
+Dec 9, 2019 9:40:15 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/data/molog
+Dec 9, 2019 9:40:16 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/molog/moe_PLAT.log
+Dec 9, 2019 9:40:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/molog/moe_GSM.log
+Dec 9, 2019 9:40:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/molog/moe_UMTS.log
+Dec 9, 2019 9:40:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/data/molog/mop_PLAT.log
+Dec 9, 2019 9:40:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/data/molog
+Dec 9, 2019 9:40:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/data
+Dec 9, 2019 9:40:17 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/P1
+Dec 9, 2019 9:40:20 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/P1/Adtr-4.13.10.30.cpu
+Dec 9, 2019 9:40:21 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/P1/AdtrDsp-4.13.10.dsp
+Dec 9, 2019 9:40:26 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/P1/AdtrFpga-4.13.1.fpg
+Dec 9, 2019 9:40:37 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/P1/FS5CFpga-V4.13..fpg
+Dec 9, 2019 9:40:46 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/P1/FS5C_Plat_1.2.0.cpu
+Dec 9, 2019 9:40:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/P1/FS5C_TDD.cpu
+Dec 9, 2019 9:40:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/P1/RU81B-GL-4.13.1.fpg
+Dec 9, 2019 9:41:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/P1/RU81B-GU-4.13.1.dsp
+Dec 9, 2019 9:41:04 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/P1/RU81B-GU-4.13.1.fpg
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /SW1/P1/UniRU-GUL-V4131.cpu
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/P1
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/P2
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/P2
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/PATCH
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/PATCH
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW1/PATCH2
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1/PATCH2
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW1
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /INF
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /BSP
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /TMP
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /USB
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW2
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW2/data
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW2/data/version
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW2/data/version
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW2/data/temp
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW2/data/temp
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW2/data/bak
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW2/data/bak
+Dec 9, 2019 9:41:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW2/data/modb
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW2/data/modb
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW2/data/motemp
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW2/data/motemp
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW2/data/modbbak
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW2/data/modbbak
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW2/data/dv
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW2/data/dv
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW2/data
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW2/P1
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW2/P1
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW2/P2
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW2/P2
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW2/PATCH
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW2/PATCH
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW2/PATCH2
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW2/PATCH2
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW2
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW3
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW3/P1
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW3/P1
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW3/P2
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW3/P2
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW3
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /FW
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /OamLog
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /gsmlog
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /BBX
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /IMP
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW4
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW4/P1
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW4/P1
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /SW4/P2
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW4/P2
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete dir success : /SW4
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /STORE
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /dbbPanelTmp
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /pmp
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /brslog
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: enter login(zte, zte)
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:login:
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:Password:
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: reply is =>
+Dec 9, 2019 9:41:12 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :df
+Dec 9, 2019 9:41:13 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: executeCmd df, reply is df
+=> 
+FS total space: 	 129228800  (B)
+FS free space:	 126599168  (B)
+=> 
+Dec 9, 2019 9:41:13 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: FS free space 126599168
+Dec 9, 2019 9:41:13 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 9:41:13 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :exit
+Dec 9, 2019 9:41:13 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Image folder size is 74805706
+Dec 9, 2019 9:41:13 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: logPath is D:\LMT 13\Release\copy_version\LMT\log\Trace\BtsImage_log.txt
+Dec 9, 2019 9:41:13 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zipFilePath is D:\LMT 13\Release\copy_version\LMT\log\Trace\BtsImage_log.zip
+Dec 9, 2019 9:41:14 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zip Compress file successful!
+Dec 9, 2019 9:41:15 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put log file:D:\LMT 13\Release\copy_version\LMT\log\Trace\BtsImage_log.zip to /OamLog/BtsImage_log.zip is true
+Dec 9, 2019 9:41:15 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\BIN\boot.ini to /BIN/boot.ini is true
+Dec 9, 2019 9:44:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\BIN\cpu_cur.swv to /BIN/cpu_cur.swv is true
+Dec 9, 2019 9:44:07 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\BIN\fpga_cur.swv to /BIN/fpga_cur.swv is true
+Dec 9, 2019 9:44:07 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\BIN\VerInfo.ini to /BIN/VerInfo.ini is true
+Dec 9, 2019 9:44:07 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\config\OMCBPATH.XML to /config/OMCBPATH.XML is true
+Dec 9, 2019 9:44:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\PRODUCT\GSM\SW1\CCA-GSM-V4.13.1.cpu to /PRODUCT/GSM/SW1/CCA-GSM-V4.13.1.cpu is true
+Dec 9, 2019 9:44:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\PRODUCT\GSM\SW1\R_PKGRST.xml to /PRODUCT/GSM/SW1/R_PKGRST.xml is true
+Dec 9, 2019 9:44:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\PRODUCT\GSM\SW1\R_SWID.xml to /PRODUCT/GSM/SW1/R_SWID.xml is true
+Dec 9, 2019 9:45:43 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\PRODUCT\GSM\SW1\Ubpg-4.13.10.30.cpu to /PRODUCT/GSM/SW1/Ubpg-4.13.10.30.cpu is true
+Dec 9, 2019 9:46:08 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\PRODUCT\GSM\SW1\UbpgDsp-4.13.10.dsp to /PRODUCT/GSM/SW1/UbpgDsp-4.13.10.dsp is true
+Dec 9, 2019 9:46:58 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\PRODUCT\GSM\SW1\UbpgFpga-4.13.1.fpg to /PRODUCT/GSM/SW1/UbpgFpga-4.13.1.fpg is true
+Dec 9, 2019 9:47:05 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\PRODUCT\GSM\SW1\P1\RU81B-G-4.13.10.dsp to /PRODUCT/GSM/SW1/P1/RU81B-G-4.13.10.dsp is true
+Dec 9, 2019 9:47:44 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\PRODUCT\GSM\SW1\P1\RU81B-G-4.13.10.fpg to /PRODUCT/GSM/SW1/P1/RU81B-G-4.13.10.fpg is true
+Dec 9, 2019 9:47:45 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\DV.XML to /SW1/DV.XML is true
+Dec 9, 2019 9:47:48 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\Fce7Mcu-V510200.mmc to /SW1/Fce7Mcu-V510200.mmc is true
+Dec 9, 2019 9:47:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\Fce8Mcu-V410212.mmc to /SW1/Fce8Mcu-V410212.mmc is true
+Dec 9, 2019 9:47:54 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\FceMcu-V710203-.mmc to /SW1/FceMcu-V710203-.mmc is true
+Dec 9, 2019 9:48:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\Fs-V4.13.10.30P.cpu to /SW1/Fs-V4.13.10.30P.cpu is true
+Dec 9, 2019 9:48:53 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\Fs0MulFpga-V4.1.fpg to /SW1/Fs0MulFpga-V4.1.fpg is true
+Dec 9, 2019 9:49:24 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\Fs5CranFpga-V4..fpg to /SW1/Fs5CranFpga-V4..fpg is true
+Dec 9, 2019 9:49:27 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\Fs5Mcu-V610212-.mmc to /SW1/Fs5Mcu-V610212-.mmc is true
+Dec 9, 2019 9:51:19 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\FsFpga-V4.13.10.fpg to /SW1/FsFpga-V4.13.10.fpg is true
+Dec 9, 2019 9:51:22 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\FsMcu-V310212-2.mmc to /SW1/FsMcu-V310212-2.mmc is true
+Dec 9, 2019 9:51:25 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\Pm0Mcu-V710212-.mmc to /SW1/Pm0Mcu-V710212-.mmc is true
+Dec 9, 2019 9:51:28 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\Pm4Mcu-V710203-.mmc to /SW1/Pm4Mcu-V710203-.mmc is true
+Dec 9, 2019 9:51:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\R_PKGRST.xml to /SW1/R_PKGRST.xml is true
+Dec 9, 2019 9:51:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\R_SWID.xml to /SW1/R_SWID.xml is true
+Dec 9, 2019 9:51:52 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\Sa0Mcu-V110223-.mmc to /SW1/Sa0Mcu-V110223-.mmc is true
+Dec 9, 2019 9:51:55 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\Sa2Mcu-V110223-.mmc to /SW1/Sa2Mcu-V110223-.mmc is true
+Dec 9, 2019 9:51:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\Strategy.xml to /SW1/Strategy.xml is true
+Dec 9, 2019 9:51:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\StrategyMap.xml to /SW1/StrategyMap.xml is true
+Dec 9, 2019 9:52:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\data\modb\modb.xml to /SW1/data/modb/modb.xml is true
+Dec 9, 2019 9:52:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\data\version\FLAG.BAK to /SW1/data/version/FLAG.BAK is true
+Dec 9, 2019 9:52:00 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\data\version\FLAG.BIN to /SW1/data/version/FLAG.BIN is true
+Dec 9, 2019 9:52:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\data\version\R_PKGRST.xml to /SW1/data/version/R_PKGRST.xml is true
+Dec 9, 2019 9:52:25 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\data\version\R_SWID.xml to /SW1/data/version/R_SWID.xml is true
+Dec 9, 2019 9:52:25 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\data\version\R_SWINFO.xml to /SW1/data/version/R_SWINFO.xml is true
+Dec 9, 2019 9:52:26 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\data\version\R_SWPKG.xml to /SW1/data/version/R_SWPKG.xml is true
+Dec 9, 2019 9:52:27 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\data\version\vmp\R_PKGRST.xml to /SW1/data/version/vmp/R_PKGRST.xml is true
+Dec 9, 2019 9:52:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\data\version\vmp\R_SWID.xml to /SW1/data/version/vmp/R_SWID.xml is true
+Dec 9, 2019 9:52:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\data\version\vmp\R_SWINFO.xml to /SW1/data/version/vmp/R_SWINFO.xml is true
+Dec 9, 2019 9:52:51 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\data\version\vmp\R_SWPKG.xml to /SW1/data/version/vmp/R_SWPKG.xml is true
+Dec 9, 2019 9:53:27 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\P1\Adtr-4.13.10.30.cpu to /SW1/P1/Adtr-4.13.10.30.cpu is true
+Dec 9, 2019 9:53:29 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\P1\AdtrDsp-4.13.10.dsp to /SW1/P1/AdtrDsp-4.13.10.dsp is true
+Dec 9, 2019 9:54:26 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\P1\AdtrFpga-4.13.1.fpg to /SW1/P1/AdtrFpga-4.13.1.fpg is true
+Dec 9, 2019 9:56:35 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\P1\FS5CFpga-V4.13..fpg to /SW1/P1/FS5CFpga-V4.13..fpg is true
+Dec 9, 2019 9:58:24 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\P1\FS5C_Plat_1.2.0.cpu to /SW1/P1/FS5C_Plat_1.2.0.cpu is true
+Dec 9, 2019 10:00:11 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\P1\FS5C_TDD.cpu to /SW1/P1/FS5C_TDD.cpu is true
+Dec 9, 2019 10:00:49 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\P1\RU81B-GL-4.13.1.fpg to /SW1/P1/RU81B-GL-4.13.1.fpg is true
+Dec 9, 2019 10:00:56 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\P1\RU81B-GU-4.13.1.dsp to /SW1/P1/RU81B-GU-4.13.1.dsp is true
+Dec 9, 2019 10:01:37 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\P1\RU81B-GU-4.13.1.fpg to /SW1/P1/RU81B-GU-4.13.1.fpg is true
+Dec 9, 2019 10:03:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\SW1\P1\UniRU-GUL-V4131.cpu to /SW1/P1/UniRU-GUL-V4131.cpu is true
+Dec 9, 2019 10:03:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put BAK file:C:\ZTELMT\btsImage\BAK\boot.ini to /BAK/boot.ini is true
+Dec 9, 2019 10:05:50 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put BAK file:C:\ZTELMT\btsImage\BAK\DefaultCpu.bin to /BAK/DefaultCpu.bin is true
+Dec 9, 2019 10:05:57 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put BAK file:C:\ZTELMT\btsImage\BAK\DefaultFpga.bin to /BAK/DefaultFpga.bin is true
+Dec 9, 2019 10:05:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put BAK file:C:\ZTELMT\btsImage\BAK\modb.xml to /BAK/modb.xml is true
+Dec 9, 2019 10:05:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put BAK file:C:\ZTELMT\btsImage\BAK\VerInfo.ini to /BAK/VerInfo.ini is true
+Dec 9, 2019 10:05:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: -----------os path: C:\Windows
+Dec 9, 2019 10:05:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: enter login(zte, zte)
+Dec 9, 2019 10:05:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:login:
+Dec 9, 2019 10:05:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:Password:
+Dec 9, 2019 10:05:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Dec 9, 2019 10:05:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: reply is =>
+Dec 9, 2019 10:05:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ftp try firstly: true
+Dec 9, 2019 10:05:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: logPath is D:\LMT 13\Release\copy_version\LMT\log\Trace\BtsImage_log.txt
+Dec 9, 2019 10:05:59 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zipFilePath is D:\LMT 13\Release\copy_version\LMT\log\Trace\BtsImage_log.zip
+Dec 9, 2019 10:06:01 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zip Compress file successful!
+Dec 9, 2019 10:06:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put log file:D:\LMT 13\Release\copy_version\LMT\log\Trace\BtsImage_log.zip to /OamLog/BtsImage_log.zip is true
+Dec 9, 2019 10:06:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :su root
+Dec 9, 2019 10:06:02 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :reboot
+Dec 9, 2019 10:06:03 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :reset
+Dec 9, 2019 10:06:03 AM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :BspBoardReset
