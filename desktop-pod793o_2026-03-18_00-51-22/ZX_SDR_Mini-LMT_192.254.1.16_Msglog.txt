@@ -1,0 +1,1724 @@
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Software Loopback Interface 1
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: IP?0:0:0:0:0:0:0:1
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Mask:255.255.255.255
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: IP?127.0.0.1
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Mask:255.0.0.0
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (SSTP)
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (L2TP)
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (PPTP)
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (PPPOE)
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (IPv6)
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (Network Monitor)
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (IP)
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?RAS Async Adapter
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (IKEv2)
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Intel(R) 82567LM Gigabit Network Connection
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: IP?fe80:0:0:0:5986:8edf:861:c854%11
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Mask:255.255.255.255
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: IP?192.254.1.102
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Mask:255.255.255.255
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Intel(R) WiFi Link 5300 AGN
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Aventail VPN Adapter
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Teredo Tunneling Pseudo-Interface
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: IP?fe80:0:0:0:e0:0:0:0%14
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Mask:255.255.255.255
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Microsoft ISATAP Adapter
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?TAP-Win32 Adapter V9
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: IP?fe80:0:0:0:edd4:3c7b:3e3f:1e2f%16
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Mask:255.255.255.255
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Remote NDIS based Internet Sharing Device
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Remote NDIS based Internet Sharing Device #2
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Remote NDIS based Internet Sharing Device #3
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Microsoft 6to4 Adapter
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: IP?2002:c0fe:166:0:0:0:c0fe:166
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Mask:255.255.0.0
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Microsoft ISATAP Adapter #4
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: IP?fe80:0:0:0:200:5efe:c0fe:166%21
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Mask:255.255.255.255
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Microsoft ISATAP Adapter #2
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Intel(R) 82567LM Gigabit Network Connection-QoS Packet Scheduler-0000
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Intel(R) 82567LM Gigabit Network Connection-WFP LightWeight Filter-0000
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (Network Monitor)-QoS Packet Scheduler-0000
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (IP)-QoS Packet Scheduler-0000
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (IPv6)-QoS Packet Scheduler-0000
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?TAP-Win32 Adapter V9-QoS Packet Scheduler-0000
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?TAP-Win32 Adapter V9-WFP LightWeight Filter-0000
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Run mode of ManagedElement is: 0
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Radio mode of ManagedElement is: G
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Found partially matched pkg: E:\new-Lmt(2G-3G-4G)\V4.15.10.30P50\V4.15.10.30P50\Package\SW_PLAT_V4.15.10.30P50.pkg
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: --------------- Selected package ---------------
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: E:\new-Lmt(2G-3G-4G)\V4.15.10.30P50\V4.15.10.30P50\Package\SW_GSM_V4.15.10.30P50.pkg
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: E:\new-Lmt(2G-3G-4G)\V4.15.10.30P50\V4.15.10.30P50\Package\SW_PLAT_V4.15.10.30P50.pkg
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ------------------------------------------------
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: --------------- Selected data ------------------
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\Users\Aqal khan\Desktop\1-5624_HLMP024_Khalage_modbdown.xml
+Jan 25, 2018 4:48:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ------------------------------------------------
+Jan 25, 2018 4:48:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3145856
+Jan 25, 2018 4:48:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:14303366
+Jan 25, 2018 4:48:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:14289031
+Jan 25, 2018 4:48:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6357121
+Jan 25, 2018 4:48:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6373505
+Jan 25, 2018 4:48:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6359169
+Jan 25, 2018 4:48:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3416065
+Jan 25, 2018 4:48:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3416064
+Jan 25, 2018 4:48:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6430721
+Jan 25, 2018 4:48:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6430722
+Jan 25, 2018 4:48:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6430723
+Jan 25, 2018 4:48:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6430720
+Jan 25, 2018 4:48:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3481602
+Jan 25, 2018 4:48:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3147776
+Jan 25, 2018 4:48:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3409920
+Jan 25, 2018 4:48:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3145728
+Jan 25, 2018 4:48:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:50105
+Jan 25, 2018 4:48:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:14288641
+Jan 25, 2018 4:48:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3172352
+Jan 25, 2018 4:48:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:50101
+Jan 25, 2018 4:48:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:50100
+Jan 25, 2018 4:48:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3407872
+Jan 25, 2018 4:48:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3481600
+Jan 25, 2018 4:48:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3612674
+Jan 25, 2018 4:48:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3612675
+Jan 25, 2018 4:48:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3481601
+Jan 25, 2018 4:48:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3612672
+Jan 25, 2018 4:48:53 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: success remove file blank
+Jan 25, 2018 4:49:11 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ===============LMT Version is 12.15.30P30_GULB2===============
+Jan 25, 2018 4:49:12 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: user:null; password:null
+Jan 25, 2018 4:49:12 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: enter login(zte, zte)
+Jan 25, 2018 4:49:12 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:login:
+Jan 25, 2018 4:49:13 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:Password:
+Jan 25, 2018 4:49:13 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:#
+Jan 25, 2018 4:49:13 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: reply is #
+Jan 25, 2018 4:49:13 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: =====OS is Linux=====
+Jan 25, 2018 4:49:13 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: =====State is CPU=====
+Jan 25, 2018 4:49:13 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :echo 1 > /mnt/flash/WIFI/bts_establish
+Jan 25, 2018 4:49:13 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :su root
+Jan 25, 2018 4:49:13 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :/bin/reboot
+Jan 25, 2018 4:49:13 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :/sbin/reboot
+Jan 25, 2018 4:49:14 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :reset
+Jan 25, 2018 4:49:14 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :reboot
+Jan 25, 2018 4:49:14 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+	at java.io.BufferedOutputStream.flush(Unknown Source)
+	at org.apache.commons.net.telnet.TelnetClient._flushOutputStream(TelnetClient.java:77)
+	at org.apache.commons.net.telnet.TelnetOutputStream.flush(TelnetOutputStream.java:145)
+	at com.zte.lmt.tools.btsimage.TelnetClient.execute(Unknown Source)
+	at com.zte.lmt.tools.btsimage.TelnetClient.reboot(Unknown Source)
+	at com.zte.lmt.tools.btsimage.BtsBurner.burn(Unknown Source)
+	at com.zte.lmt.tools.btsimage.BtsBurner.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Jan 25, 2018 4:49:14 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :exit
+Jan 25, 2018 4:49:14 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: catched an exception, but will be ignored...
+Jan 25, 2018 4:49:14 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+	at java.io.BufferedOutputStream.flush(Unknown Source)
+	at org.apache.commons.net.telnet.TelnetClient._flushOutputStream(TelnetClient.java:77)
+	at org.apache.commons.net.telnet.TelnetOutputStream.flush(TelnetOutputStream.java:145)
+	at com.zte.lmt.tools.btsimage.TelnetClient.execute(Unknown Source)
+	at com.zte.lmt.tools.btsimage.TelnetClient.disConnect(Unknown Source)
+	at com.zte.lmt.tools.btsimage.BtsBurner.burn(Unknown Source)
+	at com.zte.lmt.tools.btsimage.BtsBurner.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Jan 25, 2018 4:49:14 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: wait shutdown...
+Jan 25, 2018 4:49:16 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:49:18 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:49:23 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: wake up ...
+Jan 25, 2018 4:49:45 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ping nodeb return true
+Jan 25, 2018 4:49:45 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: user:null; password:null
+Jan 25, 2018 4:49:45 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: enter login(zte, zte)
+Jan 25, 2018 4:49:45 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:login:
+Jan 25, 2018 4:49:46 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:Password:
+Jan 25, 2018 4:49:46 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Jan 25, 2018 4:49:46 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: reply is =>
+Jan 25, 2018 4:49:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Jan 25, 2018 4:49:48 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Jan 25, 2018 4:49:49 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Jan 25, 2018 4:49:50 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Jan 25, 2018 4:49:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Jan 25, 2018 4:49:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Jan 25, 2018 4:49:53 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Jan 25, 2018 4:49:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Jan 25, 2018 4:49:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :
+
+Jan 25, 2018 4:49:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Jan 25, 2018 4:49:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: MasterBoardSlotId is 12290
+Jan 25, 2018 4:49:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :BspLogicBoardNameShow
+Jan 25, 2018 4:49:56 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: executeCmd BspLogicBoardNameShow, reply is BspLogicBoardNameShow
+=> 
+=> 
+=> 
+Unknown command 'BspLogicBoardNameShow' - try 'help'
+=> 
+Jan 25, 2018 4:49:56 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :
+Jan 25, 2018 4:49:57 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Jan 25, 2018 4:49:57 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :pwd
+Jan 25, 2018 4:49:57 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: reply is :pwd
+/
+
+Jan 25, 2018 4:49:57 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ftp try firstly: true
+Jan 25, 2018 4:49:57 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ftpRoot : /flash
+Jan 25, 2018 4:49:57 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: tempRoot : /flash
+Jan 25, 2018 4:49:57 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Master board productnumber is 12290 isCCE1= false
+Jan 25, 2018 4:49:57 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: CC16 or CCBD0 or 8912 or 8112
+Jan 25, 2018 4:49:59 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ftp try firstly: true
+Jan 25, 2018 4:49:59 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: logPath is E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.txt
+Jan 25, 2018 4:49:59 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zipFilePath is E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.zip
+Jan 25, 2018 4:49:59 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zip Compress file successful!
+Jan 25, 2018 4:49:59 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put log file:E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.zip to /flash/OamLog/BtsImage_log.zip is true
+Jan 25, 2018 4:50:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: linux del bootload.o success
+Jan 25, 2018 4:50:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Linux sleep 5s
+Jan 25, 2018 4:50:14 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :
+
+Jan 25, 2018 4:50:15 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Jan 25, 2018 4:50:15 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :exit
+Jan 25, 2018 4:50:15 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ftp try firstly: true
+Jan 25, 2018 4:50:15 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash
+Jan 25, 2018 4:50:15 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/BAK
+Jan 25, 2018 4:50:15 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BAK/modb.xml.gz
+Jan 25, 2018 4:50:15 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BAK/boot.ini
+Jan 25, 2018 4:50:15 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BAK/AlmSiteInfo.dat
+Jan 25, 2018 4:50:15 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BAK/VerInfo.ini
+Jan 25, 2018 4:50:15 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/BBX
+Jan 25, 2018 4:50:15 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/BIN
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BIN/packageStatus.xml
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BIN/boot.ini
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BIN/fpga_cur.swv
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BIN/cpu_cur.swv
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BIN/VerInfo.ini
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BIN/versionConfig.xml
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/BSP
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/DBS
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/dv
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/dv/UMTS_dv.xml
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/dv/UMTS_dv_rec_trans.xml
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/dv/PLAT_dv.xml
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/dv/dv.tar.gz
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/dv/dv.tar
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/dv/upload
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/dv/PLAT_dv_rec_trans.xml
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/MML
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/lcs
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/data
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/data/temp
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/data/temp/UMTS_dv.xml
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/data/temp/PLAT_dv.xml
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/modb
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/modb/modb.xml.old.gz
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/modb/modb.xml.gz
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/molog
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/molog/moe_GSM.log
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/molog/mop_PLAT.log
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/molog/moe_PLAT.log
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/molog/mop_UMTS.log
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/molog/moe_UMTS.log
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/hisdata
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/db_PLAT.xml.gz0
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/db_PLAT.xml.gz1
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/db_GSM.xml.gz0
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/db_GSM.xml.gz1
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/db_GSM.xml.gz2
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/db_GSM.xml.gz3
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/db_GSM.xml.gz4
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/GSM_idx.xml.gz
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/UMTS_idx.xml.gz
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/PLAT_idx.xml.gz
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/db_UMTS.xml.gz0
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/db_UMTS.xml.gz1
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/db_UMTS.xml.gz2
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/db_UMTS.xml.gz3
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/db_UMTS.xml.gz5
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/motemp
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/motemp/rec_1.xml
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/motemp/rec_2.xml
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/motemp/modbdown.xml.gz
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/motemp/mostatusack.xml
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/motemp/motrans.xml.gz.00
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/motemp/motrans.xml.gz.01
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/motemp/mostatusreq.xml
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/motemp/motrans.xml.gz
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/OAM
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/TMP
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/UMF
+Jan 25, 2018 4:50:19 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/VER
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x4cd2.4.15.10.10B01.FsaFpga
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x9a05.4.15.10.30P30.UmtsCccCpu
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x3f88.116223.FceAtlMmc
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x4da2.710233.SaAtlMmc
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x12a4.116223.AmcLm3Mmc
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x99b4.116223.Fce7Mmc
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x9467.617233.PmLm3Mmc
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x8f18.716233.PmMmc
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x8a04.116223.AmcMmc
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x12bd.4.15.10.30P30.BpkSo
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0xf8fd.4.15.10.30P30.UmtsDv
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x403c.4.15.10.30P30.BpkdSo
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x68ad.4.15.10.30P30.FceFanCtrl
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x3d6b.116223.Sa2Mmc
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x5073.116223.Fce8Mmc
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x4fc2.710233.PmAtlMmc
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x5fbf.116223.FceMmc
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x6dc1.4.15.10.30P30.BpkDsp
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x38d4.4.15.10.30P30.FceFanMap
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x27d3.4.15.10.30P30.RamdiskTool
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x8e8c.4.15.10.30P30.Dv
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x1aa6.611233.Sa0Mmc
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0xd5d3.4.15.10.30P30.BpkCpu
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x611c.4.14.10.10B04.BpkFpga
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/0x458f.4.15.10.30P30.FsaCpu
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/USB
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/pmp
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/dbbPanelTmp
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/STORE
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/ccWorkMode.cfg
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BroadMode.cfg
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/McpLog
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/OamLog
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/OssLog
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/PkiRoot
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/brslog
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/config
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/config/BrsAutoV6Log.txt
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/config/omcbpath.xml
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/config/BrsAutoLog.txt
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/config/comcfg.ini
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/config/lmtUser.xml
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/config/accessLogA.log
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/config/accessLogB.log
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/gsmlog
+Jan 25, 2018 4:50:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/repair
+Jan 25, 2018 4:50:31 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: user:null; password:null
+Jan 25, 2018 4:50:31 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: enter login(zte, zte)
+Jan 25, 2018 4:50:31 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:login:
+Jan 25, 2018 4:50:32 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:Password:
+Jan 25, 2018 4:50:32 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Jan 25, 2018 4:50:32 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: reply is =>
+Jan 25, 2018 4:50:32 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :BspFileSystemAvailSpaceShow
+Jan 25, 2018 4:50:34 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: executeCmd BspFileSystemAvailSpaceShow, reply is BspFileSystemAvailSpaceShow
+Unknown command 'BspFileSystemAvailSpaceShow' - try 'help'
+=> 
+Jan 25, 2018 4:50:34 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :df
+Jan 25, 2018 4:50:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: executeCmd df, reply is df
+File system: /flash
+FS total space:       247463936  (B)
+FS free space:        190716892  (B)
+FS available space:   245090124  (B)
+=> 
+Jan 25, 2018 4:50:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: FS free space 190716892
+Jan 25, 2018 4:50:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: FS available space 245090124
+Jan 25, 2018 4:50:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :exit
+Jan 25, 2018 4:50:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Image folder size is 47826485
+Jan 25, 2018 4:50:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: logPath is E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.txt
+Jan 25, 2018 4:50:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zipFilePath is E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.zip
+Jan 25, 2018 4:50:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zip Compress file successful!
+Jan 25, 2018 4:50:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put log file:E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.zip to /flash/OamLog/BtsImage_log.zip is true
+Jan 25, 2018 4:50:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\ccWorkMode.cfg to /flash/ccWorkMode.cfg is true; size is 8
+Jan 25, 2018 4:50:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/ccWorkMode.cfg to C:\ZTELMT\btsImage_bak\ccWorkMode.cfg is true; size is 8
+Jan 25, 2018 4:50:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\ccWorkMode.cfg crc is 0====C:\ZTELMT\btsImage_bak\ccWorkMode.cfg crc is 0
+Jan 25, 2018 4:50:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\BIN\boot.ini to /flash/BIN/boot.ini is true; size is 48
+Jan 25, 2018 4:50:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/BIN/boot.ini to C:\ZTELMT\btsImage_bak\BIN\boot.ini is true; size is 48
+Jan 25, 2018 4:50:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\BIN\boot.ini crc is 63993====C:\ZTELMT\btsImage_bak\BIN\boot.ini crc is 63993
+Jan 25, 2018 4:50:57 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\BIN\cpu_cur.swv to /flash/BIN/cpu_cur.swv is true; size is 14102969
+Jan 25, 2018 4:51:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/BIN/cpu_cur.swv to C:\ZTELMT\btsImage_bak\BIN\cpu_cur.swv is true; size is 14102969
+Jan 25, 2018 4:51:04 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\BIN\cpu_cur.swv crc is 2417====C:\ZTELMT\btsImage_bak\BIN\cpu_cur.swv crc is 2417
+Jan 25, 2018 4:51:05 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\BIN\fpga_cur.swv to /flash/BIN/fpga_cur.swv is true; size is 1101830
+Jan 25, 2018 4:51:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/BIN/fpga_cur.swv to C:\ZTELMT\btsImage_bak\BIN\fpga_cur.swv is true; size is 1101830
+Jan 25, 2018 4:51:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\BIN\fpga_cur.swv crc is 38167====C:\ZTELMT\btsImage_bak\BIN\fpga_cur.swv crc is 38167
+Jan 25, 2018 4:51:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\BIN\packageStatus.xml to /flash/BIN/packageStatus.xml is true; size is 1121
+Jan 25, 2018 4:51:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/BIN/packageStatus.xml to C:\ZTELMT\btsImage_bak\BIN\packageStatus.xml is true; size is 1121
+Jan 25, 2018 4:51:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\BIN\packageStatus.xml crc is 21012====C:\ZTELMT\btsImage_bak\BIN\packageStatus.xml crc is 21012
+Jan 25, 2018 4:51:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\BIN\VerInfo.ini to /flash/BIN/VerInfo.ini is true; size is 312
+Jan 25, 2018 4:51:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/BIN/VerInfo.ini to C:\ZTELMT\btsImage_bak\BIN\VerInfo.ini is true; size is 312
+Jan 25, 2018 4:51:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\BIN\VerInfo.ini crc is 43534====C:\ZTELMT\btsImage_bak\BIN\VerInfo.ini crc is 43534
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\BIN\versionConfig.xml to /flash/BIN/versionConfig.xml is true; size is 466087
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/BIN/versionConfig.xml to C:\ZTELMT\btsImage_bak\BIN\versionConfig.xml is true; size is 466087
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\BIN\versionConfig.xml crc is 2411====C:\ZTELMT\btsImage_bak\BIN\versionConfig.xml crc is 2411
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\DBS\GSM\data\version\FLAG.BAK to /flash/DBS/GSM/data/version/FLAG.BAK is true; size is 5
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/DBS/GSM/data/version/FLAG.BAK to C:\ZTELMT\btsImage_bak\DBS\GSM\data\version\FLAG.BAK is true; size is 5
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\DBS\GSM\data\version\FLAG.BAK crc is 4364====C:\ZTELMT\btsImage_bak\DBS\GSM\data\version\FLAG.BAK crc is 4364
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\DBS\GSM\data\version\FLAG.BIN to /flash/DBS/GSM/data/version/FLAG.BIN is true; size is 5
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/DBS/GSM/data/version/FLAG.BIN to C:\ZTELMT\btsImage_bak\DBS\GSM\data\version\FLAG.BIN is true; size is 5
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\DBS\GSM\data\version\FLAG.BIN crc is 4364====C:\ZTELMT\btsImage_bak\DBS\GSM\data\version\FLAG.BIN crc is 4364
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\DBS\PLAT\data\version\FLAG.BAK to /flash/DBS/PLAT/data/version/FLAG.BAK is true; size is 5
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/DBS/PLAT/data/version/FLAG.BAK to C:\ZTELMT\btsImage_bak\DBS\PLAT\data\version\FLAG.BAK is true; size is 5
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\DBS\PLAT\data\version\FLAG.BAK crc is 4364====C:\ZTELMT\btsImage_bak\DBS\PLAT\data\version\FLAG.BAK crc is 4364
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\DBS\PLAT\data\version\FLAG.BIN to /flash/DBS/PLAT/data/version/FLAG.BIN is true; size is 5
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/DBS/PLAT/data/version/FLAG.BIN to C:\ZTELMT\btsImage_bak\DBS\PLAT\data\version\FLAG.BIN is true; size is 5
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\DBS\PLAT\data\version\FLAG.BIN crc is 4364====C:\ZTELMT\btsImage_bak\DBS\PLAT\data\version\FLAG.BIN crc is 4364
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\DBS\PLAT\data\version\R_PKGRST.xml to /flash/DBS/PLAT/data/version/R_PKGRST.xml is true; size is 23378
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/DBS/PLAT/data/version/R_PKGRST.xml to C:\ZTELMT\btsImage_bak\DBS\PLAT\data\version\R_PKGRST.xml is true; size is 23378
+Jan 25, 2018 4:51:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\DBS\PLAT\data\version\R_PKGRST.xml crc is 13868====C:\ZTELMT\btsImage_bak\DBS\PLAT\data\version\R_PKGRST.xml crc is 13868
+Jan 25, 2018 4:51:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\MOM\modb\modb.xml to /flash/MOM/modb/modb.xml is true; size is 208128
+Jan 25, 2018 4:51:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/MOM/modb/modb.xml to C:\ZTELMT\btsImage_bak\MOM\modb\modb.xml is true; size is 208128
+Jan 25, 2018 4:51:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\MOM\modb\modb.xml crc is 24459====C:\ZTELMT\btsImage_bak\MOM\modb\modb.xml crc is 24459
+Jan 25, 2018 4:51:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\116223.AmcLm3Mmc to /flash/VER/116223.AmcLm3Mmc is true; size is 128020
+Jan 25, 2018 4:51:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/116223.AmcLm3Mmc to C:\ZTELMT\btsImage_bak\VER\116223.AmcLm3Mmc is true; size is 128020
+Jan 25, 2018 4:51:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\116223.AmcLm3Mmc crc is 53406====C:\ZTELMT\btsImage_bak\VER\116223.AmcLm3Mmc crc is 53406
+Jan 25, 2018 4:51:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\116223.AmcMmc to /flash/VER/116223.AmcMmc is true; size is 132712
+Jan 25, 2018 4:51:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/116223.AmcMmc to C:\ZTELMT\btsImage_bak\VER\116223.AmcMmc is true; size is 132712
+Jan 25, 2018 4:51:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\116223.AmcMmc crc is 43294====C:\ZTELMT\btsImage_bak\VER\116223.AmcMmc crc is 43294
+Jan 25, 2018 4:51:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\116223.Fce7Mmc to /flash/VER/116223.Fce7Mmc is true; size is 149168
+Jan 25, 2018 4:51:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/116223.Fce7Mmc to C:\ZTELMT\btsImage_bak\VER\116223.Fce7Mmc is true; size is 149168
+Jan 25, 2018 4:51:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\116223.Fce7Mmc crc is 43765====C:\ZTELMT\btsImage_bak\VER\116223.Fce7Mmc crc is 43765
+Jan 25, 2018 4:51:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\116223.Fce8Mmc to /flash/VER/116223.Fce8Mmc is true; size is 155864
+Jan 25, 2018 4:51:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/116223.Fce8Mmc to C:\ZTELMT\btsImage_bak\VER\116223.Fce8Mmc is true; size is 155864
+Jan 25, 2018 4:51:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\116223.Fce8Mmc crc is 63916====C:\ZTELMT\btsImage_bak\VER\116223.Fce8Mmc crc is 63916
+Jan 25, 2018 4:51:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\116223.FceAtlMmc to /flash/VER/116223.FceAtlMmc is true; size is 154432
+Jan 25, 2018 4:51:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/116223.FceAtlMmc to C:\ZTELMT\btsImage_bak\VER\116223.FceAtlMmc is true; size is 154432
+Jan 25, 2018 4:51:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\116223.FceAtlMmc crc is 21916====C:\ZTELMT\btsImage_bak\VER\116223.FceAtlMmc crc is 21916
+Jan 25, 2018 4:51:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\116223.FceMmc to /flash/VER/116223.FceMmc is true; size is 156212
+Jan 25, 2018 4:51:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/116223.FceMmc to C:\ZTELMT\btsImage_bak\VER\116223.FceMmc is true; size is 156212
+Jan 25, 2018 4:51:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\116223.FceMmc crc is 30699====C:\ZTELMT\btsImage_bak\VER\116223.FceMmc crc is 30699
+Jan 25, 2018 4:51:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\116223.Sa2Mmc to /flash/VER/116223.Sa2Mmc is true; size is 142276
+Jan 25, 2018 4:51:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/116223.Sa2Mmc to C:\ZTELMT\btsImage_bak\VER\116223.Sa2Mmc is true; size is 142276
+Jan 25, 2018 4:51:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\116223.Sa2Mmc crc is 42145====C:\ZTELMT\btsImage_bak\VER\116223.Sa2Mmc crc is 42145
+Jan 25, 2018 4:51:18 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.10B01.FsaFpga to /flash/VER/4.15.10.10B01.FsaFpga is true; size is 5632137
+Jan 25, 2018 4:51:20 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.10B01.FsaFpga to C:\ZTELMT\btsImage_bak\VER\4.15.10.10B01.FsaFpga is true; size is 5632137
+Jan 25, 2018 4:51:20 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.10B01.FsaFpga crc is 58891====C:\ZTELMT\btsImage_bak\VER\4.15.10.10B01.FsaFpga crc is 58891
+Jan 25, 2018 4:51:22 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P50.GsmCccCpu to /flash/VER/4.15.10.30P50.GsmCccCpu is true; size is 1015882
+Jan 25, 2018 4:51:22 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P50.GsmCccCpu to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.GsmCccCpu is true; size is 1015882
+Jan 25, 2018 4:51:22 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P50.GsmCccCpu crc is 64713====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.GsmCccCpu crc is 64713
+Jan 25, 2018 4:51:26 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P50.GsmR8882B_RSU82BDsp to /flash/VER/4.15.10.30P50.GsmR8882B_RSU82BDsp is true; size is 2184573
+Jan 25, 2018 4:51:27 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P50.GsmR8882B_RSU82BDsp to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.GsmR8882B_RSU82BDsp is true; size is 2184573
+Jan 25, 2018 4:51:27 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P50.GsmR8882B_RSU82BDsp crc is 61383====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.GsmR8882B_RSU82BDsp crc is 61383
+Jan 25, 2018 4:51:29 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P50.GsmR8882B_RSU82BFpga to /flash/VER/4.15.10.30P50.GsmR8882B_RSU82BFpga is true; size is 1927093
+Jan 25, 2018 4:51:30 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P50.GsmR8882B_RSU82BFpga to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.GsmR8882B_RSU82BFpga is true; size is 1927093
+Jan 25, 2018 4:51:30 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P50.GsmR8882B_RSU82BFpga crc is 24293====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.GsmR8882B_RSU82BFpga crc is 24293
+Jan 25, 2018 4:51:38 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P50.RamdiskTool to /flash/VER/4.15.10.30P50.RamdiskTool is true; size is 5458167
+Jan 25, 2018 4:51:41 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P50.RamdiskTool to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.RamdiskTool is true; size is 5458167
+Jan 25, 2018 4:51:41 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P50.RamdiskTool crc is 10790====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.RamdiskTool crc is 10790
+Jan 25, 2018 4:51:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P50.Ubpg3Cpu to /flash/VER/4.15.10.30P50.Ubpg3Cpu is true; size is 4675387
+Jan 25, 2018 4:51:50 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P50.Ubpg3Cpu to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.Ubpg3Cpu is true; size is 4675387
+Jan 25, 2018 4:51:50 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P50.Ubpg3Cpu crc is 44902====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.Ubpg3Cpu crc is 44902
+Jan 25, 2018 4:51:51 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P50.Ubpg3Dsp to /flash/VER/4.15.10.30P50.Ubpg3Dsp is true; size is 1224356
+Jan 25, 2018 4:51:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P50.Ubpg3Dsp to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.Ubpg3Dsp is true; size is 1224356
+Jan 25, 2018 4:51:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P50.Ubpg3Dsp crc is 38768====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.Ubpg3Dsp crc is 38768
+Jan 25, 2018 4:51:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P50.Ubpg3Fpga to /flash/VER/4.15.10.30P50.Ubpg3Fpga is true; size is 1126478
+Jan 25, 2018 4:51:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P50.Ubpg3Fpga to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.Ubpg3Fpga is true; size is 1126478
+Jan 25, 2018 4:51:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P50.Ubpg3Fpga crc is 49517====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.Ubpg3Fpga crc is 49517
+Jan 25, 2018 4:52:01 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P50.UniRuCpu to /flash/VER/4.15.10.30P50.UniRuCpu is true; size is 4706000
+Jan 25, 2018 4:52:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P50.UniRuCpu to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.UniRuCpu is true; size is 4706000
+Jan 25, 2018 4:52:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P50.UniRuCpu crc is 52257====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.UniRuCpu crc is 52257
+Jan 25, 2018 4:52:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P5003290547.Dv to /flash/VER/4.15.10.30P5003290547.Dv is true; size is 18855
+Jan 25, 2018 4:52:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P5003290547.Dv to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P5003290547.Dv is true; size is 18855
+Jan 25, 2018 4:52:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P5003290547.Dv crc is 12582====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P5003290547.Dv crc is 12582
+Jan 25, 2018 4:52:04 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P5003290547.FceFanCtrl to /flash/VER/4.15.10.30P5003290547.FceFanCtrl is true; size is 113833
+Jan 25, 2018 4:52:04 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P5003290547.FceFanCtrl to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P5003290547.FceFanCtrl is true; size is 113833
+Jan 25, 2018 4:52:04 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P5003290547.FceFanCtrl crc is 56147====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P5003290547.FceFanCtrl crc is 56147
+Jan 25, 2018 4:52:04 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P5003290547.FceFanMap to /flash/VER/4.15.10.30P5003290547.FceFanMap is true; size is 19404
+Jan 25, 2018 4:52:04 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P5003290547.FceFanMap to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P5003290547.FceFanMap is true; size is 19404
+Jan 25, 2018 4:52:04 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P5003290547.FceFanMap crc is 37193====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P5003290547.FceFanMap crc is 37193
+Jan 25, 2018 4:52:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P5003290547.FsaCpu to /flash/VER/4.15.10.30P5003290547.FsaCpu is true; size is 1782371
+Jan 25, 2018 4:52:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P5003290547.FsaCpu to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P5003290547.FsaCpu is true; size is 1782371
+Jan 25, 2018 4:52:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P5003290547.FsaCpu crc is 17941====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P5003290547.FsaCpu crc is 17941
+Jan 25, 2018 4:52:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\611233.Sa0Mmc to /flash/VER/611233.Sa0Mmc is true; size is 154068
+Jan 25, 2018 4:52:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/611233.Sa0Mmc to C:\ZTELMT\btsImage_bak\VER\611233.Sa0Mmc is true; size is 154068
+Jan 25, 2018 4:52:07 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\611233.Sa0Mmc crc is 5458====C:\ZTELMT\btsImage_bak\VER\611233.Sa0Mmc crc is 5458
+Jan 25, 2018 4:52:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\617233.PmLm3Mmc to /flash/VER/617233.PmLm3Mmc is true; size is 169488
+Jan 25, 2018 4:52:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/617233.PmLm3Mmc to C:\ZTELMT\btsImage_bak\VER\617233.PmLm3Mmc is true; size is 169488
+Jan 25, 2018 4:52:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\617233.PmLm3Mmc crc is 34600====C:\ZTELMT\btsImage_bak\VER\617233.PmLm3Mmc crc is 34600
+Jan 25, 2018 4:52:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\710233.PmAtlMmc to /flash/VER/710233.PmAtlMmc is true; size is 171156
+Jan 25, 2018 4:52:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/710233.PmAtlMmc to C:\ZTELMT\btsImage_bak\VER\710233.PmAtlMmc is true; size is 171156
+Jan 25, 2018 4:52:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\710233.PmAtlMmc crc is 12838====C:\ZTELMT\btsImage_bak\VER\710233.PmAtlMmc crc is 12838
+Jan 25, 2018 4:52:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\710233.SaAtlMmc to /flash/VER/710233.SaAtlMmc is true; size is 150060
+Jan 25, 2018 4:52:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/710233.SaAtlMmc to C:\ZTELMT\btsImage_bak\VER\710233.SaAtlMmc is true; size is 150060
+Jan 25, 2018 4:52:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\710233.SaAtlMmc crc is 35184====C:\ZTELMT\btsImage_bak\VER\710233.SaAtlMmc crc is 35184
+Jan 25, 2018 4:52:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\716233.PmMmc to /flash/VER/716233.PmMmc is true; size is 166104
+Jan 25, 2018 4:52:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/716233.PmMmc to C:\ZTELMT\btsImage_bak\VER\716233.PmMmc is true; size is 166104
+Jan 25, 2018 4:52:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\716233.PmMmc crc is 29481====C:\ZTELMT\btsImage_bak\VER\716233.PmMmc crc is 29481
+Jan 25, 2018 4:52:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put BAK file:C:\ZTELMT\btsImage\BAK\boot.ini to /flash/BAK/boot.ini is true; size is 48
+Jan 25, 2018 4:52:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put BAK file:C:\ZTELMT\btsImage\BAK\modb.xml to /flash/BAK/modb.xml is true; size is 208128
+Jan 25, 2018 4:52:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put BAK file:C:\ZTELMT\btsImage\BAK\VerInfo.ini to /flash/BAK/VerInfo.ini is true; size is 312
+Jan 25, 2018 4:52:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: user:null; password:null
+Jan 25, 2018 4:52:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: enter login(zte, zte)
+Jan 25, 2018 4:52:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:login:
+Jan 25, 2018 4:52:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:Password:
+Jan 25, 2018 4:52:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Jan 25, 2018 4:52:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: reply is =>
+Jan 25, 2018 4:52:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ftp try firstly: true
+Jan 25, 2018 4:52:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: logPath is E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.txt
+Jan 25, 2018 4:52:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zipFilePath is E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.zip
+Jan 25, 2018 4:52:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zip Compress file successful!
+Jan 25, 2018 4:52:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put log file:E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.zip to /flash/OamLog/BtsImage_log.zip is true
+Jan 25, 2018 4:52:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :rm -rf /mnt/flash/WIFI/bts_establish
+Jan 25, 2018 4:52:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :su root
+Jan 25, 2018 4:52:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :/bin/reboot
+Jan 25, 2018 4:52:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :/sbin/reboot
+Jan 25, 2018 4:52:11 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :reset
+Jan 25, 2018 4:52:11 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :reboot
+Jan 25, 2018 4:52:11 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ====Burn successful!====
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Software Loopback Interface 1
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: IP?0:0:0:0:0:0:0:1
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Mask:255.255.255.255
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: IP?127.0.0.1
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Mask:255.0.0.0
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (SSTP)
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (L2TP)
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (PPTP)
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (PPPOE)
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (IPv6)
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (Network Monitor)
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (IP)
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?RAS Async Adapter
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (IKEv2)
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Intel(R) 82567LM Gigabit Network Connection
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: IP?fe80:0:0:0:5986:8edf:861:c854%11
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Mask:255.255.255.255
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: IP?192.254.1.102
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Mask:255.255.255.255
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Intel(R) WiFi Link 5300 AGN
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Aventail VPN Adapter
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Teredo Tunneling Pseudo-Interface
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: IP?fe80:0:0:0:e0:0:0:0%14
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Mask:255.255.255.255
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Microsoft ISATAP Adapter
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?TAP-Win32 Adapter V9
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: IP?fe80:0:0:0:edd4:3c7b:3e3f:1e2f%16
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Mask:255.255.255.255
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Remote NDIS based Internet Sharing Device
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Remote NDIS based Internet Sharing Device #2
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Remote NDIS based Internet Sharing Device #3
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Microsoft 6to4 Adapter
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: IP?2002:c0fe:166:0:0:0:c0fe:166
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Mask:255.255.0.0
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Microsoft ISATAP Adapter #4
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: IP?fe80:0:0:0:200:5efe:c0fe:166%21
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Mask:255.255.255.255
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Microsoft ISATAP Adapter #2
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Intel(R) 82567LM Gigabit Network Connection-QoS Packet Scheduler-0000
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?Intel(R) 82567LM Gigabit Network Connection-WFP LightWeight Filter-0000
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (Network Monitor)-QoS Packet Scheduler-0000
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (IP)-QoS Packet Scheduler-0000
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?WAN Miniport (IPv6)-QoS Packet Scheduler-0000
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?TAP-Win32 Adapter V9-QoS Packet Scheduler-0000
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: adapter?TAP-Win32 Adapter V9-WFP LightWeight Filter-0000
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Run mode of ManagedElement is: 0
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Radio mode of ManagedElement is: G
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Found partially matched pkg: E:\new-Lmt(2G-3G-4G)\V4.15.10.30P50\V4.15.10.30P50\Package\SW_PLAT_V4.15.10.30P50.pkg
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: --------------- Selected package ---------------
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: E:\new-Lmt(2G-3G-4G)\V4.15.10.30P50\V4.15.10.30P50\Package\SW_GSM_V4.15.10.30P50.pkg
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: E:\new-Lmt(2G-3G-4G)\V4.15.10.30P50\V4.15.10.30P50\Package\SW_PLAT_V4.15.10.30P50.pkg
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ------------------------------------------------
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: --------------- Selected data ------------------
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\Users\Aqal khan\Desktop\1-5624_HLMP024_Khalage_modbdown.xml
+Jan 25, 2018 4:56:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ------------------------------------------------
+Jan 25, 2018 4:56:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3145856
+Jan 25, 2018 4:56:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:14303366
+Jan 25, 2018 4:56:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:14289031
+Jan 25, 2018 4:56:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6357121
+Jan 25, 2018 4:56:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6373505
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6359169
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3416065
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3416064
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6430721
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6430722
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6430723
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:6430720
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3481602
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3147776
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3409920
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3145728
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:50105
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:14288641
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3172352
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:50101
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:50100
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3407872
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3481600
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3612674
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3612675
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3481601
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: swid:3612672
+Jan 25, 2018 4:56:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: success remove file blank
+Jan 25, 2018 4:57:01 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ===============LMT Version is 12.15.30P30_GULB2===============
+Jan 25, 2018 4:57:02 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: user:null; password:null
+Jan 25, 2018 4:57:02 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: enter login(zte, zte)
+Jan 25, 2018 4:57:02 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:login:
+Jan 25, 2018 4:57:02 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:Password:
+Jan 25, 2018 4:57:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:#
+Jan 25, 2018 4:57:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: reply is #
+Jan 25, 2018 4:57:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: =====OS is Linux=====
+Jan 25, 2018 4:57:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: =====State is CPU=====
+Jan 25, 2018 4:57:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :echo 1 > /mnt/flash/WIFI/bts_establish
+Jan 25, 2018 4:57:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :su root
+Jan 25, 2018 4:57:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :/bin/reboot
+Jan 25, 2018 4:57:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :/sbin/reboot
+Jan 25, 2018 4:57:04 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :reset
+Jan 25, 2018 4:57:04 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :reboot
+Jan 25, 2018 4:57:04 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+	at java.io.BufferedOutputStream.flush(Unknown Source)
+	at org.apache.commons.net.telnet.TelnetClient._flushOutputStream(TelnetClient.java:77)
+	at org.apache.commons.net.telnet.TelnetOutputStream.flush(TelnetOutputStream.java:145)
+	at com.zte.lmt.tools.btsimage.TelnetClient.execute(Unknown Source)
+	at com.zte.lmt.tools.btsimage.TelnetClient.reboot(Unknown Source)
+	at com.zte.lmt.tools.btsimage.BtsBurner.burn(Unknown Source)
+	at com.zte.lmt.tools.btsimage.BtsBurner.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Jan 25, 2018 4:57:04 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :exit
+Jan 25, 2018 4:57:04 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: catched an exception, but will be ignored...
+Jan 25, 2018 4:57:04 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+	at java.io.BufferedOutputStream.flush(Unknown Source)
+	at org.apache.commons.net.telnet.TelnetClient._flushOutputStream(TelnetClient.java:77)
+	at org.apache.commons.net.telnet.TelnetOutputStream.flush(TelnetOutputStream.java:145)
+	at com.zte.lmt.tools.btsimage.TelnetClient.execute(Unknown Source)
+	at com.zte.lmt.tools.btsimage.TelnetClient.disConnect(Unknown Source)
+	at com.zte.lmt.tools.btsimage.BtsBurner.burn(Unknown Source)
+	at com.zte.lmt.tools.btsimage.BtsBurner.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Jan 25, 2018 4:57:04 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: wait shutdown...
+Jan 25, 2018 4:57:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:08 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:12 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:14 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:16 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:18 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:20 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:22 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:24 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:26 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:30 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:32 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:34 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:38 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:40 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:46 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:48 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:50 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: nodeb is still alive.
+Jan 25, 2018 4:57:57 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: wake up ...
+Jan 25, 2018 4:58:21 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ping nodeb return true
+Jan 25, 2018 4:58:21 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: user:null; password:null
+Jan 25, 2018 4:58:21 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: enter login(zte, zte)
+Jan 25, 2018 4:58:21 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:login:
+Jan 25, 2018 4:58:21 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:Password:
+Jan 25, 2018 4:58:22 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Jan 25, 2018 4:58:22 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: reply is =>
+Jan 25, 2018 4:58:23 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Jan 25, 2018 4:58:24 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Jan 25, 2018 4:58:25 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Jan 25, 2018 4:58:26 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Jan 25, 2018 4:58:27 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Jan 25, 2018 4:58:28 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Jan 25, 2018 4:58:29 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Jan 25, 2018 4:58:30 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :bs
+Jan 25, 2018 4:58:30 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :
+
+Jan 25, 2018 4:58:30 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Jan 25, 2018 4:58:30 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: MasterBoardSlotId is 12290
+Jan 25, 2018 4:58:30 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :BspLogicBoardNameShow
+Jan 25, 2018 4:58:32 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: executeCmd BspLogicBoardNameShow, reply is BspLogicBoardNameShow
+=> 
+=> 
+=> 
+Unknown command 'BspLogicBoardNameShow' - try 'help'
+=> 
+Jan 25, 2018 4:58:32 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :
+Jan 25, 2018 4:58:32 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Jan 25, 2018 4:58:32 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :pwd
+Jan 25, 2018 4:58:32 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: reply is :pwd
+/
+
+Jan 25, 2018 4:58:32 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ftp try firstly: true
+Jan 25, 2018 4:58:32 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ftpRoot : /flash
+Jan 25, 2018 4:58:32 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: tempRoot : /flash
+Jan 25, 2018 4:58:32 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Master board productnumber is 12290 isCCE1= false
+Jan 25, 2018 4:58:32 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: CC16 or CCBD0 or 8912 or 8112
+Jan 25, 2018 4:58:34 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ftp try firstly: true
+Jan 25, 2018 4:58:34 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: logPath is E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.txt
+Jan 25, 2018 4:58:34 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zipFilePath is E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.zip
+Jan 25, 2018 4:58:35 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zip Compress file successful!
+Jan 25, 2018 4:58:35 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put log file:E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.zip to /flash/OamLog/BtsImage_log.zip is true
+Jan 25, 2018 4:58:45 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: linux del bootload.o success
+Jan 25, 2018 4:58:45 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Linux sleep 5s
+Jan 25, 2018 4:58:50 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :
+
+Jan 25, 2018 4:58:50 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Jan 25, 2018 4:58:50 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :exit
+Jan 25, 2018 4:58:50 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ftp try firstly: true
+Jan 25, 2018 4:58:50 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash
+Jan 25, 2018 4:58:50 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/BAK
+Jan 25, 2018 4:58:50 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BAK/modb.xml
+Jan 25, 2018 4:58:50 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BAK/boot.ini
+Jan 25, 2018 4:58:50 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BAK/VerInfo.ini
+Jan 25, 2018 4:58:50 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/BBX
+Jan 25, 2018 4:58:50 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/BIN
+Jan 25, 2018 4:58:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BIN/packageStatus.xml
+Jan 25, 2018 4:58:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BIN/boot.ini
+Jan 25, 2018 4:58:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BIN/fpga_cur.swv
+Jan 25, 2018 4:58:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BIN/cpu_cur.swv
+Jan 25, 2018 4:58:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BIN/VerInfo.ini
+Jan 25, 2018 4:58:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BIN/versionConfig.xml
+Jan 25, 2018 4:58:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/BSP
+Jan 25, 2018 4:58:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/DBS
+Jan 25, 2018 4:58:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM
+Jan 25, 2018 4:58:54 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/dv
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/dv/PLAT_dv.xml
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/dv/upload
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/MML
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/lcs
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/data
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/data/temp
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/modb
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/modb/modb.xml
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/molog
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/molog/mop_PLAT.log
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/molog/moe_PLAT.log
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/hisdata
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/db_GSM.xml.gz0
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/GSM_idx.xml.gz
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/hisdata/PLAT_idx.xml.gz
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/MOM/motemp
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/motemp/mostatusack.xml
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/MOM/motemp/mostatusreq.xml
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/OAM
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/TMP
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/UMF
+Jan 25, 2018 4:58:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/VER
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/4.15.10.30P50.RamdiskTool
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/710233.PmAtlMmc
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/4.15.10.30P50.Ubpg3Fpga
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/716233.PmMmc
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/4.15.10.30P50.GsmR8882B_RSU82BDsp
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/4.15.10.30P5003290547.FsaCpu
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/4.15.10.30P5003290547.Dv
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/116223.AmcMmc
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/116223.FceMmc
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/710233.SaAtlMmc
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/4.15.10.30P50.UniRuCpu
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/116223.AmcLm3Mmc
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/116223.FceAtlMmc
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/116223.Sa2Mmc
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/611233.Sa0Mmc
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/4.15.10.10B01.FsaFpga
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/4.15.10.30P50.Ubpg3Cpu
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/4.15.10.30P50.Ubpg3Dsp
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/4.15.10.30P50.GsmCccCpu
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/617233.PmLm3Mmc
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/4.15.10.30P5003290547.FceFanCtrl
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/116223.Fce7Mmc
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/116223.Fce8Mmc
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/4.15.10.30P5003290547.FceFanMap
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/VER/4.15.10.30P50.GsmR8882B_RSU82BFpga
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/USB
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/pmp
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/dbbPanelTmp
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/STORE
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/ccWorkMode.cfg
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/BroadMode.cfg
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/McpLog
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/OamLog
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/OssLog
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/PkiRoot
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/brslog
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/config
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/config/BrsAutoV6Log.txt
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/config/omcbpath.xml
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/config/BrsAutoLog.txt
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/config/comcfg.ini
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/config/lmtUser.xml
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/config/accessLogA.log
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: delete file success : /flash/config/accessLogB.log
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/gsmlog
+Jan 25, 2018 4:59:03 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Predelete file is : /flash/repair
+Jan 25, 2018 4:59:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: user:null; password:null
+Jan 25, 2018 4:59:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: enter login(zte, zte)
+Jan 25, 2018 4:59:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:login:
+Jan 25, 2018 4:59:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:Password:
+Jan 25, 2018 4:59:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Jan 25, 2018 4:59:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: reply is =>
+Jan 25, 2018 4:59:06 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :BspFileSystemAvailSpaceShow
+Jan 25, 2018 4:59:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: executeCmd BspFileSystemAvailSpaceShow, reply is BspFileSystemAvailSpaceShow
+Unknown command 'BspFileSystemAvailSpaceShow' - try 'help'
+=> 
+Jan 25, 2018 4:59:09 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :df
+Jan 25, 2018 4:59:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: executeCmd df, reply is df
+File system: /flash
+FS total space:       247463936  (B)
+FS free space:        191267068  (B)
+FS available space:   245198244  (B)
+=> 
+Jan 25, 2018 4:59:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: FS free space 191267068
+Jan 25, 2018 4:59:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: FS available space 245198244
+Jan 25, 2018 4:59:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :exit
+Jan 25, 2018 4:59:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: Image folder size is 47826485
+Jan 25, 2018 4:59:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: logPath is E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.txt
+Jan 25, 2018 4:59:10 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zipFilePath is E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.zip
+Jan 25, 2018 4:59:11 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zip Compress file successful!
+Jan 25, 2018 4:59:11 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put log file:E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.zip to /flash/OamLog/BtsImage_log.zip is true
+Jan 25, 2018 4:59:11 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\ccWorkMode.cfg to /flash/ccWorkMode.cfg is true; size is 8
+Jan 25, 2018 4:59:11 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/ccWorkMode.cfg to C:\ZTELMT\btsImage_bak\ccWorkMode.cfg is true; size is 8
+Jan 25, 2018 4:59:11 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\ccWorkMode.cfg crc is 0====C:\ZTELMT\btsImage_bak\ccWorkMode.cfg crc is 0
+Jan 25, 2018 4:59:11 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\BIN\boot.ini to /flash/BIN/boot.ini is true; size is 48
+Jan 25, 2018 4:59:11 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/BIN/boot.ini to C:\ZTELMT\btsImage_bak\BIN\boot.ini is true; size is 48
+Jan 25, 2018 4:59:11 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\BIN\boot.ini crc is 63993====C:\ZTELMT\btsImage_bak\BIN\boot.ini crc is 63993
+Jan 25, 2018 4:59:32 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\BIN\cpu_cur.swv to /flash/BIN/cpu_cur.swv is true; size is 14102969
+Jan 25, 2018 4:59:38 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/BIN/cpu_cur.swv to C:\ZTELMT\btsImage_bak\BIN\cpu_cur.swv is true; size is 14102969
+Jan 25, 2018 4:59:38 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\BIN\cpu_cur.swv crc is 2417====C:\ZTELMT\btsImage_bak\BIN\cpu_cur.swv crc is 2417
+Jan 25, 2018 4:59:40 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\BIN\fpga_cur.swv to /flash/BIN/fpga_cur.swv is true; size is 1101830
+Jan 25, 2018 4:59:40 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/BIN/fpga_cur.swv to C:\ZTELMT\btsImage_bak\BIN\fpga_cur.swv is true; size is 1101830
+Jan 25, 2018 4:59:40 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\BIN\fpga_cur.swv crc is 38167====C:\ZTELMT\btsImage_bak\BIN\fpga_cur.swv crc is 38167
+Jan 25, 2018 4:59:40 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\BIN\packageStatus.xml to /flash/BIN/packageStatus.xml is true; size is 1121
+Jan 25, 2018 4:59:40 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/BIN/packageStatus.xml to C:\ZTELMT\btsImage_bak\BIN\packageStatus.xml is true; size is 1121
+Jan 25, 2018 4:59:40 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\BIN\packageStatus.xml crc is 21012====C:\ZTELMT\btsImage_bak\BIN\packageStatus.xml crc is 21012
+Jan 25, 2018 4:59:40 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\BIN\VerInfo.ini to /flash/BIN/VerInfo.ini is true; size is 312
+Jan 25, 2018 4:59:41 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/BIN/VerInfo.ini to C:\ZTELMT\btsImage_bak\BIN\VerInfo.ini is true; size is 312
+Jan 25, 2018 4:59:41 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\BIN\VerInfo.ini crc is 43534====C:\ZTELMT\btsImage_bak\BIN\VerInfo.ini crc is 43534
+Jan 25, 2018 4:59:41 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\BIN\versionConfig.xml to /flash/BIN/versionConfig.xml is true; size is 466087
+Jan 25, 2018 4:59:41 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/BIN/versionConfig.xml to C:\ZTELMT\btsImage_bak\BIN\versionConfig.xml is true; size is 466087
+Jan 25, 2018 4:59:41 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\BIN\versionConfig.xml crc is 2411====C:\ZTELMT\btsImage_bak\BIN\versionConfig.xml crc is 2411
+Jan 25, 2018 4:59:41 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\DBS\GSM\data\version\FLAG.BAK to /flash/DBS/GSM/data/version/FLAG.BAK is true; size is 5
+Jan 25, 2018 4:59:41 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/DBS/GSM/data/version/FLAG.BAK to C:\ZTELMT\btsImage_bak\DBS\GSM\data\version\FLAG.BAK is true; size is 5
+Jan 25, 2018 4:59:41 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\DBS\GSM\data\version\FLAG.BAK crc is 4364====C:\ZTELMT\btsImage_bak\DBS\GSM\data\version\FLAG.BAK crc is 4364
+Jan 25, 2018 4:59:41 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\DBS\GSM\data\version\FLAG.BIN to /flash/DBS/GSM/data/version/FLAG.BIN is true; size is 5
+Jan 25, 2018 4:59:41 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/DBS/GSM/data/version/FLAG.BIN to C:\ZTELMT\btsImage_bak\DBS\GSM\data\version\FLAG.BIN is true; size is 5
+Jan 25, 2018 4:59:41 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\DBS\GSM\data\version\FLAG.BIN crc is 4364====C:\ZTELMT\btsImage_bak\DBS\GSM\data\version\FLAG.BIN crc is 4364
+Jan 25, 2018 4:59:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\DBS\PLAT\data\version\FLAG.BAK to /flash/DBS/PLAT/data/version/FLAG.BAK is true; size is 5
+Jan 25, 2018 4:59:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/DBS/PLAT/data/version/FLAG.BAK to C:\ZTELMT\btsImage_bak\DBS\PLAT\data\version\FLAG.BAK is true; size is 5
+Jan 25, 2018 4:59:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\DBS\PLAT\data\version\FLAG.BAK crc is 4364====C:\ZTELMT\btsImage_bak\DBS\PLAT\data\version\FLAG.BAK crc is 4364
+Jan 25, 2018 4:59:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\DBS\PLAT\data\version\FLAG.BIN to /flash/DBS/PLAT/data/version/FLAG.BIN is true; size is 5
+Jan 25, 2018 4:59:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/DBS/PLAT/data/version/FLAG.BIN to C:\ZTELMT\btsImage_bak\DBS\PLAT\data\version\FLAG.BIN is true; size is 5
+Jan 25, 2018 4:59:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\DBS\PLAT\data\version\FLAG.BIN crc is 4364====C:\ZTELMT\btsImage_bak\DBS\PLAT\data\version\FLAG.BIN crc is 4364
+Jan 25, 2018 4:59:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\DBS\PLAT\data\version\R_PKGRST.xml to /flash/DBS/PLAT/data/version/R_PKGRST.xml is true; size is 23378
+Jan 25, 2018 4:59:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/DBS/PLAT/data/version/R_PKGRST.xml to C:\ZTELMT\btsImage_bak\DBS\PLAT\data\version\R_PKGRST.xml is true; size is 23378
+Jan 25, 2018 4:59:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\DBS\PLAT\data\version\R_PKGRST.xml crc is 13868====C:\ZTELMT\btsImage_bak\DBS\PLAT\data\version\R_PKGRST.xml crc is 13868
+Jan 25, 2018 4:59:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\MOM\modb\modb.xml to /flash/MOM/modb/modb.xml is true; size is 208128
+Jan 25, 2018 4:59:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/MOM/modb/modb.xml to C:\ZTELMT\btsImage_bak\MOM\modb\modb.xml is true; size is 208128
+Jan 25, 2018 4:59:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\MOM\modb\modb.xml crc is 24459====C:\ZTELMT\btsImage_bak\MOM\modb\modb.xml crc is 24459
+Jan 25, 2018 4:59:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\116223.AmcLm3Mmc to /flash/VER/116223.AmcLm3Mmc is true; size is 128020
+Jan 25, 2018 4:59:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/116223.AmcLm3Mmc to C:\ZTELMT\btsImage_bak\VER\116223.AmcLm3Mmc is true; size is 128020
+Jan 25, 2018 4:59:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\116223.AmcLm3Mmc crc is 53406====C:\ZTELMT\btsImage_bak\VER\116223.AmcLm3Mmc crc is 53406
+Jan 25, 2018 4:59:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\116223.AmcMmc to /flash/VER/116223.AmcMmc is true; size is 132712
+Jan 25, 2018 4:59:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/116223.AmcMmc to C:\ZTELMT\btsImage_bak\VER\116223.AmcMmc is true; size is 132712
+Jan 25, 2018 4:59:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\116223.AmcMmc crc is 43294====C:\ZTELMT\btsImage_bak\VER\116223.AmcMmc crc is 43294
+Jan 25, 2018 4:59:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\116223.Fce7Mmc to /flash/VER/116223.Fce7Mmc is true; size is 149168
+Jan 25, 2018 4:59:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/116223.Fce7Mmc to C:\ZTELMT\btsImage_bak\VER\116223.Fce7Mmc is true; size is 149168
+Jan 25, 2018 4:59:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\116223.Fce7Mmc crc is 43765====C:\ZTELMT\btsImage_bak\VER\116223.Fce7Mmc crc is 43765
+Jan 25, 2018 4:59:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\116223.Fce8Mmc to /flash/VER/116223.Fce8Mmc is true; size is 155864
+Jan 25, 2018 4:59:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/116223.Fce8Mmc to C:\ZTELMT\btsImage_bak\VER\116223.Fce8Mmc is true; size is 155864
+Jan 25, 2018 4:59:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\116223.Fce8Mmc crc is 63916====C:\ZTELMT\btsImage_bak\VER\116223.Fce8Mmc crc is 63916
+Jan 25, 2018 4:59:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\116223.FceAtlMmc to /flash/VER/116223.FceAtlMmc is true; size is 154432
+Jan 25, 2018 4:59:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/116223.FceAtlMmc to C:\ZTELMT\btsImage_bak\VER\116223.FceAtlMmc is true; size is 154432
+Jan 25, 2018 4:59:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\116223.FceAtlMmc crc is 21916====C:\ZTELMT\btsImage_bak\VER\116223.FceAtlMmc crc is 21916
+Jan 25, 2018 4:59:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\116223.FceMmc to /flash/VER/116223.FceMmc is true; size is 156212
+Jan 25, 2018 4:59:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/116223.FceMmc to C:\ZTELMT\btsImage_bak\VER\116223.FceMmc is true; size is 156212
+Jan 25, 2018 4:59:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\116223.FceMmc crc is 30699====C:\ZTELMT\btsImage_bak\VER\116223.FceMmc crc is 30699
+Jan 25, 2018 4:59:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\116223.Sa2Mmc to /flash/VER/116223.Sa2Mmc is true; size is 142276
+Jan 25, 2018 4:59:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/116223.Sa2Mmc to C:\ZTELMT\btsImage_bak\VER\116223.Sa2Mmc is true; size is 142276
+Jan 25, 2018 4:59:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\116223.Sa2Mmc crc is 42145====C:\ZTELMT\btsImage_bak\VER\116223.Sa2Mmc crc is 42145
+Jan 25, 2018 4:59:52 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.10B01.FsaFpga to /flash/VER/4.15.10.10B01.FsaFpga is true; size is 5632137
+Jan 25, 2018 4:59:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.10B01.FsaFpga to C:\ZTELMT\btsImage_bak\VER\4.15.10.10B01.FsaFpga is true; size is 5632137
+Jan 25, 2018 4:59:55 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.10B01.FsaFpga crc is 58891====C:\ZTELMT\btsImage_bak\VER\4.15.10.10B01.FsaFpga crc is 58891
+Jan 25, 2018 4:59:56 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P50.GsmCccCpu to /flash/VER/4.15.10.30P50.GsmCccCpu is true; size is 1015882
+Jan 25, 2018 4:59:57 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P50.GsmCccCpu to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.GsmCccCpu is true; size is 1015882
+Jan 25, 2018 4:59:57 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P50.GsmCccCpu crc is 64713====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.GsmCccCpu crc is 64713
+Jan 25, 2018 5:00:00 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P50.GsmR8882B_RSU82BDsp to /flash/VER/4.15.10.30P50.GsmR8882B_RSU82BDsp is true; size is 2184573
+Jan 25, 2018 5:00:01 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P50.GsmR8882B_RSU82BDsp to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.GsmR8882B_RSU82BDsp is true; size is 2184573
+Jan 25, 2018 5:00:01 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P50.GsmR8882B_RSU82BDsp crc is 61383====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.GsmR8882B_RSU82BDsp crc is 61383
+Jan 25, 2018 5:00:04 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P50.GsmR8882B_RSU82BFpga to /flash/VER/4.15.10.30P50.GsmR8882B_RSU82BFpga is true; size is 1927093
+Jan 25, 2018 5:00:05 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P50.GsmR8882B_RSU82BFpga to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.GsmR8882B_RSU82BFpga is true; size is 1927093
+Jan 25, 2018 5:00:05 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P50.GsmR8882B_RSU82BFpga crc is 24293====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.GsmR8882B_RSU82BFpga crc is 24293
+Jan 25, 2018 5:00:13 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P50.RamdiskTool to /flash/VER/4.15.10.30P50.RamdiskTool is true; size is 5458167
+Jan 25, 2018 5:00:15 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P50.RamdiskTool to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.RamdiskTool is true; size is 5458167
+Jan 25, 2018 5:00:16 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P50.RamdiskTool crc is 10790====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.RamdiskTool crc is 10790
+Jan 25, 2018 5:00:23 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P50.Ubpg3Cpu to /flash/VER/4.15.10.30P50.Ubpg3Cpu is true; size is 4675387
+Jan 25, 2018 5:00:25 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P50.Ubpg3Cpu to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.Ubpg3Cpu is true; size is 4675387
+Jan 25, 2018 5:00:25 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P50.Ubpg3Cpu crc is 44902====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.Ubpg3Cpu crc is 44902
+Jan 25, 2018 5:00:27 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P50.Ubpg3Dsp to /flash/VER/4.15.10.30P50.Ubpg3Dsp is true; size is 1224356
+Jan 25, 2018 5:00:27 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P50.Ubpg3Dsp to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.Ubpg3Dsp is true; size is 1224356
+Jan 25, 2018 5:00:27 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P50.Ubpg3Dsp crc is 38768====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.Ubpg3Dsp crc is 38768
+Jan 25, 2018 5:00:29 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P50.Ubpg3Fpga to /flash/VER/4.15.10.30P50.Ubpg3Fpga is true; size is 1126478
+Jan 25, 2018 5:00:29 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P50.Ubpg3Fpga to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.Ubpg3Fpga is true; size is 1126478
+Jan 25, 2018 5:00:29 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P50.Ubpg3Fpga crc is 49517====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.Ubpg3Fpga crc is 49517
+Jan 25, 2018 5:00:36 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P50.UniRuCpu to /flash/VER/4.15.10.30P50.UniRuCpu is true; size is 4706000
+Jan 25, 2018 5:00:38 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P50.UniRuCpu to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.UniRuCpu is true; size is 4706000
+Jan 25, 2018 5:00:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P50.UniRuCpu crc is 52257====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P50.UniRuCpu crc is 52257
+Jan 25, 2018 5:00:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P5003290547.Dv to /flash/VER/4.15.10.30P5003290547.Dv is true; size is 18855
+Jan 25, 2018 5:00:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P5003290547.Dv to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P5003290547.Dv is true; size is 18855
+Jan 25, 2018 5:00:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P5003290547.Dv crc is 12582====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P5003290547.Dv crc is 12582
+Jan 25, 2018 5:00:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P5003290547.FceFanCtrl to /flash/VER/4.15.10.30P5003290547.FceFanCtrl is true; size is 113833
+Jan 25, 2018 5:00:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P5003290547.FceFanCtrl to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P5003290547.FceFanCtrl is true; size is 113833
+Jan 25, 2018 5:00:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P5003290547.FceFanCtrl crc is 56147====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P5003290547.FceFanCtrl crc is 56147
+Jan 25, 2018 5:00:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P5003290547.FceFanMap to /flash/VER/4.15.10.30P5003290547.FceFanMap is true; size is 19404
+Jan 25, 2018 5:00:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P5003290547.FceFanMap to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P5003290547.FceFanMap is true; size is 19404
+Jan 25, 2018 5:00:39 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P5003290547.FceFanMap crc is 37193====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P5003290547.FceFanMap crc is 37193
+Jan 25, 2018 5:00:41 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\4.15.10.30P5003290547.FsaCpu to /flash/VER/4.15.10.30P5003290547.FsaCpu is true; size is 1782371
+Jan 25, 2018 5:00:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/4.15.10.30P5003290547.FsaCpu to C:\ZTELMT\btsImage_bak\VER\4.15.10.30P5003290547.FsaCpu is true; size is 1782371
+Jan 25, 2018 5:00:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\4.15.10.30P5003290547.FsaCpu crc is 17941====C:\ZTELMT\btsImage_bak\VER\4.15.10.30P5003290547.FsaCpu crc is 17941
+Jan 25, 2018 5:00:42 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\611233.Sa0Mmc to /flash/VER/611233.Sa0Mmc is true; size is 154068
+Jan 25, 2018 5:00:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/611233.Sa0Mmc to C:\ZTELMT\btsImage_bak\VER\611233.Sa0Mmc is true; size is 154068
+Jan 25, 2018 5:00:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\611233.Sa0Mmc crc is 5458====C:\ZTELMT\btsImage_bak\VER\611233.Sa0Mmc crc is 5458
+Jan 25, 2018 5:00:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\617233.PmLm3Mmc to /flash/VER/617233.PmLm3Mmc is true; size is 169488
+Jan 25, 2018 5:00:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/617233.PmLm3Mmc to C:\ZTELMT\btsImage_bak\VER\617233.PmLm3Mmc is true; size is 169488
+Jan 25, 2018 5:00:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\617233.PmLm3Mmc crc is 34600====C:\ZTELMT\btsImage_bak\VER\617233.PmLm3Mmc crc is 34600
+Jan 25, 2018 5:00:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\710233.PmAtlMmc to /flash/VER/710233.PmAtlMmc is true; size is 171156
+Jan 25, 2018 5:00:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/710233.PmAtlMmc to C:\ZTELMT\btsImage_bak\VER\710233.PmAtlMmc is true; size is 171156
+Jan 25, 2018 5:00:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\710233.PmAtlMmc crc is 12838====C:\ZTELMT\btsImage_bak\VER\710233.PmAtlMmc crc is 12838
+Jan 25, 2018 5:00:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\710233.SaAtlMmc to /flash/VER/710233.SaAtlMmc is true; size is 150060
+Jan 25, 2018 5:00:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/710233.SaAtlMmc to C:\ZTELMT\btsImage_bak\VER\710233.SaAtlMmc is true; size is 150060
+Jan 25, 2018 5:00:43 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\710233.SaAtlMmc crc is 35184====C:\ZTELMT\btsImage_bak\VER\710233.SaAtlMmc crc is 35184
+Jan 25, 2018 5:00:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put file:C:\ZTELMT\btsImage\VER\716233.PmMmc to /flash/VER/716233.PmMmc is true; size is 166104
+Jan 25, 2018 5:00:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get file:/flash/VER/716233.PmMmc to C:\ZTELMT\btsImage_bak\VER\716233.PmMmc is true; size is 166104
+Jan 25, 2018 5:00:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: C:\ZTELMT\btsImage\VER\716233.PmMmc crc is 29481====C:\ZTELMT\btsImage_bak\VER\716233.PmMmc crc is 29481
+Jan 25, 2018 5:00:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put BAK file:C:\ZTELMT\btsImage\BAK\boot.ini to /flash/BAK/boot.ini is true; size is 48
+Jan 25, 2018 5:00:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put BAK file:C:\ZTELMT\btsImage\BAK\modb.xml to /flash/BAK/modb.xml is true; size is 208128
+Jan 25, 2018 5:00:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put BAK file:C:\ZTELMT\btsImage\BAK\VerInfo.ini to /flash/BAK/VerInfo.ini is true; size is 312
+Jan 25, 2018 5:00:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: user:null; password:null
+Jan 25, 2018 5:00:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: enter login(zte, zte)
+Jan 25, 2018 5:00:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:login:
+Jan 25, 2018 5:00:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:Password:
+Jan 25, 2018 5:00:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: get reply:=>
+Jan 25, 2018 5:00:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: reply is =>
+Jan 25, 2018 5:00:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ftp try firstly: true
+Jan 25, 2018 5:00:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: logPath is E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.txt
+Jan 25, 2018 5:00:44 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zipFilePath is E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.zip
+Jan 25, 2018 5:00:45 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: zip Compress file successful!
+Jan 25, 2018 5:00:45 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: put log file:E:\new-Lmt(2G-3G-4G)\LMT_v12.15.30P30a_GUL\Release\copy_version\LMT\log\Trace\BtsImage_log.zip to /flash/OamLog/BtsImage_log.zip is true
+Jan 25, 2018 5:00:45 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :rm -rf /mnt/flash/WIFI/bts_establish
+Jan 25, 2018 5:00:45 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :su root
+Jan 25, 2018 5:00:46 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :/bin/reboot
+Jan 25, 2018 5:00:46 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :/sbin/reboot
+Jan 25, 2018 5:00:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :reset
+Jan 25, 2018 5:00:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: command :reboot
+Jan 25, 2018 5:00:47 PM com.zte.lmt.tools.btsimage.util.TraceLogger print
+INFO: ====Burn successful!====
