@@ -1,0 +1,977 @@
+Version5;
+USB\VID_05ac&PID_8215	Apple\Allx86\AppleBluetoothBroadcomInstaller\old\	AppleBTBC.inf	Apple	1	10/05/2010,3.2.0.1	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_8215	Apple\Allx64\AppleBluetoothBroadcomInstaller64\	AppleBTBC64.inf	Apple.NTamd64	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_8215	Apple\Allx86\AppleBluetoothBroadcomInstaller\old\	AppleBTBC.inf	Apple.NTx86	1	10/05/2010,3.2.0.1	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_8215	Apple\Allx86\AppleBluetoothBroadcomInstaller\	AppleBTBC.inf	Apple.NTx86	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_8216	Apple\Allx86\AppleBluetoothInstaller\	AppleBT.inf	Apple.NT.5.1	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+USB\VID_05ac&PID_8217	Apple\Allx86\AppleBluetoothInstaller\	AppleBT.inf	Apple.NT.5.1	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+USB\VID_05ac&PID_8210	Apple\Allx86\AppleBluetoothInstaller\	AppleBT.inf	Apple.NT.5.1	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+USB\Vid_05ac&Pid_0252&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0252&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0252&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0252&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05ac&PID_8213	Apple\Allx86\AppleBluetoothBroadcomInstaller\old\	AppleBTBC.inf	Apple.NTx86	1	10/05/2010,3.2.0.1	Apple Broadcom Built-in Bluetooth
+USB\VID_05AC&PID_0252&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05ac&PID_8213	Apple\Allx86\AppleBluetoothBroadcomInstaller\	AppleBTBC.inf	Apple.NTx86	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_8213	Apple\Allx86\AppleBluetoothBroadcomInstaller\old\	AppleBTBC.inf	Apple	1	10/05/2010,3.2.0.1	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_8213	Apple\Allx64\AppleBluetoothBroadcomInstaller64\	AppleBTBC64.inf	Apple.NTamd64	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\VID_05AC&PID_0252&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+ACPI\ATK0110	Asus\ATK\FORCED\NTx64\0110_1043.6.0.0\	AsAcpi.inf	ATK	1	07/16/2009,1043.6.0.0	ATK0110 ACPI UTILITY
+ACPI\ATK0110	Asus\ATK\FORCED\NTx64\0110_1043.6.0.0\	AsAcpi.inf	ATK.NTamd64	1	07/16/2009,1043.6.0.0	ATK0110 ACPI UTILITY
+ACPI\ATK0110	Asus\ATK\FORCED\NTx86\0110_1043.5.0.0\	AsAcpi.inf	ATK	1	07/16/2009,1043.5.0.0	ATK0110 ACPI UTILITY
+ACPI\ATK0110	Asus\ATK\FORCED\5x64\0110_1043.5.0.0\	AsAcpi.inf	ATK	1	01/21/2008,1043.5.0.0	ATK0110 ACPI UTILITY
+ACPI\ATK0110	Asus\ATK\FORCED\5x86\0110_1043.2.15.37\	Atk2000.inf	ATK	1	08/13/2004,1043.2.15.37	ATK0110 ACPI UTILITY
+ACPI\ATK0110	Asus\ATK\FORCED\5x64\0110_1043.5.0.0\	AsAcpi.inf	ATK.NTamd64	1	01/21/2008,1043.5.0.0	ATK0110 ACPI UTILITY
+ACPI\ATK0110	Asus\ATK\FORCED\6x64\0110_1043.4.0.0\	AsAcpi.inf	ATK.NTamd64	1	10/19/2006,1043.4.0.0	ATK0110 ACPI UTILITY
+ACPI\ATK0110	Asus\ATK\FORCED\6x64\0110_1043.4.0.0\	AsAcpi.inf	ATK	1	10/19/2006,1043.4.0.0	ATK0110 ACPI UTILITY
+ACPI\ATK0110	Asus\ATK\FORCED\6x86\0110_1043.1.0.0\	AsAcpi.inf	ATK	1	10/11/2006,1043.1.0.0	ATK0110 ACPI UTILITY
+USB\VID_05ac&PID_8218	Apple\Allx64\AppleBluetoothBroadcomInstaller64\	AppleBTBC64.inf	Apple.NTamd64	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+ACPI\PU_0010	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTamd64	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+USB\VID_05ac&PID_8218	Apple\Allx86\AppleBluetoothBroadcomInstaller\	AppleBTBC.inf	Apple.NTx86	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_8218	Apple\Allx86\AppleBluetoothBroadcomInstaller\old\	AppleBTBC.inf	Apple.NTx86	1	10/05/2010,3.2.0.1	Apple Broadcom Built-in Bluetooth
+ACPI\PU_0010	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTx86	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+USB\VID_05ac&PID_8218	Apple\Allx86\AppleBluetoothBroadcomInstaller\old\	AppleBTBC.inf	Apple	1	10/05/2010,3.2.0.1	Apple Broadcom Built-in Bluetooth
+USB\VID_03F0&PID_0924&MI_01	HP\WinAll\Keyboard\	HPKBSC.inf	Model	1	11/07/2006,4.32.00.01	HP Modular USB Smartcard Keyboard
+USB\VID_03F0&PID_0924&MI_01	HP\WinAll\Keyboard\	HPKBSC.inf	Model.NTamd64	1	11/07/2006,4.32.00.01	HP Modular USB Smartcard Keyboard
+USB\VID_05ac&PID_821D	Apple\Allx64\AppleBluetoothBroadcomInstaller64\	AppleBTBC64.inf	Apple.NTamd64	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_821D	Apple\Allx86\AppleBluetoothBroadcomInstaller\	AppleBTBC.inf	Apple.NTx86	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_821F	Apple\Allx86\AppleBluetoothBroadcomInstaller\	AppleBTBC.inf	Apple.NTx86	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_821F	Apple\Allx64\AppleBluetoothBroadcomInstaller64\	AppleBTBC64.inf	Apple.NTamd64	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\VID_05AC&PID_8300	Apple\Allx64\AppleiSightInstaller64\	iSight64.inf	Apple.NTamd64	1	10/25/2007,2.0.1.0	Apple Built-in iSight - Unprogrammed
+USB\VID_05AC&PID_0251&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0251&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_8300	Apple\Allx86\AppleiSightInstaller\	iSight.inf	Apple	1	10/25/2007,2.0.1.0	Apple Built-in iSight - Unprogrammed
+USB\VID_05ac&PID_821A	Apple\Allx64\AppleBluetoothBroadcomInstaller64\	AppleBTBC64.inf	Apple.NTamd64	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\VID_05AC&PID_0251&MI_01	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05ac&PID_821A	Apple\Allx86\AppleBluetoothBroadcomInstaller\old\	AppleBTBC.inf	Apple.NTx86	1	10/05/2010,3.2.0.1	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_821A	Apple\Allx86\AppleBluetoothBroadcomInstaller\	AppleBTBC.inf	Apple.NTx86	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_821A	Apple\Allx86\AppleBluetoothBroadcomInstaller\old\	AppleBTBC.inf	Apple	1	10/05/2010,3.2.0.1	Apple Broadcom Built-in Bluetooth
+USB\VID_05AC&PID_0251&MI_01	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05ac&PID_821B	Apple\Allx86\AppleBluetoothBroadcomInstaller\old\	AppleBTBC.inf	Apple.NTx86	1	10/05/2010,3.2.0.1	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_821B	Apple\Allx86\AppleBluetoothBroadcomInstaller\old\	AppleBTBC.inf	Apple	1	10/05/2010,3.2.0.1	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_821B	Apple\Allx64\AppleBluetoothBroadcomInstaller64\	AppleBTBC64.inf	Apple.NTamd64	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_821B	Apple\Allx86\AppleBluetoothBroadcomInstaller\	AppleBTBC.inf	Apple.NTx86	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\Vid_05ac&Pid_0249&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0249&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_0249&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0249&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0249&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0249&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+ACPI\IBM0055	Lenovo\WinAll\PowerManagement\	IBMPMDRV.INF	ibm.Mfg.NTamd64	1	11/30/2012,1.66.00.22	Lenovo PM Device
+ACPI\IBM0055	Lenovo\WinAll\PowerManagement\	IBMPMDRV.INF	ibm.Mfg	1	11/30/2012,1.66.00.22	Lenovo PM Device
+ACPI\IBM0055	Lenovo\WinAll\PowerManagement\	IBMPMDRV.INF	ibm.Mfg.NTx86	1	11/30/2012,1.66.00.22	Lenovo PM Device
+ACPI\ASUS010	Asus\ATK\FORCED\5x86\010_1.0.0.1\	AsusACPI.inf	AsusTeK	1	04/08/2008,1.0.0.1	ASUS ACPI Driver
+ACPI\APP000B	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	Apple graphics mux
+ACPI\APP000B	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	Apple graphics mux
+ACPI\ATK0100	Asus\ATK\FORCED\NTx64\0100_1043.2.15.75\	ATK0100.INF	ATK	1	05/13/2009,1043.2.15.75	ATK0100 ACPI UTILITY
+ACPI\ATK0100	Asus\ATK\FORCED\NTx64\0100_1043.2.15.75\	ATK0100.INF	ATK.NTamd64	1	05/13/2009,1043.2.15.75	ATK0100 ACPI UTILITY
+ACPI\ATK0100	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTamd64	0	06/03/2009,1043.2.31.102	ATK0100 ACPI UTILITY
+ACPI\ATK0100	Asus\ATK\FORCED\5x86\0100_1043.2.15.58\	ATK0100.INF	ATK	1	04/13/2006,1043.2.15.58	ATK0100 ACPI UTILITY
+ACPI\ATK0100	Asus\ATK\FORCED\6x64\0100_1043.2.15.73\	ATK0100.INF	ATK.NTamd64	1	12/18/2008,1043.2.15.73	ATK0100 ACPI UTILITY
+ACPI\ATK0100	Asus\ATK\FORCED\5x86\0100_1043.2.15.101\	ATK0100.INF	ATK	1	08/23/2007,1043.2.15.101	ATK0100 ACPI UTILITY
+ACPI\ATK0100	Asus\ATK\FORCED\6x64\0100_1043.2.15.73\	ATK0100.INF	ATK	1	12/18/2008,1043.2.15.73	ATK0100 ACPI UTILITY
+ACPI\ATK0100	Asus\ATK\FORCED\NTx86\0100_1043.2.31.105\	ATK0100.INF	ATK	1	05/13/2009,1043.2.31.105	ATK0100 ACPI UTILITY
+ACPI\ATK0100	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTx86	0	06/03/2009,1043.2.31.102	ATK0100 ACPI UTILITY
+ACPI\ATK0100	Asus\ATK\FORCED\5x86\0100_1043.2.31.100\	ATK0100.INF	ATK	1	12/14/2006,1043.2.31.100	ATK0100 ACPI UTILITY
+ACPI\ATK0100	Asus\ATK\FORCED\6x86\0100_1043.2.31.102\	ATK0100.INF	ATK	1	12/24/2008,1043.2.31.102	ATK0100 ACPI UTILITY
+ACPI\ATK0100	Asus\ATK\FORCED\5x86\0100_1043.2.15.22\	ATKXP.INF	ASUSTeK	1	11/19/2002,1043.2.15.22	ATK0100 ACPI UTILITY
+ACPI\ATK0101	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTamd64	0	06/03/2009,1043.2.31.102	ATK0100 ACPI UTILITY
+ACPI\ATK0101	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTx86	0	06/03/2009,1043.2.31.102	ATK0100 ACPI UTILITY
+USB\Vid_05ac&Pid_0245&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0245&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_0245&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0245&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+ACPI\HP_TabletPC_Buttons	HP\FORCED\NTx64\Button\	hpqlb.inf	HP	0	04/23/2008,4.20.7	HP Quick Launch Buttons
+ACPI\HP_TabletPC_Buttons	HP\FORCED\5x86\Button\	hpqlb.inf	HP	0	03/30/2007,4.20.5	HP Quick Launch Buttons
+USB\Vid_05ac&Pid_0245&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+ACPI\HP_TabletPC_Buttons	HP\FORCED\5x64\Button\old\	hpqlb.inf	HP	0	12/22/2005,4.20.2	HP Quick Launch Buttons
+ACPI\HP_TabletPC_Buttons	HP\FORCED\NTx86\Button\	hphkbuttn.inf	HP.NTx86	0	07/26/2011,7.0.3.1	HP Hotkey Device
+ACPI\HP_TabletPC_Buttons	HP\FORCED\5x64\Button\	hpqlb.inf	HP	0	04/02/2007,4.20.5	HP Quick Launch Buttons
+ACPI\HP_TabletPC_Buttons	HP\FORCED\NTx64\Button\	hphkbuttn.inf	HP.NTx86	0	02/24/2010,7.0.1.1	HP Hotkey Device
+USB\VID_05ac&PID_820f	Apple\Allx86\AppleBluetoothInstaller\	AppleBT.inf	Apple.NT.5.1	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+ACPI\HP_TabletPC_Buttons	HP\FORCED\5x86\Button\old\	hpqlb.inf	HP	0	09/11/2005,4.20.2	HP Quick Launch Buttons
+ACPI\HP_TabletPC_Buttons	HP\FORCED\NTx86\Button\	hpqlb.inf	HP	0	04/23/2008,4.20.7	HP Quick Launch Buttons
+USB\Vid_05ac&Pid_0245&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+ACPI\HP_TabletPC_Buttons	HP\FORCED\NTx86\Button\	hphkbuttn.inf	HP	0	07/26/2011,7.0.3.1	HP Hotkey Device
+ACPI\HP_TabletPC_Buttons	HP\FORCED\NTx64\Button\	hphkbuttn.inf	HP	0	02/24/2010,7.0.1.1	HP Hotkey Device
+USB\Vid_05ac&Pid_0225&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0225&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0225&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0225&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_0225&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0225&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05ac&PID_ffff	Apple\Allx86\AppleBluetoothInstaller\	AppleBT.inf	Apple.NT.6.0	1	03/01/2010,3.0.0.5	Apple Built-in BluetoothDFU
+USB\VID_05ac&PID_ffff	Apple\Allx86\AppleBluetoothInstaller\	AppleBT.inf	Apple.NT.5.1	1	03/01/2010,3.0.0.5	Apple Built-in BluetoothDFU
+USB\VID_05ac&PID_ffff	Apple\Allx64\AppleBluetoothInstaller64\	AppleBT64.inf	Apple.NTamd64.6.0	1	03/01/2010,3.0.0.5	Apple Built-in BluetoothDFU
+USB\Vid_05ac&Pid_024C&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_024C&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_024C&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_024C&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_024C&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_024C&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0254&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0254&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_0254&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0254&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0254&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+SIRNull	Lenovo\Allx86\IrDA\	netirsir.inf	MS_Devices.NTx86...1	0	06/21/2006,6.0.6001.18000	Serial Cable using IrDA Protocol
+SIRNull	Lenovo\Allx64\IrDA\	netirsir.inf	MS_Devices.NTamd64...1	0	06/21/2006,6.0.6001.18000	Serial Cable using IrDA Protocol
+USB\Vid_05ac&Pid_0254&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+*IBM0002	Lenovo\Allx86\IrDA\	netirsir.inf	IBM_Devices.NTx86...1	0	06/21/2006,6.0.6001.18000	IBM Thinkpad Infrared Device
+*IBM0002	Lenovo\Allx64\IrDA\	netirsir.inf	IBM_Devices.NTamd64...1	0	06/21/2006,6.0.6001.18000	IBM Thinkpad Infrared Device
+USB\VID_17EF&PID_602F	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+USB\VID_17EF&PID_602F	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+USB\VID_17EF&PID_602F	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+USB\VID_17EF&PID_602F	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+USB\VID_17EF&PID_602F	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+USB\VID_17EF&PID_602F	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+USB\VID_17EF&PID_602F	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+USB\VID_17EF&PID_602F	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+USB\VID_17EF&PID_6039	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Laser Wireless Mouse (HID)
+USB\VID_17EF&PID_6039	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Laser Wireless Mouse (HID)
+USB\VID_17EF&PID_6039	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Laser Wireless Mouse (HID)
+USB\VID_17EF&PID_6039	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Laser Wireless Mouse (HID)
+USB\VID_17EF&PID_6039	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Laser Wireless Mouse (HID)
+USB\VID_17EF&PID_6039	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Laser Wireless Mouse (HID)
+USB\VID_17EF&PID_6039	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Laser Wireless Mouse (HID)
+USB\VID_17EF&PID_6039	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Laser Wireless Mouse (HID)
+ACPI\APP0006	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	Apple memory controller GPE event
+ACPI\APP0006	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	Apple memory controller GPE event
+SIRGirbil	Lenovo\Allx64\IrDA\	netirsir.inf	Girbil_Devices.NTamd64...1	0	06/21/2006,6.0.6001.18000	Greenwich Instruments GIrBIL Serial Infrared Device
+SIRGirbil	Lenovo\Allx86\IrDA\	netirsir.inf	Girbil_Devices.NTx86...1	0	06/21/2006,6.0.6001.18000	Greenwich Instruments GIrBIL Serial Infrared Device
+ACPI\APP0002	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	Apple panel backlight
+ACPI\APP0002	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	Apple panel backlight
+ACPI\APP0001	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	Apple SMC device
+ACPI\APP0001	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	Apple SMC device
+*IBM0034	Lenovo\Allx86\IrDA\	netirsir.inf	IBM_Devices.NTx86...1	0	06/21/2006,6.0.6001.18000	IBM Thinkpad Infrared Device
+*IBM0034	Lenovo\Allx64\IrDA\	netirsir.inf	IBM_Devices.NTamd64...1	0	06/21/2006,6.0.6001.18000	IBM Thinkpad Infrared Device
+USB\VID_17EF&PID_601D	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Laser Mouse (HID)
+HID\VID_05AC&PID_0218&MI_01&COL01	Apple\Allx64\AppleTrackpadInstaller64\	aapltctp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+USB\VID_17EF&PID_601D	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Laser Mouse (HID)
+USB\VID_17EF&PID_601D	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Laser Mouse (HID)
+USB\VID_17EF&PID_601D	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Laser Mouse (HID)
+USB\VID_17EF&PID_601D	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Laser Mouse (HID)
+USB\VID_17EF&PID_601D	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Laser Mouse (HID)
+USB\VID_17EF&PID_601D	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Laser Mouse (HID)
+HID\VID_05AC&PID_0218&MI_01&COL01	Apple\Allx86\AppleTrackpadInstaller\	aapltctp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+USB\VID_17EF&PID_601D	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Laser Mouse (HID)
+ACPI\vpc2004	Lenovo\FORCED\Energy\7x86\	vpc.inf	Lenovo	0	12/15/2011,7.0.0.1	Lenovo ACPI-Compliant Virtual Power Controller
+ACPI\vpc2004	Lenovo\FORCED\Energy\7x64\	vpc.inf	Lenovo.ntamd64	0	12/15/2011,7.1.0.1	Lenovo ACPI-Compliant Virtual Power Controller
+ACPI\vpc2004	Lenovo\FORCED\Energy\8x64\	vpc.inf	Lenovo.ntamd64	0	06/15/2012,8.1.0.1	Lenovo ACPI-Compliant Virtual Power Controller
+ACPI\vpc2004	Lenovo\FORCED\Energy\5x86\	vpc.inf	Lenovo	0	01/11/2008,3.0.0.1	Lenovo ACPI-Compliant Virtual Power Controller
+ACPI\vpc2004	Lenovo\FORCED\Energy\8x86\	vpc.inf	Lenovo	0	12/15/2011,7.0.0.1	Lenovo ACPI-Compliant Virtual Power Controller
+ACPI\vpc2004	Lenovo\FORCED\Energy\5x64\	vpc.inf	Lenovo.ntamd64	0	12/02/2010,6.1.0.1	Lenovo ACPI-Compliant Virtual Power Controller
+*FUJITSU\FBIOSDRV	Fujitsu\BIOS\7x64\	FBIOSDRV.inf	Fujitsu.NTamd64	0	06/24/2009,1.0.0.2	Fujitsu BIOS Driver
+*FUJITSU\FBIOSDRV	Fujitsu\BIOS\8x64\	FBIOSDRV.inf	Fujitsu.NTamd64	1	06/13/2012,1.1.0.0	Fujitsu BIOS Driver
+*FUJITSU\FBIOSDRV	Fujitsu\BIOS\8x86\	FBIOSDRV.inf	Fujitsu.NTx86	1	06/13/2012,1.1.0.0	Fujitsu BIOS Driver
+*FUJITSU\FBIOSDRV	Fujitsu\BIOS\7x86\	FBIOSDRV.inf	Fujitsu	1	06/24/2009,1.0.0.2	Fujitsu BIOS Driver
+USB\VID_05AC&PID_021F&MI_01	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021F&MI_01	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021F&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021F&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+HID\{00001124-0000-1000-8000-00805f9b34fb}&VID_17EF&PID_6002&Col01	Lenovo\FORCED\Mouse\6x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}&VID_17EF&PID_6002&Col01	Lenovo\FORCED\Mouse\5x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}&VID_17EF&PID_6002&Col01	Lenovo\FORCED\Mouse\8x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}&VID_17EF&PID_6002&Col01	Lenovo\FORCED\Mouse\8x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}&VID_17EF&PID_6002&Col01	Lenovo\FORCED\Mouse\5x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}&VID_17EF&PID_6002&Col01	Lenovo\FORCED\Mouse\7x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}&VID_17EF&PID_6002&Col01	Lenovo\FORCED\Mouse\6x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}&VID_17EF&PID_6002&Col01	Lenovo\FORCED\Mouse\7x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+USB\VID_05AC&PID_020D&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_020D&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0241&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0241&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_0241&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_020D&MI_01	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0241&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_020D&MI_01	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0241&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0241&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\VID_05AC&PID_8505&MI_02	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	Apple Built-in iSight
+USB\VID_05AC&PID_8505&MI_02	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	Apple Built-in iSight
+*IBM3780	Lenovo\WinAll\TrackPoint\	tp4track.inf	Filter_Mouse.NTx86.6.0	1	10/28/2011,4.73.1	PS/2 TrackPoint
+SIRESI9680	Lenovo\Allx64\IrDA\	netirsir.inf	ESI_Devices.NTamd64...1	0	06/21/2006,6.0.6001.18000	ESI-9680 JetEye Serial Infrared Device
+*IBM3780	Lenovo\WinAll\TrackPoint\	tp4track.inf	Filter_Mouse.NTAMD64	1	10/28/2011,4.73.1	PS/2 TrackPoint
+SIRESI9680	Lenovo\Allx86\IrDA\	netirsir.inf	ESI_Devices.NTx86...1	0	06/21/2006,6.0.6001.18000	ESI-9680 JetEye Serial Infrared Device
+*IBM3780	Lenovo\WinAll\TrackPoint\	tp4track.inf	Filter_Mouse	1	10/28/2011,4.73.1	PS/2 TrackPoint
+USB\VID_17EF&PID_6016	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	ThinkPad USB Laser Mouse (HID)
+USB\VID_17EF&PID_6016	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	ThinkPad USB Laser Mouse (HID)
+USB\VID_17EF&PID_6016	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	ThinkPad USB Laser Mouse (HID)
+USB\VID_17EF&PID_6016	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	ThinkPad USB Laser Mouse (HID)
+USB\VID_17EF&PID_6016	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	ThinkPad USB Laser Mouse (HID)
+USB\VID_17EF&PID_6016	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	ThinkPad USB Laser Mouse (HID)
+USB\VID_17EF&PID_6016	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	ThinkPad USB Laser Mouse (HID)
+USB\VID_17EF&PID_6016	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	ThinkPad USB Laser Mouse (HID)
+USB\VID_0BF8&PID_1006	Fujitsu\CardRead\Allx64\2A\	x64usb2a.inf	FUJITSU.NTamd64	1	08/31/2005,1.1.0.40	SmartCard-Reader USB 2A
+USB\VID_0BF8&PID_1006	Fujitsu\CardRead\Allx86\2C\	scrusb2a.inf	FUJITSU	1	03/03/2005,1.1.0.29	SmartCard-Reader USB 2A
+USB\VID_0BF8&PID_1006	Fujitsu\CardRead\Allx86\2A\	scrusb2a.inf	FUJITSU	1	08/31/2005,1.1.0.40	SmartCard-Reader USB 2A
+USB\VID_17EF&PID_6025	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	ThinkPad USB Travel Mouse (HID)
+USB\VID_17EF&PID_6025	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	ThinkPad USB Travel Mouse (HID)
+USB\VID_17EF&PID_6025	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	ThinkPad USB Travel Mouse (HID)
+USB\VID_17EF&PID_6025	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	ThinkPad USB Travel Mouse (HID)
+USB\VID_17EF&PID_6025	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	ThinkPad USB Travel Mouse (HID)
+USB\VID_17EF&PID_6025	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	ThinkPad USB Travel Mouse (HID)
+USB\VID_17EF&PID_6025	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	ThinkPad USB Travel Mouse (HID)
+USB\VID_17EF&PID_6025	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	ThinkPad USB Travel Mouse (HID)
+ACPI\IBM0068	Lenovo\WinAll\PowerManagement\	IBMPMDRV.INF	ibm.Mfg.NTx86	1	11/30/2012,1.66.00.22	Lenovo PM Device
+ACPI\IBM0068	Lenovo\WinAll\PowerManagement\	IBMPMDRV.INF	ibm.Mfg	1	11/30/2012,1.66.00.22	Lenovo PM Device
+ACPI\IBM0068	Lenovo\WinAll\PowerManagement\	IBMPMDRV.INF	ibm.Mfg.NTamd64	1	11/30/2012,1.66.00.22	Lenovo PM Device
+USB\VID_0BF8&PID_100B	Fujitsu\CardRead\Allx86\2C\	scrusb2a.inf	FUJITSU	1	03/03/2005,1.1.0.29	SmartCard-Reader USB 2C
+USB\VID_0BF8&PID_1005&Mi_01	Fujitsu\CardRead\Allx64\2A\	x64usb2a.inf	FUJITSU.NTamd64	1	08/31/2005,1.1.0.40	SmartCard-Reader Keyboard USB 2A
+USB\VID_0BF8&PID_1005&Mi_01	Fujitsu\CardRead\Allx86\2C\	scrusb2a.inf	FUJITSU	1	03/03/2005,1.1.0.29	SmartCard-Reader Keyboard USB 2A
+USB\VID_0BF8&PID_1005&Mi_01	Fujitsu\CardRead\Allx86\2A\	scrusb2a.inf	FUJITSU	1	08/31/2005,1.1.0.40	SmartCard-Reader Keyboard USB 2A
+USB\VID_03F0&PID_1024&MI_01	HP\WinAll\Keyboard\	HPKBSC.inf	Model	1	11/07/2006,4.32.00.01	HP USB Smart Card Keyboard
+USB\VID_03F0&PID_1024&MI_01	HP\WinAll\Keyboard\	HPKBSC.inf	Model.NTamd64	1	11/07/2006,4.32.00.01	HP USB Smart Card Keyboard
+USB\Vid_05AC&Pid_1500	Apple\Allx64\AppleODDInstaller64\	AppleODD64.inf	Apple.NTamd64	1	05/17/2010,3.1.0.0	Apple External Optical Disc Drive
+USB\Vid_05AC&Pid_1500	Apple\Allx86\AppleODDInstaller\	AppleODD.inf	Apple	1	05/17/2010,3.1.0.0	Apple External Optical Disc Drive
+USB\VID_05ac&PID_8286	Apple\Allx64\AppleBluetoothBroadcomInstaller64\	AppleBTBC64.inf	Apple.NTamd64	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_8286	Apple\Allx86\AppleBluetoothBroadcomInstaller\	AppleBTBC.inf	Apple.NTx86	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_8281	Apple\Allx64\AppleBluetoothBroadcomInstaller64\	AppleBTBC64.inf	Apple.NTamd64	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\VID_05ac&PID_8281	Apple\Allx86\AppleBluetoothBroadcomInstaller\	AppleBTBC.inf	Apple.NTx86	1	11/28/2011,4.0.3.0	Apple Broadcom Built-in Bluetooth
+USB\VID_05AC&PID_021A&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021A&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021A&MI_01	Apple\Allx64\AppleTrackpadInstaller64\	aapltp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\VID_05AC&PID_021A&MI_01	Apple\Allx86\AppleTrackpadInstaller\	aapltp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\VID_05AC&PID_021A&MI_02	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021A&MI_02	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_8501&MI_00	Apple\Allx64\AppleiSightInstaller64\	iSight64.inf	Apple.NTamd64	1	10/25/2007,2.0.1.0	Apple Built-in iSight - Unprogrammed
+USB\VID_05AC&PID_8501&MI_00	Apple\Allx86\AppleiSightInstaller\	iSight.inf	Apple	1	10/25/2007,2.0.1.0	Apple Built-in iSight - Unprogrammed
+PCI\VEN_8086&DEV_1A38	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	Apple 5000 Series Chipset DMA Engine
+PCI\VEN_8086&DEV_1A38	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	Apple 5000 Series Chipset DMA Engine
+USB\VID_17EF&PID_6000	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Laser Mouse (HID)
+USB\VID_17EF&PID_6000	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Laser Mouse (HID)
+USB\VID_17EF&PID_6000	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Laser Mouse (HID)
+USB\VID_17EF&PID_6000	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Laser Mouse (HID)
+USB\VID_17EF&PID_6000	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Laser Mouse (HID)
+USB\VID_17EF&PID_6000	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Laser Mouse (HID)
+USB\VID_17EF&PID_6000	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Laser Mouse (HID)
+USB\VID_17EF&PID_6000	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Laser Mouse (HID)
+USB\VID_03F0&PID_0824	HP\WinAll\Keyboard\	HPKBSC.inf	Model	1	11/07/2006,4.32.00.01	HP USB Smart Card Reader
+USB\VID_03F0&PID_0824	HP\WinAll\Keyboard\	HPKBSC.inf	Model.NTamd64	1	11/07/2006,4.32.00.01	HP USB Smart Card Reader
+USB\VID_17EF&PID_600C	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_17EF&PID_600C	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_17EF&PID_600C	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_17EF&PID_600C	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_17EF&PID_600C	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_17EF&PID_600C	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_17EF&PID_600C	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_17EF&PID_600C	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_17EF&PID_600E	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_17EF&PID_600E	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_17EF&PID_600E	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_17EF&PID_600E	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_17EF&PID_600E	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_17EF&PID_600E	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_17EF&PID_600E	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_17EF&PID_600E	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+PCI\VEN_8086&DEV_151A&CC_0880	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	Thunderbolt
+PCI\VEN_8086&DEV_151A&CC_0880	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	Thunderbolt
+USB\VID_05AC&PID_0237&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0237&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0237&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0237&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+HID\VID_17EF&PID_6038&Col01	Lenovo\FORCED\Mouse\5x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\VID_17EF&PID_6038&Col01	Lenovo\FORCED\Mouse\7x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\VID_17EF&PID_6038&Col01	Lenovo\FORCED\Mouse\5x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\VID_17EF&PID_6038&Col01	Lenovo\FORCED\Mouse\6x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+USB\Vid_05ac&Pid_0237&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+HID\VID_17EF&PID_6038&Col01	Lenovo\FORCED\Mouse\7x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+USB\Vid_05ac&Pid_0237&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+HID\VID_17EF&PID_6038&Col01	Lenovo\FORCED\Mouse\8x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\VID_17EF&PID_6038&Col01	Lenovo\FORCED\Mouse\6x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\VID_17EF&PID_6038&Col01	Lenovo\FORCED\Mouse\8x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+USB\VID_05AC&PID_024D&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_024D&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_024D&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_024D&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0247&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0247&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\VID_05AC&PID_020B&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_024D&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0247&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_020B&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_024D&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0247&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_020B&MI_01	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_020B&MI_01	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0247&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0247&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+root\LenovoVhid	Lenovo\FORCED\Energy\8x64\	WUDFVhidmini.Inf	Lenovo.NTamd64.6.2	0	06/19/2012,10.13.29.733	UMDF HID minidriver Device
+root\LenovoVhid	Lenovo\FORCED\Energy\8x86\	WUDFVhidmini.Inf	Lenovo.NTx86.6.2	0	06/19/2012,10.12.7.315	UMDF HID minidriver Device
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&020a	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&020a	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&0239	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&0239	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+*TPSACPI01	IRU\WinAll\TPS\	tpsacpi.inf	Topstar.NTx86	0	05/13/2010,1.00.00.0005	TPS Firmware Extension Device
+*TPSACPI01	IRU\WinAll\TPS\	tpsacpi.inf	Topstar.NTamd64	0	05/13/2010,1.00.00.0005	TPS Firmware Extension Device
+USB\VID_08D4&PID_0009	Fujitsu\CardRead\5x86\	cmeu0wdm.inf	OMNIKEY	1	09/14/2001,3.7.1.1	Fujitsu Siemens USB Smartcard Reader
+USB\Vid_05ac&Pid_0246&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0246&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\VID_05AC&PID_0246&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0246&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0246&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0246&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_0217&MI_02	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0217&MI_02	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_8508&MI_02	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	Apple iSight
+USB\VID_05AC&PID_8508&MI_02	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	Apple iSight
+USB\VID_05AC&PID_0217&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0217&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0217&MI_01	Apple\Allx86\AppleTrackpadInstaller\	aapltp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\VID_05AC&PID_0217&MI_01	Apple\Allx64\AppleTrackpadInstaller64\	aapltp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\VID_0461&PID_4D03	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Travel Mouse (HID)
+USB\VID_0461&PID_4D03	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Travel Mouse (HID)
+USB\VID_0461&PID_4D03	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Travel Mouse (HID)
+USB\VID_0461&PID_4D03	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Travel Mouse (HID)
+USB\VID_0461&PID_4D03	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Travel Mouse (HID)
+USB\VID_0461&PID_4D03	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Travel Mouse (HID)
+USB\VID_0461&PID_4D03	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Travel Mouse (HID)
+USB\VID_0461&PID_4D03	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Travel Mouse (HID)
+USB\Vid_05ac&Pid_0223&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+root\wdmirror	Lenovo\WinAll\RMCdisplay\	oem5.inf	Mirror.Mfg	0	07/23/2009,2.0	Lenovo RMCT Display Driver
+USB\Vid_05ac&Pid_0232&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0223&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0232&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_0232&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0223&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0223&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0232&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0232&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\VID_413C&PID_2101&MI_01	Dell\KBD\Allx86\	GKUPRO2D.INF	DeviceListMfg1.NTx86.5.1	1	08/31/2009,4.0.8.5	Smart Card Reader Keyboard
+USB\VID_413C&PID_2101&MI_01	Dell\KBD\Allx64\	GKUPRO2D.INF	DeviceListMfg1.NTamd64	1	08/31/2009,4.0.8.5	Smart Card Reader Keyboard
+USB\Vid_05ac&Pid_0223&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\VID_413C&PID_2101&MI_01	Dell\KBD\Allx86\	GKUPRO2D.INF	DeviceListMfg1	1	08/31/2009,4.0.8.5	Smart Card Reader Keyboard
+USB\Vid_05ac&Pid_0232&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0223&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\VID_17EF&PID_6022&MI_01	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	USB Human Interface Device
+USB\VID_17EF&PID_6022&MI_01	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	USB Human Interface Device
+USB\VID_17EF&PID_6022&MI_01	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	USB Human Interface Device
+USB\VID_17EF&PID_6022&MI_01	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	USB Human Interface Device
+USB\VID_17EF&PID_6022&MI_01	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	USB Human Interface Device
+USB\VID_17EF&PID_6022&MI_01	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	USB Human Interface Device
+USB\VID_17EF&PID_6022&MI_01	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	USB Human Interface Device
+USB\VID_17EF&PID_6022&MI_01	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	USB Human Interface Device
+SCSI\ChangerFSC_____FibreCAT-TX48	Fujitsu\FibreCAT\WinAll\	FSC.inf	BDTUL.NTx86	0	06/11/2008,5.2.3790.6	Fujitsu Siemens FibreCAT TX autoloader  (x86 based XP/2003)
+SCSI\ChangerFSC_____FibreCAT-TX48	Fujitsu\FibreCAT\WinAll\	FSC.inf	BDTUL.NTamd64	0	06/11/2008,5.2.3790.6	Fujitsu Siemens FibreCAT TX autoloader  (x64 based XP/2003)
+USB\VID_05AC&PID_8509&MI_02	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	FaceTime HD camera
+USB\VID_05AC&PID_8509&MI_02	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	FaceTime HD camera
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&022c	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&022c	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&022d	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&022d	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&022e	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&022e	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0222&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0222&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0222&MI_01	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0222&MI_01	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_025B&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_025B&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_025B&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_17EF&PID_6049	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Mouse (HID)
+USB\VID_17EF&PID_6049	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Mouse (HID)
+USB\VID_17EF&PID_6049	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Mouse (HID)
+USB\VID_17EF&PID_6049	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Mouse (HID)
+USB\VID_17EF&PID_6049	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Mouse (HID)
+USB\VID_17EF&PID_6049	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Mouse (HID)
+USB\Vid_05ac&Pid_025B&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_17EF&PID_6049	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Mouse (HID)
+USB\VID_17EF&PID_6049	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Mouse (HID)
+HID\VID_05AC&PID_022B&MI_01&COL01	Apple\Allx64\AppleTrackpadInstaller64\	aapltctp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+HID\VID_05AC&PID_022B&MI_01&COL01	Apple\Allx86\AppleTrackpadInstaller\	aapltctp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+USB\VID_05AC&PID_025B&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_025B&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_17EF&PID_6045	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo USB Laser Mouse (HID)
+USB\VID_17EF&PID_6045	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo USB Laser Mouse (HID)
+USB\VID_17EF&PID_6045	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo USB Laser Mouse (HID)
+USB\VID_17EF&PID_6045	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo USB Laser Mouse (HID)
+USB\VID_17EF&PID_6045	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo USB Laser Mouse (HID)
+USB\VID_17EF&PID_6045	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo USB Laser Mouse (HID)
+USB\VID_17EF&PID_6045	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo USB Laser Mouse (HID)
+USB\VID_17EF&PID_6045	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo USB Laser Mouse (HID)
+USB\VID_17EF&PID_6044	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	ThinkPad USB Laser Mouse (HID)
+USB\VID_17EF&PID_6044	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	ThinkPad USB Laser Mouse (HID)
+USB\VID_17EF&PID_6044	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	ThinkPad USB Laser Mouse (HID)
+USB\VID_17EF&PID_6044	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	ThinkPad USB Laser Mouse (HID)
+USB\VID_17EF&PID_6044	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	ThinkPad USB Laser Mouse (HID)
+USB\VID_17EF&PID_6044	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	ThinkPad USB Laser Mouse (HID)
+USB\VID_17EF&PID_6044	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	ThinkPad USB Laser Mouse (HID)
+USB\VID_17EF&PID_6044	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	ThinkPad USB Laser Mouse (HID)
+USB\VID_05AC&PID_0250&MI_01	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0250&MI_01	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0250&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0250&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0243&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0243&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+{891CA7EB-D4E5-4C6A-A28F-938FAA543870}\PMVUDDRV	Lenovo\Allx86\Power\	PMVUDDRV.inf	Standard.NTx86	1	09/10/2012,17.0.43.879	Lenovo Settings Power
+USB\Vid_05ac&Pid_0243&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+{891CA7EB-D4E5-4C6A-A28F-938FAA543870}\PMVUDDRV	Lenovo\Allx64\Power\	PMVUDDRV.inf	Standard.NTamd64	1	09/10/2012,17.2.5.163	Lenovo Settings Power
+USB\Vid_05ac&Pid_0243&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_0243&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0243&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&023A	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&023A	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&023B	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&023B	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05ac&PID_1000	Apple\Allx86\AppleBluetoothEnablerInstaller\	BthKicker.inf	Apple	1	06/27/2007,2.0.0.1	Apple Bluetooth Driver
+USB\VID_05ac&PID_1000	Apple\Allx64\AppleBluetoothEnablerInstaller64\	BthKicker64.inf	Apple.NTamd64	0	06/27/2007,2.0.0.1	Apple Bluetooth Driver
+SCSI\ChangerFSC_____FibreCAT-TX24	Fujitsu\FibreCAT\WinAll\	FSC.inf	BDTUL.NTx86	0	06/11/2008,5.2.3790.6	Fujitsu Siemens FibreCAT TX autoloader  (x86 based XP/2003)
+SCSI\ChangerFSC_____FibreCAT-TX24	Fujitsu\FibreCAT\WinAll\	FSC.inf	BDTUL.NTamd64	0	06/11/2008,5.2.3790.6	Fujitsu Siemens FibreCAT TX autoloader  (x64 based XP/2003)
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&0208	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&0208	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&0209	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&0209	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+HID\VID_05AC&PID_022A&MI_01&COL01	Apple\Allx86\AppleTrackpadInstaller\	aapltctp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+HID\VID_05AC&PID_022A&MI_01&COL01	Apple\Allx64\AppleTrackpadInstaller64\	aapltctp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+USB\Vid_05ac&Pid_0242&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0242&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\VID_05AC&PID_0242&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0242&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0242&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0242&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0231&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0231&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\VID_05AC&PID_0231&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0231&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0231&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0231&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+PCI\VEN_8086&DEV_444E	Lenovo\WinAll\TurboMemory\	ITM.inf	INTEL_SYS.NTamd64	1	12/13/2007,1.0.0.2	Intel(R) Hardware Reserved for Future Use
+PCI\VEN_8086&DEV_444E	Lenovo\WinAll\TurboMemory\	ITM.inf	INTEL_SYS.NTx86	1	12/13/2007,1.0.0.2	Intel(R) Hardware Reserved for Future Use
+SIRParallax	Lenovo\Allx64\IrDA\	netirsir.inf	Parallax_Devices.NTamd64...1	0	06/21/2006,6.0.6001.18000	Parallax PRA9500A Serial Infrared Device
+SIRParallax	Lenovo\Allx86\IrDA\	netirsir.inf	Parallax_Devices.NTx86...1	0	06/21/2006,6.0.6001.18000	Parallax PRA9500A Serial Infrared Device
+ACPI\FUJ02E1	Fujitsu\ACPI\AllXP\	FUJ02E1.INF	FJMCD	1	10/18/2004,1.0.0.3	Fujitsu FUJ02E1 Device Driver
+ACPI\FUJ02E3	Fujitsu\ACPI\7x64\	FUJ02E3.inf	FJPSD.NTamd64	1	06/01/2009,1.20	Fujitsu FUJ02E3 Device Driver
+ACPI\FUJ02E3	Fujitsu\ACPI\8x86\	FUJ02E3.inf	FJPSD.NTx86	1	06/22/2012,1.30.0.0	Fujitsu FUJ02E3 Device Driver
+ACPI\FUJ02E3	Fujitsu\ACPI\7x86\	FUJ02E3.inf	FJPSD	1	06/01/2009,1.20	Fujitsu FUJ02E3 Device Driver
+ACPI\FUJ02E3	Fujitsu\ACPI\AllXP\	FUJ02E3.inf	FJPSD	1	01/17/2004,1.00	Fujitsu FUJ02E3 Device Driver
+ACPI\FUJ02E3	Fujitsu\ACPI\8x64\	FUJ02E3.inf	FJPSD.NTamd64	1	06/22/2012,1.30.0.0	Fujitsu FUJ02E3 Device Driver
+SIRTekram	Lenovo\Allx86\IrDA\	netirsir.inf	Tekram_Devices.NTx86...1	0	06/21/2006,6.0.6001.18000	Tekram IRMate-210 Serial Infrared Device
+USB\VID_05AC&PID_850A&MI_02	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	Apple iSight
+USB\VID_05AC&PID_850A&MI_02	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	Apple iSight
+SIRTekram	Lenovo\Allx64\IrDA\	netirsir.inf	Tekram_Devices.NTamd64...1	0	06/21/2006,6.0.6001.18000	Tekram IRMate-210 Serial Infrared Device
+USB\VID_05AC&PID_022A&MI_02	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_022A&MI_02	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_022A&MI_01	Apple\Allx86\AppleTrackpadInstaller\	aapltp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\VID_05AC&PID_022A&MI_01	Apple\Allx64\AppleTrackpadInstaller64\	aapltp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\VID_05AC&PID_022A&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_022A&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_022B&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_022B&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_022B&MI_01	Apple\Allx64\AppleTrackpadInstaller64\	aapltp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\VID_05AC&PID_022B&MI_01	Apple\Allx86\AppleTrackpadInstaller\	aapltp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\VID_05AC&PID_022B&MI_02	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_022B&MI_02	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+HID\{00001124-0000-1000-8000-00805f9b34fb}_VID&000217EF_PID&6038&Col01	Lenovo\FORCED\Mouse\5x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}_VID&000217EF_PID&6038&Col01	Lenovo\FORCED\Mouse\7x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}_VID&000217EF_PID&6038&Col01	Lenovo\FORCED\Mouse\8x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}_VID&000217EF_PID&6038&Col01	Lenovo\FORCED\Mouse\5x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}_VID&000217EF_PID&6038&Col01	Lenovo\FORCED\Mouse\7x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}_VID&000217EF_PID&6038&Col01	Lenovo\FORCED\Mouse\6x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}_VID&000217EF_PID&6038&Col01	Lenovo\FORCED\Mouse\8x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}_VID&000217EF_PID&6038&Col01	Lenovo\FORCED\Mouse\6x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+*PNP0510	Lenovo\Allx86\IrDA\	netirsir.inf	MS_Devices.NTx86...1	0	06/21/2006,6.0.6001.18000	Built-in Infrared Device
+*PNP0510	Lenovo\Allx64\IrDA\	netirsir.inf	MS_Devices.NTamd64...1	0	06/21/2006,6.0.6001.18000	Built-in Infrared Device
+*PNP0511	Lenovo\Allx86\IrDA\	netirsir.inf	MS_Devices.NTx86...1	0	06/21/2006,6.0.6001.18000	Built-in Infrared Device
+*PNP0511	Lenovo\Allx64\IrDA\	netirsir.inf	MS_Devices.NTamd64...1	0	06/21/2006,6.0.6001.18000	Built-in Infrared Device
+PCI\VEN_8086&DEV_1547&CC_0880	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	Thunderbolt
+PCI\VEN_8086&DEV_1547&CC_0880	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	Thunderbolt
+USB\VID_05AC&PID_0219&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&0257	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0219&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&0257	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&0256	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0219&MI_01	Apple\Allx86\AppleTrackpadInstaller\	aapltp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\VID_05AC&PID_0219&MI_01	Apple\Allx64\AppleTrackpadInstaller64\	aapltp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&0256	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&0255	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0219&MI_02	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&0255	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0219&MI_02	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021D&MI_01	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021D&MI_01	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021D&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021D&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+ACPI\LEN0168	Lenovo\WinAll\PowerManagement\	IBMPMDRV.INF	ibm.Mfg.NTx86	1	11/30/2012,1.66.00.22	Lenovo PM Device
+ACPI\LEN0168	Lenovo\WinAll\PowerManagement\	IBMPMDRV.INF	ibm.Mfg.NTamd64	1	11/30/2012,1.66.00.22	Lenovo PM Device
+ACPI\LEN0168	Lenovo\WinAll\PowerManagement\	IBMPMDRV.INF	ibm.Mfg	1	11/30/2012,1.66.00.22	Lenovo PM Device
+USB\VID_05AC&PID_8507&MI_02	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	Apple Built-in iSight
+USB\VID_05AC&PID_8507&MI_02	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	Apple Built-in iSight
+USB\VID_04B3&PID_310D	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310D	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310D	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310D	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310D	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310D	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310D	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310D	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310C	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310C	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310C	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310C	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310C	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310C	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310C	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310C	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310B	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310B	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310B	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310B	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310B	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310B	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310B	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_04B3&PID_310B	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Optical Mouse (HID)
+USB\VID_05AC&PID_024F&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_024F&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_024F&MI_01	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_024F&MI_01	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021E&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021E&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021E&MI_01	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021E&MI_01	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+PCI\VEN_8086&DEV_27A3	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	Apple performance counters
+PCI\VEN_8086&DEV_27A3	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	Apple performance counters
+ACPI\ACPI0001	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	Apple SMBus 1.0 Host controller
+ACPI\ACPI0001	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	Apple SMBus 1.0 Host controller
+HID\{00001124-0000-1000-8000-00805f9b34fb}_VID&000217EF_PID&6002&Col01	Lenovo\FORCED\Mouse\8x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}_VID&000217EF_PID&6002&Col01	Lenovo\FORCED\Mouse\7x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}_VID&000217EF_PID&6002&Col01	Lenovo\FORCED\Mouse\6x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}_VID&000217EF_PID&6002&Col01	Lenovo\FORCED\Mouse\5x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}_VID&000217EF_PID&6002&Col01	Lenovo\FORCED\Mouse\8x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}_VID&000217EF_PID&6002&Col01	Lenovo\FORCED\Mouse\5x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}_VID&000217EF_PID&6002&Col01	Lenovo\FORCED\Mouse\7x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}_VID&000217EF_PID&6002&Col01	Lenovo\FORCED\Mouse\6x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\VID_05AC&PID_021C&MI_01&COL01	Apple\Allx86\AppleTrackpadInstaller\	aapltctp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+HID\VID_05AC&PID_021C&MI_01&COL01	Apple\Allx64\AppleTrackpadInstaller64\	aapltctp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+ACPI\ATK4001	Asus\ATK\FORCED\NTx64\4001_1.0.0.1\	ATK4001.INF	ATK	1	06/01/2012,1.0.0.1	ASUS Wireless Radio Control
+ACPI\ATK4001	Asus\ATK\FORCED\NTx64\4001_1.0.0.1\	ATK4001.INF	ATK.NTamd64	1	06/01/2012,1.0.0.1	ASUS Wireless Radio Control
+ACPI\LEN0068	Lenovo\WinAll\PowerManagement\	IBMPMDRV.INF	ibm.Mfg	1	11/30/2012,1.66.00.22	Lenovo PM Device
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&030e	Apple\Allx64\AppleWirelessTrackpad64\	AppleWTP64.inf	Apple.NTamd64	1	01/17/2011,3.2.0.0	Apple Wireless Trackpad
+ACPI\LEN0068	Lenovo\WinAll\PowerManagement\	IBMPMDRV.INF	ibm.Mfg.NTx86	1	11/30/2012,1.66.00.22	Lenovo PM Device
+ACPI\LEN0068	Lenovo\WinAll\PowerManagement\	IBMPMDRV.INF	ibm.Mfg.NTamd64	1	11/30/2012,1.66.00.22	Lenovo PM Device
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&030e	Apple\Allx86\AppleWirelessTrackpad\	AppleWTP.inf	Apple	1	01/17/2011,3.2.0.0	Apple Wireless Trackpad
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&030d	Apple\Allx86\AppleWirelessMouse\	AppleBMT.inf	Apple.NTx86	1	06/01/2011,4.0.0.1	Apple Wireless Mouse
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&030d	Apple\Allx64\AppleWirelessMouse64\	AppleBMT64.inf	Apple.NTamd64	1	06/01/2011,4.0.0.1	Apple Wireless Mouse
+USB\VID_05AC&PID_025A&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_025A&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0253&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0253&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_025A&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_025A&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_0253&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0253&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_025A&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_025A&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0253&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0253&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+ACPI\HPQ0006	HP\FORCED\5x64\Button\	hpqlb.inf	HP	0	04/02/2007,4.20.5	HP Quick Launch Buttons
+ACPI\HPQ0006	HP\FORCED\5x86\Button\old\	hpqlb.inf	HP	0	09/11/2005,4.20.2	HP Quick Launch Buttons
+ACPI\HPQ0006	HP\FORCED\NTx86\Button\	hphkbuttn.inf	HP.NTx86	0	07/26/2011,7.0.3.1	HP Hotkey Device
+ACPI\HPQ0006	HP\FORCED\NTx64\Button\	hphkbuttn.inf	HP	0	02/24/2010,7.0.1.1	HP Hotkey Device
+ACPI\HPQ0006	HP\FORCED\NTx64\Button\	hphkbuttn.inf	HP.NTamd64	0	02/24/2010,7.0.1.1	HP Hotkey Device
+ACPI\HPQ0006	HP\FORCED\5x86\Button\	hpqlb.inf	HP	0	03/30/2007,4.20.5	HP Quick Launch Buttons
+ACPI\HPQ0006	HP\FORCED\NTx86\Button\	hpqlb.inf	HP.ntamd64	0	04/23/2008,4.20.7	HP Quick Launch Buttons 64
+ACPI\HPQ0006	HP\FORCED\NTx64\Button\	hphkbuttn.inf	HP.NTx86	0	02/24/2010,7.0.1.1	HP Hotkey Device
+ACPI\HPQ0006	HP\FORCED\NTx86\Button\	hphkbuttn.inf	HP.NTamd64	0	07/26/2011,7.0.3.1	HP Hotkey Device
+ACPI\HPQ0006	HP\FORCED\NTx64\Button\	hpqlb.inf	HP	0	04/23/2008,4.20.7	HP Quick Launch Buttons
+ACPI\HPQ0006	HP\FORCED\NTx86\Button\	hphkbuttn.inf	HP	0	07/26/2011,7.0.3.1	HP Hotkey Device
+ACPI\HPQ0006	HP\FORCED\NTx64\Button\	hpqlb.inf	HP.ntamd64	0	04/23/2008,4.20.7	HP Quick Launch Buttons 64
+ACPI\HPQ0006	HP\FORCED\5x64\Button\	hpqlb.inf	HP.ntamd64	0	04/02/2007,4.20.5	HP Quick Launch Buttons 64
+ACPI\HPQ0006	HP\FORCED\5x64\Button\old\	hpqlb.inf	HP.ntamd64	0	12/22/2005,4.20.2	HP Quick Launch Buttons 64
+ACPI\HPQ0006	HP\FORCED\5x64\Button\old\	hpqlb.inf	HP	0	12/22/2005,4.20.2	HP Quick Launch Buttons
+ACPI\HPQ0006	HP\FORCED\NTx86\Button\	hpqlb.inf	HP	0	04/23/2008,4.20.7	HP Quick Launch Buttons
+ACPI\HPQ0007	HP\WinAll\Remote\	HpqRemHid.inf	Vendor.NTx86	1	07/11/2007,1.0.0.0	HP Remote Control HID Device
+ACPI\HPQ0007	HP\WinAll\Remote\	HpqRemHid.inf	Vendor.NTamd64	1	07/11/2007,1.0.0.0	HP Remote Control HID Device
+ACPI\HPQ0007	HP\WinAll\Remote\	HpqRemHid.inf	Vendor	1	07/11/2007,1.0.0.0	HP Remote Control HID Device
+ACPI\HPQ0004	HP\FORCED\NTx64\ACCELEROMETER\HPQ0004\	accelerometer.inf	HP	0	09/24/2012,4.2.9.1	HP Mobile Data Protection Sensor
+ACPI\HPQ0004	HP\FORCED\5x86\ACCELEROMETER\	accelerometer.inf	HP	0	01/06/2011,1.20.5.1	HP Mobile Data Protection Sensor
+ACPI\HPQ0004	HP\FORCED\NTx86\ACCELEROMETER\HPQ0004\	accelerometer.inf	HP.ntamd64	0	09/24/2012,4.2.9.1	HP Mobile Data Protection Sensor
+ACPI\HPQ0004	HP\FORCED\5x86\ACCELEROMETER\	accelerometer.inf	HP.ntamd64	0	01/06/2011,1.20.5.1	HP Mobile Data Protection Sensor
+ACPI\HPQ0004	HP\FORCED\NTx86\ACCELEROMETER\HPQ0004\	accelerometer.inf	HP	0	09/24/2012,4.2.9.1	HP Mobile Data Protection Sensor
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&0310	Apple\Allx64\AppleWirelessMouse64\	AppleBMT64.inf	Apple.NTamd64	1	06/01/2011,4.0.0.1	Apple Wireless Mouse
+BTHENUM\{00001124-0000-1000-8000-00805f9b34fb}_VID&000205ac_PID&0310	Apple\Allx86\AppleWirelessMouse\	AppleBMT.inf	Apple.NTx86	1	06/01/2011,4.0.0.1	Apple Wireless Mouse
+ACPI\HPQ0004	HP\FORCED\NTx64\ACCELEROMETER\HPQ0004\	accelerometer.inf	HP.ntamd64	0	09/24/2012,4.2.9.1	HP Mobile Data Protection Sensor
+USB\VID_17EF&PID_1003	Lenovo\FORCED\CardReader\Allx86\	LenovoRd.inf	DeviceListMfg1	1	11/14/2012,4.1.1.6	Integrated Smart Card Reader
+USB\VID_17EF&PID_1003	Lenovo\FORCED\CardReader\Allx64\	LenovoRd.inf	DeviceListMfg1.NTamd64	1	11/14/2012,4.1.1.6	Integrated Smart Card Reader
+USB\VID_05AC&PID_850B&MI_02	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	FaceTime HD camera
+USB\VID_05AC&PID_850B&MI_02	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	FaceTime HD camera
+USB\VID_17EF&PID_1003	Lenovo\FORCED\CardReader\Allx86\	LenovoRd.inf	DeviceListMfg1.NTx86.5.1	1	11/14/2012,4.1.1.6	Integrated Smart Card Reader
+NTamd64	Fujitsu\Touch\Allx64\	Fidmous.inf	FT.Mfg.NTamd64	1	02/26/2007,1.0.0.1	Fujitsu Touch Panel driver (Windows Vista)
+HID\VID_05AC&PID_0217&MI_01&COL01	Apple\Allx64\AppleTrackpadInstaller64\	aapltctp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+HID\VID_05AC&PID_0217&MI_01&COL01	Apple\Allx86\AppleTrackpadInstaller\	aapltctp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+USB\VID_05AC&PID_1112&MI_02	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	FaceTime HD camera
+USB\VID_05AC&PID_1112&MI_02	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	FaceTime HD camera
+*TOS620A	Toshiba\WinAll\	thpevm.inf	TOSHIBA.NTamd64	1	06/29/2009,2.0.0.4	TOSHIBA HDD Protection - Shock Sensor Driver
+*TOS620A	Toshiba\WinAll\	thpevm.inf	TOSHIBA.NTx86	1	06/29/2009,2.0.0.4	TOSHIBA HDD Protection - Shock Sensor Driver
+USB\VID_05AC&PID_8510&MI_02	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	FaceTime HD camera
+USB\VID_05AC&PID_8510&MI_02	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	FaceTime HD camera
+USB\VID_1C7A&PID_0801	Lenovo\WinAll\Fingerprint\	oem6.inf	LTT_Corp.NTamd64	0	01/15/2010,8.70.801.1024	Fingerprint Reader
+USB\VID_1C7A&PID_0801	Lenovo\WinAll\Fingerprint\	oem6.inf	LTT_Corp	0	01/15/2010,8.70.801.1024	Fingerprint Reader
+USB\VID_04B3&PID_3109	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo 800dpi ScrollPoint Pro Optical (HID)
+USB\VID_04B3&PID_3109	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo 800dpi ScrollPoint Pro Optical (HID)
+USB\VID_04B3&PID_3109	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo 800dpi ScrollPoint Pro Optical (HID)
+USB\VID_04B3&PID_3109	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo 800dpi ScrollPoint Pro Optical (HID)
+USB\VID_04B3&PID_3109	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo 800dpi ScrollPoint Pro Optical (HID)
+USB\VID_04B3&PID_3109	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo 800dpi ScrollPoint Pro Optical (HID)
+USB\VID_04B3&PID_3109	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo 800dpi ScrollPoint Pro Optical (HID)
+USB\VID_04B3&PID_3109	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo 800dpi ScrollPoint Pro Optical (HID)
+USB\VID_04B3&PID_3108	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo 800dpi ScrollPoint Optical (HID)
+USB\VID_04B3&PID_3108	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo 800dpi ScrollPoint Optical (HID)
+USB\VID_04B3&PID_3108	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo 800dpi ScrollPoint Optical (HID)
+USB\VID_04B3&PID_3108	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo 800dpi ScrollPoint Optical (HID)
+USB\VID_1C7A&PID_0803	Lenovo\WinAll\Fingerprint\	oem6.inf	LTT_Corp.NTamd64	0	01/15/2010,8.70.801.1024	Fingerprint Reader
+USB\VID_04B3&PID_3108	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo 800dpi ScrollPoint Optical (HID)
+USB\VID_04B3&PID_3108	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo 800dpi ScrollPoint Optical (HID)
+USB\VID_04B3&PID_3108	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo 800dpi ScrollPoint Optical (HID)
+USB\VID_04B3&PID_3108	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo 800dpi ScrollPoint Optical (HID)
+USB\VID_1C7A&PID_0803	Lenovo\WinAll\Fingerprint\	oem6.inf	LTT_Corp	0	01/15/2010,8.70.801.1024	Fingerprint Reader
+USB\VID_04B3&PID_3107	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	ThinkPad USB Travel Mouse (HID)
+USB\VID_04B3&PID_3107	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	ThinkPad USB Travel Mouse (HID)
+USB\VID_04B3&PID_3107	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	ThinkPad USB Travel Mouse (HID)
+USB\VID_04B3&PID_3107	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	ThinkPad USB Travel Mouse (HID)
+USB\VID_04B3&PID_3107	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	ThinkPad USB Travel Mouse (HID)
+USB\VID_04B3&PID_3107	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	ThinkPad USB Travel Mouse (HID)
+USB\VID_04B3&PID_3107	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	ThinkPad USB Travel Mouse (HID)
+USB\VID_04B3&PID_3107	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	ThinkPad USB Travel Mouse (HID)
+USB\VID_04B3&PID_3105	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Optical (HID)
+USB\VID_04B3&PID_3105	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Optical (HID)
+USB\VID_04B3&PID_3105	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Optical (HID)
+USB\VID_04B3&PID_3105	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Optical (HID)
+USB\VID_04B3&PID_3105	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Optical (HID)
+USB\VID_04B3&PID_3105	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Optical (HID)
+USB\VID_04B3&PID_3105	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Optical (HID)
+USB\VID_04B3&PID_3105	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Optical (HID)
+USB\VID_04B3&PID_3103	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Pro (HID)
+USB\VID_04B3&PID_3103	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Pro (HID)
+USB\VID_04B3&PID_3103	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Pro (HID)
+USB\VID_04B3&PID_3103	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Pro (HID)
+USB\VID_04B3&PID_3103	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Pro (HID)
+USB\VID_04B3&PID_3103	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Pro (HID)
+USB\VID_04B3&PID_3103	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Pro (HID)
+USB\VID_04B3&PID_3103	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint Pro (HID)
+USB\VID_04B3&PID_3100	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint III (HID)
+USB\VID_04B3&PID_3100	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint III (HID)
+USB\VID_04B3&PID_3100	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint III (HID)
+USB\VID_04B3&PID_3100	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint III (HID)
+USB\VID_04B3&PID_3100	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint III (HID)
+USB\VID_04B3&PID_3100	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint III (HID)
+USB\VID_04B3&PID_3100	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint III (HID)
+USB\VID_04B3&PID_3100	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo ScrollPoint III (HID)
+USB\VID_05AC&PID_0220&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0220&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0220&MI_01	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0220&MI_01	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_9232	Apple\Allx64\AppleDisplayInstaller64\	aaplmonf64.inf	Apple.NTamd64	1	01/23/2009,3.0.0.0	Apple Cinema HD Display
+USB\VID_05AC&PID_9232	Apple\Allx86\AppleDisplayInstaller\	aaplmonf.inf	Apple	1	01/23/2009,3.0.0.0	Apple Cinema HD Display
+USB\VID_CD15&PID_6711	Lenovo\WinAll\Fingerprint\	oem6.inf	LTT_Corp	0	01/15/2010,8.70.801.1024	Fingerprint Reader
+USB\VID_CD15&PID_6711	Lenovo\WinAll\Fingerprint\	oem6.inf	LTT_Corp.NTamd64	0	01/15/2010,8.70.801.1024	Fingerprint Reader
+USB\VID_05AC&PID_8503&MI_00	Apple\Allx64\AppleiSightInstaller64\	iSight64.inf	Apple.NTamd64	1	10/25/2007,2.0.1.0	Apple Built-in iSight
+USB\VID_05AC&PID_8503&MI_00	Apple\Allx86\AppleiSightInstaller\	iSight.inf	Apple	1	10/25/2007,2.0.1.0	Apple Built-in iSight
+USB\VID_04B3&PID_3020&MI_01	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Wireless USB 3-Button Wheel Mouse
+USB\VID_05AC&PID_921E	Apple\Allx86\AppleDisplayInstaller\	aaplmonf.inf	Apple	1	01/23/2009,3.0.0.0	Apple Cinema HD Display
+USB\VID_04B3&PID_3020&MI_01	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Wireless USB 3-Button Wheel Mouse
+USB\VID_04B3&PID_3020&MI_01	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Wireless USB 3-Button Wheel Mouse
+USB\VID_04B3&PID_3020&MI_01	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	Lenovo Wireless USB 3-Button Wheel Mouse
+USB\VID_05AC&PID_921E	Apple\Allx64\AppleDisplayInstaller64\	aaplmonf64.inf	Apple.NTamd64	1	01/23/2009,3.0.0.0	Apple Cinema HD Display
+USB\VID_04B3&PID_3020&MI_01	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Wireless USB 3-Button Wheel Mouse
+USB\VID_04B3&PID_3020&MI_01	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Wireless USB 3-Button Wheel Mouse
+USB\VID_04B3&PID_3020&MI_01	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Wireless USB 3-Button Wheel Mouse
+USB\VID_04B3&PID_3020&MI_01	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	Lenovo Wireless USB 3-Button Wheel Mouse
+USB\VID_05AC&PID_921D	Apple\Allx64\AppleDisplayInstaller64\	aaplmonf64.inf	Apple.NTamd64	1	01/23/2009,3.0.0.0	Apple Display
+USB\VID_05AC&PID_921D	Apple\Allx86\AppleDisplayInstaller\	aaplmonf.inf	Apple	1	01/23/2009,3.0.0.0	Apple Cinema Display
+*MTC0001	IRU\WinAll\RMC\	RMC.INF	MTC_RMC	1	08/17/2005,5.1.2195.1002	Remove Control Device V1.0.0.2
+USB\VID_05AC&PID_921F	Apple\Allx86\AppleDisplayInstaller\	aaplmonf.inf	Apple	1	01/23/2009,3.0.0.0	Apple Cinema HD Display
+USB\VID_05AC&PID_921F	Apple\Allx64\AppleDisplayInstaller64\	aaplmonf64.inf	Apple.NTamd64	1	01/23/2009,3.0.0.0	Apple Cinema HD Display
+USB\Vid_05ac&Pid_024B&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_024B&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\VID_05AC&PID_921C	Apple\Allx86\AppleDisplayInstaller\	aaplmonf.inf	Apple	1	01/23/2009,3.0.0.0	Apple Cinema HD Display
+USB\VID_05AC&PID_024B&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_921C	Apple\Allx64\AppleDisplayInstaller64\	aaplmonf64.inf	Apple.NTamd64	1	01/23/2009,3.0.0.0	Apple Cinema HD Display
+USB\VID_05AC&PID_024B&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_921B	Apple\Allx64\AppleDisplayInstaller64\	aaplmonf64.inf	Apple.NTamd64	1	01/23/2009,3.0.0.0	Apple Display
+USB\Vid_05ac&Pid_024B&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_921B	Apple\Allx86\AppleDisplayInstaller\	aaplmonf.inf	Apple	1	01/23/2009,3.0.0.0	Apple Cinema Display
+USB\Vid_05ac&Pid_024B&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+PCI\VEN_8086&DEV_1513&CC_0880	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	Thunderbolt
+PCI\VEN_8086&DEV_1513&CC_0880	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	Thunderbolt
+USB\VID_05AC&PID_9222	Apple\Allx64\AppleDisplayInstaller64\	aaplmonf64.inf	Apple.NTamd64	1	01/23/2009,3.0.0.0	Apple Display
+USB\Vid_05ac&Pid_0236&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05E1&PID_0100&MI_01	HP\WinAll\Bluetooth\	oem5.inf	ThreeDSP	0	08/24/2009,2.2.0.0	3DSP Bluetooth Bus
+USB\Vid_05ac&Pid_0236&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_9222	Apple\Allx86\AppleDisplayInstaller\	aaplmonf.inf	Apple	1	01/23/2009,3.0.0.0	Apple Cinema Display
+USB\VID_05AC&PID_9223	Apple\Allx86\AppleDisplayInstaller\	aaplmonf.inf	Apple	1	01/23/2009,3.0.0.0	Apple Cinema HD Display
+USB\VID_05AC&PID_0236&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0236&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_9223	Apple\Allx64\AppleDisplayInstaller64\	aaplmonf64.inf	Apple.NTamd64	1	01/23/2009,3.0.0.0	Apple Cinema HD Display
+USB\VID_05AC&PID_9220	Apple\Allx86\AppleDisplayInstaller\	aaplmonf.inf	Apple	1	01/23/2009,3.0.0.0	Apple Cinema HD Display
+USB\VID_05AC&PID_9220	Apple\Allx64\AppleDisplayInstaller64\	aaplmonf64.inf	Apple.NTamd64	1	01/23/2009,3.0.0.0	Apple Cinema HD Display
+USB\VID_05AC&PID_9221	Apple\Allx64\AppleDisplayInstaller64\	aaplmonf64.inf	Apple.NTamd64	1	01/23/2009,3.0.0.0	Apple Cinema HD Display
+USB\VID_17EF&PID_6030&MI_02	Lenovo\FORCED\Mouse\8x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	USB Human Interface Device
+USB\VID_17EF&PID_6030&MI_02	Lenovo\FORCED\Mouse\8x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	USB Human Interface Device
+HID\HpqRemHidDevice	HP\WinAll\Remote\	HpqRemHid.inf	Vendor.NTamd64	1	07/11/2007,1.0.0.0	HP Remote Control HID Device
+USB\VID_17EF&PID_6030&MI_02	Lenovo\FORCED\Mouse\5x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	USB Human Interface Device
+USB\VID_17EF&PID_6030&MI_02	Lenovo\FORCED\Mouse\7x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	USB Human Interface Device
+USB\VID_05AC&PID_9221	Apple\Allx86\AppleDisplayInstaller\	aaplmonf.inf	Apple	1	01/23/2009,3.0.0.0	Apple Cinema HD Display
+USB\VID_17EF&PID_6030&MI_02	Lenovo\FORCED\Mouse\6x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	USB Human Interface Device
+USB\VID_17EF&PID_6030&MI_02	Lenovo\FORCED\Mouse\6x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	USB Human Interface Device
+USB\VID_17EF&PID_6030&MI_02	Lenovo\FORCED\Mouse\7x86\	PHIDMOU.INF	PMouse	0	11/16/2012,2.1.0.0	USB Human Interface Device
+USB\VID_17EF&PID_6030&MI_02	Lenovo\FORCED\Mouse\5x64\	PHIDMOU.INF	PMouse.ntamd64	0	11/16/2012,2.1.0.0	USB Human Interface Device
+HID\HpqRemHidDevice	HP\WinAll\Remote\	HpqRemHid.inf	Vendor	1	07/11/2007,1.0.0.0	HP Remote Control HID Device
+USB\Vid_05ac&Pid_0236&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+HID\HpqRemHidDevice	HP\WinAll\Remote\	HpqRemHid.inf	Vendor.NTx86	1	07/11/2007,1.0.0.0	HP Remote Control HID Device
+USB\Vid_05ac&Pid_0236&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+ACPI\HPQ6000	HP\FORCED\NTx64\ACCELEROMETER\HPQ6000\	accelerometer.inf	HP	0	04/26/2012,5.0.2.9	HP Mobile Data Protection Sensor
+ACPI\HPQ6000	HP\FORCED\NTx86\ACCELEROMETER\HPQ6000\	accelerometer.inf	HP.ntamd64	0	04/26/2012,5.0.2.9	HP Mobile Data Protection Sensor
+ACPI\HPQ6000	HP\FORCED\NTx86\ACCELEROMETER\HPQ6000\	accelerometer.inf	HP	0	04/26/2012,5.0.2.9	HP Mobile Data Protection Sensor
+ACPI\HPQ6000	HP\FORCED\NTx64\ACCELEROMETER\HPQ6000\	accelerometer.inf	HP.ntamd64	0	04/26/2012,5.0.2.9	HP Mobile Data Protection Sensor
+ACPI\HPQ6001	HP\WinAll\WiFiButton\	WirelessButtonDriver.inf	HP.ntamd64	0	07/27/2012,1.0.5.1	HP Wireless Button Driver
+ACPI\HPQ6001	HP\WinAll\WiFiButton\	WirelessButtonDriver.inf	HP	0	07/27/2012,1.0.5.1	HP Wireless Button Driver
+USB\Vid_05ac&Pid_024E&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_024E&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_024E&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_024E&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_020C&MI_01	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_020C&MI_01	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_024E&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_024E&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\VID_05AC&PID_020C&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_020C&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+*TOS1900	Toshiba\WinAll\	TVALZ_O.inf	TOSHIBA.NTai64	1	07/14/2009,2.0.0.3	TOSHIBA ai64 ACPI-Compliant Value Added Logical and General Purpose Device
+*TOS1900	Toshiba\WinAll\	TVALZ_O.inf	TOSHIBA.NTx86	1	07/14/2009,2.0.0.3	TOSHIBA x86 ACPI-Compliant Value Added Logical and General Purpose Device
+*TOS1900	Toshiba\WinAll\	TVALZ_O.inf	TOSHIBA.NTamd64	1	07/14/2009,2.0.0.3	TOSHIBA x64 ACPI-Compliant Value Added Logical and General Purpose Device
+*TOS1901	Toshiba\WinAll\	FwLnk.inf	DiskDevice	1	11/19/2006,1.0.0.3	TOSHIBA Firmware Linkage Driver
+*TOS1901	Toshiba\WinAll\	FwLnk.inf	DiskDevice.NTAMD64	1	11/19/2006,1.0.0.3	TOSHIBA Firmware Linkage Driver
+ACPI\FUJ02B1	Fujitsu\ACPI\7x64\	FUJ02B1.inf	FJPSD.NTamd64	1	06/01/2009,1.23	Fujitsu FUJ02B1 Device Driver
+ACPI\FUJ02B1	Fujitsu\ACPI\8x64\	FUJ02B1.inf	FJPSD.NTamd64	1	06/09/2012,1.23	Fujitsu FUJ02B1 Device Driver
+ACPI\FUJ02B1	Fujitsu\ACPI\8x86\	FUJ02B1.inf	FJPSD	1	06/09/2012,1.23	Fujitsu FUJ02B1 Device Driver
+ACPI\FUJ02B1	Fujitsu\ACPI\AllXP\	FUJ02B1.INF	FJPSD	1	08/01/2001,1.21	Fujitsu FUJ02B1 Device Driver
+ACPI\FUJ02B1	Fujitsu\ACPI\7x86\	FUJ02B1.inf	FJPSD	1	06/01/2009,1.23	Fujitsu FUJ02B1 Device Driver
+USB\Vid_05ac&Pid_0263&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0263&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_0263&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0263&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0263&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0263&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0238&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0238&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}&VID_17EF&PID_6038&Col01	Lenovo\FORCED\Mouse\5x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}&VID_17EF&PID_6038&Col01	Lenovo\FORCED\Mouse\6x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}&VID_17EF&PID_6038&Col01	Lenovo\FORCED\Mouse\8x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+USB\Vid_05ac&Pid_0238&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+HID\{00001124-0000-1000-8000-00805f9b34fb}&VID_17EF&PID_6038&Col01	Lenovo\FORCED\Mouse\7x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}&VID_17EF&PID_6038&Col01	Lenovo\FORCED\Mouse\6x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+USB\Vid_05ac&Pid_0238&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+HID\{00001124-0000-1000-8000-00805f9b34fb}&VID_17EF&PID_6038&Col01	Lenovo\FORCED\Mouse\7x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}&VID_17EF&PID_6038&Col01	Lenovo\FORCED\Mouse\8x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\{00001124-0000-1000-8000-00805f9b34fb}&VID_17EF&PID_6038&Col01	Lenovo\FORCED\Mouse\5x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+USB\VID_05AC&PID_0238&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0238&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021C&MI_02	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021C&MI_02	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021C&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021C&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021C&MI_01	Apple\Allx86\AppleTrackpadInstaller\	aapltp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\VID_05AC&PID_021C&MI_01	Apple\Allx64\AppleTrackpadInstaller64\	aapltp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\Vid_05ac&Pid_023F&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_023F&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_023F&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_023F&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_023F&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_023F&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\VID_05AC&PID_0244&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0244&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0244&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0244&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0244&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0244&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\VID_413C&PID_2100&MI_01	Dell\KBD\5x86\	DELLCCID.INF	DeviceListMfg1	0	06/07/2005,2.0.0.13	USB Keyboard Smart Card Reader
+USB\VID_05AC&PID_0262&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0262&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0262&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0262&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\6x86\	PHIDMOUX.INF	PMouse	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\6x64\	PHIDMOUX.INF	PMouse	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\6x86\	PHIDMOUX.INF	PMouse.NTX86	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\8x86\	PHIDMOUX.INF	PMouse.NTX86	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+USB\Vid_05ac&Pid_0262&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\7x64\	PHIDMOUX.INF	PMOUSE.NTamd64	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\7x64\	PHIDMOUX.INF	PMouse	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\5x64\	PHIDMOUX.INF	PMouse.NTX86	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\5x64\	PHIDMOUX.INF	PMOUSE.NTamd64	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\8x86\	PHIDMOUX.INF	PMouse	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\8x86\	PHIDMOUX.INF	PMOUSE.NTamd64	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\5x64\	PHIDMOUX.INF	PMouse	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\6x64\	PHIDMOUX.INF	PMouse.NTX86	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\5x86\	PHIDMOUX.INF	PMOUSE.NTamd64	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\7x64\	PHIDMOUX.INF	PMouse.NTX86	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\5x86\	PHIDMOUX.INF	PMouse.NTX86	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\8x64\	PHIDMOUX.INF	PMouse	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+USB\Vid_05ac&Pid_0262&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\8x64\	PHIDMOUX.INF	PMouse.NTX86	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\7x86\	PHIDMOUX.INF	PMOUSE.NTamd64	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\8x64\	PHIDMOUX.INF	PMOUSE.NTamd64	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\7x86\	PHIDMOUX.INF	PMouse.NTX86	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\5x86\	PHIDMOUX.INF	PMouse	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\6x64\	PHIDMOUX.INF	PMOUSE.NTamd64	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\6x86\	PHIDMOUX.INF	PMOUSE.NTamd64	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+HID\VID_17ef&PID_6030&MI_02	Lenovo\FORCED\Mouse\7x86\	PHIDMOUX.INF	PMouse	0	06/06/2012,2.1.0.0	Lenovo Wireless Plus Mouse (HID)
+ACPI\IFX0101	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	Apple trusted platform module
+ACPI\IFX0101	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	Apple trusted platform module
+USB\VID_05AC&PID_8501	Apple\Allx64\AppleiSightInstaller64\	iSight64.inf	Apple.NTamd64	1	10/25/2007,2.0.1.0	Apple Built-in iSight - Unprogrammed
+USB\VID_05AC&PID_8501	Apple\Allx86\AppleiSightInstaller\	iSight.inf	Apple	1	10/25/2007,2.0.1.0	Apple Built-in iSight - Unprogrammed
+HID\VID_05AC&PID_0219&MI_01&COL01	Apple\Allx64\AppleTrackpadInstaller64\	aapltctp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+HID\VID_05AC&PID_0219&MI_01&COL01	Apple\Allx86\AppleTrackpadInstaller\	aapltctp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+USB\VID_03F0&PID_1624&MI_01	HP\WinAll\Keyboard\	HPKBSC.inf	Model	1	11/07/2006,4.32.00.01	HP USB Smart Card Keyboard - JP
+USB\VID_03F0&PID_1624&MI_01	HP\WinAll\Keyboard\	HPKBSC.inf	Model.NTamd64	1	11/07/2006,4.32.00.01	HP USB Smart Card Keyboard - JP
+USB\VID_05AC&PID_021B&MI_02	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021B&MI_02	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021B&MI_01	Apple\Allx86\AppleTrackpadInstaller\	aapltp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\VID_05AC&PID_021B&MI_01	Apple\Allx64\AppleTrackpadInstaller64\	aapltp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\VID_05AC&PID_021B&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_021B&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_024A&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_024A&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_024A&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_024A&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_024A&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_024A&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+SCSI\ChangerFSC_____FibreCAT_TX08___	Fujitsu\FibreCAT\WinAll\	FSC.inf	BDTUL.NTx86	0	06/11/2008,5.2.3790.6	Fujitsu Siemens FibreCAT TX autoloader  (x86 based XP/2003)
+SCSI\ChangerFSC_____FibreCAT_TX08___	Fujitsu\FibreCAT\WinAll\	FSC.inf	BDTUL.NTamd64	0	06/11/2008,5.2.3790.6	Fujitsu Siemens FibreCAT TX autoloader  (x64 based XP/2003)
+USB\VID_05AC&PID_0229&MI_02	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0229&MI_02	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0229&MI_01	Apple\Allx86\AppleTrackpadInstaller\	aapltp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\VID_05AC&PID_0229&MI_01	Apple\Allx64\AppleTrackpadInstaller64\	aapltp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\VID_05AC&PID_0229&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0229&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_8240	Apple\Allx64\AppleRemoteInstaller64\	IRFilter64.inf	Apple.NTamd64	1	02/21/2008,2.0.4.0	Apple IR Receiver
+USB\VID_05AC&PID_8240	Apple\Allx86\AppleRemoteInstaller\	IRFilter.inf	Apple	1	02/21/2008,2.0.4.0	Apple IR Receiver
+USB\VID_05AC&PID_8242	Apple\Allx64\AppleRemoteInstaller64\	IRFilter64.inf	Apple.NTamd64	1	02/21/2008,2.0.4.0	Apple IR Receiver
+USB\VID_05AC&PID_8242	Apple\Allx86\AppleRemoteInstaller\	IRFilter.inf	Apple	1	02/21/2008,2.0.4.0	Apple IR Receiver
+HID\VID_05AC&PID_021A&MI_01&COL01	Apple\Allx86\AppleTrackpadInstaller\	aapltctp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+HID\VID_05AC&PID_021A&MI_01&COL01	Apple\Allx64\AppleTrackpadInstaller64\	aapltctp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+USB\Vid_05ac&Pid_0230&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0230&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0230&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0230&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_0230&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0230&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+SIRAmp	Lenovo\Allx64\IrDA\	netirsir.inf	AMP_Devices.NTamd64...1	0	06/21/2006,6.0.6001.18000	AMP PHASIR Serial Infrared Device
+USB\VID_05AC&PID_0240&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+SIRAmp	Lenovo\Allx86\IrDA\	netirsir.inf	AMP_Devices.NTx86...1	0	06/21/2006,6.0.6001.18000	AMP PHASIR Serial Infrared Device
+USB\VID_05AC&PID_0240&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0240&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0240&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0240&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0240&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+SCSI\ChangerFSC_____FibreCAT-TX96	Fujitsu\FibreCAT\WinAll\	FSC.inf	BDTUL.NTamd64	0	06/11/2008,5.2.3790.6	Fujitsu Siemens FibreCAT TX autoloader  (x64 based XP/2003)
+SCSI\ChangerFSC_____FibreCAT-TX96	Fujitsu\FibreCAT\WinAll\	FSC.inf	BDTUL.NTx86	0	06/11/2008,5.2.3790.6	Fujitsu Siemens FibreCAT TX autoloader  (x86 based XP/2003)
+USB\VID_03F0&PID_1524&MI_01	HP\WinAll\Keyboard\	HPKBSC.inf	Model	1	11/07/2006,4.32.00.01	HP USB Smart Card Keyboard - KR
+USB\VID_03F0&PID_1524&MI_01	HP\WinAll\Keyboard\	HPKBSC.inf	Model.NTamd64	1	11/07/2006,4.32.00.01	HP USB Smart Card Keyboard - KR
+USB\VID_05AC&PID_0205&MI_01	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0205&MI_01	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0205&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0205&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+SCSI\ChangerFUJITSU_ETERNUS_LT_S2___	Fujitsu\ETERNUS\FORCED\Allx64\	Fujitsu.inf	BDTUL.NTx86	0	08/02/2012,8.0.0.1	Fujitsu ETERNUS media changer
+SCSI\ChangerFUJITSU_ETERNUS_LT_S2___	Fujitsu\ETERNUS\FORCED\Allx86\	Fujitsu.inf	BDTUL.NTamd64	0	08/02/2012,8.0.0.1	Fujitsu ETERNUS media changer
+SCSI\ChangerFUJITSU_ETERNUS_LT_S2___	Fujitsu\ETERNUS\FORCED\Allx64\	Fujitsu.inf	BDTUL.NTamd64	0	08/02/2012,8.0.0.1	Fujitsu ETERNUS media changer
+SCSI\ChangerFUJITSU_ETERNUS_LT_S2___	Fujitsu\ETERNUS\FORCED\Allx86\	Fujitsu.inf	BDTUL.NTx86	0	08/02/2012,8.0.0.1	Fujitsu ETERNUS media changer
+USB\VID_05AC&PID_0259&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+HID\VID_05AC&PID_0229&MI_01&COL01	Apple\Allx64\AppleTrackpadInstaller64\	aapltctp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+USB\VID_05AC&PID_0259&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+HID\VID_05AC&PID_0229&MI_01&COL01	Apple\Allx86\AppleTrackpadInstaller\	aapltctp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+USB\Vid_05ac&Pid_0259&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0259&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0259&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0259&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+HID\VID_05AC&PID_021B&MI_01&COL01	Apple\Allx64\AppleTrackpadInstaller64\	aapltctp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+HID\VID_05AC&PID_021B&MI_01&COL01	Apple\Allx86\AppleTrackpadInstaller\	aapltctp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad Enabler
+SIRTemic	Lenovo\Allx86\IrDA\	netirsir.inf	Temic_Devices.NTx86...1	0	06/21/2006,6.0.6001.18000	Vishay Telefunken TOIM3232 Serial Infrared Device
+SIRTemic	Lenovo\Allx64\IrDA\	netirsir.inf	Temic_Devices.NTamd64...1	0	06/21/2006,6.0.6001.18000	Vishay Telefunken TOIM3232 Serial Infrared Device
+HID\VID_17EF&PID_6002&Col01	Lenovo\FORCED\Mouse\7x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\VID_17EF&PID_6002&Col01	Lenovo\FORCED\Mouse\5x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\VID_17EF&PID_6002&Col01	Lenovo\FORCED\Mouse\5x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\VID_17EF&PID_6002&Col01	Lenovo\FORCED\Mouse\6x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\VID_17EF&PID_6002&Col01	Lenovo\FORCED\Mouse\6x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\VID_17EF&PID_6002&Col01	Lenovo\FORCED\Mouse\8x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\VID_17EF&PID_6002&Col01	Lenovo\FORCED\Mouse\7x86\	PbtMOUSE.INF	PMouse	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+HID\VID_17EF&PID_6002&Col01	Lenovo\FORCED\Mouse\8x64\	PbtMOUSE.INF	PMouse.ntamd64	0	06/19/2012,1.9.0.9	ThinkPad Bluetooth Laser Mouse
+USB\Vid_05ac&Pid_0264&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0264&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\VID_05AC&PID_0264&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0264&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0264&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0264&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\VID_05AC&PID_0218&MI_01	Apple\Allx64\AppleTrackpadInstaller64\	aapltp64.inf	Apple.NTamd64	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\VID_05AC&PID_0218&MI_01	Apple\Allx86\AppleTrackpadInstaller\	aapltp.inf	Apple	1	07/13/2009,3.0.0.1	Apple Trackpad
+USB\VID_05AC&PID_0218&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0218&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0218&MI_02	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0218&MI_02	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+SIRAct200	Lenovo\Allx86\IrDA\	netirsir.inf	ACTiSYS_Devices.NTx86...1	0	06/21/2006,6.0.6001.18000	ACTiSYS IR-200L Serial Infrared Device
+SIRAct200	Lenovo\Allx64\IrDA\	netirsir.inf	ACTiSYS_Devices.NTamd64...1	0	06/21/2006,6.0.6001.18000	ACTiSYS IR-200L Serial Infrared Device
+SIRPuma	Lenovo\Allx64\IrDA\	netirsir.inf	Puma_Devices.NTamd64...1	0	06/21/2006,6.0.6001.18000	Puma Serial Infrared Device
+SIRPuma	Lenovo\Allx86\IrDA\	netirsir.inf	Puma_Devices.NTx86...1	0	06/21/2006,6.0.6001.18000	Puma Serial Infrared Device
+SERENUM\FJC5001	Fujitsu\Touch\Allx64\	Fidmous.inf	FT.Mfg.NTamd64	1	02/26/2007,1.0.0.1	Fujitsu Touch Panel driver (Windows Vista)
+SERENUM\FJC5001	Fujitsu\Touch\Allx86\	Fidmous.inf	FT.Mfg	1	09/11/2007,1.0.0.2	Fujitsu Touch Panel driver (Windows Vista)
+SERENUM\FJC5000	Fujitsu\Touch\Allx64\	Fidmous.inf	FT.Mfg.NTamd64	1	02/26/2007,1.0.0.1	Fujitsu Touch Panel driver (Windows Vista)
+SERENUM\FJC5000	Fujitsu\Touch\Allx86\	Fidmous.inf	FT.Mfg	1	09/11/2007,1.0.0.2	Fujitsu Touch Panel driver (Windows Vista)
+USB\VID_05AC&PID_0221&MI_01	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0221&MI_01	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0221&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0221&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+*SNY5001	Sony\WinAll\Control\	SonyNC.inf	Mfg0	1	06/04/2002,6.0.0.2	Sony Notebook Control Device
+*SNY5001	Sony\WinAll\FirmwareParser\	SFEP.inf	Mfg0.NTamd64	0	08/08/2007,8.0.0.1	Sony Firmware Extension Parser Device
+*SNY5001	Sony\WinAll\FirmwareParser\	SFEP.inf	Mfg0.NTx86	0	08/08/2007,8.0.0.1	Sony Firmware Extension Parser Device
+USB\VID_05AC&PID_8502&MI_02	Apple\Allx64\AppleNullDriver64\	AppleNull64.inf	Company.NT.5.1.NTamd64	1	10/07/2011,4.0.1.0	Apple Built-in iSight
+USB\VID_05AC&PID_8502&MI_02	Apple\Allx86\AppleNullDriver\	AppleNull.inf	Company.NT.5.1	1	10/07/2011,4.0.1.0	Apple Built-in iSight
+USB\VID_05ac&PID_8205	Apple\Allx86\AppleBluetoothInstaller\	AppleBT.inf	Apple.NT.5.1	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+USB\VID_05ac&PID_8205	Apple\Allx64\AppleBluetoothInstaller64\	AppleBT64.inf	Apple.NTamd64.6.0	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+USB\VID_05ac&PID_8205	Apple\Allx86\AppleBluetoothInstaller\	AppleBT.inf	Apple.NT.6.0	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+USB\VID_05ac&PID_8204	Apple\Allx64\AppleBluetoothInstaller64\	AppleBT64.inf	Apple.NTamd64.6.0	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+USB\VID_05ac&PID_8204	Apple\Allx86\AppleBluetoothInstaller\	AppleBT.inf	Apple.NT.5.1	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+USB\VID_05ac&PID_8204	Apple\Allx86\AppleBluetoothInstaller\	AppleBT.inf	Apple.NT.6.0	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+USB\VID_05ac&PID_8207	Apple\Allx86\AppleBluetoothInstaller\	AppleBT.inf	Apple.NT.5.1	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+USB\VID_05ac&PID_8207	Apple\Allx64\AppleBluetoothInstaller64\	AppleBT64.inf	Apple.NTamd64.6.0	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+USB\VID_05ac&PID_8207	Apple\Allx86\AppleBluetoothInstaller\	AppleBT.inf	Apple.NT.6.0	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+USB\VID_05ac&PID_8206	Apple\Allx86\AppleBluetoothInstaller\	AppleBT.inf	Apple.NT.6.0	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+USB\VID_05ac&PID_8206	Apple\Allx64\AppleBluetoothInstaller64\	AppleBT64.inf	Apple.NTamd64.6.0	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+USB\VID_05ac&PID_8206	Apple\Allx86\AppleBluetoothInstaller\	AppleBT.inf	Apple.NT.5.1	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+ACPI\PU_0009	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTx86	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+ACPI\PU_0009	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTamd64	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+ACPI\PU_0008	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTamd64	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+ACPI\PU_0008	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTx86	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+USB\VID_05ac&PID_8203	Apple\Allx64\AppleBluetoothInstaller64\	AppleBT64.inf	Apple.NTamd64.6.0	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+USB\VID_05ac&PID_8203	Apple\Allx86\AppleBluetoothInstaller\	AppleBT.inf	Apple.NT.5.1	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+USB\VID_05ac&PID_8203	Apple\Allx86\AppleBluetoothInstaller\	AppleBT.inf	Apple.NT.6.0	1	03/01/2010,3.0.0.5	Apple Built-in Bluetooth
+ACPI\PU_0005	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTamd64	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+ACPI\PU_0005	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTx86	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+ACPI\PU_0004	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTx86	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+*SNY6001	Sony\WinAll\Control\	SonyPI.inf	Sny	1	08/20/2002,7.0.3.820	Sony Programmable I/O Control Device
+ACPI\PU_0004	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTamd64	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+ACPI\PU_0007	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTamd64	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+ACPI\PU_0007	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTx86	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+ACPI\PU_0006	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTx86	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+ACPI\PU_0006	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTamd64	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+ACPI\PU_0001	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTx86	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+ACPI\PU_0001	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTamd64	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+ACPI\PU_0003	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTamd64	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+ACPI\PU_0003	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTx86	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+ACPI\PU_0002	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTx86	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+ACPI\PU_0002	Asus\ATK\WinAll\	PuAcpi.inf	PU.NTamd64	0	06/03/2009,1043.2.31.102	PU ACPI UTILITY
+000	Lenovo\FORCED\OneKey\7x86\	wsvd.inf	CL	1	07/13/2009,5.6.0.0	CyberLink Virtual Disk Driver
+000	Lenovo\FORCED\OneKey\7x86\	wsvd.inf	CL.ntamd64	1	07/13/2009,5.6.0.0	CyberLink Virtual Disk Driver
+000	Lenovo\FORCED\OneKey\7x64\	wsvd.inf	CL.ntamd64	1	07/13/2009,5.6.0.0	CyberLink Virtual Disk Driver
+000	Lenovo\FORCED\OneKey\5x86\	wsvd.inf	CL	1	07/13/2009,5.6.0.0	CyberLink Virtual Disk Driver
+000	Lenovo\FORCED\OneKey\6x64\	wsvd.inf	CL.ntamd64	1	07/13/2009,5.6.0.0	CyberLink Virtual Disk Driver
+000	Lenovo\FORCED\OneKey\6x86\	wsvd.inf	CL	1	07/13/2009,5.6.0.0	CyberLink Virtual Disk Driver
+000	Lenovo\FORCED\OneKey\6x86\	wsvd.inf	CL.ntamd64	1	07/13/2009,5.6.0.0	CyberLink Virtual Disk Driver
+000	Lenovo\FORCED\OneKey\5x86\	wsvd.inf	CL.ntamd64	1	07/13/2009,5.6.0.0	CyberLink Virtual Disk Driver
+USB\Vid_05ac&Pid_0224&MI_02	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTM.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+USB\Vid_05ac&Pid_0224&MI_02	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTM64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch Mouse
+SIRAct220Plus	Lenovo\Allx64\IrDA\	netirsir.inf	ACTiSYS_Devices.NTamd64...1	0	06/21/2006,6.0.6001.18000	ACTiSYS IR-220L+ Serial Infrared Device
+SIRAct220Plus	Lenovo\Allx86\IrDA\	netirsir.inf	ACTiSYS_Devices.NTx86...1	0	06/21/2006,6.0.6001.18000	ACTiSYS IR-220L+ Serial Infrared Device
+USB\VID_05AC&PID_0224&MI_00	Apple\Allx64\AppleKeyboardInstaller64\	KeyMagic64.inf	USBKeyboard.NTamd64	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\VID_05AC&PID_0224&MI_00	Apple\Allx86\AppleKeyboardInstaller\	KeyMagic.inf	USBKeyboard	1	01/27/2012,4.0.2.0	Apple Keyboard
+USB\Vid_05ac&Pid_0224&MI_01	Apple\Allx64\AppleMultiTouchTrackPadInstaller64\	AppleMTP64.inf	Apple.NTamd64	1	01/27/2012,4.0.2.0	Apple Multitouch
+USB\Vid_05ac&Pid_0224&MI_01	Apple\Allx86\AppleMultiTouchTrackPadInstaller\	AppleMTP.inf	Apple.NTx86	1	01/27/2012,4.0.2.0	Apple Multitouch
+SIRAct220	Lenovo\Allx86\IrDA\	netirsir.inf	ACTiSYS_Devices.NTx86...1	0	06/21/2006,6.0.6001.18000	ACTiSYS IR-220L Serial Infrared Device
+SIRAct220	Lenovo\Allx64\IrDA\	netirsir.inf	ACTiSYS_Devices.NTamd64...1	0	06/21/2006,6.0.6001.18000	ACTiSYS IR-220L Serial Infrared Device
