@@ -1,0 +1,71 @@
+[Mar 28, 2018 4:36:27 PM] [-1] [onlineLogin] [com.zte.lmt.app.eoms.mainctrl.SmmManager] entering OnlineLogin(root, 192.254.11.16) ...
+[Mar 28, 2018 4:36:27 PM] [-1] [initComm] [com.zte.lmt.app.common.AbstractLocalSmmManager] connect 192.254.11.16 ...
+[Mar 28, 2018 4:36:27 PM] [-1] [connect] [com.zte.lmt.ump.cmm.commagent.CommManager] Connecting to NodeB(192.254.11.16,5000)......
+[Mar 28, 2018 4:36:27 PM] [-1] [rudpConnect] [com.zte.lmt.ump.cmm.protocol.rudp.client.RudpClient] addFsm suc, localLink is 1d
+[Mar 28, 2018 4:36:30 PM] [-1] [rudpConnect] [com.zte.lmt.ump.cmm.protocol.rudp.client.RudpClient] this.receiver.delFsm protocolAfsm.currentState != ProtocolFlag.CONN, localLink is 1d
+[Mar 28, 2018 4:36:30 PM] [-1] [connect] [com.zte.lmt.ump.cmm.commagent.RudpSocket] RudpClient: rudpConnect() time out! remoteIpAddr = 192.254.11.16
+[Mar 28, 2018 4:36:30 PM] [-1] [connect] [com.zte.lmt.ump.cmm.commagent.RudpSocket] rudpConnnect fail. remoteHost = 192.254.11.16, remotePort = 5000, localLinkNo = -1
+[Mar 28, 2018 4:36:30 PM] [-1] [connect] [com.zte.lmt.ump.cmm.commagent.CommManager] 150503:start socket error.
+[Mar 28, 2018 4:36:30 PM] [-1] [initComm] [com.zte.lmt.app.common.AbstractLocalSmmManager] Fail to rudp connect NodeB<192.254.11.16>
+[Mar 28, 2018 4:36:30 PM] [-1] [traceLog] [com.zte.lmt.ump.api.psl.util.logger.LogService] Exception Message:com.zte.lmt.ump.psm.util.UmpException: Check whether the base station is running normally. 
+com.zte.lmt.app.common.AbstractLocalSmmManager.initComm(Unknown Source)
+com.zte.lmt.app.eoms.mainctrl.SmmManager.onlineLogin(Unknown Source)
+com.zte.lmt.app.common.AbstractLocalSmmManager.processLogin(Unknown Source)
+com.zte.lmt.app.eoms.mainctrl.listener.Login.processLogin(Unknown Source)
+com.zte.lmt.app.eoms.mainctrl.listener.Login.access$300(Unknown Source)
+com.zte.lmt.app.eoms.mainctrl.listener.Login$1.run(Unknown Source)
+java.util.TimerThread.mainLoop(Unknown Source)
+java.util.TimerThread.run(Unknown Source)
+
+[Mar 28, 2018 4:36:34 PM] [-1] [delTempLockFile] [com.zte.lmt.app.common.BaseSmmManager] delete lock file fail. path is C:\ZTELMT\EOMS192.254.11.16s
+[Mar 28, 2018 4:36:34 PM] [-1] [logout] [com.zte.lmt.app.eoms.mainctrl.SmmManager] finished logout without fault
+[Mar 28, 2018 4:36:37 PM] [-1] [<init>] [com.zte.lmt.app.common.login.SectionProfile] ----------- iniPath is C:\ZTELMT\Sections.ini
+[Mar 28, 2018 4:36:48 PM] [-1] [actionPerformed] [com.zte.lmt.app.common.login.LoginDialog] this.connInfo.strRemoteIp = this.siteIpField.getIpAddress(); strRemoteIp is 192.254.11.16s
+[Mar 28, 2018 4:36:49 PM] [-1] [onlineLogin] [com.zte.lmt.app.eoms.mainctrl.SmmManager] entering OnlineLogin(root, 192.254.11.16) ...
+[Mar 28, 2018 4:36:49 PM] [-1] [initComm] [com.zte.lmt.app.common.AbstractLocalSmmManager] connect 192.254.11.16 ...
+[Mar 28, 2018 4:36:49 PM] [-1] [connect] [com.zte.lmt.ump.cmm.commagent.CommManager] Connecting to NodeB(192.254.11.16,5000)......
+[Mar 28, 2018 4:36:49 PM] [-1] [rudpConnect] [com.zte.lmt.ump.cmm.protocol.rudp.client.RudpClient] addFsm suc, localLink is 2d
+[Mar 28, 2018 4:36:52 PM] [-1] [rudpConnect] [com.zte.lmt.ump.cmm.protocol.rudp.client.RudpClient] this.receiver.delFsm protocolAfsm.currentState != ProtocolFlag.CONN, localLink is 2d
+[Mar 28, 2018 4:36:52 PM] [-1] [connect] [com.zte.lmt.ump.cmm.commagent.RudpSocket] RudpClient: rudpConnect() time out! remoteIpAddr = 192.254.11.16
+[Mar 28, 2018 4:36:52 PM] [-1] [connect] [com.zte.lmt.ump.cmm.commagent.RudpSocket] rudpConnnect fail. remoteHost = 192.254.11.16, remotePort = 5000, localLinkNo = -1
+[Mar 28, 2018 4:36:52 PM] [-1] [connect] [com.zte.lmt.ump.cmm.commagent.CommManager] 150503:start socket error.
+[Mar 28, 2018 4:36:52 PM] [-1] [initComm] [com.zte.lmt.app.common.AbstractLocalSmmManager] Fail to rudp connect NodeB<192.254.11.16>
+[Mar 28, 2018 4:36:52 PM] [-1] [traceLog] [com.zte.lmt.ump.api.psl.util.logger.LogService] Exception Message:com.zte.lmt.ump.psm.util.UmpException: Check whether the base station is running normally. 
+com.zte.lmt.app.common.AbstractLocalSmmManager.initComm(Unknown Source)
+com.zte.lmt.app.eoms.mainctrl.SmmManager.onlineLogin(Unknown Source)
+com.zte.lmt.app.common.AbstractLocalSmmManager.processLogin(Unknown Source)
+com.zte.lmt.app.eoms.mainctrl.listener.Login.processLogin(Unknown Source)
+com.zte.lmt.app.eoms.mainctrl.listener.Login.access$300(Unknown Source)
+com.zte.lmt.app.eoms.mainctrl.listener.Login$1.run(Unknown Source)
+java.util.TimerThread.mainLoop(Unknown Source)
+java.util.TimerThread.run(Unknown Source)
+
+[Mar 28, 2018 4:36:57 PM] [-1] [delTempLockFile] [com.zte.lmt.app.common.BaseSmmManager] delete lock file fail. path is C:\ZTELMT\EOMS192.254.11.16s
+[Mar 28, 2018 4:36:57 PM] [-1] [logout] [com.zte.lmt.app.eoms.mainctrl.SmmManager] finished logout without fault
+[Mar 28, 2018 4:39:35 PM] [-1] [<init>] [com.zte.lmt.app.common.login.SectionProfile] ----------- iniPath is C:\ZTELMT\Sections.ini
+[Mar 28, 2018 4:40:58 PM] [-1] [actionPerformed] [com.zte.lmt.app.common.login.LoginDialog] this.connInfo.strRemoteIp = this.siteIpField.getIpAddress(); strRemoteIp is 192.254.11.16s
+[Mar 28, 2018 4:40:58 PM] [-1] [onlineLogin] [com.zte.lmt.app.eoms.mainctrl.SmmManager] entering OnlineLogin(root, 192.254.11.16) ...
+[Mar 28, 2018 4:40:58 PM] [-1] [initComm] [com.zte.lmt.app.common.AbstractLocalSmmManager] connect 192.254.11.16 ...
+[Mar 28, 2018 4:40:58 PM] [-1] [connect] [com.zte.lmt.ump.cmm.commagent.CommManager] Connecting to NodeB(192.254.11.16,5000)......
+[Mar 28, 2018 4:40:58 PM] [-1] [rudpConnect] [com.zte.lmt.ump.cmm.protocol.rudp.client.RudpClient] addFsm suc, localLink is 3d
+[Mar 28, 2018 4:41:01 PM] [-1] [rudpConnect] [com.zte.lmt.ump.cmm.protocol.rudp.client.RudpClient] this.receiver.delFsm protocolAfsm.currentState != ProtocolFlag.CONN, localLink is 3d
+[Mar 28, 2018 4:41:01 PM] [-1] [connect] [com.zte.lmt.ump.cmm.commagent.RudpSocket] RudpClient: rudpConnect() time out! remoteIpAddr = 192.254.11.16
+[Mar 28, 2018 4:41:01 PM] [-1] [connect] [com.zte.lmt.ump.cmm.commagent.RudpSocket] rudpConnnect fail. remoteHost = 192.254.11.16, remotePort = 5000, localLinkNo = -1
+[Mar 28, 2018 4:41:01 PM] [-1] [connect] [com.zte.lmt.ump.cmm.commagent.CommManager] 150503:start socket error.
+[Mar 28, 2018 4:41:01 PM] [-1] [initComm] [com.zte.lmt.app.common.AbstractLocalSmmManager] Fail to rudp connect NodeB<192.254.11.16>
+[Mar 28, 2018 4:41:01 PM] [-1] [traceLog] [com.zte.lmt.ump.api.psl.util.logger.LogService] Exception Message:com.zte.lmt.ump.psm.util.UmpException: Check whether the base station is running normally. 
+com.zte.lmt.app.common.AbstractLocalSmmManager.initComm(Unknown Source)
+com.zte.lmt.app.eoms.mainctrl.SmmManager.onlineLogin(Unknown Source)
+com.zte.lmt.app.common.AbstractLocalSmmManager.processLogin(Unknown Source)
+com.zte.lmt.app.eoms.mainctrl.listener.Login.processLogin(Unknown Source)
+com.zte.lmt.app.eoms.mainctrl.listener.Login.access$300(Unknown Source)
+com.zte.lmt.app.eoms.mainctrl.listener.Login$1.run(Unknown Source)
+java.util.TimerThread.mainLoop(Unknown Source)
+java.util.TimerThread.run(Unknown Source)
+
+[Mar 28, 2018 4:41:04 PM] [-1] [delTempLockFile] [com.zte.lmt.app.common.BaseSmmManager] delete lock file fail. path is C:\ZTELMT\EOMS192.254.11.16s
+[Mar 28, 2018 4:41:04 PM] [-1] [logout] [com.zte.lmt.app.eoms.mainctrl.SmmManager] finished logout without fault
+[Mar 28, 2018 4:41:13 PM] [-1] [<init>] [com.zte.lmt.app.common.login.SectionProfile] ----------- iniPath is C:\ZTELMT\Sections.ini
+[Mar 28, 2018 4:41:24 PM] [-1] [<init>] [com.zte.lmt.app.common.login.SectionProfile] ----------- iniPath is C:\ZTELMT\Sections.ini
+[Mar 28, 2018 4:41:33 PM] [-1] [<init>] [com.zte.lmt.app.common.login.SectionProfile] ----------- iniPath is C:\ZTELMT\Sections.ini
+[Mar 28, 2018 4:41:59 PM] [-1] [actionPerformed] [com.zte.lmt.app.common.login.LoginDialog] this.connInfo.strRemoteIp = this.siteIpField.getIpAddress(); strRemoteIp is 192.254.1.16s
