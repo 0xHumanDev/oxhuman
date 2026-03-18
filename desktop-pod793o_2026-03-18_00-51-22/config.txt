@@ -1,0 +1,11 @@
+﻿;!@Install@!UTF-8!
+Title="DriverPack Solution Packer"
+Progress="yes"
+GUIFlags=""
+OverwriteMode="0"
+;InstallPath="%temp%"
+ExtractPathText="Select extraction path"
+ExtractPathTitle="DriverPack Solution Packer"
+ExtractCancelText="Cancel"
+RunProgram="\"wscript\" %%T\\DRPSuPacker\\tools\\run.vbs \"%%T\""
+;!@InstallEnd@!
