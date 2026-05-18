@@ -1,0 +1,65 @@
+AMD UCM-UCSI Device Driver
+===================================
+Version 1.0.0.33
+
+### Known Issues:
+
+Revision History
+-----------------
+1.0.0.33 06/02/2022
+*Added support for 7444
+  
+1.0.0.30 08/28/2020
+* Increased the PD timeout to 150ms
+  - Removed the section to disable the PD interrupt.
+
+1.0.0.29 08/19/2020
+* Added Support for 73E4.
+  - Fixed Enable-Disable issue.
+  - D3 transition.
+
+1.0.0.28 07/29/2020
+* Added Support for 73C4.
+
+1.0.0.25 06/26/2020
+* Error Handling when UCSI command is not completed.
+  - DFx support added.
+  - fixed the s3/s4 issue.
+  - DCHU compliance for 20H1
+
+1.0.0.24 04/10/2020
+* Added support for 73A4
+  - PPM Start/Stop called only once.
+
+1.0.0.23 02/20/2020
+* Fixed the below issues.
+   - Intel + AMD configuration, system not entering D3 cold. 
+   - Driver is DCHU compliant.
+
+1.0.0.16 11/22/2019
+* Fixed the Sleep and PNP failure 1D8.
+   - added proper wait and set event to make the calls synchronous.
+
+1.0.0.15 11/20/2019
+* Modified INF file only.
+   -  Added support for D3 Cold
+
+1.0.0.14 11/08/2019
+* Fixed the corner case issue
+   - Added additional checks.
+
+1.0.0.13 11/04/2019
+* Fixed Follwoing Issues
+    - Could install UCSI driver on platform without low power UCSI support.
+
+1.0.0.12 10/30/2019
+* Fixed Follwoing Issues
+    - Added suppport for idle power management.
+    - Fixed the Device WHQL rebalance resources.
+
+1.0.0.9  2019-10-16
+* Modified the Polling logic and removed commented code
+    - Previously the polling was done inside the main function.
+    - Separate function for polling.
+    - Proper return code.
+
