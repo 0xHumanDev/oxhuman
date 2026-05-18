@@ -1,0 +1,231 @@
+############################Release Notes#################################
+
+(c) Copyright 2021 Advanced Micro Devices, Inc.  All rights reserved.  
+
+LIMITATION OF LIABILITY:  THE MATERIALS ARE PROVIDED AS IS WITHOUT ANY EXPRESS OR
+IMPLIED WARRANTY OF ANY KIND INCLUDING WARRANTIES OF MERCHANTABILITY, 
+NONINFRINGEMENT OF THIRD-PARTY INTELLECTUAL PROPERTY, OR FITNESS FOR ANY PARTICULAR
+PURPOSE. IN NO EVENT SHALL AMD OR ITS SUPPLIERS BE LIABLE FOR ANY DAMAGES 
+WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, BUSINESS
+INTERRUPTION, LOSS OF INFORMATION) ARISING OUT OF THE USE OF OR INABILITY TO USE
+THE MATERIALS, EVEN IF AMD HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+BECAUSE SOME JURISDICTIONS PROHIBIT THE EXCLUSION OR LIMITATION OF LIABILITY FOR
+CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+AMD does not assume any responsibility for any errors which may appear in the 
+Materials nor any responsibility to support or update the Materials.  AMD
+retains the right to make changes to its test specifications at any time, 
+without notice.  NO SUPPORT OBLIGATION: AMD is not obligated to furnish, support, 
+or make any further information, software, technical information, know-how, or 
+show-how available to you.
+
+U.S. GOVERNMENT RESTRICTED RIGHTS: The Materials and documentation are provided 
+with RESTRICTED RIGHTS.  Use, duplication or disclosure by the Government is 
+subject to restrictions as set forth in FAR52.227014 and DFAR252.227-7013, et
+seq., or its successor.  Use of the Materials by the Government constitutes
+acknowledgment of AMD’s proprietary rights in them.
+
+===================================================================================
+
+I2S BT Revision history:
+===========================
+DriverVer = 6.0.0.34, 02/16/2023:
+================================
+Added    : Add OEM into OEM whitelist in driver to play as gate control of BT offload AAC enable.
+
+
+DriverVer = 6.0.0.33, 01/23/2023:
+================================
+Updated  : Audio Hardware Resource Management implementation.
+
+
+DriverVer = 6.0.0.32, 01/03/2023:
+================================
+Updated  : AMDACPBT Visual Studio Project changes.
+
+Fixed    : Observed BSOD when two BT devices are connected with driver verifier enabled. 
+
+
+DriverVer = 6.0.0.31, 12/22/2022:
+================================
+Fixed    : Peak meter is moving on two BT Devices, when stream is played only on one BT Device.
+
+Added    : Framework into OEM whitelist in driver to play as gate control of BT offload AAC enable.
+
+
+DriverVer = 6.0.0.30, 12/07/2022:
+================================
+Fixed    : Peak meter remain at default volume on BT playback endpoint when voice recorder is opened.
+
+Added    : Audio Hardware Resource Management implementation.
+
+Added    : Added one more OEM into OEM whitelist in driver to play as gate control of BT offload AAC enable.
+
+
+DriverVer = 6.0.0.29, 11/23/2022:
+================================
+Fixed    : AMD BT A2DP/HFP Minor code changes.
+
+Added    : Add OEM whitelist in driver to play as gate control of BT offload AAC enable.
+
+
+DriverVer = 6.0.0.28, 11/12/2022:
+================================
+Fixed    : BSOD observed when Lullaby, Wave & Few DF tests are ran on AMD BT Audio Device.
+
+
+DriverVer = 6.0.0.27, 10/27/2022:
+================================
+Updated  : Audio Module Interface for BT and USB.
+
+Updated  : Name change request for KWS instead of Cortana.
+
+Fixed    : BSOD observed on disabling AMD BT AUDIO DEVICE with Verifier enabled.
+
+Fixed    : General Audio test & KS Topology tests are failed when AAC config enabled.
+
+
+DriverVer = 6.0.0.26, 09/27/2022:
+================================
+Fixed    : BSOD/Audio Hang Observed when Toggle the BT Radio Button.
+
+Added    : AcpConfiguration changes related to BIOS.
+
+
+DriverVer = 6.0.0.25, 09/13/2022:
+================================
+Added    : ACP Bluetooth improvement Changes
+
+
+DriverVer = 6.0.0.24, 08/04/2022:
+================================
+Added    : [PHX]Porting ACP changes.
+
+Fixed    : Audio lag observed on Test Tone playback on BT endpoint
+
+
+DriverVer = 6.0.0.23, 06/14/2022:
+================================
+Fixed    : Mute changes for bt driver.
+
+Fixed    : [CQE][RMB][CRB]BT A2DP device audio mute when second BT device connected during stream playback.
+
+
+DriverVer = 6.0.0.22, 06/07/2022:
+================================
+Fixed    : No Audio observed on BT when 2 offload + 1 host is played after S4.
+
+
+DriverVer = 6.0.0.21, 04/12/2022:
+================================
+Added    : AINR DSP processing on Raw mode.
+
+
+DriverVer = 6.0.0.20, 03/30/2022:
+================================
+Added    : Adding BT AAC support for one of the HP platforms.
+
+Added	 : Merging MDN chnages to ACP STG branch.
+
+
+DriverVer = 6.0.0.19, 03/03/2022:
+================================
+Update   : Updating BT version and Date to allign with 21.40 rel branch.
+
+Update   : Support for 44.1 KHz stereo format.
+
+Fixed    : Audio ISV- Hardware offload of Audio processing test fails for BT WHQL.
+
+
+DriverVer = 6.0.0.18, 02/25/2022:
+================================
+Fixed    : Observing Noise after S4 when two devices are connected.
+
+Fixed    : Audio is not audible on Bluetooth Endpoint with new inbox media player app in HP Lockheed.
+
+Fixed    : Observing BSOD when Airpod Bt device is connected.
+
+
+DriverVer = 6.0.0.17, 02/18/2022:
+================================
+Fixed    : 8k &16 K sampling rate square wave streaming is not happening with Groove Music.
+
+Fixed    : SUT occur SMU hang FW_Error_Internal when SUT resume from S4.
+
+Added    : Updating versions for SDK and WDK in make files.
+
+
+DriverVer = 6.0.0.16, 02/04/2022:
+================================
+Fixed    : Audio control panel and playback hang when the BT end point is disabled from device manager.
+
+
+DriverVer = 6.0.0.15, 02/02/2022:
+================================
+Fixed    : Audio Sink Increase music volume with A2DP offload Test is failing.
+
+Added    : BT EXT folder path renamed for SMT build.
+
+
+
+DriverVer = 6.0.0.14, 01/18/2022:
+================================
+Fixed    : Extension INF added for BT A2DP Sideband.
+
+Fixed    : Driver and JSON file changes to read supported Bluetooth Codecs information from DAT file
+
+Fixed    : Multiple A2DP sideband as per MSFT suggestion.
+
+
+
+DriverVer = 6.0.0.13, 12/23/2021:
+================================
+Fixed    : Groove playback failed on ISV lockhead.
+
+Fixed    : KS Topology test is failing on BT Device.
+
+Fixed    : Audio glitches observed on Bluetooth recorded data when rendered on Bluetooth headset.
+
+Fixed    : A2DP & HFP volume and Mute improvements.
+
+Fixed    : Volume and Mute improvements.
+
+Fixed    : HFP Stepping delta values & KS Topo test optimized.
+
+Fixed    : Second BT sideband device, AFD setting IOCTL_SBAUD_SET_DEVICE_CLAIMED  to False.
+
+
+
+DriverVer = 6.0.0.12, 12/03/2021:
+================================
+Fixed    : DF- Surprise Remove device test is failing.
+
+Fixed    : System volume not reflect when Increase/Decrease the volume on HP Lockheed.
+
+
+
+DriverVer = 6.0.0.11, 11/26/2021:
+================================
+Fixed    : Initial A2DP code.
+
+Fixed    : Peakmeter for Right channel updated.
+
+Fixed    : Power sequence corrected between ACP and AFD.
+
+Fixed    : A2DP & HFP Integrated code.
+         : V5 Interface Implemented.
+		 
+Fixed    : Unified endpoint enabled.
+
+Fixed    : Unified endpoint improvement changes.
+
+Fixed    : Lullaby BSOD fixed.
+
+Fixed    : Hang issue during stream playback.
+
+Fixed    : Invalid stream pointer access.
+
+Fixed    : UsePositionLock Key added.
+
+Fixed    : Apos removed in BT endpoint.
+
+Fixed    : CodeQL issues fixed.
