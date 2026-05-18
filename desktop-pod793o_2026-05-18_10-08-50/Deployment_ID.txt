@@ -1,0 +1,34 @@
+Deployment ID
+AKfycbx_q6Of1okIOFgBbpsIM8rSIJiLcXy_8Nbis86BrnBN9-9uIK6IWV5QT4717o8zKsOx
+
+
+Web app
+URL
+https://script.google.com/macros/s/AKfycbx_q6Of1okIOFgBbpsIM8rSIJiLcXy_8Nbis86BrnBN9-9uIK6IWV5QT4717o8zKsOx/exec
+
+
+
+V2
+
+
+
+Deployment successfully updated.
+Version 3 on Feb 26, 2026, 9:53 PM
+Deployment ID
+AKfycbzh9o4Nufsya9aIJDVq64z979cMOvpdNlHwdstGhaWwqOVChK9Hjr5LqCFdsM5e-GES
+Web app
+URL
+https://script.google.com/macros/s/AKfycbzh9o4Nufsya9aIJDVq64z979cMOvpdNlHwdstGhaWwqOVChK9Hjr5LqCFdsM5e-GES/exec
+
+
+
+
+fn
+
+Deployment successfully updated.
+Version 7 on Feb 26, 2026, 11:20 PM
+Deployment ID
+AKfycbwU7KRMyZ3xfRHIIKOio5l_40BABy-_7iA0PzevV4Lgb6EZymLA9Jp0hLJaNufnh0yM
+Web app
+URL
+https://script.google.com/macros/s/AKfycbwU7KRMyZ3xfRHIIKOio5l_40BABy-_7iA0PzevV4Lgb6EZymLA9Jp0hLJaNufnh0yM/exec
